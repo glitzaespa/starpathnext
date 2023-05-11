@@ -1,10 +1,12 @@
 {
-"CRGP_AL": [
+"SOBO_PA": [
   {
-    "name":"<:C_:1104449628876841030> **CRAVITY ALLEN** Gas Pedal",
-    "idol":"CRAVITY ALLEN",
-    "image":"https://cdn.discordapp.com/attachments/1100855935158730805/1104824213153529886/CRGP_AL.png",
-    "song":"Gas Pedal"
+    "name":"<:C_:1104449628876841030> **Solo BoA** Better",
+    "idol":"Solo BoA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1105710551507673088/paradigm_boa.png",
+    "theme": "Better",
+    "min": "0",
+    "max": "100"
   }
   ]
 }
