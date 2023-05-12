@@ -8,5 +8,95 @@
     "min": "0",
     "max": "100"
   }
+  ],
+  "OMNO_HJ": [
+  {
+    "name":"<:C_:1104449628876841030> **OH MY GIRL HYOJUNG** NONSTOP",
+    "idol":"OH MY GIRL HYOJUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1104526357033123900/HYOJUNG.png",
+    "theme": "NONSTOP (살짝 설렜어)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "OMNO_MM": [
+  {
+    "name":"<:C_:1104449628876841030> **OH MY GIRL MIMI** NONSTOP",
+    "idol":"OH MY GIRL MIMI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1104526357385461801/MIMI.png",
+    "theme": "NONSTOP (살짝 설렜어)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "OMNO_YO": [
+  {
+    "name":"<:C_:1104449628876841030> **OH MY GIRL YOOA** NONSTOP",
+    "idol":"OH MY GIRL YOOA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1104526357863608480/YOOA.png",
+    "theme": "NONSTOP (살짝 설렜어)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "OMNO_SH": [
+  {
+    "name":"<:C_:1104449628876841030> **OH MY GIRL SEUNGHEE** NONSTOP",
+    "idol":"OH MY GIRL SEUNGHEE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1104526358224306328/SEUNGHEE.png",
+    "theme": "NONSTOP (살짝 설렜어)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "OMNO_JH": [
+  {
+    "name":"<:C_:1104449628876841030> **OH MY GIRL JIHO** NONSTOP",
+    "idol":"OH MY GIRL JIHO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1104526358731833525/JIHO.png",
+    "theme": "NONSTOP (살짝 설렜어)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "OMNO_YB": [
+  {
+    "name":"<:C_:1104449628876841030> **OH MY GIRL YUBIN** NONSTOP",
+    "idol":"OH MY GIRL YUBIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1104526359063179286/YUBIN.png",
+    "theme": "NONSTOP (살짝 설렜어)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "OMNO_AR": [
+  {
+    "name":"<:C_:1104449628876841030> **OH MY GIRL ARIN** NONSTOP",
+    "idol":"OH MY GIRL ARIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1104526359432265839/ARIN.png",
+    "theme": "NONSTOP (살짝 설렜어)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "RVMO_IR": [
+  {
+    "name":"<:C_:1104449628876841030> **Red Velvet - IRENE & SEULGI IRENE** Monster",
+    "idol":"Red Velvet - IRENE & SEULGI IRENE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1104539122091171933/RVMO_IR.png",
+    "theme": "Monster",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "RVMO_SE": [
+  {
+    "name":"<:C_:1104449628876841030> **Red Velvet - IRENE & SEULGI SEULGI** Monster",
+    "idol":"Red Velvet - IRENE & SEULGI SEULGI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1104539122414137404/RVMO_SG.png",
+    "theme": "Monster",
+    "min": "0",
+    "max": "100"
+  }
   ]
 }
