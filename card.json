@@ -138,5 +138,45 @@
     "min": "0",
     "max": "100"
   }
+  ],
+  "SOJH_AR": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo j-hope** Arson",
+    "idol":"Solo j-hope",
+    "image": "https://cdn.discordapp.com/attachments/1106345119667470448/1107057394028130395/j-hope_Arson_C.png",
+    "theme": "Arson",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOJH_ID": [
+  {
+    "name":"<:R_:1104449630659428372> **Solo j-hope** It's done",
+    "idol":"Solo j-hope",
+    "image": "https://cdn.discordapp.com/attachments/1106345119667470448/1107057393638064178/j-hope_Its_done_R.png",
+    "theme": "Arson",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SOJH_LB": [
+  {
+    "name":"<:X_:1104449632890798091> **Solo j-hope** Let's burn",
+    "idol":"Solo j-hope",
+    "image": "https://cdn.discordapp.com/attachments/1106345119667470448/1107057393247997952/jhope_Lets_burn_X.png",
+    "theme": "Arson",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "SOJH_LB_P": [
+  {
+    "name":"<:X_:1104449635986194602> **Solo j-hope** Let's burn",
+    "idol":"Solo j-hope",
+    "image": "https://cdn.discordapp.com/attachments/1106345119667470448/1107057392849535086/jhope_Lets_burn_X_1.png",
+    "theme": "Arson",
+    "min": "1000",
+    "max": "2500"
+  }
   ]
 }
