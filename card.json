@@ -98,5 +98,45 @@
     "min": "0",
     "max": "100"
   }
+  ],
+  "BPST_JN": [
+  {
+    "name":"<:C_:1104449628876841030> **BLACKPINK JENNIE** STAY",
+    "idol":"BLACKPINK JENNIE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106979547070603305/BPST_JN.png",
+    "theme": "STAY",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "BPST_LS": [
+  {
+    "name":"<:C_:1104449628876841030> **BLACKPINK LISA** STAY",
+    "idol":"BLACKPINK LISA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106979547813007390/BPST_LS.png",
+    "theme": "STAY",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "BPST_RS": [
+  {
+    "name":"<:C_:1104449628876841030> **BLACKPINK ROSÉ** STAY",
+    "idol":"BLACKPINK ROSÉ",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106979548412780675/BPST_RS.png",
+    "theme": "STAY",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "BPST_JS": [
+  {
+    "name":"<:C_:1104449628876841030> **BLACKPINK JISOO** STAY",
+    "idol":"BLACKPINK JISOO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106979547456471130/BPST_JS.png",
+    "theme": "STAY",
+    "min": "0",
+    "max": "100"
+  }
   ]
 }
