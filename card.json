@@ -178,5 +178,25 @@
     "min": "1000",
     "max": "2500"
   }
+  ],
+  "SOHY_SW": [
+  {
+    "name":"<:R_:1104449630659428372> **Solo HyunA** Show Window",
+    "idol":"Solo HyunA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1107023294760222720/SOHY_SW.png",
+    "theme": "Show Window",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SOHY_LT": [
+  {
+    "name":"<:R_:1104449630659428372> **Solo HyunA** Like the show window",
+    "idol":"Solo HyunA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1107023294466637834/SOHY_LT.png",
+    "theme": "Show Window",
+    "min": "100",
+    "max": "500"
+  }
   ]
 }
