@@ -9,7 +9,7 @@
     "max": "100"
   }
   ],
-  "OMNO_HJ": [
+  "OMHJ_NO": [
   {
     "name":"<:C_:1104449628876841030> **OH MY GIRL HYOJUNG** NONSTOP",
     "idol":"OH MY GIRL HYOJUNG",
@@ -19,7 +19,7 @@
     "max": "100"
   }
   ],
-  "OMNO_MM": [
+  "OMMM_NO": [
   {
     "name":"<:C_:1104449628876841030> **OH MY GIRL MIMI** NONSTOP",
     "idol":"OH MY GIRL MIMI",
@@ -29,7 +29,7 @@
     "max": "100"
   }
   ],
-  "OMNO_YO": [
+  "OMYO_NO": [
   {
     "name":"<:C_:1104449628876841030> **OH MY GIRL YOOA** NONSTOP",
     "idol":"OH MY GIRL YOOA",
@@ -39,7 +39,7 @@
     "max": "100"
   }
   ],
-  "OMNO_SH": [
+  "OMSH_NO": [
   {
     "name":"<:C_:1104449628876841030> **OH MY GIRL SEUNGHEE** NONSTOP",
     "idol":"OH MY GIRL SEUNGHEE",
@@ -49,7 +49,7 @@
     "max": "100"
   }
   ],
-  "OMNO_JH": [
+  "OMJH_NO": [
   {
     "name":"<:C_:1104449628876841030> **OH MY GIRL JIHO** NONSTOP",
     "idol":"OH MY GIRL JIHO",
@@ -59,7 +59,7 @@
     "max": "100"
   }
   ],
-  "OMNO_YB": [
+  "OMYB_NO": [
   {
     "name":"<:C_:1104449628876841030> **OH MY GIRL YUBIN** NONSTOP",
     "idol":"OH MY GIRL YUBIN",
@@ -69,7 +69,7 @@
     "max": "100"
   }
   ],
-  "OMNO_AR": [
+  "OMAR_NO": [
   {
     "name":"<:C_:1104449628876841030> **OH MY GIRL ARIN** NONSTOP",
     "idol":"OH MY GIRL ARIN",
@@ -79,7 +79,7 @@
     "max": "100"
   }
   ],
-  "RVMO_IR": [
+  "RVIR_MO": [
   {
     "name":"<:C_:1104449628876841030> **Red Velvet - IRENE & SEULGI IRENE** Monster",
     "idol":"Red Velvet - IRENE & SEULGI IRENE",
@@ -89,7 +89,7 @@
     "max": "100"
   }
   ],
-    "RVMO_SE": [
+    "RVSE_MO": [
   {
     "name":"<:C_:1104449628876841030> **Red Velvet - IRENE & SEULGI SEULGI** Monster",
     "idol":"Red Velvet - IRENE & SEULGI SEULGI",
@@ -99,7 +99,7 @@
     "max": "100"
   }
   ],
-  "BPST_JN": [
+  "BPJN_ST": [
   {
     "name":"<:C_:1104449628876841030> **BLACKPINK JENNIE** STAY",
     "idol":"BLACKPINK JENNIE",
@@ -109,7 +109,7 @@
     "max": "100"
   }
   ],
-  "BPST_LS": [
+  "BPLS_ST": [
   {
     "name":"<:C_:1104449628876841030> **BLACKPINK LISA** STAY",
     "idol":"BLACKPINK LISA",
@@ -119,7 +119,7 @@
     "max": "100"
   }
   ],
-  "BPST_RS": [
+  "BPRS_ST": [
   {
     "name":"<:C_:1104449628876841030> **BLACKPINK ROSÉ** STAY",
     "idol":"BLACKPINK ROSÉ",
@@ -129,7 +129,7 @@
     "max": "100"
   }
   ],
-  "BPST_JS": [
+  "BPJS_ST": [
   {
     "name":"<:C_:1104449628876841030> **BLACKPINK JISOO** STAY",
     "idol":"BLACKPINK JISOO",
