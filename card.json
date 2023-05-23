@@ -89,7 +89,7 @@
     "max": "100"
   }
   ],
-    "RVSE_MO": [
+    "RVSG_MO": [
   {
     "name":"<:C_:1104449628876841030> **Red Velvet - IRENE & SEULGI SEULGI** Monster",
     "idol":"Red Velvet - IRENE & SEULGI SEULGI",
@@ -191,12 +191,12 @@
   ],
   "SOHY_LT": [
   {
-    "name":"<:R_:1104449630659428372> **Solo HyunA** Like the show window",
+    "name":"<:C_:1104449628876841030> **Solo HyunA** Like the show window",
     "idol":"Solo HyunA",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1107023294466637834/SOHY_LT.png",
     "theme": "Show Window",
-    "min": "100",
-    "max": "500"
+    "min": "0",
+    "max": "100"
   }
   ]
 }
