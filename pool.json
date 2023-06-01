@@ -1,7 +1,7 @@
 {
 "main": [
   {
-    "pool_card_C":"SOBO_PA;RVIR_MO;RVSG_MO;BPJS_ST;BPJN_ST;BPLS_ST;BPRS_ST;SOHY_LT",
+    "pool_card_C":"SOJH_AR;SOBO_PA;RVIR_MO;RVSG_MO;BPJS_ST;BPJN_ST;BPLS_ST;BPRS_ST;SOHY_LT",
     "pool_card_R":"SOHY_SW;SOJH_ID",
     "pool_card_X":"SOJH_LB"
  }
