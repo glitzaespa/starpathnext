@@ -128,5 +128,65 @@
     "min": "0",
     "max": "100"
   }
+  ],
+  "P1LT_IN": [
+  {
+    "name":"<:C_:1104449628876841030> **P1Harmony Intak** like this",
+    "idol":"P1Harmony Intak",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1105990392056393748/P1LT_IN.png",
+    "theme": "Do It Like This",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "P1LT_JI": [
+  {
+    "name":"<:C_:1104449628876841030> **P1Harmony Jiung** like this",
+    "idol":"P1Harmony Jiung",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1105990392509370428/P1LT_JI.png",
+    "theme": "Do It Like This",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "P1LT_SO": [
+  {
+    "name":"<:C_:1104449628876841030> **P1Harmony Soul** like this",
+    "idol":"P1Harmony Soul",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1105990394505867314/P1LT_SO.png",
+    "theme": "Do It Like This",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "P1LT_JS": [
+  {
+    "name":"<:C_:1104449628876841030> **P1Harmony Jongseob** like this",
+    "idol":"P1Harmony Jongseob",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1105990393000112279/P1LT_JS.png",
+    "theme": "Do It Like This",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "P1LT_KH": [
+  {
+    "name":"<:C_:1104449628876841030> **P1Harmony Keeho** like this",
+    "idol":"P1Harmony Keeho",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1105990393864130640/P1LT_KH.png",
+    "theme": "Do It Like This",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "P1LT_TH": [
+  {
+    "name":"<:C_:1104449628876841030> **P1Harmony Theo** like this",
+    "idol":"P1Harmony Theo",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1105990394929483836/P1LT_TH.png",
+    "theme": "Do It Like This",
+    "min": "0",
+    "max": "100"
+  }
   ]
 }
