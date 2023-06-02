@@ -188,5 +188,75 @@
     "min": "0",
     "max": "100"
   }
+  ],
+  "PKCI_ZM": [
+  {
+    "name":"<:C_:1104449628876841030> **PURPLE KISS CHAEIN** Zombie",
+    "idol":"PURPLE KISS CHAEIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106075970118619206/CHAEIN_Zombie.png",
+    "theme": "Zombie",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "PKDS_ZM": [
+  {
+    "name":"<:C_:1104449628876841030> **PURPLE KISS DOSIE** Zombie",
+    "idol":"PURPLE KISS DOSIE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106075970538061914/DOSIE_Zombie.png",
+    "theme": "Zombie",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "PKIR_ZM": [
+  {
+    "name":"<:C_:1104449628876841030> **PURPLE KISS IREH** Zombie",
+    "idol":"PURPLE KISS IREH",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106075970944897077/IREH_Zombie.png",
+    "theme": "Zombie",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+      "PKGE_ZM": [
+  {
+    "name":"<:C_:1104449628876841030> **PURPLE KISS NA GO EUN** Zombie",
+    "idol":"PURPLE KISS NA GO EUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106075971347558430/NA_GO_EUN_Zombie.png",
+    "theme": "Zombie",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+        "PKJE_ZM": [
+  {
+    "name":"<:C_:1104449628876841030> **PURPLE KISS PARK JI EUN** Zombie",
+    "idol":"PURPLE KISS PARK JI EUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106075971645358171/PARK_JI_EUN_Zombie.png",
+    "theme": "Zombie",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+      "PKSW_ZM": [
+  {
+    "name":"<:C_:1104449628876841030> **PURPLE KISS SWAN** Zombie",
+    "idol":"PURPLE KISS SWAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106075971997667328/SWAN_Zombie.png",
+    "theme": "Zombie",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+     "PKYK_ZM": [
+  {
+    "name":"<:C_:1104449628876841030> **PURPLE KISS YUKI** Zombie",
+    "idol":"PURPLE KISS YUKI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106075972345802782/YUKI_Zombie.png",
+    "theme": "Zombie",
+    "min": "0",
+    "max": "100"
+  }
   ]
 }
