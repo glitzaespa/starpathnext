@@ -129,7 +129,7 @@
     "max": "100"
   }
   ],
-  "P1LT_IN": [
+  "P1IN_LT": [
   {
     "name":"<:C_:1104449628876841030> **P1Harmony Intak** like this",
     "idol":"P1Harmony Intak",
@@ -139,7 +139,7 @@
     "max": "100"
   }
   ],
-  "P1LT_JI": [
+  "P1JI_LT": [
   {
     "name":"<:C_:1104449628876841030> **P1Harmony Jiung** like this",
     "idol":"P1Harmony Jiung",
@@ -149,7 +149,7 @@
     "max": "100"
   }
   ],
-  "P1LT_SO": [
+  "P1SO_LT": [
   {
     "name":"<:C_:1104449628876841030> **P1Harmony Soul** like this",
     "idol":"P1Harmony Soul",
@@ -159,7 +159,7 @@
     "max": "100"
   }
   ],
-  "P1LT_JS": [
+  "P1JS_LT": [
   {
     "name":"<:C_:1104449628876841030> **P1Harmony Jongseob** like this",
     "idol":"P1Harmony Jongseob",
@@ -169,7 +169,7 @@
     "max": "100"
   }
   ],
-  "P1LT_KH": [
+  "P1KH_LT": [
   {
     "name":"<:C_:1104449628876841030> **P1Harmony Keeho** like this",
     "idol":"P1Harmony Keeho",
@@ -179,7 +179,7 @@
     "max": "100"
   }
   ],
-  "P1LT_TH": [
+  "P1TH_LT": [
   {
     "name":"<:C_:1104449628876841030> **P1Harmony Theo** like this",
     "idol":"P1Harmony Theo",
