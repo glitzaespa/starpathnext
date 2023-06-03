@@ -288,5 +288,95 @@
     "min": "0",
     "max": "100"
   }
+  ],
+  "SOTY_FL": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo TAEYEON** Feels like heaven feels like hell",
+    "idol":"Solo TAEYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1114032368710320138/Feels_like_heaven_feels_like_hell.png",
+    "theme": "Can't Control Myself",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SKBC_FR": [
+  {
+    "name":"<:C_:1104449628876841030> **Stray Kids BANG CHAN** FREEZE",
+    "idol":"Stray Kids BANG CHAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112591906220814396/BANG_CHAN_-_FREEZE.png",
+    "theme": "땡 (FREEZE)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SKCB_FR": [
+  {
+    "name":"<:C_:1104449628876841030> **Stray Kids CHANGBIN** FREEZE",
+    "idol":"Stray Kids CHANGBIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112591906547961957/CHANGBIN_-_FREEZE.png",
+    "theme": "땡 (FREEZE)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "SKFL_FR": [
+  {
+    "name":"<:C_:1104449628876841030> **Stray Kids FELIX** FREEZE",
+    "idol":"Stray Kids FELIX",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112591907097428041/FELIX_-_FREEZE.png",
+    "theme": "땡 (FREEZE)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+      "SKHA_FR": [
+  {
+    "name":"<:C_:1104449628876841030> **Stray Kids HAN** FREEZE",
+    "idol":"Stray Kids HAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112591907466522735/HAN_-_FREEZE.png",
+    "theme": "땡 (FREEZE)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+        "SKHJ_FR": [
+  {
+    "name":"<:C_:1104449628876841030> **Stray Kids HYUNJIN** FREEZE",
+    "idol":"Stray Kids HYUNJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112591907932082246/HYUNJIN_-_FREEZE.png",
+    "theme": "땡 (FREEZE)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SKIN_FR": [
+  {
+    "name":"<:C_:1104449628876841030> **Stray Kids I.N** FREEZE",
+    "idol":"Stray Kids I.N",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112591908435411045/I.N_-_FREEZE.png",
+    "theme": "땡 (FREEZE)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+   "SKLK_FR": [
+  {
+    "name":"<:C_:1104449628876841030> **Stray Kids LEE KNOW** FREEZE",
+    "idol":"Stray Kids LEE KNOW",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112591908779339816/LEE_KNOW_-_FREEZE.png",
+    "theme": "땡 (FREEZE)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+     "SKSM_FR": [
+  {
+    "name":"<:C_:1104449628876841030> **Stray Kids SEUNGMIN** FREEZE",
+    "idol":"Stray Kids SEUNGMIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112591909098098698/SEUNGMIN_-_FREEZE.png",
+    "theme": "땡 (FREEZE)",
+    "min": "0",
+    "max": "100"
+  }
   ]
 }
