@@ -588,5 +588,155 @@
     "min": "0",
     "max": "100"
   }
+  ],
+  "LSHE_EP": [
+  {
+    "name":"<:C_:1104449628876841030> **LE SSERAFIM HONG EUNCHAE** Eve, Psyche & The Bluebeard's Wife",
+    "idol":"LE SSERAFIM HONG EUNCHAE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112142236168224768/LSHE_EP.png",
+    "theme": "Eve, Psyche & The Bluebeard's Wife",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "LSHY_EP": [
+  {
+    "name":"<:C_:1104449628876841030> **LE SSERAFIM HUH YUNJIN** Eve, Psyche & The Bluebeard's Wife",
+    "idol":"LE SSERAFIM HUH YUNJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112142236604436641/LSHY_EP.png",
+    "theme": "Eve, Psyche & The Bluebeard's Wife",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "LSKC_EP": [
+  {
+    "name":"<:C_:1104449628876841030> **LE SSERAFIM KIM CHAEWON** Eve, Psyche & The Bluebeard's Wife",
+    "idol":"LE SSERAFIM KIM CHAEWON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112142237086797896/LSKC_EP.png",
+    "theme": "Eve, Psyche & The Bluebeard's Wife",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "LSKZ_EP": [
+  {
+    "name":"<:C_:1104449628876841030> **LE SSERAFIM KAZUHA** Eve, Psyche & The Bluebeard's Wife",
+    "idol":"LE SSERAFIM KAZUHA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112142237506207805/LSKZ_EP.png",
+    "theme": "Eve, Psyche & The Bluebeard's Wife",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "LSSK_EP": [
+  {
+    "name":"<:C_:1104449628876841030> **LE SSERAFIM SAKURA** Eve, Psyche & The Bluebeard's Wife",
+    "idol":"LE SSERAFIM SAKURA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112142237904687215/LSSA_EP.png",
+    "theme": "Eve, Psyche & The Bluebeard's Wife",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+ "TNCL_NO": [
+  {
+    "name":"<:C_:1104449628876841030> **2NE1 CL** NOLZA",
+    "idol":"2NE1 CL",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1110961786187956305/nolza_cl.png",
+    "theme": "I AM THE BEST (JP ver.)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+ "TNBO_NO": [
+  {
+    "name":"<:C_:1104449628876841030> **2NE1 Bom** NOLZA",
+    "idol":"2NE1 Bom",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1110961787261681664/nolza_bom.png",
+    "theme": "I AM THE BEST (JP ver.)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+   "TNDR_NO": [
+  {
+    "name":"<:C_:1104449628876841030> **2NE1 Dara** NOLZA",
+    "idol":"2NE1 Dara",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1110961787974721576/nolza_dara.png",
+    "theme": "I AM THE BEST (JP ver.)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+     "TNMZ_NO": [
+  {
+    "name":"<:C_:1104449628876841030> **2NE1 Minzy** NOLZA",
+    "idol":"2NE1 Minzy",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1110961788834562158/nolza_minzy.png",
+    "theme": "I AM THE BEST (JP ver.)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+ "SOBY_AH": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo Beyoncé** AMERICA HAS A PROBLEM",
+    "idol":"Solo Beyoncé",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1110684869253681253/SOBY_AH.png",
+    "theme": "AMERICA HAS A PROBLEM",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOBY_BM": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo Beyoncé** BREAK MY SOUL",
+    "idol":"Solo Beyoncé",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1110684922869452870/SOBY_BM.png",
+    "theme": "BREAK MY SOUL",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "SOBY_CI": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo Beyoncé** CUFF IT",
+    "idol":"Solo Beyoncé",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1110684960559472732/SOBY_CI.png",
+    "theme": "CUFF IT",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "SOBY_HT": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo Beyoncé** higher than this",
+    "idol":"Solo Beyoncé",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1110685023725703230/SOBY_HT.png",
+    "theme": "AMERICA HAS A PROBLEM",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOLD_AW": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo Lana Del Rey** A&W",
+    "idol":"Solo Lana Del Rey",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1108562707701051432/SOLD_AW.png",
+    "theme": "A&W",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOLD_DY": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo Lana Del Rey** Did you know that there's a tunnel under Ocean Blvd",
+    "idol":"Solo Lana Del Rey",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1108562769017585714/SOLD_DY.png",
+    "theme": "Did you know that there's a tunnel under Ocean Blvd",
+    "min": "0",
+    "max": "100"
+  }
   ]
 }
