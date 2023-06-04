@@ -378,5 +378,55 @@
     "min": "0",
     "max": "100"
   }
+  ],
+  "SOTY_IN": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo TAEYEON** INVU",
+    "idol":"Solo TAEYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113581334577815592/invu.png",
+    "theme": "INVU",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOBH_UW": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo BAEKHYUN** Underwater",
+    "idol":"Solo BAEKHYUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112108780688253009/underwater.png",
+    "theme": "Underwater",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "SOBH_GH": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo BAEKHYUN** Ghost",
+    "idol":"Solo BAEKHYUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112108823772135485/ghost.png",
+    "theme": "Ghost",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "SOBH_GH": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo BAEKHYUN** Girl I'm your candy",
+    "idol":"Solo BAEKHYUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112108891052970005/baekhyun_c.png",
+    "theme": "Girl I'm your candy",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "SOBH_GH": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo BAEKHYUN** Ice Queen",
+    "idol":"Solo BAEKHYUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112108936871542914/Ice_Queen.png",
+    "theme": "Ice Queen",
+    "min": "0",
+    "max": "100"
+  }
   ]
 }
