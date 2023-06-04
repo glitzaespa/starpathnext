@@ -508,5 +508,85 @@
     "min": "0",
     "max": "100"
   }
+  ],
+  "EXXM_SH": [
+  {
+    "name":"<:C_:1104449628876841030> **EXO XIUMIN** Shimmie Shimmie",
+    "idol":"EXO XIUMIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1111802169977479249/ss_xiumin.png",
+    "theme": "Ko Ko Bop",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "EXSH_SH": [
+  {
+    "name":"<:C_:1104449628876841030> **EXO SUHO** Shimmie Shimmie",
+    "idol":"EXO SUHO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1111802170594037770/ss_suho.png",
+    "theme": "Ko Ko Bop",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "EXBH_SH": [
+  {
+    "name":"<:C_:1104449628876841030> **EXO BAEKHYUN** Shimmie Shimmie",
+    "idol":"EXO BAEKHYUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1111802171118342244/ss_baekhyun.png",
+    "theme": "Ko Ko Bop",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "EXCH_SH": [
+  {
+    "name":"<:C_:1104449628876841030> **EXO CHEN** Shimmie Shimmie",
+    "idol":"EXO CHEN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1111802171487428678/ss_chen.png",
+    "theme": "Ko Ko Bop",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "EXCY_SH": [
+  {
+    "name":"<:C_:1104449628876841030> **EXO CHANYEOL** Shimmie Shimmie",
+    "idol":"EXO CHANYEOL",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1111802171848134666/ss_chanyeol.png",
+    "theme": "Ko Ko Bop",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "EXDO_SH": [
+  {
+    "name":"<:C_:1104449628876841030> **EXO D.O** Shimmie Shimmie",
+    "idol":"EXO D.O",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1111802172171112489/ss_do.png",
+    "theme": "Ko Ko Bop",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "EXKA_SH": [
+  {
+    "name":"<:C_:1104449628876841030> **EXO KAI** Shimmie Shimmie",
+    "idol":"EXO KAI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1111802172787662928/ss_kai.png",
+    "theme": "Ko Ko Bop",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "EXSE_SH": [
+  {
+    "name":"<:C_:1104449628876841030> **EXO SEHUN** Shimmie Shimmie",
+    "idol":"EXO SEHUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1111802173135785995/ss_sehun.png",
+    "theme": "Ko Ko Bop",
+    "min": "0",
+    "max": "100"
+  }
   ]
 }
