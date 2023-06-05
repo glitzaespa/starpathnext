@@ -828,5 +828,125 @@
     "min": "0",
     "max": "100"
   }
+  ],
+  "GTBO_SB": [
+  {
+    "name":"<:C_:1104449628876841030> **GOT the beat BoA** Step Back",
+    "idol":"GOT the beat BoA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1110786165939908618/sb_boa.png",
+    "theme": "Step Back",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "GTTY_SB": [
+  {
+    "name":"<:C_:1104449628876841030> **GOT the beat TAEYEON** Step Back",
+    "idol":"GOT the beat TAEYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1110786166329987162/sb_taeyeon.png",
+    "theme": "Step Back",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "GTHY_SB": [
+  {
+    "name":"<:C_:1104449628876841030> **GOT the beat HYOYEON** Step Back",
+    "idol":"GOT the beat HYOYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1110786166669721700/sb_hyoyeon.png",
+    "theme": "Step Back",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+      "GTSG_SB": [
+  {
+    "name":"<:C_:1104449628876841030> **GOT the beat SEULGI** Step Back",
+    "idol":"GOT the beat SEULGI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1110786167038824448/sb_seulgi.png",
+    "theme": "Step Back",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+        "GTWD_SB": [
+  {
+    "name":"<:C_:1104449628876841030> **GOT the beat WENDY** Step Back",
+    "idol":"GOT the beat WENDY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1110786167433084988/sb_wendy.png",
+    "theme": "Step Back",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+          "GTKR_SB": [
+  {
+    "name":"<:C_:1104449628876841030> **GOT the beat KARINA** Step Back",
+    "idol":"GOT the beat KARINA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1110786167709904896/sb_karina.png",
+    "theme": "Step Back",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+      "GTWT_SB": [
+  {
+    "name":"<:C_:1104449628876841030> **GOT the beat WINTER** Step Back",
+    "idol":"GOT the beat WINTER",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1110786168058036274/sb_winter.png",
+    "theme": "Step Back",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "BPJS_LG": [
+  {
+    "name":"<:C_:1104449628876841030> **BLACKPINK JISOO** Lovesick Girls",
+    "idol":"BLACKPINK JISOO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1111099700620300298/BPJI_LSG.png",
+    "theme": "Lovesick Girls",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "BPJN_LG": [
+  {
+    "name":"<:C_:1104449628876841030> **BLACKPINK JENNIE** Lovesick Girls",
+    "idol":"BLACKPINK JENNIE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1111099701052329984/BPJN_LSG.png",
+    "theme": "Lovesick Girls",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+      "BPRS_LG": [
+  {
+    "name":"<:C_:1104449628876841030> **BLACKPINK ROSÉ** Lovesick Girls",
+    "idol":"BLACKPINK ROSÉ",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1111099701408829461/BPRS_LSG.png",
+    "theme": "Lovesick Girls",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+      "BPLS_LG": [
+  {
+    "name":"<:C_:1104449628876841030> **BLACKPINK LISA** Lovesick Girls",
+    "idol":"BLACKPINK LISA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1111099701966680164/BPLS_LSG.png",
+    "theme": "Lovesick Girls",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOKS_OL": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo Kesha** Only Love Can Save Us Now",
+    "idol":"Solo Kesha",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113622999690641470/SOKE_OL.png",
+    "theme": "Only Love Can Save Us Now",
+    "min": "0",
+    "max": "100"
+  }
   ]
 }
