@@ -948,5 +948,75 @@
     "min": "0",
     "max": "100"
   }
+  ],
+  "AEKR_IM": [
+  {
+    "name":"<:C_:1104449628876841030> **aespa KARINA** I'll Make You Cry",
+    "idol":"aespa KARINA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1110593729275895979/imyc_rina.png",
+    "theme": "I'll Make You Cry",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "AEGS_IM": [
+  {
+    "name":"<:C_:1104449628876841030> **aespa GISELLE** I'll Make You Cry",
+    "idol":"aespa GISELLE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1110593729691136000/imyc_selle.png",
+    "theme": "I'll Make You Cry",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "AEKR_WT": [
+  {
+    "name":"<:C_:1104449628876841030> **aespa WINTER** I'll Make You Cry",
+    "idol":"aespa WINTER",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1110593730144124938/imyc_win.png",
+    "theme": "I'll Make You Cry",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "AENN_IM": [
+  {
+    "name":"<:C_:1104449628876841030> **aespa NINGNING** I'll Make You Cry",
+    "idol":"aespa NINGNING",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1110593730546769971/imyc_ning.png",
+    "theme": "I'll Make You Cry",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOAD_HG": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo Agust D** Haegeum",
+    "idol":"Solo Agust D",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106805151794200616/Agust_D_-_Haegeum_C.png",
+    "theme": "해금 (Haegeum)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOAD_TL": [
+  {
+    "name":"<:R_:1104449630659428372> **Solo Agust D** This lively rhythm",
+    "idol":"Solo Agust D",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106805303296655443/Agust_D_-_This_lively_rhythm_R.png",
+    "theme": "해금 (Haegeum)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOAG_DW": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo Ariana Grande** Dangerous Woman",
+    "idol":"Solo Ariana Grande",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1108528549964558366/DWAG_C.png",
+    "theme": "Dangerous Woman",
+    "min": "0",
+    "max": "100"
+  }
   ]
 }
