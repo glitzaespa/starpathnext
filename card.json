@@ -745,8 +745,8 @@
     "idol":"DOJAEJUNG DOYOUNG",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106377020486725652/doyoung_r.png",
     "theme": "Perfume",
-    "min": "0",
-    "max": "100"
+    "min": "100",
+    "max": "500"
   }
   ],
   "DJJH_YE": [
@@ -755,8 +755,8 @@
     "idol":"DOJAEJUNG JAEHYUN",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106377021539504159/jaehyun_r.png",
     "theme": "Perfume",
-    "min": "0",
-    "max": "100"
+    "min": "100",
+    "max": "500"
   }
   ],
   "DJJW_YE": [
@@ -765,8 +765,8 @@
     "idol":"DOJAEJUNG JUNGWOO",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106377022189617254/jungwoo_r.png",
     "theme": "Perfume",
-    "min": "0",
-    "max": "100"
+    "min": "100",
+    "max": "500"
   }
   ],
   "SOBO_IM": [
@@ -1005,8 +1005,8 @@
     "idol":"Solo Agust D",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106805303296655443/Agust_D_-_This_lively_rhythm_R.png",
     "theme": "해금 (Haegeum)",
-    "min": "0",
-    "max": "100"
+    "min": "100",
+    "max": "500"
   }
   ],
   "SOAG_DW": [
