@@ -10,5 +10,89 @@
     "type_3":"Picture Disc + Alternate Cover",
     "type_3_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1111527212890460211/banner_album_20230526133057.png"
   }
+  ],
+  "beamofprism": [
+  {
+    "name":"The 1st Mini Album 'Beam of Prism'",
+    "artist":"VIVIZ",
+    "type_1":"Standard Black",
+    "type_1_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1110705180489560084/banner_beamofprism_black.png",
+    "type_2":"Purple Clear",
+    "type_2_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1110705180971901000/banner_beamofprism_color.png",
+    "type_3":"Picture Disc + Alternate Cover",
+    "type_3_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1110705181261312103/banner_beamofprism_disc.png"
+  }
+  ],
+    "holyfvck": [
+  {
+    "name":"HOLY FVCK",
+    "artist":"Demi Lovato",
+    "type_1":"Standard Black",
+    "type_1_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1110705362555912243/banner_holyfvck_black.png",
+    "type_2":"Red",
+    "type_2_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1110705362996306072/banner_holyfvck_color.png",
+    "type_3":"Picture Disc + Alternate Cover",
+    "type_3_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1110705363289919509/banner_holyfvck_disc.png"
+  }
+  ],
+      "daynight": [
+  {
+    "name":"Day&Night",
+    "artist":"CLASS:y",
+    "type_1":"Standard Black",
+    "type_1_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1110724517489287329/banner_daynight_black.png",
+    "type_2":"Clear Blue & Pink",
+    "type_2_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1110724517837406269/banner_daynight_color.png",
+    "type_3":"Picture Disc + Alternate Cover",
+    "type_3_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1110724518273634404/banner_daynight_disc.png"
+  }
+  ],
+      "beyondzero": [
+  {
+    "name":"BEYOND : ZERO",
+    "artist":"ATEEZ",
+    "type_1":"Standard Black",
+    "type_1_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1111050549790515290/banner_beyondzero_black.png",
+    "type_2":"Red",
+    "type_2_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1111050550071529542/banner_beyondzero_color.png",
+    "type_3":"Picture Disc + Alternate Cover",
+    "type_3_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1111050550335782972/banner_beyondzero_disc.png"
+  }
+  ],
+        "onetoall": [
+  {
+    "name":"TREASURE EP.3: One To All",
+    "artist":"ATEEZ",
+    "type_1":"Standard Black",
+    "type_1_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1111051461011447888/banner_onetoall_black.png",
+    "type_2":"Red & Yellow",
+    "type_2_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1111051461359570985/banner_onetoall_color.png",
+    "type_3":"Picture Disc + Alternate Cover",
+    "type_3_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1111051461657378948/banner_onetoall_disc.png"
+  }
+  ],
+    "theboys": [
+  {
+    "name":"The Boys",
+    "artist":"Girls' Generation",
+    "type_1":"Standard Black",
+    "type_1_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1111163995764826182/tb_standard.png",
+    "type_2":"Pale Pink",
+    "type_2_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1111163996037464187/tb_colored.png",
+    "type_3":"Picture Disc + Alternate Cover",
+    "type_3_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1111163996352032788/tb_altcover.png"
+  }
+  ],
+      "myeverything": [
+  {
+    "name":"My Everything",
+    "artist":"Ariana Grande",
+    "type_1":"Standard Black",
+    "type_1_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1111351937393238106/AGSB_ME.png",
+    "type_2":"Clear Purple",
+    "type_2_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1111351937762349216/AGCP_ME.png",
+    "type_3":"Picture Disc + Alternate Cover",
+    "type_3_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1111351938110472192/AGPC_ME.png"
+  }
   ]
 }
