@@ -1018,5 +1018,475 @@
     "min": "0",
     "max": "100"
   }
+  ],
+  "BPJS_PS": [
+  {
+    "name":"<:C_:1104449628876841030> **BLACKPINK JISOO** Pretty Savage",
+    "idol":"BLACKPINK JISOO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116532691794399262/Untitled2_20230609125901.png",
+    "theme": "Pretty Savage",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+   "BPJN_PS": [
+  {
+    "name":"<:C_:1104449628876841030> **BLACKPINK JENNIE** Pretty Savage",
+    "idol":"BLACKPINK JENNIE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116532691358187591/Untitled2_20230609125826.png",
+    "theme": "Pretty Savage",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+   "BPRS_PS": [
+  {
+    "name":"<:C_:1104449628876841030> **BLACKPINK ROSÉ** Pretty Savage",
+    "idol":"BLACKPINK ROSÉ",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116532690494181436/Untitled2_20230609125737.png",
+    "theme": "Pretty Savage",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+   "BPLS_PS": [
+  {
+    "name":"<:C_:1104449628876841030> **BLACKPINK LISA** Pretty Savage",
+    "idol":"BLACKPINK LISA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116532689890181150/Untitled2_20230609125659.png",
+    "theme": "Pretty Savage",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "IDMN_RD": [
+  {
+    "name":"<:C_:1104449628876841030> **(G)I-DLE MINNIE** Rude",
+    "idol":"(G)I-DLE MINNIE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116147643555520642/MINNIE_-_Rude_C.png",
+    "theme": "Nxde",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "IDMY_RD": [
+  {
+    "name":"<:C_:1104449628876841030> **(G)I-DLE MIYEON** Rude",
+    "idol":"(G)I-DLE MIYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116147644167880754/MIYEON_-_Rude_C.png",
+    "theme": "Nxde",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "IDSH_RD": [
+  {
+    "name":"<:C_:1104449628876841030> **(G)I-DLE SHUHUA** Rude",
+    "idol":"(G)I-DLE SHUHUA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116147644637651094/SHUHUA_-_Rude_C.png",
+    "theme": "Nxde",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "IDSY_RD": [
+  {
+    "name":"<:C_:1104449628876841030> **(G)I-DLE SOYEON** Rude",
+    "idol":"(G)I-DLE SOYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116147645027713114/SOYEON_-_Rude_C.png",
+    "theme": "Nxde",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "IDYQ_RD": [
+  {
+    "name":"<:C_:1104449628876841030> **(G)I-DLE YUQI** Rude",
+    "idol":"(G)I-DLE YUQI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116147645753331732/YUQI_-_Rude_C.png",
+    "theme": "Nxde",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "IDMN_IB": [
+  {
+    "name":"<:R_:1104449630659428372> **(G)I-DLE MINNIE** I'm born nude",
+    "idol":"(G)I-DLE MINNIE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116147726036512898/MINNIE_-_Im_born_nude_R.png",
+    "theme": "Nxde",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "IDMY_IB": [
+  {
+    "name":"<:R_:1104449630659428372> **(G)I-DLE MIYEON** I'm born nude",
+    "idol":"(G)I-DLE MIYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116147726506270821/MIYEON_-_Im_born_nude_R.png",
+    "theme": "Nxde",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "IDSH_IB": [
+  {
+    "name":"<:R_:1104449630659428372> **(G)I-DLE SHUHUA** I'm born nude",
+    "idol":"(G)I-DLE SHUHUA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116147726997008534/SHUHUA_-_Im_born_nude_R.png",
+    "theme": "Nxde",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "IDSY_IB": [
+  {
+    "name":"<:R_:1104449630659428372> **(G)I-DLE SOYEON** I'm born nude",
+    "idol":"(G)I-DLE SOYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116147727420629022/SOYEON_-_Im_born_nude_R.png",
+    "theme": "Nxde",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "IDYQ_IB": [
+  {
+    "name":"<:R_:1104449630659428372> **(G)I-DLE YUQI** I'm born nude",
+    "idol":"(G)I-DLE YUQI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116147727844249640/YUQI_-_Im_born_nude_R.png",
+    "theme": "Nxde",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+    "IDMN_NX": [
+  {
+    "name":"<:X_:1104449632890798091> **(G)I-DLE MINNIE** Nxde",
+    "idol":"(G)I-DLE MINNIE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116157787328749678/MINNIE_-_Nxde_X.png",
+    "theme": "Nxde",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "IDMY_NX": [
+  {
+    "name":"<:X_:1104449632890798091> **(G)I-DLE MIYEON** Nxde",
+    "idol":"(G)I-DLE MIYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116157787710427166/MIYEON_-_Nxde_X.png",
+    "theme": "Nxde",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "IDSH_NX": [
+  {
+    "name":"<:X_:1104449632890798091> **(G)I-DLE SHUHUA** Nxde",
+    "idol":"(G)I-DLE SHUHUA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116157788784181258/SHUHUA_-_Nxde_X.png",
+    "theme": "Nxde",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "IDSY_NX": [
+  {
+    "name":"<:X_:1104449632890798091> **(G)I-DLE SOYEON** Nxde",
+    "idol":"(G)I-DLE SOYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116157789300068532/SOYEON_-_Nxde_X.png",
+    "theme": "Nxde",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "IDYQ_NX": [
+  {
+    "name":"<:X_:1104449632890798091> **(G)I-DLE YUQI** Nxde",
+    "idol":"(G)I-DLE YUQI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116157789698539530/YUQI_-_Nxde_X.png",
+    "theme": "Nxde",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+    "IDMN_NX_P": [
+  {
+    "name":"<a:X_PLUS:1116886580586622976> **(G)I-DLE MINNIE** Nxde",
+    "idol":"(G)I-DLE MINNIE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116157838688002219/MINNIE_-_Nxde_X.png",
+    "theme": "Nxde",
+    "min": "1000",
+    "max": "2000"
+  }
+  ],
+  "IDMY_NX_P": [
+  {
+    "name":"<a:X_PLUS:1116886580586622976> **(G)I-DLE MIYEON** Nxde",
+    "idol":"(G)I-DLE MIYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116157839002587286/MIYEON_-_Nxde_X.png",
+    "theme": "Nxde",
+    "min": "1000",
+    "max": "2000"
+  }
+  ],
+  "IDSH_NX_P": [
+  {
+    "name":"<a:X_PLUS:1116886580586622976> **(G)I-DLE SHUHUA** Nxde",
+    "idol":"(G)I-DLE SHUHUA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116157839359086592/SHUHUA_-_Nxde_X.png",
+    "theme": "Nxde",
+    "min": "1000",
+    "max": "2000"
+  }
+  ],
+  "IDSY_NX_P": [
+  {
+    "name":"<a:X_PLUS:1116886580586622976> **(G)I-DLE SOYEON** Nxde",
+    "idol":"(G)I-DLE SOYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116157839711412325/SOYEON_-_Nxde_X.png",
+    "theme": "Nxde",
+    "min": "1000",
+    "max": "2000"
+  }
+  ],
+  "IDYQ_NX_P": [
+  {
+    "name":"<a:X_PLUS:1116886580586622976> **(G)I-DLE YUQI** Nxde",
+    "idol":"(G)I-DLE YUQI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116157840105689178/YUQI_-_Nxde_X.png",
+    "theme": "Nxde",
+    "min": "1000",
+    "max": "2000"
+  }
+  ],
+  "SODH_SL": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo DO HAN SE** SLASH",
+    "idol":"Solo DO HAN SE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113924015879360723/DO_HAN_SE_-_SLASH.png",
+    "theme": "SLASH",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SODH_TO": [
+  {
+    "name":"<:R_:1104449630659428372> **Solo DO HAN SE** TAKE OVER",
+    "idol":"Solo DO HAN SE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113924068459155546/DO_HAN_SE_-_TAKE_OVER.png",
+    "theme": "TAKE OVER",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SOAG_SW": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo Ariana Grande** sweetener",
+    "idol":"Solo Ariana Grande",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113616564126765167/AGSW.png",
+    "theme": "sweetener",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+   "SOAG_BO": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo Ariana Grande** better off",
+    "idol":"Solo Ariana Grande",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113616502617276477/AGBO.png",
+    "theme": "better off",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOTY_TD": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo TAEYEON** Toddler",
+    "idol":"Solo TAEYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113581392320806972/toddler.png",
+    "theme": "Toddler",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOTY_HR": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo TAEYEON** Heart",
+    "idol":"Solo TAEYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113581437631860766/heart.png",
+    "theme": "Heart",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "SOTY_NL": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo TAEYEON** No Love Again",
+    "idol":"Solo TAEYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113581528560173226/no_love_again.png",
+    "theme": "No Love Again",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "SOTY_SM": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo TAEYEON** Set Myself On Fire",
+    "idol":"Solo TAEYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113581636714496011/set_myself_on_fire.png",
+    "theme": "Set Myself On Fire",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "SOTY_SR": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo TAEYEON** Siren",
+    "idol":"Solo TAEYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113581684940603457/siren.png",
+    "theme": "Siren",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "SOTY_CA": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo TAEYEON** Cold As Hell",
+    "idol":"Solo TAEYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113581746785615943/cold_as_hell.png",
+    "theme": "Cold As Hell",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "SOTY_YB": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo TAEYEON** You Better Not",
+    "idol":"Solo TAEYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113581844802310225/you_better_not.png",
+    "theme": "You Better Not",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "SOTY_EC": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo TAEYEON** Ending Credits",
+    "idol":"Solo TAEYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113581908459266219/ending_credits.png",
+    "theme": "Ending Credits",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOYR_IL": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo YURI** Illusion",
+    "idol":"Solo YURI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113334769669906544/Illusion.png",
+    "theme": "Illusion",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOYR_CL": [
+  {
+    "name":"<:R_:1104449630659428372> **Solo YURI** C'est La Vie",
+    "idol":"Solo YURI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113334828222386296/Cest_La_Vie.png",
+    "theme": "C'est La Vie (That's LIFE!)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+   "SOYR_EC": [
+  {
+    "name":"<:R_:1104449630659428372> **Solo YURI** Ending Credit",
+    "idol":"Solo YURI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113334915447132191/Ending_Credit.png",
+    "theme": "Ending Credit",
+    "min": "100",
+    "max": "500"
+  }
+  ], 
+  "TXYJ_WH": [
+  {
+    "name":"<:C_:1104449628876841030> **TOMORROW X TOGETHER YEONJUN** Way Home",
+    "idol":"TOMORROW X TOGETHER YEONJUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112478191353868429/YEONJUN_-_Way_Home.png",
+    "theme": "Way Home",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "TXSB_WH": [
+  {
+    "name":"<:C_:1104449628876841030> **TOMORROW X TOGETHER SOOBIN** Way Home",
+    "idol":"TOMORROW X TOGETHER SOOBIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112478190477254677/SOOBIN_-_Way_Home.png",
+    "theme": "Way Home",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "TXBG_WH": [
+  {
+    "name":"<:C_:1104449628876841030> **TOMORROW X TOGETHER BEOMGYU** Way Home",
+    "idol":"TOMORROW X TOGETHER BEOMGYU",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112478189571297410/BEOMGYU_-_Way_Home.png",
+    "theme": "Way Home",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "TXTH_WH": [
+  {
+    "name":"<:C_:1104449628876841030> **TOMORROW X TOGETHER TAEHYUN** Way Home",
+    "idol":"TOMORROW X TOGETHER TAEHYUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112478190947029064/TAEHYUN_-_Way_Home.png",
+    "theme": "Way Home",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "TXHK_WH": [
+  {
+    "name":"<:C_:1104449628876841030> **TOMORROW X TOGETHER HUENINGKAI** Way Home",
+    "idol":"TOMORROW X TOGETHER HUENINGKAI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112478190066217000/HUENINGKAI_-_Way_Home.png",
+    "theme": "Way Home",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOWH_CZ": [
+  {
+    "name":"<:R_:1104449630659428372> **Solo WONHO** CRAZY",
+    "idol":"Solo WONHO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112164928233668728/SOWH_CR.png",
+    "theme": "CRAZY",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+    "SOWH_LY": [
+  {
+    "name":"<:X_:1104449632890798091> **Solo WONHO** Losing You",
+    "idol":"Solo WONHO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112165287417094144/SOWH_LY.png",
+    "theme": "Losing You",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+    "SOWH_LY_P": [
+  {
+    "name":"<a:X_PLUS:1116886580586622976> **Solo WONHO** Losing You",
+    "idol":"Solo WONHO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112165325098725376/SOWH_LY_P.png",
+    "theme": "Losing You",
+    "min": "1000",
+    "max": "2000"
+  }
   ]
 }
