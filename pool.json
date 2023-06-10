@@ -5,5 +5,9 @@
     "pool_card_R":"SOWH_CZ;SOYR_CL;SOYR_EC;SODH_TO;IDMN_IB;IDMY_IB;IDSH_IB;IDSY_IB;IDYQ_IB;SOAD_TL;SOBO_FM;DJJW_YE;DJJH_YE;DJDY_YE;SOLD_DY;SOHY_SW;SOJH_ID",
     "pool_card_X":"SOWH_LY;IDMN_NX;IDMY_NX;IDSH_NX;IDSY_NX;IDYQ_NX;SOJH_LB"
  }
-  ]
+  ],
+"vinyl": [
+  {
+    "main":"honeymoon"
 }
+]}
