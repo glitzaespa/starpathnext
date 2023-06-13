@@ -1488,5 +1488,355 @@
     "min": "1000",
     "max": "2000"
   }
+  ],
+  "ITYJ_SN": [
+  {
+    "name":"<:C_:1104449628876841030> **ITZY YEJI** SNEAKERS",
+    "idol":"ITZY YEJI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116903164046753802/YEJI_-_SNEAKERS_C.png",
+    "theme": "SNEAKERS",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "ITLI_SN": [
+  {
+    "name":"<:C_:1104449628876841030> **ITZY LIA** SNEAKERS",
+    "idol":"ITZY LIA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116903162922680390/LIA_-_SNEAKERS_C.png",
+    "theme": "SNEAKERS",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "ITRJ_SN": [
+  {
+    "name":"<:C_:1104449628876841030> **ITZY RYUJIN** SNEAKERS",
+    "idol":"ITZY RYUJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116903163530846258/RYUJIN_-_SNEAKERS_C.png",
+    "theme": "SNEAKERS",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "ITCR_SN": [
+  {
+    "name":"<:C_:1104449628876841030> **ITZY CHAERYEONG** SNEAKERS",
+    "idol":"ITZY CHAERYEONG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116903162561953822/CHAERY_-_SNEAKERS_C.png",
+    "theme": "SNEAKERS",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "ITYN_SN": [
+  {
+    "name":"<:C_:1104449628876841030> **ITZY YUNA** SNEAKERS",
+    "idol":"ITZY YUNA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116903164583608320/YUNA_-_SNEAKERS_C.png",
+    "theme": "SNEAKERS",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "BGEJ_WR": [
+  {
+    "name":"<:R_:1104449630659428372> **Brave Girls Eunji** We Ride",
+    "idol":"Brave Girls Eunji",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115837786122100828/Eunji_-_We_Ride.png",
+    "theme": "운전만해 (We Ride)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+    "BGMY_WR": [
+  {
+    "name":"<:R_:1104449630659428372> **Brave Girls Minyoung** We Ride",
+    "idol":"Brave Girls Minyoung",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115837787049037884/Minyoung_-_We_Ride.png",
+    "theme": "운전만해 (We Ride)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+    "BGYJ_WR": [
+  {
+    "name":"<:R_:1104449630659428372> **Brave Girls Yujeong** We Ride",
+    "idol":"Brave Girls Yujeong",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115837788001148998/Yujeong_-_We_Ride.png",
+    "theme": "운전만해 (We Ride)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+    "BGYN_WR": [
+  {
+    "name":"<:R_:1104449630659428372> **Brave Girls Yuna** We Ride",
+    "idol":"Brave Girls Yuna",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115837788496072765/Yuna_-_We_Ride.png",
+    "theme": "운전만해 (We Ride)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+    "BGEJ_CM": [
+  {
+    "name":"<:R_:1104449630659428372> **Brave Girls Eunji** Chi Mat Ba Ram",
+    "idol":"Brave Girls Eunji",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115838115907653662/Eunji_-_Chi_Mat_Ba_Ram.png",
+    "theme": "Chi Mat Ba Ram (치맛바람)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+      "BGMY_CM": [
+  {
+    "name":"<:R_:1104449630659428372> **Brave Girls Minyoung** Chi Mat Ba Ram",
+    "idol":"Brave Girls Minyoung",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115838116385787904/Minyoung_-_Chi_Mat_Ba_Ram.png",
+    "theme": "Chi Mat Ba Ram (치맛바람)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+      "BGYJ_CM": [
+  {
+    "name":"<:R_:1104449630659428372> **Brave Girls Yujeong** Chi Mat Ba Ram",
+    "idol":"Brave Girls Yujeong",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115838116826194050/Yujeong_-_Chi_Mat_Ba_Ram.png",
+    "theme": "Chi Mat Ba Ram (치맛바람)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+      "BGYN_CM": [
+  {
+    "name":"<:R_:1104449630659428372> **Brave Girls Yuna** Chi Mat Ba Ram",
+    "idol":"Brave Girls Yuna",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115838117254025216/Yuna_-_Chi_Mat_Ba_Ram.png",
+    "theme": "Chi Mat Ba Ram (치맛바람)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+      "BGEJ_LI": [
+  {
+    "name":"<:R_:1104449630659428372> **Brave Girls Eunji** Love Is Gone",
+    "idol":"Brave Girls Eunji",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115838274280357908/Eunji_-_Love_Is_Gone.png",
+    "theme": "물거품 (Love Is Gone)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+        "BGMY_LI": [
+  {
+    "name":"<:R_:1104449630659428372> **Brave Girls Minyoung** Love Is Gone",
+    "idol":"Brave Girls Minyoung",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115838274586550324/Minyoung_-_Love_Is_Gone.png",
+    "theme": "물거품 (Love Is Gone)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+      "BGYJ_LI": [
+  {
+    "name":"<:R_:1104449630659428372> **Brave Girls Yujeong** Love Is Gone",
+    "idol":"Brave Girls Yujeong",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115838275379277884/Yujeong_-_Love_Is_Gone.png",
+    "theme": "물거품 (Love Is Gone)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+       "BGYN_LI": [
+  {
+    "name":"<:R_:1104449630659428372> **Brave Girls Yuna** Love Is Gone",
+    "idol":"Brave Girls Yuna",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115838275790307349/Yuna_-_Love_Is_Gone.png",
+    "theme": "물거품 (Love Is Gone)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "TXBG_SR": [
+  {
+    "name":"<:R_:1104449630659428372> **TOMORROW X TOGETHER BEOMGYU** Sugar Rush Ride",
+    "idol":"TOMORROW X TOGETHER BEOMGYU",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115771897934778530/bomb_gyu.png",
+    "theme": "Sugar Rush Ride",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "TXTH_SR": [
+  {
+    "name":"<:R_:1104449630659428372> **TOMORROW X TOGETHER TAEHYUN** Sugar Rush Ride",
+    "idol":"TOMORROW X TOGETHER TAEHYUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115771899486683177/teRRy.png",
+    "theme": "Sugar Rush Ride",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "TXHK_SR": [
+  {
+    "name":"<:R_:1104449630659428372> **TOMORROW X TOGETHER HUENINGKAI** Sugar Rush Ride",
+    "idol":"TOMORROW X TOGETHER HUENINGKAI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115771898559746120/kai.png",
+    "theme": "Sugar Rush Ride",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "TXSB_SR": [
+  {
+    "name":"<:R_:1104449630659428372> **TOMORROW X TOGETHER SOOBIN** Sugar Rush Ride",
+    "idol":"TOMORROW X TOGETHER SOOBIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115771900082262169/boobinn.png",
+    "theme": "Sugar Rush Ride",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "TXYJ_SR": [
+  {
+    "name":"<:R_:1104449630659428372> **TOMORROW X TOGETHER YEONJUN** Sugar Rush Ride",
+    "idol":"TOMORROW X TOGETHER YEONJUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115771900728201338/yeonjunnjoufmb.png",
+    "theme": "Sugar Rush Ride",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "RVIR_PS": [
+  {
+    "name":"<:R_:1104449630659428372> **Red Velvet IRENE** Pose",
+    "idol":"Red Velvet IRENE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115697177143017613/image.png",
+    "theme": "Pose",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "RVSG_PS": [
+  {
+    "name":"<:R_:1104449630659428372> **Red Velvet SEULGI** Pose",
+    "idol":"Red Velvet SEULGI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115697177596018789/image.png",
+    "theme": "Pose",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "RVWD_PS": [
+  {
+    "name":"<:R_:1104449630659428372> **Red Velvet WENDY** Pose",
+    "idol":"Red Velvet WENDY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115697178766221312/image.png",
+    "theme": "Pose",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "RVJO_PS": [
+  {
+    "name":"<:R_:1104449630659428372> **Red Velvet JOY** Pose",
+    "idol":"Red Velvet JOY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115697179097579790/image.png",
+    "theme": "Pose",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "RVYR_PS": [
+  {
+    "name":"<:R_:1104449630659428372> **Red Velvet YERI** Pose",
+    "idol":"Red Velvet YERI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115697179542167643/image.png",
+    "theme": "Pose",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "KAJS_IC": [
+  {
+    "name":"<:C_:1104449628876841030> **KARD J.SEPH** ICKY",
+    "idol":"KARD J.SEPH",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112830883699900447/image.png",
+    "theme": "ICKY",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "KABM_IC": [
+  {
+    "name":"<:C_:1104449628876841030> **KARD BM** ICKY",
+    "idol":"KARD BM",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112830884370980955/image.png",
+    "theme": "ICKY",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "KASM_IC": [
+  {
+    "name":"<:C_:1104449628876841030> **KARD SOMIN** ICKY",
+    "idol":"KARD SOMIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112830884987539507/image.png",
+    "theme": "ICKY",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "KAJW_IC": [
+  {
+    "name":"<:C_:1104449628876841030> **KARD JIWOO** ICKY",
+    "idol":"KARD JIWOO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112830885381816391/image.png",
+    "theme": "ICKY",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "KAJS_MI": [
+  {
+    "name":"<:C_:1104449628876841030> **KARD J.SEPH** My innuendo",
+    "idol":"KARD J.SEPH",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112832945485512774/image.png",
+    "theme": "ICKY",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "KABM_MI": [
+  {
+    "name":"<:C_:1104449628876841030> **KARD BM** My innuendo",
+    "idol":"KARD BM",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112832946345349192/image.png",
+    "theme": "ICKY",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+      "KASM_MI": [
+  {
+    "name":"<:C_:1104449628876841030> **KARD SOMIN** My innuendo",
+    "idol":"KARD SOMIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112832945825263657/image.png",
+    "theme": "ICKY",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+        "KAJW_MI": [
+  {
+    "name":"<:C_:1104449628876841030> **KARD JIWOO** My innuendo",
+    "idol":"KARD JIWOO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112832946722832394/image.png",
+    "theme": "ICKY",
+    "min": "0",
+    "max": "100"
+  }
   ]
 }
