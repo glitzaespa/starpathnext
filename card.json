@@ -1801,42 +1801,42 @@
   ],
   "KAJS_MI": [
   {
-    "name":"<:C_:1104449628876841030> **KARD J.SEPH** My innuendo",
+    "name":"<:R_:1104449630659428372> **KARD J.SEPH** My innuendo",
     "idol":"KARD J.SEPH",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112832945485512774/image.png",
     "theme": "ICKY",
-    "min": "0",
-    "max": "100"
+    "min": "100",
+    "max": "500"
   }
   ],
     "KABM_MI": [
   {
-    "name":"<:C_:1104449628876841030> **KARD BM** My innuendo",
+    "name":"<:R_:1104449630659428372> **KARD BM** My innuendo",
     "idol":"KARD BM",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112832946345349192/image.png",
     "theme": "ICKY",
-    "min": "0",
-    "max": "100"
+    "min": "100",
+    "max": "500"
   }
   ],
       "KASM_MI": [
   {
-    "name":"<:C_:1104449628876841030> **KARD SOMIN** My innuendo",
+    "name":"<:R_:1104449630659428372> **KARD SOMIN** My innuendo",
     "idol":"KARD SOMIN",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112832945825263657/image.png",
     "theme": "ICKY",
-    "min": "0",
-    "max": "100"
+    "min": "100",
+    "max": "500"
   }
   ],
         "KAJW_MI": [
   {
-    "name":"<:C_:1104449628876841030> **KARD JIWOO** My innuendo",
+    "name":"<:R_:1104449630659428372> **KARD JIWOO** My innuendo",
     "idol":"KARD JIWOO",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112832946722832394/image.png",
     "theme": "ICKY",
-    "min": "0",
-    "max": "100"
+    "min": "100",
+    "max": "500"
   }
   ]
 }
