@@ -1838,5 +1838,295 @@
     "min": "100",
     "max": "500"
   }
+  ],
+  "SKBC_SC": [
+  {
+    "name":"<:X_:1104449632890798091> **Stray Kids BANG CHAN** S-Class",
+    "idol":"Stray Kids BANG CHAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1117618599260061766/BANG_CHAN_-_S-class_X.png",
+    "theme": "S-Class (특)",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "SKLK_SC": [
+  {
+    "name":"<:X_:1104449632890798091> **Stray Kids LEE KNOW** S-Class",
+    "idol":"Stray Kids LEE KNOW",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1117618602225455204/LEE_KNOW_-_S-class_X.png",
+    "theme": "S-Class (특)",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "SKCB_SC": [
+  {
+    "name":"<:X_:1104449632890798091> **Stray Kids CHANGBIN** S-Class",
+    "idol":"Stray Kids CHANGBIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1117618599599820900/CHANGBIN_-_S-class_X.png",
+    "theme": "S-Class (특)",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "SKHJ_SC": [
+  {
+    "name":"<:X_:1104449632890798091> **Stray Kids HYUNJIN** S-Class",
+    "idol":"Stray Kids HYUNJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1117618600962961488/HYUNJIN_-_S-class_X.png",
+    "theme": "S-Class (특)",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "SKHA_SC": [
+  {
+    "name":"<:X_:1104449632890798091> **Stray Kids HAN** S-Class",
+    "idol":"Stray Kids HAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1117618600551927838/HAN_-_S-class_X.png",
+    "theme": "S-Class (특)",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "SKFL_SC": [
+  {
+    "name":"<:X_:1104449632890798091> **Stray Kids FELIX** S-Class",
+    "idol":"Stray Kids FELIX",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1117618600048603176/FELIX_-_S-class_X.png",
+    "theme": "S-Class (특)",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "SKSM_SC": [
+  {
+    "name":"<:X_:1104449632890798091> **Stray Kids SEUNGMIN** S-Class",
+    "idol":"Stray Kids SEUNGMIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1117618602586157056/SEUNGMIN_-_S-class_X.png",
+    "theme": "S-Class (특)",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "SKIN_SC": [
+  {
+    "name":"<:X_:1104449632890798091> **Stray Kids I.N** S-Class",
+    "idol":"Stray Kids I.N",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1117618601545957497/I.N_-_S-class_X.png",
+    "theme": "S-Class (특)",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+    "SKBC_SC_P": [
+  {
+    "name":"<a:X_PLUS:1116886580586622976> **Stray Kids BANG CHAN** S-Class",
+    "idol":"Stray Kids BANG CHAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1117618671192383539/BANG_CHAN_-_S-class_X.png",
+    "theme": "S-Class (특)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "SKLK_SC_P": [
+  {
+    "name":"<a:X_PLUS:1116886580586622976> **Stray Kids LEE KNOW** S-Class",
+    "idol":"Stray Kids LEE KNOW",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1117618674111623238/LEE_KNOW_-_S-class_X.png",
+    "theme": "S-Class (특)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "SKCB_SC_P": [
+  {
+    "name":"<a:X_PLUS:1116886580586622976> **Stray Kids CHANGBIN** S-Class",
+    "idol":"Stray Kids CHANGBIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1117618671674732604/CHANGBIN_-_S-class_X.png",
+    "theme": "S-Class (특)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "SKHJ_SC_P": [
+  {
+    "name":"<a:X_PLUS:1116886580586622976> **Stray Kids HYUNJIN** S-Class",
+    "idol":"Stray Kids HYUNJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1117618673125957632/HYUNJIN_-_S-class_X.png",
+    "theme": "S-Class (특)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "SKHA_SC_P": [
+  {
+    "name":"<a:X_PLUS:1116886580586622976> **Stray Kids HAN** S-Class",
+    "idol":"Stray Kids HAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1117618672714919957/HAN_-_S-class_X.png",
+    "theme": "S-Class (특)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "SKFL_SC_P": [
+  {
+    "name":"<a:X_PLUS:1116886580586622976> **Stray Kids FELIX** S-Class",
+    "idol":"Stray Kids FELIX",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1117618672337428572/FELIX_-_S-class_X.png",
+    "theme": "S-Class (특)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "SKSM_SC_P": [
+  {
+    "name":"<a:X_PLUS:1116886580586622976> **Stray Kids SEUNGMIN** S-Class",
+    "idol":"Stray Kids SEUNGMIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1117618674547826749/SEUNGMIN_-_S-class_X.png",
+    "theme": "S-Class (특)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "SKIN_SC_P": [
+  {
+    "name":"<a:X_PLUS:1116886580586622976> **Stray Kids I.N** S-Class",
+    "idol":"Stray Kids I.N",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1117618673620881490/I.N_-_S-class_X.png",
+    "theme": "S-Class (특)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "ITYJ_WI": [
+  {
+    "name":"<:R_:1104449630659428372> **ITZY YEJI** WHAT I WANT",
+    "idol":"ITZY YEJI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116903267172102144/YEJI_-_WHAT_I_WANT_R.png",
+    "theme": "WHAT I WANT",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "ITLI_WI": [
+  {
+    "name":"<:R_:1104449630659428372> **ITZY LIA** WHAT I WANT",
+    "idol":"ITZY LIA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116903266064797736/LIA_-_WHAT_I_WANT_R.png",
+    "theme": "WHAT I WANT",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+    "ITRJ_WI": [
+  {
+    "name":"<:R_:1104449630659428372> **ITZY RYUJIN** WHAT I WANT",
+    "idol":"ITZY RYUJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116903266668773466/RYUJIN_-_WHAT_I_WANT_R.png",
+    "theme": "WHAT I WANT",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+      "ITCR_WI": [
+  {
+    "name":"<:R_:1104449630659428372> **ITZY CHAERYEONG** WHAT I WANT",
+    "idol":"ITZY CHAERYEONG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116903265553100890/CHAERY_-_WHAT_I_WANT_R.png",
+    "theme": "WHAT I WANT",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+    "ITYN_WI": [
+  {
+    "name":"<:R_:1104449630659428372> **ITZY YUNA** WHAT I WANT",
+    "idol":"ITZY YUNA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116903267528609802/YUNA_-_WHAT_I_WANT_R.png",
+    "theme": "WHAT I WANT",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "BPJS_IC": [
+  {
+    "name":"<:X_:1104449632890798091> **BLACKPINK JISOO** Ice Cream",
+    "idol":"BLACKPINK JISOO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116537508633776188/JISOO_-_Ice_Cream_X.png",
+    "theme": "Ice Cream (feat. Selena Gomez)",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "BPJN_IC": [
+  {
+    "name":"<:X_:1104449632890798091> **BLACKPINK JENNIE** Ice Cream",
+    "idol":"BLACKPINK JENNIE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116537508268875866/JENNIE_-_Ice_Cream_X.png",
+    "theme": "Ice Cream (feat. Selena Gomez)",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "BPRS_IC": [
+  {
+    "name":"<:X_:1104449632890798091> **BLACKPINK ROSÉ** Ice Cream",
+    "idol":"BLACKPINK ROSÉ",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116537509514580018/ROSE_-_Ice_Cream_X.png",
+    "theme": "Ice Cream (feat. Selena Gomez)",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "BPLS_IC": [
+  {
+    "name":"<:X_:1104449632890798091> **BLACKPINK LISA** Ice Cream",
+    "idol":"BLACKPINK LISA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116537509061599383/LISA_-_Ice_Cream_X.png",
+    "theme": "Ice Cream (feat. Selena Gomez)",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+    "BPJS_IC_P": [
+  {
+    "name":"<a:X_PLUS:1116886580586622976> **BLACKPINK JISOO** Ice Cream",
+    "idol":"BLACKPINK JISOO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116537670718472262/JISOO_-_Ice_Cream_X_v1.png",
+    "theme": "Ice Cream (feat. Selena Gomez)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "BPJN_IC_P": [
+  {
+    "name":"<a:X_PLUS:1116886580586622976> **BLACKPINK JENNIE** Ice Cream",
+    "idol":"BLACKPINK JENNIE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116537669808291981/JENNIE_-_Ice_Cream_X_v1.png",
+    "theme": "Ice Cream (feat. Selena Gomez)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "BPRS_IC_P": [
+  {
+    "name":"<a:X_PLUS:1116886580586622976> **BLACKPINK ROSÉ** Ice Cream",
+    "idol":"BLACKPINK ROSÉ",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116537671393742858/ROSE_-_Ice_Cream_X_v1.png",
+    "theme": "Ice Cream (feat. Selena Gomez)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "BPLS_IC_P": [
+  {
+    "name":"<a:X_PLUS:1116886580586622976> **BLACKPINK LISA** Ice Cream",
+    "idol":"BLACKPINK LISA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116537671079165973/LISA_-_Ice_Cream_X_v1.png",
+    "theme": "Ice Cream (feat. Selena Gomez)",
+    "min": "1000",
+    "max": "2500"
+  }
   ]
 }
