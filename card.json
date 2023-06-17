@@ -2128,5 +2128,725 @@
     "min": "1000",
     "max": "2500"
   }
+  ],
+  "SOLA_DS": [
+  {
+    "name":"<:R_:1104449630659428372> **Solo Leigh-Anne** DSL",
+    "idol":"Solo Leigh-Anne",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1119638763245674536/SOLA_DS.png",
+    "theme": "Don't Say Love",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SOLA_DO": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo Leigh-Anne** Don't Say Love",
+    "idol":"Solo Leigh-Anne",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1119638882460381254/SOLA_DO.png",
+    "theme": "Don't Say Love",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SKBC_LU": [
+  {
+    "name":"<:R_:1104449630659428372> **Stray Kids BANG CHAN** Luxurious",
+    "idol":"Stray Kids BANG CHAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1119100655425040458/BANG_CHAN_-_Luxurious_R.png",
+    "theme": "S-Class (특)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SKCB_LU": [
+  {
+    "name":"<:R_:1104449630659428372> **Stray Kids CHANGBIN** Luxurious",
+    "idol":"Stray Kids CHANGBIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1119100655785754634/CHANGBIN_-_Luxurious_R.png",
+    "theme": "S-Class (특)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SKFL_LU": [
+  {
+    "name":"<:R_:1104449630659428372> **Stray Kids FELIX** Luxurious",
+    "idol":"Stray Kids FELIX",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1119100656125497476/FELIX_-_Luxurious_R.png",
+    "theme": "S-Class (특)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SKHA_LU": [
+  {
+    "name":"<:R_:1104449630659428372> **Stray Kids HAN** Luxurious",
+    "idol":"Stray Kids HAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1119100656528142418/HAN_-_Luxurious_R.png",
+    "theme": "S-Class (특)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SKHJ_LU": [
+  {
+    "name":"<:R_:1104449630659428372> **Stray Kids HYUNJIN** Luxurious",
+    "idol":"Stray Kids HYUNJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1119100656859496508/HYUNJIN_-_Luxurious_R.png",
+    "theme": "S-Class (특)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SKIN_LU": [
+  {
+    "name":"<:R_:1104449630659428372> **Stray Kids I.N** Luxurious",
+    "idol":"Stray Kids I.N",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1119100657350234163/I.N_-_Luxurious_R.png",
+    "theme": "S-Class (특)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SKLK_LU": [
+  {
+    "name":"<:R_:1104449630659428372> **Stray Kids LEE KNOW** Luxurious",
+    "idol":"Stray Kids LEE KNOW",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1119100657744490517/LEE_KNOW_-_Luxurious_R.png",
+    "theme": "S-Class (특)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SKSM_LU": [
+  {
+    "name":"<:R_:1104449630659428372> **Stray Kids SEUNGMIN** Luxurious",
+    "idol":"Stray Kids SEUNGMIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1119100658038095923/Seungmin_-_Luxurious_R.png",
+    "theme": "S-Class (특)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "TWNY_RY": [
+  {
+    "name":"<:C_:1104449628876841030> **TWICE NAYEON** REAL YOU",
+    "idol":"TWICE NAYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116598217505787954/STARPATH_20230609171747.png",
+    "theme": "REAL YOU",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "TWJY_RY": [
+  {
+    "name":"<:C_:1104449628876841030> **TWICE JEONGYEON** REAL YOU",
+    "idol":"TWICE JEONGYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116598218004889600/STARPATH_20230609171828.png",
+    "theme": "REAL YOU",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "TWMM_RY": [
+  {
+    "name":"<:C_:1104449628876841030> **TWICE MOMO** REAL YOU",
+    "idol":"TWICE MOMO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116598218579525682/STARPATH_20230609171903.png",
+    "theme": "REAL YOU",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "TWSN_RY": [
+  {
+    "name":"<:C_:1104449628876841030> **TWICE SANA** REAL YOU",
+    "idol":"TWICE SANA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116598219116400680/STARPATH_20230609171937.png",
+    "theme": "REAL YOU",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "TWJH_RY": [
+  {
+    "name":"<:C_:1104449628876841030> **TWICE JIHYO** REAL YOU",
+    "idol":"TWICE JIHYO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116598219732942888/STARPATH_20230609172004.png",
+    "theme": "REAL YOU",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "TWMN_RY": [
+  {
+    "name":"<:C_:1104449628876841030> **TWICE MINA** REAL YOU",
+    "idol":"TWICE MINA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116598220274024509/STARPATH_20230609172030.png",
+    "theme": "REAL YOU",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "TWDH_RY": [
+  {
+    "name":"<:C_:1104449628876841030> **TWICE DAHYUN** REAL YOU",
+    "idol":"TWICE DAHYUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116598220735402054/STARPATH_20230609172054.png",
+    "theme": "REAL YOU",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "TWCY_RY": [
+  {
+    "name":"<:C_:1104449628876841030> **TWICE CHAEYOUNG** REAL YOU",
+    "idol":"TWICE NAYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116598221343555584/STARPATH_20230609172131.png",
+    "theme": "REAL YOU",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "TWTY_RY": [
+  {
+    "name":"<:C_:1104449628876841030> **TWICE TZUYU** REAL YOU",
+    "idol":"TWICE TZUYU",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116598222392147968/STARPATH_20230609172206.png",
+    "theme": "REAL YOU",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "IVAYJ_EL": [
+  {
+    "name":"<:C_:1104449628876841030> **IVE ANYUJIN** ELEVEN",
+    "idol":"IVE ANYUJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116275940281032745/Untitled2_20230608200137.png",
+    "theme": "ELEVEN",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "IVLS_EL": [
+  {
+    "name":"<:C_:1104449628876841030> **IVE LEESEO** ELEVEN",
+    "idol":"IVE LEESEO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116275939710619648/Untitled2_20230608200146.png",
+    "theme": "ELEVEN",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+      "IVJWY_EL": [
+  {
+    "name":"<:C_:1104449628876841030> **IVE JANGWONYOUNG** ELEVEN",
+    "idol":"IVE JANGWONYOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116275940817907813/Untitled2_20230608200129.png",
+    "theme": "ELEVEN",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+        "IVRE_EL": [
+  {
+    "name":"<:C_:1104449628876841030> **IVE REI** ELEVEN",
+    "idol":"IVE REI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116275941392523274/Untitled2_20230608200113.png",
+    "theme": "ELEVEN",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+        "IVGA_EL": [
+  {
+    "name":"<:C_:1104449628876841030> **IVE GAEUL** ELEVEN",
+    "idol":"IVE GAEUL",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116275941908426792/Untitled2_20230608200105.png",
+    "theme": "ELEVEN",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+        "IVLI_EL": [
+  {
+    "name":"<:C_:1104449628876841030> **IVE LIZ** ELEVEN",
+    "idol":"IVE LIZ",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116275942340448327/Untitled2_20230608200050.png",
+    "theme": "ELEVEN",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "TXBG_BH": [
+  {
+    "name":"<:X_:1104449632890798091> **TOMORROW X TOGETHER BEOMGYU** Blue Hour",
+    "idol":"TOMORROW X TOGETHER BEOMGYU",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112295144637612072/BEOMGYU_-_Blue_Hour_X.png",
+    "theme": "Blue Hour (5시 53분의 하늘에서 발견한 너와 나)",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "TXYJ_BH": [
+  {
+    "name":"<:X_:1104449632890798091> **TOMORROW X TOGETHER YEONJUN** Blue Hour",
+    "idol":"TOMORROW X TOGETHER YEONJUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112295146961248266/YEONJUN_-_Blue_Hour_X.png",
+    "theme": "Blue Hour (5시 53분의 하늘에서 발견한 너와 나)",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "TXSB_BH": [
+  {
+    "name":"<:X_:1104449632890798091> **TOMORROW X TOGETHER SOOBIN** Blue Hour",
+    "idol":"TOMORROW X TOGETHER SOOBIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112295146118193222/SOOBIN_-_Blue_Hour_X.png",
+    "theme": "Blue Hour (5시 53분의 하늘에서 발견한 너와 나)",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "TXHK_BH": [
+  {
+    "name":"<:X_:1104449632890798091> **TOMORROW X TOGETHER HUENINGKAI** Blue Hour",
+    "idol":"TOMORROW X TOGETHER HUENINGKAI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112295145551953930/HUENINGKAI_-_Blue_Hour_X.png",
+    "theme": "Blue Hour (5시 53분의 하늘에서 발견한 너와 나)",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "TXTH_BH": [
+  {
+    "name":"<:X_:1104449632890798091> **TOMORROW X TOGETHER TAEHYUN** Blue Hour",
+    "idol":"TOMORROW X TOGETHER TAEHYUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112295146520838144/TAEHYUN_-_Blue_Hour_X.png",
+    "theme": "Blue Hour (5시 53분의 하늘에서 발견한 너와 나)",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+    "TXBG_BH_P": [
+  {
+    "name":"<a:X_PLUS:1116886580586622976> **TOMORROW X TOGETHER BEOMGYU** Blue Hour",
+    "idol":"TOMORROW X TOGETHER BEOMGYU",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112295303488491621/BEOMGYU_-_Blue_Hour_X.png",
+    "theme": "Blue Hour (5시 53분의 하늘에서 발견한 너와 나)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "TXYJ_BH_P": [
+  {
+    "name":"<a:X_PLUS:1116886580586622976> **TOMORROW X TOGETHER YEONJUN** Blue Hour",
+    "idol":"TOMORROW X TOGETHER YEONJUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112295304969060453/YEONJUN_-_Blue_Hour_X.png",
+    "theme": "Blue Hour (5시 53분의 하늘에서 발견한 너와 나)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "TXSB_BH_P": [
+  {
+    "name":"<a:X_PLUS:1116886580586622976> **TOMORROW X TOGETHER SOOBIN** Blue Hour",
+    "idol":"TOMORROW X TOGETHER SOOBIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112295304268611674/SOOBIN_-_Blue_Hour_X.png",
+    "theme": "Blue Hour (5시 53분의 하늘에서 발견한 너와 나)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "TXHK_BH_P": [
+  {
+    "name":"<a:X_PLUS:1116886580586622976> **TOMORROW X TOGETHER HUENINGKAI** Blue Hour",
+    "idol":"TOMORROW X TOGETHER HUENINGKAI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112295303832416266/HUENINGKAI_-_Blue_Hour_X.png",
+    "theme": "Blue Hour (5시 53분의 하늘에서 발견한 너와 나)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "TXTH_BH_P": [
+  {
+    "name":"<a:X_PLUS:1116886580586622976> **TOMORROW X TOGETHER TAEHYUN** Blue Hour",
+    "idol":"TOMORROW X TOGETHER TAEHYUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112295304641925251/TAEHYUN_-_Blue_Hour_X.png",
+    "theme": "Blue Hour (5시 53분의 하늘에서 발견한 너와 나)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "SOTS_CA": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo Taylor Swift** cardigan",
+    "idol":"Solo Taylor Swift",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112230525185298432/Untitled110_20230528120601.png",
+    "theme": "cardigan",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "RVIR_BF": [
+  {
+    "name":"<:C_:1104449628876841030> **Red Velvet IRENE** Beg For Me",
+    "idol":"Red Velvet IRENE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112214320038809710/bfm_irene.png",
+    "theme": "Beg For Me",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "RVSG_BF": [
+  {
+    "name":"<:C_:1104449628876841030> **Red Velvet SEULGI** Beg For Me",
+    "idol":"Red Velvet SEULGI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112214320672145448/bfm_seulgi.png",
+    "theme": "Beg For Me",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "RVWD_BF": [
+  {
+    "name":"<:C_:1104449628876841030> **Red Velvet WENDY** Beg For Me",
+    "idol":"Red Velvet WENDY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112214321099968522/bfm_wendy.png",
+    "theme": "Beg For Me",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "RVJO_BF": [
+  {
+    "name":"<:C_:1104449628876841030> **Red Velvet JOY** Beg For Me",
+    "idol":"Red Velvet JOY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112214321599086592/bfm_joy.png",
+    "theme": "Beg For Me",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "RVYR_BF": [
+  {
+    "name":"<:C_:1104449628876841030> **Red Velvet YERI** Beg For Me",
+    "idol":"Red Velvet YERI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112214321989161112/bfm_yeri.png",
+    "theme": "Beg For Me",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "RVIR_GB": [
+  {
+    "name":"<:C_:1104449628876841030> **Red Velvet IRENE** Good, Bad, Ugly",
+    "idol":"Red Velvet IRENE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112214477652369471/gbu_irene.png",
+    "theme": "Good, Bad, Ugly",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "RVSG_GB": [
+  {
+    "name":"<:C_:1104449628876841030> **Red Velvet SEULGI** Good, Bad, Ugly",
+    "idol":"Red Velvet SEULGI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112214478034059345/gbu_seulgi.png",
+    "theme": "Good, Bad, Ugly",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "RVWD_GB": [
+  {
+    "name":"<:C_:1104449628876841030> **Red Velvet WENDY** Good, Bad, Ugly",
+    "idol":"Red Velvet WENDY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112214478457667654/gbu_wendy.png",
+    "theme": "Good, Bad, Ugly",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "RVJO_GB": [
+  {
+    "name":"<:C_:1104449628876841030> **Red Velvet JOY** Good, Bad, Ugly",
+    "idol":"Red Velvet JOY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112214478797422663/gbu_joy.png",
+    "theme": "Good, Bad, Ugly",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "RVYR_GB": [
+  {
+    "name":"<:C_:1104449628876841030> **Red Velvet YERI** Good, Bad, Ugly",
+    "idol":"Red Velvet YERI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112214479128764526/gbu_yeri.png",
+    "theme": "Good, Bad, Ugly",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "ATHJ_WV": [
+  {
+    "name":"<:C_:1104449628876841030> **ATEEZ HONG JOONG** Wave",
+    "idol":"ATEEZ HONG JOONG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1110784250896191539/HONG_JOONG_-_Wave.png",
+    "theme": "Wave",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+ "ATJH_WV": [
+  {
+    "name":"<:C_:1104449628876841030> **ATEEZ JONG HO** Wave",
+    "idol":"ATEEZ JONG HO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1110784251261104139/JONG_HO_-_Wave.png",
+    "theme": "Wave",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+   "ATMG_WV": [
+  {
+    "name":"<:C_:1104449628876841030> **ATEEZ MIN GI** Wave",
+    "idol":"ATEEZ MIN GI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1110784251680522250/MIN_GI_-_Wave.png",
+    "theme": "Wave",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+     "ATSA_WV": [
+  {
+    "name":"<:C_:1104449628876841030> **ATEEZ SAN** Wave",
+    "idol":"ATEEZ SAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1110784251999293440/SAN_-_Wave.png",
+    "theme": "Wave",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+     "ATSH_WV": [
+  {
+    "name":"<:C_:1104449628876841030> **ATEEZ SEONG HWA** Wave",
+    "idol":"ATEEZ SEONG HWA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1110784252301291590/SEONG_HWA_-_Wave.png",
+    "theme": "Wave",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+     "ATWY_WV": [
+  {
+    "name":"<:C_:1104449628876841030> **ATEEZ WOO YOUNG** Wave",
+    "idol":"ATEEZ WOO YOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1110784252695543828/WOO_YOUNG_-_Wave.png",
+    "theme": "Wave",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+     "ATYS_WV": [
+  {
+    "name":"<:C_:1104449628876841030> **ATEEZ YEO SANG** Wave",
+    "idol":"ATEEZ YEO SANG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1110784253018509333/YEO_SANG_-_Wave.png",
+    "theme": "Wave",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+     "ATYH_WV": [
+  {
+    "name":"<:C_:1104449628876841030> **ATEEZ YUN HO** Wave",
+    "idol":"ATEEZ YEO SANG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1110784253312118834/YUN_HO_-_Wave.png",
+    "theme": "Wave",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOJO_HL": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo JOY** Hello",
+    "idol":"Solo JOY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1110599167803404328/hello.png",
+    "theme": "Hello (안녕)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "WJSL_KY": [
+  {
+    "name":"<:R_:1104449630659428372> **WJSN THE BLACK SEOLA** Kiss Your Lips",
+    "idol":"WJSN THE BLACK SEOLA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106993025013514331/Untitled11_20230513220941.png",
+    "theme": "Kiss Your Lips",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "WJBN_KY": [
+  {
+    "name":"<:R_:1104449630659428372> **WJSN THE BLACK BONA** Kiss Your Lips",
+    "idol":"WJSN THE BLACK BONA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106993025386823701/Untitled11_20230513220952.png",
+    "theme": "Kiss Your Lips",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "WJEX_KY": [
+  {
+    "name":"<:R_:1104449630659428372> **WJSN THE BLACK EXY** Kiss Your Lips",
+    "idol":"WJSN THE BLACK EXY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106993025839792138/Untitled11_20230513221000.png",
+    "theme": "Kiss Your Lips",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "WJES_KY": [
+  {
+    "name":"<:R_:1104449630659428372> **WJSN THE BLACK EUNSEO** Kiss Your Lips",
+    "idol":"WJSN THE BLACK EUNSEO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106993026158563439/Untitled11_20230513221019.png",
+    "theme": "Kiss Your Lips",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "WJSB_HM": [
+  {
+    "name":"<:C_:1104449628876841030> **WJSN CHOCOME SOOBIN** Hmph!",
+    "idol":"WJSN CHOCOME SOOBIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106848774350962718/Untitled5_Restored_20230513123241.png",
+    "theme": "흥칫뿡 (Hmph!)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "WJLD_HM": [
+  {
+    "name":"<:C_:1104449628876841030> **WJSN CHOCOME LUDA** Hmph!",
+    "idol":"WJSN CHOCOME LUDA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106848774879461418/Untitled5_Restored_20230513123250.png",
+    "theme": "흥칫뿡 (Hmph!)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "WJYR_HM": [
+  {
+    "name":"<:C_:1104449628876841030> **WJSN CHOCOME YEOREUM** Hmph!",
+    "idol":"WJSN CHOCOME YEOREUM",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106848775210799216/Untitled5_Restored_20230513123258.png",
+    "theme": "흥칫뿡 (Hmph!)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "WJDY_HM": [
+  {
+    "name":"<:C_:1104449628876841030> **WJSN CHOCOME DAYOUNG** Hmph!",
+    "idol":"WJSN CHOCOME DAYOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106848775714127914/Untitled5_Restored_20230513123309.png",
+    "theme": "흥칫뿡 (Hmph!)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "N1TY_ST": [
+  {
+    "name":"<:C_:1104449628876841030> **NCT 127 TAEYONG** Sticker",
+    "idol":"NCT 127 TAEYONG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106791033292992602/image.png",
+    "theme": "Sticker",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "N1JN_ST": [
+  {
+    "name":"<:C_:1104449628876841030> **NCT 127 JOHNNY** Sticker",
+    "idol":"NCT 127 JOHNNY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106791033846636564/image.png",
+    "theme": "Sticker",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "N1TA_ST": [
+  {
+    "name":"<:C_:1104449628876841030> **NCT 127 TAEIL** Sticker",
+    "idol":"NCT 127 TAEIL",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106791034245099551/image.png",
+    "theme": "Sticker",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "N1JH_ST": [
+  {
+    "name":"<:C_:1104449628876841030> **NCT 127 JAEHYUN** Sticker",
+    "idol":"NCT 127 JAEHYUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106791034895212544/image.png",
+    "theme": "Sticker",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "N1JW_ST": [
+  {
+    "name":"<:C_:1104449628876841030> **NCT 127 JUNGWOO** Sticker",
+    "idol":"NCT 127 JUNGWOO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106791035184623696/image.png",
+    "theme": "Sticker",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "N1DY_ST": [
+  {
+    "name":"<:C_:1104449628876841030> **NCT 127 DOYOUNG** Sticker",
+    "idol":"NCT 127 DOYOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106791035503382639/image.png",
+    "theme": "Sticker",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "N1YT_ST": [
+  {
+    "name":"<:C_:1104449628876841030> **NCT 127 YUTA** Sticker",
+    "idol":"NCT 127 YUTA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106791036031868938/image.png",
+    "theme": "Sticker",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "N1MR_ST": [
+  {
+    "name":"<:C_:1104449628876841030> **NCT 127 MARK** Sticker",
+    "idol":"NCT 127 MARK",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106791036400971776/image.png",
+    "theme": "Sticker",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "N1HC_ST": [
+  {
+    "name":"<:C_:1104449628876841030> **NCT 127 HAECHAN** Sticker",
+    "idol":"NCT 127 HAECHAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106791036807811172/image.png",
+    "theme": "Sticker",
+    "min": "0",
+    "max": "100"
+  }
   ]
 }
