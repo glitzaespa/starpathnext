@@ -3459,7 +3459,7 @@
     "max": "1000"
   }
   ],
-  "ITYJ_SN": [
+  "ITYJ_SW": [
   {
     "name":"<:R_:1104449630659428372> **ITZY YEJI** Snowy",
     "idol":"ITZY YEJI",
@@ -3469,7 +3469,7 @@
     "max": "500"
   }
   ],
-  "ITLI_SN": [
+  "ITLI_SW": [
   {
     "name":"<:R_:1104449630659428372> **ITZY LIA** Snowy",
     "idol":"ITZY LIA",
@@ -3479,7 +3479,7 @@
     "max": "500"
   }
   ],
-  "ITRJ_SN": [
+  "ITRJ_SW": [
   {
     "name":"<:R_:1104449630659428372> **ITZY RYUJIN** Snowy",
     "idol":"ITZY RYUJIN",
@@ -3489,7 +3489,7 @@
     "max": "500"
   }
   ],
-  "ITCR_SN": [
+  "ITCR_SW": [
   {
     "name":"<:R_:1104449630659428372> **ITZY CHAERYEONG** Snowy",
     "idol":"ITZY CHAERYEONG",
@@ -3499,7 +3499,7 @@
     "max": "500"
   }
   ],
-  "ITYN_SN": [
+  "ITYN_SW": [
   {
     "name":"<:R_:1104449630659428372> **ITZY YUNA** Snowy",
     "idol":"ITZY YUNA",
