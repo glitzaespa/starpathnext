@@ -3228,5 +3228,285 @@
     "min": "100",
     "max": "500"
   }
+  ],
+  "RVIR_FM": [
+  {
+    "name":"<:R_:1104449630659428372> **Red Velvet IRENE** Feel My Rhythm",
+    "idol":"Red Velvet IRENE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121072268693487676/RVFM_IR.png",
+    "theme": "Feel My Rhythm",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "RVSG_FM": [
+  {
+    "name":"<:R_:1104449630659428372> **Red Velvet SEULGI** Feel My Rhythm",
+    "idol":"Red Velvet SEULGI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121072269461049487/RVFM_SG.png",
+    "theme": "Feel My Rhythm",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "RVWD_FM": [
+  {
+    "name":"<:R_:1104449630659428372> **Red Velvet WENDY** Feel My Rhythm",
+    "idol":"Red Velvet WENDY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121072269872078868/RVFM_WD.png",
+    "theme": "Feel My Rhythm",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "RVJO_FM": [
+  {
+    "name":"<:R_:1104449630659428372> **Red Velvet JOY** Feel My Rhythm",
+    "idol":"Red Velvet JOY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121072269058383995/RVFM_JO.png",
+    "theme": "Feel My Rhythm",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "RVYR_FM": [
+  {
+    "name":"<:R_:1104449630659428372> **Red Velvet YERI** Feel My Rhythm",
+    "idol":"Red Velvet YERI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121072270274744402/RVFM_YR.png",
+    "theme": "Feel My Rhythm",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "GGSH_TW": [
+  {
+    "name":"<:C_:1104449628876841030> **Girls' Generation-TTS SEOHYUN** Twinkle",
+    "idol":"Girls' Generation-TTS SEOHYUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121072406316994700/GGTW_SH.png",
+    "theme": "Twinkle",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "GGTY_TW": [
+  {
+    "name":"<:C_:1104449628876841030> **Girls' Generation-TTS TAEYEON** Twinkle",
+    "idol":"Girls' Generation-TTS TAEYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121072407336202350/GGTW_TY.png",
+    "theme": "Twinkle",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "GGTF_TW": [
+  {
+    "name":"<:C_:1104449628876841030> **Girls' Generation-TTS TIFANNY** Twinkle",
+    "idol":"Girls' Generation-TTS TIFANNY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121072406719627354/GGTW_TF.png",
+    "theme": "Twinkle",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOKD_WU": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo KANGDANIEL** Who U Are",
+    "idol":"Solo KANGDANIEL",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121072439145799750/SOKD_WU.png",
+    "theme": "깨워 (Who U Are)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOKD_LV": [
+  {
+    "name":"<:R_:1104449630659428372> **Solo KANGDANIEL** Levitate",
+    "idol":"Solo KANGDANIEL",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121072438722183188/SOKD_LV.png",
+    "theme": "깨워 (Who U Are)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SONY_IW": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo NAYEON** I wanna make it",
+    "idol":"Solo NAYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121072472519876628/SONY_IW.png",
+    "theme": "POP!",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SONY_PO": [
+  {
+    "name":"<:R_:1104449630659428372> **Solo NAYEON** POP!",
+    "idol":"Solo NAYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121072472989642802/SONY_PO.png",
+    "theme": "POP!",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SOBE_T3": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo Billie Eilish** The 30th",
+    "idol":"Solo Billie Eilish",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121072521777774631/SOBE_T3.png",
+    "theme": "The 30th",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "AKLC_HP": [
+  {
+    "name":"<:C_:1104449628876841030> **AKMU LEE CHAN HYUK** HAPPENING",
+    "idol":"AKMU LEE CHAN HYUK",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121072572197515325/AKHA_LCH.png",
+    "theme": "HAPPENING",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "AKLS_HP": [
+  {
+    "name":"<:C_:1104449628876841030> **AKMU LEE SU HYUN** HAPPENING",
+    "idol":"AKMU LEE SU HYUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121072572625338401/AKHA_LSH.png",
+    "theme": "HAPPENING",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "AKLC_MH": [
+  {
+    "name":"<:R_:1104449630659428372> **AKMU LEE CHAN HYUK** My happening",
+    "idol":"AKMU LEE CHAN HYUK",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121072573065728000/AKMH_LCH.png",
+    "theme": "HAPPENING",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "AKLS_MH": [
+  {
+    "name":"<:R_:1104449630659428372> **AKMU LEE SU HYUN** My happening",
+    "idol":"AKMU LEE SU HYUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121072573531303966/AKMH_LSH.png",
+    "theme": "HAPPENING",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SOKM_IH": [
+  {
+    "name":"<:R_:1104449630659428372> **Solo Kylie Minogue** I hear it",
+    "idol":"Solo Kylie Minogue",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121072702250295376/SOKM_IH.png",
+    "theme": "Padam Padam",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SOKM_PD": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo Kylie Minogue** Padam?",
+    "idol":"Solo Kylie Minogue",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121072702606823444/SOKM_PD.png",
+    "theme": "Padam Padam",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SODL_HF": [
+  {
+    "name":"<:R_:1104449630659428372> **Solo Demi Lovato** HOLY FVCK",
+    "idol":"Solo Demi Lovato",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121072816167600239/SODL_HF.png",
+    "theme": "HOLY FVCK",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SODL_CF": [
+  {
+    "name":"<:R_:1104449630659428372> **Solo Demi Lovato** Cool for the Summer",
+    "idol":"Solo Demi Lovato",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121072771561177138/SODL_CF.png",
+    "theme": "Cool for the Summer (Rock Version)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SODL_IB_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **Solo Demi Lovato** I'll bring you to life",
+    "idol":"Solo Demi Lovato",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1120542421630079116/Demi_Lovato_-_Ill_bring_you_to_life_X.png",
+    "theme": "HOLY FVCK",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "SODL_IB": [
+  {
+    "name":"<:X_:1104449632890798091> **Solo Demi Lovato** I'll bring you to life",
+    "idol":"Solo Demi Lovato",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1120542036639096893/Demi_Lovato_-_Ill_bring_you_to_life_X.png",
+    "theme": "HOLY FVCK",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "ITYJ_SN": [
+  {
+    "name":"<:R_:1104449630659428372> **ITZY YEJI** Snowy",
+    "idol":"ITZY YEJI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1120940429072932934/ITYJ_SN.png",
+    "theme": "Snowy",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "ITLI_SN": [
+  {
+    "name":"<:R_:1104449630659428372> **ITZY LIA** Snowy",
+    "idol":"ITZY LIA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1120940429651738665/ITLI_SN.png",
+    "theme": "Snowy",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "ITRJ_SN": [
+  {
+    "name":"<:R_:1104449630659428372> **ITZY RYUJIN** Snowy",
+    "idol":"ITZY RYUJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1120940430020853871/ITRJ_SN.png",
+    "theme": "Snowy",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "ITCR_SN": [
+  {
+    "name":"<:R_:1104449630659428372> **ITZY CHAERYEONG** Snowy",
+    "idol":"ITZY CHAERYEONG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1120940430515773490/ITCY_SN.png",
+    "theme": "Snowy",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "ITYN_SN": [
+  {
+    "name":"<:R_:1104449630659428372> **ITZY YUNA** Snowy",
+    "idol":"ITZY YUNA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1120940430859714631/ITYN_SN.png",
+    "theme": "Snowy",
+    "min": "100",
+    "max": "500"
+  }
   ]
 }
