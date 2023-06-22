@@ -3508,5 +3508,215 @@
     "min": "100",
     "max": "500"
   }
+  ],
+  "NJMJ_OM": [
+  {
+    "name":"<:R_:1104449630659428372> **NewJeans MINJI** OMG",
+    "idol":"NewJeans MINJI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121032253552738365/everystar2_-_copia_20230621185433.png",
+    "theme": "OMG",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "NJHN_OM": [
+  {
+    "name":"<:R_:1104449630659428372> **NewJeans HANNI** OMG",
+    "idol":"NewJeans HANNI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121032254097981502/everystar2_-_copia_20230621185559.png",
+    "theme": "OMG",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "NJDN_OM": [
+  {
+    "name":"<:R_:1104449630659428372> **NewJeans DANIELLE** OMG",
+    "idol":"NewJeans DANIELLE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121032254819409920/everystar2_-_copia_20230621185721.png",
+    "theme": "OMG",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "NJHR_OM": [
+  {
+    "name":"<:R_:1104449630659428372> **NewJeans HAERIN** OMG",
+    "idol":"NewJeans HAERIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121032255259820113/everystar2_-_copia_20230621185813.png",
+    "theme": "OMG",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+    "NJHY_OM": [
+  {
+    "name":"<:R_:1104449630659428372> **NewJeans HYEIN** OMG",
+    "idol":"NewJeans HYEIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121032255607931000/everystar2_-_copia_20230621190016.png",
+    "theme": "OMG",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+    "NJMJ_SI": [
+  {
+    "name":"<:C_:1104449628876841030> **NewJeans MINJI** Stay in the middle",
+    "idol":"NewJeans MINJI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1120874906360500224/minji.png",
+    "theme": "Ditto",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "NJHN_SI": [
+  {
+    "name":"<:C_:1104449628876841030> **NewJeans HANNI** Stay in the middle",
+    "idol":"NewJeans HANNI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1120874906716995665/hanni.png",
+    "theme": "Ditto",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "NJDN_SI": [
+  {
+    "name":"<:C_:1104449628876841030> **NewJeans DANIELLE** Stay in the middle",
+    "idol":"NewJeans DANIELLE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1120874907077713940/danielle.png",
+    "theme": "Ditto",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "NJHR_SI": [
+  {
+    "name":"<:C_:1104449628876841030> **NewJeans HAERIN** Stay in the middle",
+    "idol":"NewJeans HAERIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1120874907404882010/haerin.png",
+    "theme": "Ditto",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "NJHY_SI": [
+  {
+    "name":"<:C_:1104449628876841030> **NewJeans HYEIN** Stay in the middle",
+    "idol":"NewJeans HYEIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1120874908474409101/hyein.png",
+    "theme": "Ditto",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOJS_FL": [
+  {
+    "name":"<:R_:1104449630659428372> **Solo JISOO** FLOWER",
+    "idol":"Solo JISOO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116273419617583194/Untitled2_20230608195139.png",
+    "theme": "FLOWER",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "TXYJ_WI": [
+  {
+    "name":"<:C_:1104449628876841030> **TOMORROW X TOGETHER YEONJUN** Want it",
+    "idol":"TOMORROW X TOGETHER YEONJUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113605993335627776/TXYJ_WA.png",
+    "theme": "Tinnitus (Wanna be a rock) (돌멩이가 되고 싶어)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "TXBG_WI": [
+  {
+    "name":"<:C_:1104449628876841030> **TOMORROW X TOGETHER BEOMGYU** Want it",
+    "idol":"TOMORROW X TOGETHER BEOMGYU",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113605991087476826/TXBG_WA.png",
+    "theme": "Tinnitus (Wanna be a rock) (돌멩이가 되고 싶어)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "TXHK_WI": [
+  {
+    "name":"<:C_:1104449628876841030> **TOMORROW X TOGETHER HUENINGKAI** Want it",
+    "idol":"TOMORROW X TOGETHER HUENINGKAI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113605991607566387/TXHK_WA.png",
+    "theme": "Tinnitus (Wanna be a rock) (돌멩이가 되고 싶어)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "TXTH_WI": [
+  {
+    "name":"<:C_:1104449628876841030> **TOMORROW X TOGETHER TAEHYUN** Want it",
+    "idol":"TOMORROW X TOGETHER TAEHYUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113605992647757905/TXTH_WA.png",
+    "theme": "Tinnitus (Wanna be a rock) (돌멩이가 되고 싶어)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "TXSB_WI": [
+  {
+    "name":"<:C_:1104449628876841030> **TOMORROW X TOGETHER SOOBIN** Want it",
+    "idol":"TOMORROW X TOGETHER YEONJUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113605992081530930/TXSB_WA.png",
+    "theme": "Tinnitus (Wanna be a rock) (돌멩이가 되고 싶어)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "TXYJ_TN": [
+  {
+    "name":"<:C_:1104449628876841030> **TOMORROW X TOGETHER YEONJUN** Tinnitus",
+    "idol":"TOMORROW X TOGETHER YEONJUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113605918484082728/TXYJ_TI.png",
+    "theme": "Tinnitus (Wanna be a rock) (돌멩이가 되고 싶어)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "TXBG_TN": [
+  {
+    "name":"<:C_:1104449628876841030> **TOMORROW X TOGETHER BEOMGYU** Tinnitus",
+    "idol":"TOMORROW X TOGETHER BEOMGYU",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113605907746656306/TXBG_TI.png",
+    "theme": "Tinnitus (Wanna be a rock) (돌멩이가 되고 싶어)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "TXHK_TN": [
+  {
+    "name":"<:C_:1104449628876841030> **TOMORROW X TOGETHER HUENINGKAI** Tinnitus",
+    "idol":"TOMORROW X TOGETHER HUENINGKAI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113605908161900544/TXHK_TI.png",
+    "theme": "Tinnitus (Wanna be a rock) (돌멩이가 되고 싶어)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "TXTH_TN": [
+  {
+    "name":"<:C_:1104449628876841030> **TOMORROW X TOGETHER TAEHYUN** Tinnitus",
+    "idol":"TOMORROW X TOGETHER TAEHYUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113605911529926736/TXTH_TI.png",
+    "theme": "Tinnitus (Wanna be a rock) (돌멩이가 되고 싶어)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "TXSB_TN": [
+  {
+    "name":"<:C_:1104449628876841030> **TOMORROW X TOGETHER SOOBIN** Tinnitus",
+    "idol":"TOMORROW X TOGETHER YEONJUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113605908778455132/TXSB_TI.png",
+    "theme": "Tinnitus (Wanna be a rock) (돌멩이가 되고 싶어)",
+    "min": "0",
+    "max": "100"
+  }
   ]
 }
