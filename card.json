@@ -4598,5 +4598,55 @@
     "min": "0",
     "max": "100"
   }
+  ],
+  "SOTS_LH": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo Taylor Swift** Lavender Haze",
+    "idol":"Solo Taylor Swift",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121986521482928158/SOTS_LH.png",
+    "theme": "Lavender Haze",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOTS_LA": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo Taylor Swift** Lavender Haze (Acoustic Version)",
+    "idol":"Solo Taylor Swift",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121986686121955399/SOTS_LA.png",
+    "theme": "Lavender Haze (Acoustic Version)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOTS_ELH": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Solo Taylor Swift** The Eras Tour -Lavender Haze-",
+    "idol":"Solo Taylor Swift",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121986772193267923/SOTS_ELH.png",
+    "theme": "Lavender Haze",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOLA_TM": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Solo Leigh-Anne** Truth might hurt",
+    "idol":"Solo Leigh-Anne",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121989162434842634/SOLA_TM.png",
+    "theme": "Don't Say Love",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOKM_MG": [
+  {
+    "name":"<:R_:1104449630659428372> **Solo Kylie Minogue** Magic",
+    "idol":"Solo Kylie Minogue",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121992017531117628/SOKM_MG.png",
+    "theme": "Magic",
+    "min": "200",
+    "max": "750"
+  }
   ]
 }
