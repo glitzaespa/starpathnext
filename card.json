@@ -3718,5 +3718,135 @@
     "min": "0",
     "max": "100"
   }
+  ],
+  "SOCG_NE": [
+  {
+    "name":"<:X_:1104449632890798091> **Solo Conan Gray** Never Ending Song",
+    "idol":"Solo Conan Gray",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121677836693020702/Conan_Gray_-_Never_Ending_Song_X.png",
+    "theme": "Never Ending Song",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "SOCG_NE_P": [
+  {
+    "name":"<a:X_PLUS:1116886580586622976> **Solo Conan Gray** Never Ending Song",
+    "idol":"Solo Conan Gray",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121677885502136351/Conan_Gray_-_Never_Ending_Song_X.png",
+    "theme": "Never Ending Song",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "SODL_SW": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo Demi Lovato** SWINE",
+    "idol":"Solo Demi Lovato",
+    "image": "https://cdn.discordapp.com/attachments/1106345119667470448/1121957336974630942/SODL_SN.png",
+    "theme": "SWINE",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "BPLS_KT": [
+  {
+    "name":"<:R_:1104449630659428372> **BLACKPINK LISA** Kill This Love",
+    "idol":"BLACKPINK LISA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121229053962231828/BPKTL_LS.png",
+    "theme": "Kill This Love",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "BPJN_KT": [
+  {
+    "name":"<:R_:1104449630659428372> **BLACKPINK JENNIE** Kill This Love",
+    "idol":"BLACKPINK JENNIE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121229053194686534/BPJTL_JN.png",
+    "theme": "Kill This Love",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "BPRS_KT": [
+  {
+    "name":"<:R_:1104449630659428372> **BLACKPINK ROSÉ** Kill This Love",
+    "idol":"BLACKPINK ROSÉ",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121229053542805584/BPKTL_RS.png",
+    "theme": "Kill This Love",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "BPJS_KT": [
+  {
+    "name":"<:R_:1104449630659428372> **BLACKPINK LISA** Kill This Love",
+    "idol":"BLACKPINK LISA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121229658415968326/BPKTL_JS.png",
+    "theme": "Kill This Love",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "P1KH_DI": [
+  {
+    "name":"<:R_:1104449630659428372> **P1Harmony Keeho** Do It Like This",
+    "idol":"P1Harmony Keeho",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121072633920888935/P1DI_KH.png",
+    "theme": "Do It Like This",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "P1IN_DI": [
+  {
+    "name":"<:R_:1104449630659428372> **P1Harmony Intak** Do It Like This",
+    "idol":"P1Harmony Intak",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121072632650014802/P1DI_IN.png",
+    "theme": "Do It Like This",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "P1JS_DI": [
+  {
+    "name":"<:R_:1104449630659428372> **P1Harmony Jongseob** Do It Like This",
+    "idol":"P1Harmony Jongseob",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121072633493078187/P1DI_JS.png",
+    "theme": "Do It Like This",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "P1TH_DI": [
+  {
+    "name":"<:R_:1104449630659428372> **P1Harmony Theo** Do It Like This",
+    "idol":"P1Harmony Theo",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121072634864615454/P1DI_TH.png",
+    "theme": "Do It Like This",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "P1SO_DI": [
+  {
+    "name":"<:R_:1104449630659428372> **P1Harmony Soul** Do It Like This",
+    "idol":"P1Harmony Soul",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121072634407424030/P1DI_SO.png",
+    "theme": "Do It Like This",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "P1JI_DI": [
+  {
+    "name":"<:R_:1104449630659428372> **P1Harmony Jiung** Do It Like This",
+    "idol":"P1Harmony Jiung",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121072633040080926/P1DI_JI.png",
+    "theme": "Do It Like This",
+    "min": "100",
+    "max": "500"
+  }
   ]
 }
