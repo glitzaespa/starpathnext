@@ -7,6 +7,11 @@
     "pool_card_XP":"SOTS_PR_P;SOYR_IY_P;SOCG_NE_P;SODL_IB_P;TXYJ_BH_P;TXBG_BH_P;TXSB_BH_P;TXTH_BH_P;TXHK_BH_P;SKBC_SC_P;SKHJ_SC_P;SKLK_SC_P;SKHA_SC_P;SKFL_SC_P;SKSM_SC_P;SKCB_SC_P;SKIN_SC_P;BPJS_IC_P;BPJN_IC_P;BPRS_IC_P;BPLS_IC_P;SOWH_LY_P;IDMN_NX_P;IDMY_NX_P;IDSH_NX_P;IDSY_NX_P;IDYQ_NX_P;SOJH_LB_P"
  }
   ],
+  "special": [
+  {
+    "pool_card_R":"SOTS_ELH;SOLA_TM;SOKM_MG"
+ }
+  ],
 "vinyl": [
   {
     "main":"honeymoon;beamofprism;holyfvck;daynight;beyondzero;onetoall;theboys;myeverything"
