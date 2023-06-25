@@ -4658,5 +4658,125 @@
     "min": "200",
     "max": "750"
   }
+  ],
+  "SOYV_NE": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Solo Yves** New",
+    "idol":"Solo Yves",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122587802442407936/Yves.png",
+    "theme": "new",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+    "SOYJ_KL": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Solo YeoJin** Kiss Later",
+    "idol":"Solo YeoJin",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122588005467697172/YeoJin.png",
+    "theme": "키스는 다음에 (Kiss Later)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+      "SOVV_ED": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Solo ViVi** Everyday I Love You",
+    "idol":"Solo ViVi",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122588456082755724/ViVi.png",
+    "theme": "Everyday I Love You (Feat. 하슬)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+   "SOHS_LM": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Solo HaSeul** Let Me In",
+    "idol":"Solo HaSeul",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122588694784782427/HaSeul.png",
+    "theme": "소년, 소녀 (Let Me In)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+     "SOCR_LC": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Solo Choerry** Love Cherry Motion",
+    "idol":"Solo Choerry",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122588977782853712/Choerry.png",
+    "theme": "Love Cherry Motion",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+    "SOCH_HA": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Solo Chuu** Heart Attack",
+    "idol":"Solo Chuu",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122589192455733299/Chuu.png",
+    "theme": "Heart Attack",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+      "SOGW_OA": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Solo Go Won** One&Only",
+    "idol":"Solo Go Won",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122646219399897088/SOGW_OA.png",
+    "theme": "One&Only",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+        "SOHY_AY": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Solo HyunJin** Around You",
+    "idol":"Solo HyunJin",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122646293362245652/SOHJ_OA.png",
+    "theme": "다녀가요 (Around You)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOHJ_VV": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Solo HeeJin** ViViD",
+    "idol":"Solo HeeJin",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122646457464397844/SOHJ_VV.png",
+    "theme": "ViViD",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+    "SOJS_SI": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Solo JinSoul** Singing in the Rain",
+    "idol":"Solo JinSoul",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122646516759273553/SOJS_SI.png",
+    "theme": "Singing in the Rain",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+      "SOKL_EC": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Solo Kim Lip** Eclipse",
+    "idol":"Solo Kim Lip",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122646565446754444/SOKL_EC.png",
+    "theme": "Eclipse (Prod. by Daniel Obi Klein)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+        "SOOH_EG": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Solo Olivia Hye** Egoist",
+    "idol":"Solo Olivia Hye",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122646616227188858/SOOH_EG.png",
+    "theme": "Egoist (Feat. JinSoul)",
+    "min": "200",
+    "max": "750"
+  }
   ]
 }
