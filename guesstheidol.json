@@ -1,0 +1,162 @@
+{
+"jangwonyoung": [
+  {
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1123390222856622171/1-27062023.png",
+    "a1":"JANGWONYOUNG",
+    "b1":"Jang WonYoung",
+    "c1":"JangWonyoung",
+    "d1":"Wonyoung",
+    "a2":"Wonyoung",
+    "b2":"JangWonyoung",
+    "c2":"WonYoung",
+    "d2":"JANGWONYOUNG",
+    "a3":"WONYOUNG",
+    "b3":"JangWonyoung",
+    "c3":"JANGWONYOUNG",
+    "d3":"Wonyoung",
+    "1_correct":"a",
+    "2_correct":"d",
+    "3_correct":"c"
+  }
+  ],
+  "anyujin": [
+  {
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1123390245430366268/2-27062023.png",
+    "a1":"Yujin",
+    "b1":"ANYUJIN",
+    "c1":"Ahn YuJin",
+    "d1":"Yujin Ahn",
+    "a2":"Yujin An",
+    "b2":"AHN YUJIN",
+    "c2":"YUJIN",
+    "d2":"ANYUJIN",
+    "a3":"YuJin",
+    "b3":"AnYujin",
+    "c3":"YUJIN",
+    "d3":"ANYUJIN",
+    "1_correct":"b",
+    "2_correct":"c",
+    "3_correct":"d"
+  }
+  ],
+    "chaeryeong": [
+  {
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1123390281023225957/3-27062023.png",
+    "a1":"Chaeryeong",
+    "b1":"CHAERYEONG",
+    "c1":"Chae Ryeong",
+    "d1":"CHAE RYEONG",
+    "a2":"CHAE RYEONG",
+    "b2":"Lee Chaer Yeong",
+    "c2":"Chaeryeong",
+    "d2":"CHAERYEONG",
+    "a3":"LEE CHAERYEONG",
+    "b3":"Chae Ryeong",
+    "c3":"CHAERYEONG",
+    "d3":"Chaeryeong",
+    "1_correct":"b",
+    "2_correct":"d",
+    "3_correct":"c"
+  }
+  ],
+      "wonho": [
+  {
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1123390309041197066/4-27062023.png",
+    "a1":"WONHO",
+    "b1":"Wonho",
+    "c1":"Won Ho",
+    "d1":"WON HO",
+    "a2":"WON HO",
+    "b2":"Wonho",
+    "c2":"WONHO",
+    "d2":"Won Ho",
+    "a3":"Won ho",
+    "b3":"WONHO",
+    "c3":"Won Ho",
+    "d3":"WON HO",
+    "1_correct":"a",
+    "2_correct":"c",
+    "3_correct":"b"
+  }
+  ],
+     "hyuna": [
+  {
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1123390337931542649/5-27062023.png",
+    "a1":"HYUNA",
+    "b1":"HyunA",
+    "c1":"Hyuna",
+    "d1":"Hyu Na",
+    "a2":"HYU NA",
+    "b2":"Hyuna",
+    "c2":"HYUNA",
+    "d2":"HyunA",
+    "a3":"HYUNA",
+    "b3":"Hyuna",
+    "c3":"hyunA",
+    "d3":"HyunA",
+    "1_correct":"b",
+    "2_correct":"d",
+    "3_correct":"d"
+  }
+  ],
+       "keeho": [
+  {
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1123390371683127406/6-27062023.png",
+    "a1":"KEEHO",
+    "b1":"KEE HO",
+    "c1":"Kee Ho",
+    "d1":"Keeho",
+    "a2":"Keeho",
+    "b2":"KEE HO",
+    "c2":"KEEHO",
+    "d2":"Kee ho",
+    "a3":"Kee Ho",
+    "b3":"Kee ho",
+    "c3":"KEEHO",
+    "d3":"Keeho",
+    "1_correct":"d",
+    "2_correct":"a",
+    "3_correct":"d"
+  }
+  ],
+         "johnny": [
+  {
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1123390405858308146/7-27062023.png",
+    "a1":"Johnny Suh",
+    "b1":"JOHNNY",
+    "c1":"Johnny",
+    "d1":"JOHNNY SUH",
+    "a2":"Johnny",
+    "b2":"Johnny Suh",
+    "c2":"JOHNNY SUH",
+    "d2":"JOHNNY",
+    "a3":"JOHHNY SUH",
+    "b3":"Johnny",
+    "c3":"JOHNNY",
+    "d3":"Johnny Suh",
+    "1_correct":"b",
+    "2_correct":"d",
+    "3_correct":"c"
+  }
+  ],
+     "gowon": [
+  {
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1123390434845147206/8-27062023.png",
+    "a1":"Go Won",
+    "b1":"GOWON",
+    "c1":"Gowon",
+    "d1":"GO WON",
+    "a2":"GO WON",
+    "b2":"Go Won",
+    "c2":"GOWON",
+    "d2":"Go won",
+    "a3":"Go Won",
+    "b3":"GoWon",
+    "c3":"GO WON",
+    "d3":"GO     WON",
+    "1_correct":"a",
+    "2_correct":"b",
+    "3_correct":"a"
+  }
+  ]
+}
