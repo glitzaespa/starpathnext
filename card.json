@@ -4778,5 +4778,195 @@
     "min": "200",
     "max": "750"
   }
+  ],
+  "CGJW_AS": [
+  {
+    "name":"<:C_:1104449628876841030> **cignature JEE WON** ARISONG",
+    "idol":"cignature JEE WON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123193363777212478/STARPATH_C7_20230627070457.png",
+    "theme": "ARISONG(아리송)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "CGSM_AS": [
+  {
+    "name":"<:C_:1104449628876841030> **cignature SEMI** ARISONG",
+    "idol":"cignature SEMI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123193364276314112/STARPATH_C_20230627070544.png",
+    "theme": "ARISONG(아리송)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "CGCS_AS": [
+  {
+    "name":"<:C_:1104449628876841030> **cignature CHAESOL** ARISONG",
+    "idol":"cignature CHAESOL",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123193364779630602/STARPATH_C2.png",
+    "theme": "ARISONG(아리송)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "CGSN_AS": [
+  {
+    "name":"<:C_:1104449628876841030> **cignature SUNN** ARISONG",
+    "idol":"cignature SUNN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123193365119373395/STARPATH_C5_20230627070323.png",
+    "theme": "ARISONG(아리송)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "CGBL_AS": [
+  {
+    "name":"<:C_:1104449628876841030> **cignature BELLE** ARISONG",
+    "idol":"cignature BELLE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123193365698183189/STARPATH_C4_20230627070248.png",
+    "theme": "ARISONG(아리송)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "CGYA_AS": [
+  {
+    "name":"<:C_:1104449628876841030> **cignature YE AH** ARISONG",
+    "idol":"cignature YE AH",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123193366105034774/STARPATH_C6_20230627070358.png",
+    "theme": "ARISONG(아리송)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "CGSL_AS": [
+  {
+    "name":"<:C_:1104449628876841030> **cignature SELINE** ARISONG",
+    "idol":"cignature SELINE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123193366570598431/STARPATH_C3_20230627070207.png",
+    "theme": "ARISONG(아리송)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "STSM_PO": [
+  {
+    "name":"<:R_:1104449630659428372> **STAYC SUMIN** POPPY",
+    "idol":"STAYC SUMIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122694660918366248/everystar2_-_copia_20230626090104.png",
+    "theme": "POPPY - Japanese Ver.",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "STSI_PO": [
+  {
+    "name":"<:R_:1104449630659428372> **STAYC SIEUN** POPPY",
+    "idol":"STAYC SIEUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122694661446832148/everystar2_-_copia_20230626090210.png",
+    "theme": "POPPY - Japanese Ver.",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "STIS_PO": [
+  {
+    "name":"<:R_:1104449630659428372> **STAYC ISA** POPPY",
+    "idol":"STAYC ISA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122694662017273897/everystar2_-_copia_20230626090302.png",
+    "theme": "POPPY - Japanese Ver.",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "STSE_PO": [
+  {
+    "name":"<:R_:1104449630659428372> **STAYC SEEUN** POPPY",
+    "idol":"STAYC SEEUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122694662466052166/everystar2_-_copia_20230626090401.png",
+    "theme": "POPPY - Japanese Ver.",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "STYN_PO": [
+  {
+    "name":"<:R_:1104449630659428372> **STAYC YOON** POPPY",
+    "idol":"STAYC YOON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122694662956781630/everystar2_-_copia_20230626090505.png",
+    "theme": "POPPY - Japanese Ver.",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "STCJ_PO": [
+  {
+    "name":"<:R_:1104449630659428372> **STAYC J** POPPY",
+    "idol":"STAYC J",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122694663485280347/everystar2_-_copia_20230626090601.png",
+    "theme": "POPPY - Japanese Ver.",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "RPJR_BN": [
+  {
+    "name":"<:C_:1104449628876841030> **Rocket Punch Juri** BOUNCY",
+    "idol":"Rocket Punch Juri",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122818711548592149/STARPATH_C8_20230625230935.png",
+    "theme": "BOUNCY",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "RPYH_BN": [
+  {
+    "name":"<:C_:1104449628876841030> **Rocket Punch Yeon Hee** BOUNCY",
+    "idol":"Rocket Punch Yeon Hee",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122818711997394964/STARPATH_C8_20230625224229.png",
+    "theme": "BOUNCY",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "RPSY_BN": [
+  {
+    "name":"<:C_:1104449628876841030> **Rocket Punch Su Yun** BOUNCY",
+    "idol":"Rocket Punch Su Yun",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122818712362295379/STARPATH_C8_20230626061719.png",
+    "theme": "BOUNCY",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "RPYK_BN": [
+  {
+    "name":"<:C_:1104449628876841030> **Rocket Punch Yun Kyoung** BOUNCY",
+    "idol":"Rocket Punch Yun Kyoung",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122818712702038087/STARPATH_C8_20230626061549.png",
+    "theme": "BOUNCY",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "RPSH_BN": [
+  {
+    "name":"<:C_:1104449628876841030> **Rocket Punch So Hee** BOUNCY",
+    "idol":"Rocket Punch So Hee",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122818713113067550/STARPATH_C8_20230626061119.png",
+    "theme": "BOUNCY",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "RPDH_BN": [
+  {
+    "name":"<:C_:1104449628876841030> **Rocket Punch Da Hyun** BOUNCY",
+    "idol":"Rocket Punch Da Hyun",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122818713511534652/STARPATH_C8_20230626061215.png",
+    "theme": "BOUNCY",
+    "min": "0",
+    "max": "100"
+  }
   ]
 }
