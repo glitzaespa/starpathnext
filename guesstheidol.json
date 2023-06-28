@@ -14,9 +14,9 @@
     "b3":"JangWonyoung",
     "c3":"JANGWONYOUNG",
     "d3":"Wonyoung",
-    "1_correct":"a",
-    "2_correct":"d",
-    "3_correct":"c"
+    "a1_correct":"a",
+    "aa2_correct":"d",
+    "aa3_correct":"c"
   }
   ],
   "anyujin": [
@@ -34,9 +34,9 @@
     "b3":"AnYujin",
     "c3":"YUJIN",
     "d3":"ANYUJIN",
-    "1_correct":"b",
-    "2_correct":"c",
-    "3_correct":"d"
+    "a1_correct":"b",
+    "a2_correct":"c",
+    "a3_correct":"d"
   }
   ],
     "chaeryeong": [
@@ -54,9 +54,9 @@
     "b3":"Chae Ryeong",
     "c3":"CHAERYEONG",
     "d3":"Chaeryeong",
-    "1_correct":"b",
-    "2_correct":"d",
-    "3_correct":"c"
+    "a1_correct":"b",
+    "a2_correct":"d",
+    "a3_correct":"c"
   }
   ],
       "wonho": [
@@ -74,9 +74,9 @@
     "b3":"WONHO",
     "c3":"Won Ho",
     "d3":"WON HO",
-    "1_correct":"a",
-    "2_correct":"c",
-    "3_correct":"b"
+    "a1_correct":"a",
+    "a2_correct":"c",
+    "a3_correct":"b"
   }
   ],
      "hyuna": [
@@ -94,9 +94,9 @@
     "b3":"Hyuna",
     "c3":"hyunA",
     "d3":"HyunA",
-    "1_correct":"b",
-    "2_correct":"d",
-    "3_correct":"d"
+    "a1_correct":"b",
+    "a2_correct":"d",
+    "a3_correct":"d"
   }
   ],
        "keeho": [
@@ -114,9 +114,9 @@
     "b3":"Kee ho",
     "c3":"KEEHO",
     "d3":"Keeho",
-    "1_correct":"d",
-    "2_correct":"a",
-    "3_correct":"d"
+    "a1_correct":"d",
+    "a2_correct":"a",
+    "a3_correct":"d"
   }
   ],
          "johnny": [
@@ -134,9 +134,9 @@
     "b3":"Johnny",
     "c3":"JOHNNY",
     "d3":"Johnny Suh",
-    "1_correct":"b",
-    "2_correct":"d",
-    "3_correct":"c"
+    "a1_correct":"b",
+    "a2_correct":"d",
+    "a3_correct":"c"
   }
   ],
      "gowon": [
@@ -154,9 +154,9 @@
     "b3":"GoWon",
     "c3":"GO WON",
     "d3":"GO     WON",
-    "1_correct":"a",
-    "2_correct":"b",
-    "3_correct":"a"
+    "a1_correct":"a",
+    "a2_correct":"b",
+    "a3_correct":"a"
   }
   ]
 }
