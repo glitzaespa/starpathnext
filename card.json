@@ -4968,5 +4968,105 @@
     "min": "0",
     "max": "100"
   }
+  ],
+  "XKHT_TH": [
+  {
+    "name":"<:C_:1104449628876841030> **xikers HUNTER** TRICKY HOUSE",
+    "idol":"xikers HUNTER",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123496886972715049/HUNTER_C.png",
+    "theme": "도깨비집 (TRICKY HOUSE)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "XKHW_TH": [
+  {
+    "name":"<:C_:1104449628876841030> **xikers HYUNWOO** TRICKY HOUSE",
+    "idol":"xikers HYUNWOO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123496887425712199/HUNWOO_C.png",
+    "theme": "도깨비집 (TRICKY HOUSE)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "XKJS_TH": [
+  {
+    "name":"<:C_:1104449628876841030> **xikers JINSIK** TRICKY HOUSE",
+    "idol":"xikers JINSIK",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123496887887081472/JINSIK_C.png",
+    "theme": "도깨비집 (TRICKY HOUSE)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "XKJH_TH": [
+  {
+    "name":"<:C_:1104449628876841030> **xikers JUNGHOON** TRICKY HOUSE",
+    "idol":"xikers JUNGHOON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123496888260366447/JUNGHOON_C.png",
+    "theme": "도깨비집 (TRICKY HOUSE)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "XKJM_TH": [
+  {
+    "name":"<:C_:1104449628876841030> **xikers JUNMIN** TRICKY HOUSE",
+    "idol":"xikers JUNMIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123496888633671750/JUNMIN_C.png",
+    "theme": "도깨비집 (TRICKY HOUSE)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "XKMJ_TH": [
+  {
+    "name":"<:C_:1104449628876841030> **xikers MINJAE** TRICKY HOUSE",
+    "idol":"xikers MINJAE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123496889023737918/MINJAE_C.png",
+    "theme": "도깨비집 (TRICKY HOUSE)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "XKSU_TH": [
+  {
+    "name":"<:C_:1104449628876841030> **xikers SEEUN** TRICKY HOUSE",
+    "idol":"xikers SEEUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123496889409605682/SEEUN_C.png",
+    "theme": "도깨비집 (TRICKY HOUSE)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "XKSM_TH": [
+  {
+    "name":"<:C_:1104449628876841030> **xikers SUMIN** TRICKY HOUSE",
+    "idol":"xikers SUMIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123496889732579348/SUMIN_C.png",
+    "theme": "도깨비집 (TRICKY HOUSE)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "XKYC_TH": [
+  {
+    "name":"<:C_:1104449628876841030> **xikers YECHAN** TRICKY HOUSE",
+    "idol":"xikers YECHAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123496890089091112/YECHAN_C.png",
+    "theme": "도깨비집 (TRICKY HOUSE)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "XKYJ_TH": [
+  {
+    "name":"<:C_:1104449628876841030> **xikers YUJUN** TRICKY HOUSE",
+    "idol":"xikers YUJUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123496890441404426/YUJUN_C.png",
+    "theme": "도깨비집 (TRICKY HOUSE)",
+    "min": "0",
+    "max": "100"
+  }
   ]
 }
