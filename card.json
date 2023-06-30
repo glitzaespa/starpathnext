@@ -5068,5 +5068,135 @@
     "min": "0",
     "max": "100"
   }
+  ],
+    "LSHE_FF": [
+  {
+    "name":"<:C_:1104449628876841030> **LE SSERAFIM HONG EUNCHAE** Flash Forward",
+    "idol":"LE SSERAFIM HONG EUNCHAE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1120571391914279012/STARPATH_20230620162928.png",
+    "theme": "Flash Forward",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "LSHY_FF": [
+  {
+    "name":"<:C_:1104449628876841030> **LE SSERAFIM HUH YUNJIN** Flash Forward",
+    "idol":"LE SSERAFIM HUH YUNJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1120571390903463986/STARPATH_20230620162956.png",
+    "theme": "Flash Forward",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "LSKC_FF": [
+  {
+    "name":"<:C_:1104449628876841030> **LE SSERAFIM KIM CHAEWON** Flash Forward",
+    "idol":"LE SSERAFIM KIM CHAEWON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1120571390043635722/STARPATH_20230620163012.png",
+    "theme": "Flash Forward",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "LSKZ_FF": [
+  {
+    "name":"<:C_:1104449628876841030> **LE SSERAFIM KAZUHA** Flash Forward",
+    "idol":"LE SSERAFIM KAZUHA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1120571391587139584/STARPATH_20230620162941.png",
+    "theme": "Flash Forward",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "LSSK_FF": [
+  {
+    "name":"<:C_:1104449628876841030> **LE SSERAFIM SAKURA** Flash Forward",
+    "idol":"LE SSERAFIM SAKURA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1120571390395940984/STARPATH_20230620163004.png",
+    "theme": "Flash Forward",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "ATHJ_WD": [
+  {
+    "name":"<:R_:1104449630659428372> **ATEEZ HONG JOONG** We don't want no trouble",
+    "idol":"ATEEZ HONG JOONG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123144164419325972/HONG_JOONG_-_We_dont_want_no_trouble.png",
+    "theme": "Say My Name",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "ATJH_WD": [
+  {
+    "name":"<:R_:1104449630659428372> **ATEEZ JONG HO** We don't want no trouble",
+    "idol":"ATEEZ JONG HO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123144164998127697/JONG_HO_-_We_dont_want_no_trouble.png",
+    "theme": "Say My Name",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "ATMG_WD": [
+  {
+    "name":"<:R_:1104449630659428372> **ATEEZ MIN GI** We don't want no trouble",
+    "idol":"ATEEZ MIN GI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123144165551767562/MIN_GI_-_We_dont_want_no_trouble.png",
+    "theme": "Say My Name",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "ATSA_WD": [
+  {
+    "name":"<:R_:1104449630659428372> **ATEEZ SAN** We don't want no trouble",
+    "idol":"ATEEZ SAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123144166084464710/SAN_-_We_dont_want_no_trouble.png",
+    "theme": "Say My Name",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "ATSH_WD": [
+  {
+    "name":"<:R_:1104449630659428372> **ATEEZ SEONG HWA** We don't want no trouble",
+    "idol":"ATEEZ SEONG HWA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123144166436773888/SEONG_HWA_-_We_dont_want_no_trouble.png",
+    "theme": "Say My Name",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "ATWY_WD": [
+  {
+    "name":"<:R_:1104449630659428372> **ATEEZ WOO YOUNG** We don't want no trouble",
+    "idol":"ATEEZ WOO YOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123144166893965373/WOO_YOUNG_-_We_dont_want_no_trouble.png",
+    "theme": "Say My Name",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "ATYS_WD": [
+  {
+    "name":"<:R_:1104449630659428372> **ATEEZ YEO SANG** We don't want no trouble",
+    "idol":"ATEEZ YEO SANG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123144167330152478/YEO_SANG_-_We_dont_want_no_trouble.png",
+    "theme": "Say My Name",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "ATYH_WD": [
+  {
+    "name":"<:R_:1104449630659428372> **ATEEZ YUN HO** We don't want no trouble",
+    "idol":"ATEEZ YUN HO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123144167778963467/YUN_HO_-_We_dont_want_no_trouble.png",
+    "theme": "Say My Name",
+    "min": "100",
+    "max": "500"
+  }
   ]
 }
