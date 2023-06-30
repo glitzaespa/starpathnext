@@ -35,7 +35,7 @@
     "c3":"YUJIN",
     "d3":"ANYUJIN",
     "a1_correct":"b",
-    "a2_correct":"c",
+    "a2_correct":"d",
     "a3_correct":"d"
   }
   ],
@@ -145,18 +145,98 @@
     "a1":"Go Won",
     "b1":"GOWON",
     "c1":"Gowon",
-    "d1":"GO WON",
-    "a2":"GO WON",
+    "d1":"GO        WON",
+    "a2":"GO        WON",
     "b2":"Go Won",
     "c2":"GOWON",
     "d2":"Go won",
     "a3":"Go Won",
     "b3":"GoWon",
     "c3":"GO WON",
-    "d3":"GO     WON",
+    "d3":"GO        WON",
     "a1_correct":"a",
     "a2_correct":"b",
     "a3_correct":"a"
+  }
+  ],
+       "baekho": [
+  {
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1124154834153652295/4-29062023.png",
+    "a1":"Baekho",
+    "b1":"BAEKHO",
+    "c1":"BAEK HO",
+    "d1":"Baek Ho",
+    "a2":"Baek ho",
+    "b2":"BAEK HO",
+    "c2":"Baekho",
+    "d2":"BAEKHO",
+    "a3":"BAEKHO",
+    "b3":"Baekho",
+    "c3":"Baek Ho",
+    "d3":"BAEK HO",
+    "a1_correct":"b",
+    "a2_correct":"d",
+    "a3_correct":"a"
+  }
+  ],
+         "seungmin": [
+  {
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1124154834501763213/3-29062023.png",
+    "a1":"Sungmin",
+    "b1":"Seungmin",
+    "c1":"SEUNG MIN",
+    "d1":"SEUNGMIN",
+    "a2":"SEUNG MIN",
+    "b2":"Sung Min",
+    "c2":"Sungmin",
+    "d2":"SUNGMIN",
+    "a3":"Sungmin",
+    "b3":"SEUNGMIN",
+    "c3":"SUNGMIN",
+    "d3":"Sung Min",
+    "a1_correct":"d",
+    "a2_correct":"d",
+    "a3_correct":"c"
+  }
+  ],
+     "san": [
+  {
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1124154834816356402/2-29062023.png",
+    "a1":"SAN",
+    "b1":"San",
+    "c1":"Choi San",
+    "d1":"CHOISAN",
+    "a2":"CHOI SAN",
+    "b2":"CHOISAN",
+    "c2":"SAN",
+    "d2":"San",
+    "a3":"San",
+    "b3":"CHOISAN",
+    "c3":"Choi San",
+    "d3":"SAN",
+    "a1_correct":"a",
+    "a2_correct":"c",
+    "a3_correct":"d"
+  }
+  ],
+       "leeminhyukhuta": [
+  {
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1124154835223199765/1-29062023.png",
+    "a1":"HUTA",
+    "b1":"Minhyuk",
+    "c1":"Huta",
+    "d1":"LEE MINHYUK (HUTA)",
+    "a2":"HUTA (LEE MINHYUK)",
+    "b2":"Lee MinHyuk",
+    "c2":"Huta",
+    "d2":"LEE MINHYUK (HUTA)",
+    "a3":"HUTA",
+    "b3":"LEE MINHYUK (HUTA)",
+    "c3":"LEE MINHYUK",
+    "d3":"MINHYUK (of BTOB)",
+    "a1_correct":"d",
+    "a2_correct":"d",
+    "a3_correct":"b"
   }
   ]
 }
