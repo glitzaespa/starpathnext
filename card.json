@@ -5198,5 +5198,485 @@
     "min": "100",
     "max": "500"
   }
+  ],
+    "IVAYJ_IB": [
+  {
+    "name":"<:C_:1104449628876841030> **IVE ANYUJIN** I'll be far away",
+    "idol":"IVE ANYUJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1124279629415456838/ibfa_anyujin.png",
+    "theme": "I AM",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "IVLS_IB": [
+  {
+    "name":"<:C_:1104449628876841030> **IVE LEESEO** I'll be far away",
+    "idol":"IVE LEESEO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1124279632259203142/ibfa_leeseo.png",
+    "theme": "I AM",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+      "IVJWY_IB": [
+  {
+    "name":"<:C_:1104449628876841030> **IVE JANGWONYOUNG** I'll be far away",
+    "idol":"IVE JANGWONYOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1124279628689838222/ibfa_jangwonyoung.png",
+    "theme": "I AM",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+        "IVRE_IB": [
+  {
+    "name":"<:C_:1104449628876841030> **IVE REI** I'll be far away",
+    "idol":"IVE REI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1124279630816350268/ibfa_rei.png",
+    "theme": "I AM",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+        "IVGA_IB": [
+  {
+    "name":"<:C_:1104449628876841030> **IVE GAEUL** I'll be far away",
+    "idol":"IVE GAEUL",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1124279630183022642/ibfa_gaeul.png",
+    "theme": "I AM",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+        "IVLI_IB": [
+  {
+    "name":"<:C_:1104449628876841030> **IVE LIZ** I'll be far away",
+    "idol":"IVE LIZ",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1124279631495831583/ibfa_liz.png",
+    "theme": "I AM",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+      "ATHJ_BC": [
+  {
+    "name":"<:C_:1104449628876841030> **ATEEZ HONG JOONG** BOUNCY (K-HOT CHILLI PEPPERS)",
+    "idol":"ATEEZ HONG JOONG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122676215141105664/HONG_JOONG_-_BOUNCY.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+ "ATJH_BC": [
+  {
+    "name":"<:C_:1104449628876841030> **ATEEZ JONG HO** BOUNCY (K-HOT CHILLI PEPPERS)",
+    "idol":"ATEEZ JONG HO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122676215476662333/JONG_HO_-_BOUNCY.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+   "ATMG_BC": [
+  {
+    "name":"<:C_:1104449628876841030> **ATEEZ MIN GI** BOUNCY (K-HOT CHILLI PEPPERS)",
+    "idol":"ATEEZ MIN GI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122676215808008264/MIN_GI_-_BOUNCY.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+     "ATSA_BC": [
+  {
+    "name":"<:C_:1104449628876841030> **ATEEZ SAN** BOUNCY (K-HOT CHILLI PEPPERS)",
+    "idol":"ATEEZ SAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122676216231624794/SAN_-_BOUNCY.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+     "ATSH_BC": [
+  {
+    "name":"<:C_:1104449628876841030> **ATEEZ SEONG HWA** BOUNCY (K-HOT CHILLI PEPPERS)",
+    "idol":"ATEEZ SEONG HWA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122676216613318676/SEONG_HWA_-_BOUNCY.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+     "ATWY_BC": [
+  {
+    "name":"<:C_:1104449628876841030> **ATEEZ WOO YOUNG** BOUNCY (K-HOT CHILLI PEPPERS)",
+    "idol":"ATEEZ WOO YOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122676216982413322/WOO_YOUNG_-_BOUNCY.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+     "ATYS_BC": [
+  {
+    "name":"<:C_:1104449628876841030> **ATEEZ YEO SANG** BOUNCY (K-HOT CHILLI PEPPERS)",
+    "idol":"ATEEZ YEO SANG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122676217523470396/YEO_SANG_-_BOUNCY.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+     "ATYH_BC": [
+  {
+    "name":"<:C_:1104449628876841030> **ATEEZ YUN HO** BOUNCY (K-HOT CHILLI PEPPERS)",
+    "idol":"ATEEZ YUN HO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122676217930326016/YUN_HO_-_BOUNCY.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+        "ATHJ_MI": [
+  {
+    "name":"<:X_:1104449632890798091> **ATEEZ HONG JOONG** make it bouncy",
+    "idol":"ATEEZ HONG JOONG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123143149498417192/HONG_JOONG_-_make_it_bouncy_X.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+ "ATJH_MI": [
+  {
+    "name":"<:X_:1104449632890798091> **ATEEZ JONG HO** make it bouncy",
+    "idol":"ATEEZ JONG HO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123143149901066311/JONG_HO_-_make_it_bouncy_X.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+   "ATMG_MI": [
+  {
+    "name":"<:X_:1104449632890798091> **ATEEZ MIN GI** make it bouncy",
+    "idol":"ATEEZ MIN GI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123143150450524180/MIN_GI_-_make_it_bouncy_X.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+     "ATSA_MI": [
+  {
+    "name":"<:X_:1104449632890798091> **ATEEZ SAN** make it bouncy",
+    "idol":"ATEEZ SAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123143150953836594/SAN_-_make_it_bouncy_X.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+     "ATSH_MI": [
+  {
+    "name":"<:X_:1104449632890798091> **ATEEZ SEONG HWA** make it bouncy",
+    "idol":"ATEEZ SEONG HWA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123143151385854022/SEONG_HWA_-_make_it_bouncy_X.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+     "ATWY_MI": [
+  {
+    "name":"<:X_:1104449632890798091> **ATEEZ WOO YOUNG** make it bouncy",
+    "idol":"ATEEZ WOO YOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123143151989829642/WOO_YOUNG_-_make_it_bouncy_X.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+     "ATYS_MI": [
+  {
+    "name":"<:X_:1104449632890798091> **ATEEZ YEO SANG** make it bouncy",
+    "idol":"ATEEZ YEO SANG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123143152509927424/YEO_SANG_-_make_it_bouncy_X.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+     "ATYH_MI": [
+  {
+    "name":"<:X_:1104449632890798091> **ATEEZ YUN HO** make it bouncy",
+    "idol":"ATEEZ YUN HO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123143153441054821/YUN_HO_-_make_it_bouncy_X.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+        "ATHJ_MI_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **ATEEZ HONG JOONG** make it bouncy",
+    "idol":"ATEEZ HONG JOONG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123143263260520518/HONG_JOONG_-_make_it_bouncy.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+ "ATJH_MI_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **ATEEZ JONG HO** make it bouncy",
+    "idol":"ATEEZ JONG HO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123143263990333461/JONG_HO_-_make_it_bouncy.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+   "ATMG_MI_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **ATEEZ MIN GI** make it bouncy",
+    "idol":"ATEEZ MIN GI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123143264644640798/MIN_GI_-_make_it_bouncy.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+     "ATSA_MI_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **ATEEZ SAN** make it bouncy",
+    "idol":"ATEEZ SAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123143265676443749/SAN_-_make_it_bouncy.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+     "ATSH_MI_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **ATEEZ SEONG HWA** make it bouncy",
+    "idol":"ATEEZ SEONG HWA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123143266443997264/SEONG_HWA_-_make_it_bouncy.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+     "ATWY_MI_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **ATEEZ WOO YOUNG** make it bouncy",
+    "idol":"ATEEZ WOO YOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123143266896973895/WOO_YOUNG_-_make_it_bouncy.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+     "ATYS_MI_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **ATEEZ YEO SANG** make it bouncy",
+    "idol":"ATEEZ YEO SANG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123143267547099208/YEO_SANG_-_make_it_bouncy.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+     "ATYH_MI_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **ATEEZ YUN HO** make it bouncy",
+    "idol":"ATEEZ YUN HO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123143268113334322/YUN_HO_-_make_it_bouncy.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+    "RVIR_RF": [
+  {
+    "name":"<:X_:1104449632890798091> **Red Velvet IRENE** Red Flavor",
+    "idol":"Red Velvet IRENE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122832622830223450/redflavor_irene_x.png",
+    "theme": "빨간 맛 (Red Flavor)",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "RVSG_RF": [
+  {
+    "name":"<:X_:1104449632890798091> **Red Velvet SEULGI** Red Flavor",
+    "idol":"Red Velvet SEULGI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122832623530688532/redflavor_seulgi_x.png",
+    "theme": "빨간 맛 (Red Flavor)",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "RVWD_RF": [
+  {
+    "name":"<:X_:1104449632890798091> **Red Velvet WENDY** Red Flavor",
+    "idol":"Red Velvet WENDY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122832624466001950/redflavor_wendy_x.png",
+    "theme": "빨간 맛 (Red Flavor)",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "RVJO_RF": [
+  {
+    "name":"<:X_:1104449632890798091> **Red Velvet JOY** Red Flavor",
+    "idol":"Red Velvet JOY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122832625313267843/redflavor_joy_x.png",
+    "theme": "빨간 맛 (Red Flavor)",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "RVYR_RF": [
+  {
+    "name":"<:X_:1104449632890798091> **Red Velvet YERI** Red Flavor",
+    "idol":"Red Velvet YERI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122832626122760322/redflavor_yeri_x.png",
+    "theme": "빨간 맛 (Red Flavor)",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+    "RVIR_RF_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **Red Velvet IRENE** Red Flavor",
+    "idol":"Red Velvet IRENE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122832872273891409/redflavor_irene.png",
+    "theme": "빨간 맛 (Red Flavor)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "RVSG_RF_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **Red Velvet SEULGI** Red Flavor",
+    "idol":"Red Velvet SEULGI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122832873070800966/redflavor_seulgi.png",
+    "theme": "빨간 맛 (Red Flavor)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "RVWD_RF_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **Red Velvet WENDY** Red Flavor",
+    "idol":"Red Velvet WENDY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122832873880297542/redflavor_wendy.png",
+    "theme": "빨간 맛 (Red Flavor)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "RVJO_RF_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **Red Velvet JOY** Red Flavor",
+    "idol":"Red Velvet JOY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122832874543001630/redflavor_joy.png",
+    "theme": "빨간 맛 (Red Flavor)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "RVYR_RF_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **Red Velvet YERI** Red Flavor",
+    "idol":"Red Velvet YERI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122832875297984542/redflavor_yeri.png",
+    "theme": "빨간 맛 (Red Flavor)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "SOSG_AB": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo SEULGI** Anywhere But Home",
+    "idol":"Solo SEULGI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122393007237369957/abh.png",
+    "theme": "Anywhere But Home",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOSG_AB": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo SEULGI** Dead Man Runnin'",
+    "idol":"Solo SEULGI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122393061092233359/dmr.png",
+    "theme": "Dead Man Runnin'",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOHY_SF": [
+  {
+    "name":"<:X_:1104449632890798091> **Solo HyunA** so fly like a butterfly",
+    "idol":"Solo HyunA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106562046176264252/HyunA_-_so_fly_like_a_butterfly_X.png",
+    "theme": "나빌레라 (Nabillera)",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "SOHY_SF_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **Solo HyunA** so fly like a butterfly",
+    "idol":"Solo HyunA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106562065050636288/HyunA_-_so_fly_like_a_butterfly_X.png",
+    "theme": "나빌레라 (Nabillera)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "WJSB_SY": [
+  {
+    "name":"<:R_:1104449630659428372> **WJSN CHOCOME SOOBIN** Super Yuppers!",
+    "idol":"WJSN CHOCOME SOOBIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106630428074463334/Untitled8_20230512221200.png",
+    "theme": "슈퍼 그럼요(Super Yuppers!)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "WJLD_SY": [
+  {
+    "name":"<:R_:1104449630659428372> **WJSN CHOCOME LUDA** Super Yuppers!",
+    "idol":"WJSN CHOCOME LUDA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106630428573577246/Untitled8_20230512221227.png",
+    "theme": "슈퍼 그럼요(Super Yuppers!)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "WJYR_SY": [
+  {
+    "name":"<:R_:1104449630659428372> **WJSN CHOCOME YEOREUM** Super Yuppers!",
+    "idol":"WJSN CHOCOME YEOREUM",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106630428951056434/Untitled8_20230512221248.png",
+    "theme": "슈퍼 그럼요(Super Yuppers!)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "WJDY_SY": [
+  {
+    "name":"<:R_:1104449630659428372> **WJSN CHOCOME DAYOUNG** Super Yuppers!",
+    "idol":"WJSN CHOCOME DAYOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106630429332754532/Untitled8_20230512221307.png",
+    "theme": "슈퍼 그럼요(Super Yuppers!)",
+    "min": "100",
+    "max": "500"
+  }
   ]
 }
