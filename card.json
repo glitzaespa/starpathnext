@@ -5678,5 +5678,85 @@
     "min": "100",
     "max": "500"
   }
+  ],
+  "SOJN_LS": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Solo JENNIE** love story",
+    "idol":"Solo JENNIE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123047332540321854/SOJN_LS.png",
+    "theme": "SOLO",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOJS_YA": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Solo JISOO** You and me",
+    "idol":"Solo JISOO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123047415033897022/SOJS_YM.png",
+    "theme": "FLOWER",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+    "SOLS_LM": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Solo LISA** love me",
+    "idol":"Solo LISA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123047447216795729/SOLS_LM.png",
+    "theme": "LALISA",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+      "SORS_TB": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Solo ROSÉ** thinkin' back on you and I",
+    "idol":"Solo ROSÉ",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123047510097805332/SORS_TB.png",
+    "theme": "On The Ground",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOJN_BSL": [
+  {
+    "name":"<:B_:1122363573629374525> **Solo JENNIE** SOLO",
+    "idol":"Solo JENNIE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123052420663091200/SOJN_BSL.png",
+    "theme": "SOLO",
+    "min": "1500",
+    "max": "2000"
+  }
+  ],
+  "SOLS_BLL": [
+  {
+    "name":"<:B_:1122363573629374525> **Solo LISA** LALISA",
+    "idol":"Solo LISA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123052523956211843/SOLS_LAT.png",
+    "theme": "LALISA",
+    "min": "1500",
+    "max": "2000"
+  }
+  ],
+  "SOJS_BFL": [
+  {
+    "name":"<:B_:1122363573629374525> **Solo JISOO** FLOWER",
+    "idol":"Solo JISOO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123052978933354666/SOJS_BFL.png",
+    "theme": "FLOWER",
+    "min": "1500",
+    "max": "2000"
+  }
+  ],
+  "SORS_BOT": [
+  {
+    "name":"<:B_:1122363573629374525> **Solo ROSÉ** On The Ground",
+    "idol":"Solo ROSÉ",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123052628750897194/SORS_BOT.png",
+    "theme": "On The Ground",
+    "min": "1500",
+    "max": "2000"
+  }
   ]
 }
