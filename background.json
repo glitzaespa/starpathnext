@@ -38,5 +38,13 @@
     "min":"5000",
     "max":"7500"
   }
+  ],
+    "BRIGHTESTSTAR": [
+  {
+    "name":"Limited **Brightest Star**",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125855283697160192/brighteststar_bg.png",
+    "min":"10000",
+    "max":"75000"
+  }
   ]
 }
