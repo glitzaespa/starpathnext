@@ -6,5 +6,13 @@
     "min":"50000",
     "max":"75000"
   }
+  ],
+"SK_BS": [
+  {
+    "name":"Basic **Stray Kids** brightest star",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125855326827184178/SK_BS.png",
+    "min":"100000",
+    "max":"750000"
+  }
   ]
 }
