@@ -6,5 +6,37 @@
     "min":"5000",
     "max":"7500"
   }
+  ],
+  "REDPOWER": [
+  {
+    "name":"Basic **RedPower**",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125816210819395764/redpower_bg.png",
+    "min":"5000",
+    "max":"7500"
+  }
+  ],
+  "THEGOLD": [
+  {
+    "name":"Basic **THEGOLD**",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125816210454495232/thegold_bg.png",
+    "min":"5000",
+    "max":"7500"
+  }
+  ],
+  "ELEGANTGREEN": [
+  {
+    "name":"Basic **ELEGANTGREEN**",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125816210165076098/elegantgreen_bg.png",
+    "min":"5000",
+    "max":"7500"
+  }
+  ],
+  "BLUELIGHT": [
+  {
+    "name":"Basic **BlueLight**",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125816209884065833/bluelight_bg.png",
+    "min":"5000",
+    "max":"7500"
+  }
   ]
 }
