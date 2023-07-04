@@ -5758,5 +5758,15 @@
     "min": "1500",
     "max": "2000"
   }
+  ],
+  "SPSP_SP": [
+  {
+    "name":"<:C_:1104449628876841030> **STARPATH** Placeholder",
+    "idol":"STARPATH",
+    "image": "https://cdn.discordapp.com/attachments/1106345119667470448/1125874455592308879/PLACEHOLDER_SP.png",
+    "theme": "Placeholder",
+    "min": "0",
+    "max": "0"
+  }
   ]
 }
