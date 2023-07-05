@@ -1,15 +1,125 @@
 {
 "SK_SC": [
   {
-    "name":"Basic **Stray Kids** S-Class",
+    "name":"**Stray Kids** S-Class",
+    "type":"Basic",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111604174921820/SK_SC.png",
+    "min":"50000",
+    "max":"75000"
+  }
+  ],
+"AE_SP": [
+  {
+    "name":"**aespa** Spicy",
+    "type":"Basic",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111565801242745/AE_SP.png",
+    "min":"50000",
+    "max":"75000"
+  }
+  ],
+"AT_BC": [
+  {
+    "name":"**ATEEZ** BOUNCY (K-HOT CHILLI PEPPERS)",
+    "type":"Basic",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111566229053561/AT_BC.png",
+    "min":"50000",
+    "max":"75000"
+  }
+  ],
+  "BP_SD": [
+  {
+    "name":"**BLACKPINK** Shut Down",
+    "type":"Basic",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111566652686357/BP_SD.png",
+    "min":"50000",
+    "max":"75000"
+  }
+  ],
+  "BY_RN": [
+  {
+    "name":"**Beyoncé** RENAISSANCE",
+    "type":"Basic",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111567072108565/BY_RN.png",
+    "min":"50000",
+    "max":"75000"
+  }
+  ],
+  "DJ_PF": [
+  {
+    "name":"**DOJAEJUNG** Perfume",
+    "type":"Basic",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111567596404816/DJ_PF.png",
+    "min":"50000",
+    "max":"75000"
+  }
+  ],
+    "DL_HF": [
+  {
+    "name":"**Demi Lovato** HOLY FVCK",
+    "type":"Basic",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111568040992828/DL_HF.png",
+    "min":"50000",
+    "max":"75000"
+  }
+  ],
+    "EN_BM": [
+  {
+    "name":"**ENHYPEN** Bite Me",
+    "type":"Basic",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111568401711294/EN_BM.png",
+    "min":"50000",
+    "max":"75000"
+  }
+  ],
+  "EX_LM": [
+  {
+    "name":"**EXO** Let Me In",
+    "type":"Basic",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111568749830224/EX_HM.png",
+    "min":"50000",
+    "max":"75000"
+  }
+  ],
+    "FF_CD": [
+  {
+    "name":"**FIFTY FIFTY** Cupid",
+    "type":"Basic",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111569127329882/FF_CP.png",
+    "min":"50000",
+    "max":"75000"
+  }
+  ],
+  "GF_MG": [
+  {
+    "name":"**GFRIEND** MAGO",
+    "type":"Basic",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111569513201747/GF_MG.png",
+    "min":"50000",
+    "max":"75000"
+  }
+  ],
+  "GT_SB": [
+  {
+    "name":"**GOT the beat** Step Back",
+    "type":"Basic",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111584616886334/GT_SB.png",
+    "min":"50000",
+    "max":"75000"
+  }
+  ],
+  "HY_GG": [
+  {
+    "name":"**HyunA** GOOD GIRL",
+    "type":"Basic",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111585015336960/HY_GG.png",
     "min":"50000",
     "max":"75000"
   }
   ],
 "SK_BS": [
   {
-    "name":"Basic **Stray Kids** brightest star",
+    "name":"**Stray Kids** brightest star",
+    "type":"Event",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125855326827184178/SK_BS.png",
     "min":"100000",
     "max":"750000"
