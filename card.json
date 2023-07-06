@@ -5768,5 +5768,265 @@
     "min": "0",
     "max": "0"
   }
+  ],
+    "STSM_IA": [
+  {
+    "name":"<:R_:1104449630659428372> **STAYC SUMIN** I'm a good girl",
+    "idol":"STAYC SUMIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125004084018151464/iagg_sumin.png",
+    "theme": "STEREOTYPE",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "STSI_IA": [
+  {
+    "name":"<:R_:1104449630659428372> **STAYC SIEUN** I'm a good girl",
+    "idol":"STAYC SIEUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125004084932513844/iagg_sieun.png",
+    "theme": "STEREOTYPE",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "STIS_IA": [
+  {
+    "name":"<:R_:1104449630659428372> **STAYC ISA** I'm a good girl",
+    "idol":"STAYC ISA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125004085616181289/iagg_isa.png",
+    "theme": "STEREOTYPE",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "STSE_IA": [
+  {
+    "name":"<:R_:1104449630659428372> **STAYC SEEUN** I'm a good girl",
+    "idol":"STAYC SEEUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125004086970953728/iagg_seeun.png",
+    "theme": "STEREOTYPE",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "STYN_IA": [
+  {
+    "name":"<:R_:1104449630659428372> **STAYC YOON** I'm a good girl",
+    "idol":"STAYC YOON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125004087759470712/iagg_yoon.png",
+    "theme": "STEREOTYPE",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "STCJ_IA": [
+  {
+    "name":"<:R_:1104449630659428372> **STAYC J** I'm a good girl",
+    "idol":"STAYC J",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125004088665444404/iagg_j.png",
+    "theme": "STEREOTYPE",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+    "STSM_YS": [
+  {
+    "name":"<:C_:1104449628876841030> **STAYC SUMIN** you should know",
+    "idol":"STAYC SUMIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125003868955234394/ysk_sumin.png",
+    "theme": "STEREOTYPE",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "STSI_YS": [
+  {
+    "name":"<:C_:1104449628876841030> **STAYC SIEUN** you should know",
+    "idol":"STAYC SIEUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125003869680832522/ysk_sieun.png",
+    "theme": "STEREOTYPE",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "STIS_YS": [
+  {
+    "name":"<:C_:1104449628876841030> **STAYC ISA** you should know",
+    "idol":"STAYC ISA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125003870628749322/ysk_isa.png",
+    "theme": "STEREOTYPE",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "STSE_YS": [
+  {
+    "name":"<:C_:1104449628876841030> **STAYC SEEUN** you should know",
+    "idol":"STAYC SEEUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125003871345971290/ysk_seeun.png",
+    "theme": "STEREOTYPE",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "STYN_YS": [
+  {
+    "name":"<:C_:1104449628876841030> **STAYC YOON** you should know",
+    "idol":"STAYC YOON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125003872532963368/ysk_yoon.png",
+    "theme": "STEREOTYPE",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "STCJ_YS": [
+  {
+    "name":"<:C_:1104449628876841030> **STAYC J** you should know",
+    "idol":"STAYC J",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125003873367642112/ysk_j.png",
+    "theme": "STEREOTYPE",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOOR_VP": [
+  {
+    "name":"<:R_:1104449630659428372> **Solo Olivia Rodrigo** vampire",
+    "idol":"Solo Olivia Rodrigo",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1124809410544410827/SOOR_VM.png",
+    "theme": "vampire",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SOOR_LA": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo Olivia Rodrigo** Like a goddamn vampire",
+    "idol":"Solo Olivia Rodrigo",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1124809369503137922/SOOR_LA.png",
+    "theme": "vampire",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "IVAYJ_YA": [
+  {
+    "name":"<:C_:1104449628876841030> **IVE ANYUJIN** You and I",
+    "idol":"IVE ANYUJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121265462349664346/IVYAI_AY.png",
+    "theme": "After LIKE",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "IVLS_YA": [
+  {
+    "name":"<:C_:1104449628876841030> **IVE LEESEO** You and I",
+    "idol":"IVE LEESEO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121265464102883379/IVYAI_LS.png",
+    "theme": "After LIKE",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+      "IVJWY_YA": [
+  {
+    "name":"<:C_:1104449628876841030> **IVE JANGWONYOUNG** You and I",
+    "idol":"IVE JANGWONYOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121265462773297223/IVYAI_JW.png",
+    "theme": "After LIKE",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+        "IVRE_YA": [
+  {
+    "name":"<:C_:1104449628876841030> **IVE REI** You and I",
+    "idol":"IVE REI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121265463666684015/IVYAI_LIZ.png",
+    "theme": "After LIKE",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+        "IVGA_YA": [
+  {
+    "name":"<:C_:1104449628876841030> **IVE GAEUL** You and I",
+    "idol":"IVE GAEUL",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121265461967990864/IVEYAI_GA.png",
+    "theme": "After LIKE",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+        "IVLI_YA": [
+  {
+    "name":"<:C_:1104449628876841030> **IVE LIZ** You and I",
+    "idol":"IVE LIZ",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121265463666684015/IVYAI_LIZ.png",
+    "theme": "After LIKE",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "IVAYJ_AL": [
+  {
+    "name":"<:R_:1104449630659428372> **IVE ANYUJIN** After LIKE",
+    "idol":"IVE ANYUJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116191055520464936/Untitled2_20230608142313.png",
+    "theme": "After LIKE",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+    "IVLS_AL": [
+  {
+    "name":"<:R_:1104449630659428372> **IVE LEESEO** After LIKE",
+    "idol":"IVE LEESEO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116191054488682536/Untitled2_20230608142201.png",
+    "theme": "After LIKE",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+      "IVJWY_AL": [
+  {
+    "name":"<:R_:1104449630659428372> **IVE JANGWONYOUNG** After LIKE",
+    "idol":"IVE JANGWONYOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116191051871436910/Untitled2_20230608141621.png",
+    "theme": "After LIKE",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+        "IVRE_AL": [
+  {
+    "name":"<:R_:1104449630659428372> **IVE REI** After LIKE",
+    "idol":"IVE REI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116191053796605993/Untitled2_20230608142042.png",
+    "theme": "After LIKE",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+        "IVGA_AL": [
+  {
+    "name":"<:R_:1104449630659428372> **IVE GAEUL** After LIKE",
+    "idol":"IVE GAEUL",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116191056803938394/Untitled2_20230608142410.png",
+    "theme": "After LIKE",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+        "IVLI_AL": [
+  {
+    "name":"<:R_:1104449630659428372> **IVE LIZ** After LIKE",
+    "idol":"IVE LIZ",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1116191052957765792/Untitled2_20230608141847.png",
+    "theme": "After LIKE",
+    "min": "100",
+    "max": "500"
+  }
   ]
 }
