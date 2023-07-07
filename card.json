@@ -6028,5 +6028,245 @@
     "min": "100",
     "max": "500"
   }
+  ],
+  "LOCH_IS": [
+  {
+    "name":"<:C_:1104449628876841030> **LOONA Chuu** I'm so bad",
+    "idol":"LOONA Chuu",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1126575746656260146/LOCH_IS.png",
+    "theme": "So What",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "LOCR_IS": [
+  {
+    "name":"<:C_:1104449628876841030> **LOONA Choerry** I'm so bad",
+    "idol":"LOONA Choerry",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1126575747180531792/LOCR_IS.png",
+    "theme": "So What",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "LOGW_IS": [
+  {
+    "name":"<:C_:1104449628876841030> **LOONA Go Won** I'm so bad",
+    "idol":"LOONA Go Won",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1126575747625132032/LOGW_IS.png",
+    "theme": "So What",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "LOHJ_IS": [
+  {
+    "name":"<:C_:1104449628876841030> **LOONA HeeJin** I'm so bad",
+    "idol":"LOONA HeeJin",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1126575748036186364/LOHJ_IS.png",
+    "theme": "So What",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "LOHS_IS": [
+  {
+    "name":"<:C_:1104449628876841030> **LOONA HaSeul** I'm so bad",
+    "idol":"LOONA HaSeul",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1126575748447211632/LOHS_IS.png",
+    "theme": "So What",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "LOHY_IS": [
+  {
+    "name":"<:C_:1104449628876841030> **LOONA HyunJin** I'm so bad",
+    "idol":"LOONA HyunJin",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1126575748933754930/LOHY_IS.png",
+    "theme": "So What",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "LOJS_IS": [
+  {
+    "name":"<:C_:1104449628876841030> **LOONA JinSoul** I'm so bad",
+    "idol":"LOONA JinSoul",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1126575749319626874/LOJS_IS.png",
+    "theme": "So What",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "LOKL_IS": [
+  {
+    "name":"<:C_:1104449628876841030> **LOONA Kim Lip** I'm so bad",
+    "idol":"LOONA Kim Lip",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1126575749692923975/LOKL_IS.png",
+    "theme": "So What",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "LOOH_IS": [
+  {
+    "name":"<:C_:1104449628876841030> **LOONA Olivia Hye** I'm so bad",
+    "idol":"LOONA Olivia Hye",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1126575750158487583/LOOH_IS.png",
+    "theme": "So What",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "LOVV_IS": [
+  {
+    "name":"<:C_:1104449628876841030> **LOONA ViVi** I'm so bad",
+    "idol":"LOONA ViVi",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1126575750607282298/LOVV_IS.png",
+    "theme": "So What",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "LOYJ_IS": [
+  {
+    "name":"<:C_:1104449628876841030> **LOONA YeoJin** I'm so bad",
+    "idol":"LOONA YeoJin",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1126575817502228530/LOYJ_IS.png",
+    "theme": "So What",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "LOYV_IS": [
+  {
+    "name":"<:C_:1104449628876841030> **LOONA Yves** I'm so bad",
+    "idol":"LOONA Yves",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1126575817854566441/LOYV_IS.png",
+    "theme": "So What",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SHON_VW": [
+  {
+    "name":"<:C_:1104449628876841030> **SHINee ONEW** View",
+    "idol":"SHINee ONEW",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125193445267484732/v_onew.png",
+    "theme": "View",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SHJH_VW": [
+  {
+    "name":"<:C_:1104449628876841030> **SHINee JONGHYUN** View",
+    "idol":"SHINee JONGHYUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125193445678534747/v_jonghyun.png",
+    "theme": "View",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SHKE_VW": [
+  {
+    "name":"<:C_:1104449628876841030> **SHINee KEY** View",
+    "idol":"SHINee KEY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125193446093766697/v_key.png",
+    "theme": "View",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SHMH_VW": [
+  {
+    "name":"<:C_:1104449628876841030> **SHINee MINHO** View",
+    "idol":"SHINee MINHO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125193446433501214/v_minho.png",
+    "theme": "View",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SHTM_VW": [
+  {
+    "name":"<:C_:1104449628876841030> **SHINee TAEMIN** View",
+    "idol":"SHINee TAEMIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125193446781636679/v_taemin.png",
+    "theme": "View",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "ENHS_PI": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **ENHYPEN HEESEUNG** ENHYPEN x Puppy Interview",
+    "idol":"ENHYPEN HEESEUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123851851218047026/HEESEUNG.png",
+    "theme": "Bite Me",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ENJK_PI": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **ENHYPEN JAKE** ENHYPEN x Puppy Interview",
+    "idol":"ENHYPEN JAKE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123851851654242355/JAKE.png",
+    "theme": "Bite Me",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ENJY_PI": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **ENHYPEN JAY** ENHYPEN x Puppy Interview",
+    "idol":"ENHYPEN JAY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123851852019138640/JAY.png",
+    "theme": "Bite Me",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ENJW_PI": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **ENHYPEN JUNGWON** ENHYPEN x Puppy Interview",
+    "idol":"ENHYPEN JUNGWON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123851852526669924/JUNGWON.png",
+    "theme": "Bite Me",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ENNK_PI": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **ENHYPEN NI-KI** ENHYPEN x Puppy Interview",
+    "idol":"ENHYPEN NI-KI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123851852941893655/NI-KI.png",
+    "theme": "Bite Me",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ENSH_PI": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **ENHYPEN SUNGHOON** ENHYPEN x Puppy Interview",
+    "idol":"ENHYPEN SUNGHOON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123851853403279420/SUNGHOON.png",
+    "theme": "Bite Me",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ENSN_PI": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **ENHYPEN SUNOO** ENHYPEN x Puppy Interview",
+    "idol":"ENHYPEN SUNOO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123851853839474728/SUNOO.png",
+    "theme": "Bite Me",
+    "min": "200",
+    "max": "750"
+  }
   ]
 }
