@@ -6268,5 +6268,255 @@
     "min": "200",
     "max": "750"
   }
+  ],
+  "SOSY_GT": [
+  {
+    "name":"<:R_:1104449630659428372> **Solo SOYOU** GOTTA GOTTA",
+    "idol":"Solo SOYOU",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1127346172105863300/SOSY_GT.png",
+    "theme": "GOTTA GO",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SOSY_DC": [
+  {
+    "name":"<:R_:1104449630659428372> **Solo SOYOU** Don't care, no matter",
+    "idol":"Solo SOYOU",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1127346068594630826/SOSY_DC.png",
+    "theme": "GOTTA GO",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+    "SOSY_ID": [
+  {
+    "name":"<:R_:1104449630659428372> **Solo SOYOU** I don't minus",
+    "idol":"Solo SOYOU",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1127346227101585529/SOSY_ID.png",
+    "theme": "GOTTA GO",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+      "SOSY_ID": [
+  {
+    "name":"<:R_:1104449630659428372> **Solo SOYOU** My worries are zero",
+    "idol":"Solo SOYOU",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1127346348082086000/SOSY_MW.png",
+    "theme": "GOTTA GO",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SOSY_DY": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo SOYOU** Don't you like it?",
+    "idol":"Solo SOYOU",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1127346126257913936/SOSY_DY.png",
+    "theme": "GOTTA GO",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOSY_JG": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo SOYOU** Just get it get it",
+    "idol":"Solo SOYOU",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1127346290104205363/SOSY_JG.png",
+    "theme": "GOTTA GO",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "SOSY_OO": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo SOYOU** Oops, oh nana",
+    "idol":"Solo SOYOU",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1127346423327895655/SOSY_OO.png",
+    "theme": "GOTTA GO",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+      "SOSY_WI": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo SOYOU** Woo, I like it",
+    "idol":"Solo SOYOU",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1127346527849959526/SOSY_WI.png",
+    "theme": "GOTTA GO",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOTS_IC": [
+  {
+    "name":"<:R_:1104449630659428372> **Solo Taylor Swift** I Can See You",
+    "idol":"Solo Taylor Swift",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1127333043640733748/SOTS_IC.png",
+    "theme": "I Can See You (Taylor's Version) (From The Vault)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+    "SHON_ID": [
+  {
+    "name":"<:C_:1104449628876841030> **SHINee ONEW** I don't wanna hide it",
+    "idol":"SHINee ONEW",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1124813017620680734/SHMH_ID.png",
+    "theme": "Identity",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SHKE_ID": [
+  {
+    "name":"<:C_:1104449628876841030> **SHINee KEY** I don't wanna hide it",
+    "idol":"SHINee KEY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1124813017218031706/SHKE_ID.png",
+    "theme": "Identity",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SHMH_ID": [
+  {
+    "name":"<:C_:1104449628876841030> **SHINee MINHO** I don't wanna hide it",
+    "idol":"SHINee MINHO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1124813017620680734/SHMH_ID.png",
+    "theme": "Identity",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SHTM_ID": [
+  {
+    "name":"<:C_:1104449628876841030> **SHINee TAEMIN** I don't wanna hide it",
+    "idol":"SHINee TAEMIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1124813018648289290/SHTM_ID.png",
+    "theme": "Identity",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "SHON_DC": [
+  {
+    "name":"<:C_:1104449628876841030> **SHINee ONEW** Don't Call Me",
+    "idol":"SHINee ONEW",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125193347254976512/dcm_onew.png",
+    "theme": "Don't Call Me",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SHKE_DC": [
+  {
+    "name":"<:C_:1104449628876841030> **SHINee KEY** Don't Call Me",
+    "idol":"SHINee KEY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125193347632472094/dcm_key.png",
+    "theme": "Don't Call Me",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SHMH_DC": [
+  {
+    "name":"<:C_:1104449628876841030> **SHINee MINHO** Don't Call Me",
+    "idol":"SHINee MINHO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125193348110614688/dcm_minho.png",
+    "theme": "Don't Call Me",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SHTM_DC": [
+  {
+    "name":"<:C_:1104449628876841030> **SHINee TAEMIN** Don't Call Me",
+    "idol":"SHINee TAEMIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125193348534251600/dcm_taemin.png",
+    "theme": "Don't Call Me",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "ATHJ_SI": [
+  {
+    "name":"<:R_:1104449630659428372> **ATEEZ HONG JOONG** Slow it down",
+    "idol":"ATEEZ HONG JOONG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122684281479770213/HONG_JOONG_-_Slow_it_down.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "ATJH_SI": [
+  {
+    "name":"<:R_:1104449630659428372> **ATEEZ JONG HO** Slow it down",
+    "idol":"ATEEZ JONG HO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122684282087932044/JONG_HO_-_Slow_it_down.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "ATMG_SI": [
+  {
+    "name":"<:R_:1104449630659428372> **ATEEZ MIN GI** Slow it down",
+    "idol":"ATEEZ MIN GI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122684282662572144/MIN_GI_-_Slow_it_down.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "ATSA_SI": [
+  {
+    "name":"<:R_:1104449630659428372> **ATEEZ SAN** Slow it down",
+    "idol":"ATEEZ SAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122684284264796219/SAN_-_Slow_it_down.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "ATSH_SI": [
+  {
+    "name":"<:R_:1104449630659428372> **ATEEZ SEONG HWA** Slow it down",
+    "idol":"ATEEZ SEONG HWA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122684284927475853/SEONG_HWA_-_Slow_it_down.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "ATWY_SI": [
+  {
+    "name":"<:R_:1104449630659428372> **ATEEZ WOO YOUNG** Slow it down",
+    "idol":"ATEEZ WOO YOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122684285669879818/WOO_YOUNG_-_Slow_it_down.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "ATYS_SI": [
+  {
+    "name":"<:R_:1104449630659428372> **ATEEZ YEO SANG** Slow it down",
+    "idol":"ATEEZ YEO SANG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122684286512922664/YEO_SANG_-_Slow_it_down.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "ATYH_SI": [
+  {
+    "name":"<:R_:1104449630659428372> **ATEEZ YUN HO** Slow it down",
+    "idol":"ATEEZ YUN HO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122684287163052163/YUN_HO_-_Slow_it_down.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "100",
+    "max": "500"
+  }
   ]
 }
