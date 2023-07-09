@@ -116,6 +116,141 @@
     "max":"75000"
   }
   ],
+    "ID_QC": [
+  {
+    "name":"**(G)I-DLE** Queencard",
+    "type":"Basic",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111585334112317/ID_QC.png",
+    "min":"50000",
+    "max":"75000"
+  }
+  ],
+      "IT_CS": [
+  {
+    "name":"**ITZY** Cheshire",
+    "type":"Basic",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111585673859213/IT_CS.png",
+    "min":"50000",
+    "max":"75000"
+  }
+  ],
+      "IV_IA": [
+  {
+    "name":"**IVE** I AM",
+    "type":"Basic",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111585975832657/IV_IA.png",
+    "min":"50000",
+    "max":"75000"
+  }
+  ],
+        "KM_PP": [
+  {
+    "name":"**Kylie Minogue** Padam Padam",
+    "type":"Basic",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111586290413599/KM_PD.png",
+    "min":"50000",
+    "max":"75000"
+  }
+  ],
+        "KS_GO": [
+  {
+    "name":"**Kesha** Gag Order",
+    "type":"Basic",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111586701463642/KS_GO.png",
+    "min":"50000",
+    "max":"75000"
+  }
+  ],
+        "LA_DS": [
+  {
+    "name":"**Leigh-Anne** Don't Say Love",
+    "type":"Basic",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111586948911194/LA_DS.png",
+    "min":"50000",
+    "max":"75000"
+  }
+  ],
+     "MT_TZ": [
+  {
+    "name":"**Megan Thee Stallion** Traumazine",
+    "type":"Basic",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111587204771920/MT_TZ.png",
+    "min":"50000",
+    "max":"75000"
+  }
+  ],
+       "MX_GB": [
+  {
+    "name":"**MONSTA X** GAMBLER",
+    "type":"Basic",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111587536130118/MX_GB.png",
+    "min":"50000",
+    "max":"75000"
+  }
+  ],
+       "NJ_DT": [
+  {
+    "name":"**NewJeans** Ditto",
+    "type":"Basic",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111603138936912/NJ_DT.png",
+    "min":"50000",
+    "max":"75000"
+  }
+  ],
+       "P1_JM": [
+  {
+    "name":"**P1Harmony** JUMP",
+    "type":"Basic",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111603487055995/P1_JM.png",
+    "min":"50000",
+    "max":"75000"
+  }
+  ],
+       "RV_FM": [
+  {
+    "name":"**Red Velvet** Feel My Rhythm",
+    "type":"Basic",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111603864551555/RV_FM.png",
+    "min":"50000",
+    "max":"75000"
+  }
+  ],
+       "TS_MN": [
+  {
+    "name":"**Taylor Swift** Midnights",
+    "type":"Basic",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111604506267678/TS_MN.png",
+    "min":"50000",
+    "max":"75000"
+  }
+  ],
+       "TX_TM": [
+  {
+    "name":"**TOMORROW X TOGETHER** The Name Chapter: TEMPTATION",
+    "type":"Basic",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111604900544512/TX_TM.png",
+    "min":"50000",
+    "max":"75000"
+  }
+  ],
+       "VV_BB": [
+  {
+    "name":"**VIVIZ** BOP BOP!",
+    "type":"Basic",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111605257052170/VI_BB.png",
+    "min":"50000",
+    "max":"75000"
+  }
+  ],
+       "WH_OM": [
+  {
+    "name":"**WONHO** Open Mind",
+    "type":"Basic",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111605571621044/WH_OM.png",
+    "min":"50000",
+    "max":"75000"
+  }
+  ],
 "SK_BS": [
   {
     "name":"**Stray Kids** brightest star",
