@@ -6518,5 +6518,225 @@
     "min": "100",
     "max": "500"
   }
+  ],
+  "SOLG_TL": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **Solo Lady Gaga** Telephone",
+    "idol":"Solo Lady Gaga",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1107423113001578537/LBTP_LG.png",
+    "theme": "Telephone (feat. Beyoncé)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "SOBY_TL": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **Solo Beyoncé** Telephone",
+    "idol":"Solo Beyoncé",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1107423112598933684/LBTP_BY.png",
+    "theme": "Telephone (feat. Beyoncé)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+"SODL_GB": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Solo Demi Lovato** Get Back",
+    "idol":"Solo Demi Lovato",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1107426782203871352/SODL_GB.png",
+    "theme": "Get Back",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+"SODL_IW": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **Solo Demi Lovato** I wanna get back",
+    "idol":"Solo Demi Lovato",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1107426782593953853/SODL_IW.png",
+    "theme": "Get Back",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+"SOBY_DI": [
+  {
+    "name":"<:X_:1104449632890798091> <:badge_special:1107422313466576937> **Solo Beyoncé** Dangerously In Love",
+    "idol":"Solo Beyoncé",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1107442637482508398/SOBY_DA.png",
+    "theme": "Dangerously In Love",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+"SOBY_DI_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <:badge_special:1107422313466576937> **Solo Beyoncé** Dangerously In Love",
+    "idol":"Solo Beyoncé",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1107442637847416933/SOBY_DA_P.png",
+    "theme": "Dangerously In Love",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+"SOMC_OB": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **Solo Mariah Carey** Obsessed",
+    "idol":"Solo Mariah Carey",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1107463743241211975/Untitled110_20230515082444.png",
+    "theme": "Obsessed",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+"SOBS_WM": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **Solo Britney Spears** Womanizer",
+    "idol":"Solo Britney Spears",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1107464000679182376/Britney_Spears_-_Womanizer_C_2.png",
+    "theme": "Womanizer",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+"SORH_DS": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Solo Rihanna** Don't Stop The Music",
+    "idol":"Solo Rihanna",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1107500863141970081/everystar2_-_copia_20230515105125.png",
+    "theme": "Don't Stop The Music",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+"SOXT_CM": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Solo Christina Aguilera** Candyman",
+    "idol":"Solo Christina Aguilera",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1107553315430092831/Christina_Aguilera_-_Candyman_R.png",
+    "theme": "Candyman",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+"SOGS_TS": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Solo Gwen Stefani** The Sweet Escape",
+    "idol":"Solo Gwen Stefani",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1107568020680867913/Gwen_Stefani_-_The_Sweet_Escape_R.png",
+    "theme": "The Sweet Escape (ft. Akon)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOBS_PI": [
+  {
+    "name":"<:X_:1104449632890798091> <:badge_special:1107422313466576937> **Solo Britney Spears** Piece of Me",
+    "idol":"Solo Britney Spears",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1107598607345000520/Britney_Spears_-_Piece_of_Me_X.png",
+    "theme": "Piece of Me",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+"SOBS_PI_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <:badge_special:1107422313466576937> **Solo Britney Spears** Piece of Me",
+    "idol":"Solo Britney Spears",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1107598607860908042/Britney_Spears_-_Piece_of_Me_X.png",
+    "theme": "Piece of Me",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+"SOSH_SW": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **Solo Shakira** She Wolf",
+    "idol":"Solo Shakira",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1107858244153638932/Shakira_-_She_Wolf_C.png",
+    "theme": "She Wolf",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+"SOSG_TM": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **Solo Selena Gomez (& The Scene)** Tell Me Something I Don't Know",
+    "idol":"Solo Selena Gomez (& The Scene)",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1107858523192299642/Selena_Gomez_-_Tell_Me_Something_I_Dont_Know_C.png",
+    "theme": "Tell Me Something I Don't Know",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+ "SOMC_7T": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **Solo Miley Cyrus** 7 Things",
+    "idol":"Solo Miley Cyrus",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1107858670768898098/Miley_Cyrus_-_7_Things_C.png",
+    "theme": "7 Things",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+"SOAV_SB": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **Solo Avril Lavigne** Sk8er Boi",
+    "idol":"Solo Avril Lavigne",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1108143732550815804/Sk8er_Boi.png",
+    "theme": "Sk8er Boi",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "SOAV_GF": [
+  {
+    "name":"<:X_:1104449632890798091> <:badge_special:1107422313466576937> **Solo Avril Lavigne** Girlfriend",
+    "idol":"Solo Avril Lavigne",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1108143732915699822/Girlfriend_X.png",
+    "theme": "Girlfriend",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+"SOAV_GF_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <:badge_special:1107422313466576937> **Solo Avril Lavigne** Girlfriend",
+    "idol":"Solo Avril Lavigne",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1108143733251248199/Girlfriend_X.png",
+    "theme": "Girlfriend",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "SOBY_DV": [
+  {
+    "name":"<:X_:1104449632890798091> <:badge_special:1107422313466576937> **Solo Beyoncé** Dejà Vu",
+    "idol":"Solo Beyoncé",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1110679426125017108/SOBY_DV.png",
+    "theme": "Dejà Vu (feat. Jay-Z)",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+"SOBY_DV_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <:badge_special:1107422313466576937> **Solo Beyoncé** Dejà Vu",
+    "idol":"Solo Beyoncé",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1110679426586398742/SOBY_DV_P.png",
+    "theme": "Dejà Vu (feat. Jay-Z)",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+"SOBS_OO": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Solo Britney Spears** Oops!...I Did It Again",
+    "idol":"Solo Britney Spears",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1111044728172056706/image.png",
+    "theme": "Oops!...I Did It Again",
+    "min": "200",
+    "max": "750"
+  }
   ]
 }
