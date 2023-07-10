@@ -3781,8 +3781,8 @@
   ],
   "BPJS_KT": [
   {
-    "name":"<:R_:1104449630659428372> **BLACKPINK LISA** Kill This Love",
-    "idol":"BLACKPINK LISA",
+    "name":"<:R_:1104449630659428372> **BLACKPINK JISOO** Kill This Love",
+    "idol":"BLACKPINK JISOO",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121229658415968326/BPKTL_JS.png",
     "theme": "Kill This Love",
     "min": "100",
@@ -6363,7 +6363,7 @@
   {
     "name":"<:C_:1104449628876841030> **SHINee ONEW** I don't wanna hide it",
     "idol":"SHINee ONEW",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1124813017620680734/SHMH_ID.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1124813018115616818/SHON_ID.png",
     "theme": "Identity",
     "min": "0",
     "max": "100"
