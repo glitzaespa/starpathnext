@@ -7888,5 +7888,85 @@
     "min": "200",
     "max": "750"
   }
+  ],
+  "JBJJ_DI": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Jonas Brothers Joe Jonas** Do It Like That",
+    "idol":"Jonas Brothers Joe Jonas",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125937644480774205/JBJJ_DI.png",
+    "theme": "Do It Like That (TOMORROW X TOGETHER, Jonas Brothers)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+    "JBKJ_DI": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Jonas Brothers Kevin Jonas** Do It Like That",
+    "idol":"Jonas Brothers Kevin Jonas",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125937644896006154/JBKJ_DI.png",
+    "theme": "Do It Like That (TOMORROW X TOGETHER, Jonas Brothers)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+    "JBNJ_DI": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Jonas Brothers Nick Jonas** Do It Like That",
+    "idol":"Jonas Brothers Nick Jonas",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125937645269291129/JBNJ_DI.png",
+    "theme": "Do It Like That (TOMORROW X TOGETHER, Jonas Brothers)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "TXBG_DI": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **TOMORROW X TOGETHER BEOMGYU** Do It Like That",
+    "idol":"TOMORROW X TOGETHER BEOMGYU",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125937886370484224/TXBG_DI.png",
+    "theme": "Do It Like That (TOMORROW X TOGETHER, Jonas Brothers)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "TXHK_DI": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **TOMORROW X TOGETHER HUENINGKAI** Do It Like That",
+    "idol":"TOMORROW X TOGETHER HUENINGKAI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125937886932504716/TXHK_DI.png",
+    "theme": "Do It Like That (TOMORROW X TOGETHER, Jonas Brothers)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "TXSB_DI": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **TOMORROW X TOGETHER SOOBIN** Do It Like That",
+    "idol":"TOMORROW X TOGETHER SOOBIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125937887599403091/TXSB_DI.png",
+    "theme": "Do It Like That (TOMORROW X TOGETHER, Jonas Brothers)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "TXYJ_DI": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **TOMORROW X TOGETHER YEONJUN** Do It Like That",
+    "idol":"TOMORROW X TOGETHER YEONJUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125937888241143878/TXYJ_DI.png",
+    "theme": "Do It Like That (TOMORROW X TOGETHER, Jonas Brothers)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "TXTH_DI": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **TOMORROW X TOGETHER TAEHYUN** Do It Like That",
+    "idol":"TOMORROW X TOGETHER TAEHYUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125937888635392151/TXTH_DI.png",
+    "theme": "Do It Like That (TOMORROW X TOGETHER, Jonas Brothers)",
+    "min": "200",
+    "max": "750"
+  }
   ]
 }
