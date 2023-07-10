@@ -4634,7 +4634,7 @@
     "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Solo Taylor Swift** The Eras Tour -Lavender Haze-",
     "idol":"Solo Taylor Swift",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1121986772193267923/SOTS_ELH.png",
-    "theme": "Lavender Haze (Live)",
+    "theme": "Lavender Haze (Live at Taylor Swift | The Eras Tour)",
     "min": "200",
     "max": "750"
   }
@@ -7825,6 +7825,66 @@
     "idol":"NewJeans MINJI",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123555705627082908/STARPATH_20230628215915.png",
     "theme": "OMG",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+    "SOTS_EKM": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Solo Taylor Swift** The Eras Tour -Karma-",
+    "idol":"Solo Taylor Swift",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1127843796193906698/SOTS_EKM.png",
+    "theme": "Karma (Live at Taylor Swift | The Eras Tour)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+    "SOTS_EVS": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Solo Taylor Swift** The Eras Tour -Vigilante Shit-",
+    "idol":"Solo Taylor Swift",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1127843798479814696/SOTS_EVS.png",
+    "theme": "Vigilante Shit (Live at Taylor Swift | The Eras Tour)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+      "SOTS_EMR": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Solo Taylor Swift** The Eras Tour -Midnight Rain-",
+    "idol":"Solo Taylor Swift",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1127843797947142164/SOTS_EMR.png",
+    "theme": "Midnight Rain (Live at Taylor Swift | The Eras Tour)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+      "SOTS_EKR": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Taylor Swift & Ice Spice** The Eras Tour -Karma Remix-",
+    "idol":"Taylor Swift & Ice Spice",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1127843796697239602/SOTS_EKR.png",
+    "theme": "Karma (feat. Ice Spice) (Live at Taylor Swift | The Eras Tour)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+      "SOTS_EMM": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Solo Taylor Swift** The Eras Tour -Mastermind-",
+    "idol":"Solo Taylor Swift",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1127843797536083979/SOTS_EMM.png",
+    "theme": "Mastermind (Live at Taylor Swift | The Eras Tour)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+      "SOTS_EBJ": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Solo Taylor Swift** The Eras Tour -Bejeweled-",
+    "idol":"Solo Taylor Swift",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1127843795719966860/SOTS_EBJ.png",
+    "theme": "Bejeweled (Live at Taylor Swift | The Eras Tour)",
     "min": "200",
     "max": "750"
   }
