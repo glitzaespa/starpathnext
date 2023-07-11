@@ -7968,5 +7968,55 @@
     "min": "200",
     "max": "750"
   }
+  ],
+  "SOSG_VA": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo Selena Gomez** Ven a Mí",
+    "idol":"Solo Selena Gomez",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125179330591469638/SGVAM_C.png",
+    "theme": "Baila Conmigo (Selena Gomez, Rauw Alejandro)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "SOSG_LY": [
+  {
+    "name":"<:C_:1104449628876841030> **Solo Selena Gomez** Lose You To Love Me",
+    "idol":"Solo Selena Gomez",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125179233329750056/SGLYTLM_C.png",
+    "theme": "Lose You To Love Me",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "LMJT_BU": [
+  {
+    "name":"<:R_:1104449630659428372> **Little Mix Jade Thirlwall** Break Up Song",
+    "idol":"Little Mix Jade Thirlwall",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123357037712134244/LMJT_BU.png",
+    "theme": "Break Up Song",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "LMPE_BU": [
+  {
+    "name":"<:R_:1104449630659428372> **Little Mix Perrie Edwards** Break Up Song",
+    "idol":"Little Mix Perrie Edwards",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123357038450323467/LMPE_BU.png",
+    "theme": "Break Up Song",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "LMLA_BU": [
+  {
+    "name":"<:R_:1104449630659428372> **Little Mix Leigh-Anne Pinnock** Break Up Song",
+    "idol":"Little Mix Leigh-Anne Pinnock",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123357038127358073/LMLA_BU.png",
+    "theme": "Break Up Song",
+    "min": "100",
+    "max": "500"
+  }
   ]
 }
