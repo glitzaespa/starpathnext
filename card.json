@@ -8018,5 +8018,95 @@
     "min": "100",
     "max": "500"
   }
+  ],
+  "OEKL_FN": [
+  {
+    "name":"<:C_:1104449628876841030> **ODD EYE CIRCLE Kim Lip** Face new universe",
+    "idol":"ODD EYE CIRCLE Kim Lip",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1128753285222899762/OEKL_FN.png",
+    "theme": "Air Force One",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "OECR_FN": [
+  {
+    "name":"<:C_:1104449628876841030> **ODD EYE CIRCLE Choerry** Face new universe",
+    "idol":"ODD EYE CIRCLE Choerry",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1128753284379852941/OECR_FN.png",
+    "theme": "Air Force One",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "OEJS_FN": [
+  {
+    "name":"<:C_:1104449628876841030> **ODD EYE CIRCLE JinSoul** Face new universe",
+    "idol":"ODD EYE CIRCLE JinSoul",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1128753284686020658/OEJS_FN.png",
+    "theme": "Air Force One",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "OEKL_GF": [
+  {
+    "name":"<:C_:1104449628876841030> **ODD EYE CIRCLE Kim Lip** Girl Front",
+    "idol":"ODD EYE CIRCLE Kim Lip",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1128753331096010892/OEKL_GF.png",
+    "theme": "Girl Front",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "OECR_GF": [
+  {
+    "name":"<:C_:1104449628876841030> **ODD EYE CIRCLE Choerry** Girl Front",
+    "idol":"ODD EYE CIRCLE Choerry",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1128753330382975098/OECR_GF.png",
+    "theme": "Girl Front",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "OEJS_GF": [
+  {
+    "name":"<:C_:1104449628876841030> **ODD EYE CIRCLE JinSoul** Girl Front",
+    "idol":"ODD EYE CIRCLE JinSoul",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1128753330718511276/OEJS_GF.png",
+    "theme": "Girl Front",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "OEKL_SC": [
+  {
+    "name":"<:C_:1104449628876841030> **ODD EYE CIRCLE Kim Lip** Sweet Crazy Love",
+    "idol":"ODD EYE CIRCLE Kim Lip",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1128753408174727188/OEKL_SC.png",
+    "theme": "Sweet Crazy Love",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "OECR_SC": [
+  {
+    "name":"<:C_:1104449628876841030> **ODD EYE CIRCLE Choerry** Sweet Crazy Love",
+    "idol":"ODD EYE CIRCLE Choerry",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1128753407260360834/OECR_SC.png",
+    "theme": "Sweet Crazy Love",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "OEJS_SC": [
+  {
+    "name":"<:C_:1104449628876841030> **ODD EYE CIRCLE JinSoul** Sweet Crazy Love",
+    "idol":"ODD EYE CIRCLE JinSoul",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1128753407851761765/OEJS_SC.png",
+    "theme": "Sweet Crazy Love",
+    "min": "0",
+    "max": "100"
+  }
   ]
 }
