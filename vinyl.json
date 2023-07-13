@@ -94,5 +94,17 @@
     "type_3":"Picture Disc + Alternate Cover",
     "type_3_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1111351938110472192/AGPC_ME.png"
   }
+  ],
+        "sorrynotsorryrockversion": [
+  {
+    "name":"Sorry Not Sorry (Rock Version)",
+    "artist":"Demi Lovato feat. Slash",
+    "type_1":"Standard Black",
+    "type_1_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1129062762295857153/banner_sorrynotsorry_rockversion_black.png",
+    "type_2":"White and Grey Marble",
+    "type_2_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1129063769272750220/banner_sorrynotsorry_rockversion_color.png",
+    "type_3":"Picture Disc + Alternate Cover",
+    "type_3_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1129062762874679356/banner_sorrynotsorry_rockversion_dosc.png"
+  }
   ]
 }
