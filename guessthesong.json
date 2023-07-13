@@ -1,0 +1,182 @@
+{
+"lavenderhaze": [
+  {
+    "video":"https://cdn.discordapp.com/attachments/1120863114624258100/1129140701767155852/gtsstarpath.mp4",
+    "a1":"Lavender Haze",
+    "b1":"Midnight",
+    "c1":"Anti-Hero",
+    "d1":"Meet Me at Midnight",
+    "a2":"Meet Me at Midnight",
+    "b2":"Blank Space",
+    "c2":"Lavender Haze",
+    "d2":"Midnight",
+    "a3":"You're On Your Own, Kid",
+    "b3":"Karma (feat. Ice Spice)",
+    "c3":"Midnights",
+    "d3":"Lavender Haze",
+    "a1_correct":"a",
+    "a2_correct":"c",
+    "a3_correct":"d"
+  }
+  ],
+  "doitlikethat": [
+  {
+    "video":"https://cdn.discordapp.com/attachments/1120863114624258100/1129141198657953862/13072023_2.mp4",
+    "a1":"Can't Deny It",
+    "b1":"Midnight",
+    "c1":"Blue Hour (5시 53분의 하늘에서 발견한 너와 나)",
+    "d1":"Do It Like That",
+    "a2":"Love Me Like This",
+    "b2":"Do It Like That",
+    "c2":"Blue Hour (5시 53분의 하늘에서 발견한 너와 나)",
+    "d2":"Do It Like This",
+    "a3":"Blue Hour (5시 53분의 하늘에서 발견한 너와 나)",
+    "b3":"Ghosting",
+    "c3":"Tinnitus (Wanna be a rock)",
+    "d3":"Do It Like That",
+    "a1_correct":"d",
+    "a2_correct":"b",
+    "a3_correct":"d"
+  }
+  ],
+  "coolforthesummer": [
+  {
+    "video":"https://cdn.discordapp.com/attachments/1120863114624258100/1129141450811117669/13072023_3.mp4",
+    "a1":"Confident",
+    "b1":"Cool for the Summer",
+    "c1":"Tell Me You Love Me",
+    "d1":"29",
+    "a2":"HOLY FVCK",
+    "b2":"Cool for the Summer",
+    "c2":"EAT ME (ft. Royal & the Serpent)",
+    "d2":"Sorry Not Sorry",
+    "a3":"Cool for the Summer",
+    "b3":"Get Back",
+    "c3":"Body Say",
+    "d3":"Really Don't Care (ft. Cher Lloyd)",
+    "a1_correct":"b",
+    "a2_correct":"b",
+    "a3_correct":"a"
+  }
+  ],
+  "cheshire": [
+  {
+    "video":"https://cdn.discordapp.com/attachments/1120863114624258100/1129141698073739294/13072023_4.mp4",
+    "a1":"달라달라(DALLA DALLA)",
+    "b1":"Not Shy",
+    "c1":"Cheshire",
+    "d1":"LOCO",
+    "a2":"ICY",
+    "b2":"WANNABE",
+    "c2":"Cheshire",
+    "d2":"I DON'T WANNA DANCE",
+    "a3":"24HRS",
+    "b3":"THAT'S A NO NO",
+    "c3":"Cheshire",
+    "d3":"ICY",
+    "a1_correct":"c",
+    "a2_correct":"c",
+    "a3_correct":"c"
+  }
+  ],
+    "americahasaproblem": [
+  {
+    "video":"https://cdn.discordapp.com/attachments/1120863114624258100/1129142136739213322/13072023_5.mp4",
+    "a1":"HEATED",
+    "b1":"BREAK MY SOUL",
+    "c1":"ALL UP YOUR MIND",
+    "d1":"AMERICA HAS A PROBLEM",
+    "a2":"AMERICA HAS A PROBLEM",
+    "b2":"ENERGY (feat. BEAM)",
+    "c2":"CHURCH GIRL",
+    "d2":"THIQUE",
+    "a3":"I'M THAT GIRL",
+    "b3":"ALIEN SUPERSTAR",
+    "c3":"COZY",
+    "d3":"AMERICA HAS A PROBLEM",
+    "a1_correct":"d",
+    "a2_correct":"a",
+    "a3_correct":"d"
+  }
+  ],
+    "afterlike": [
+  {
+    "video":"https://cdn.discordapp.com/attachments/1120863114624258100/1129142562666594384/13072023_6.mp4",
+    "a1":"ELEVEN",
+    "b1":"After LIKE",
+    "c1":"LOVE DIVE",
+    "d1":"I AM",
+    "a2":"Kitsch",
+    "b2":"LOVE DIVE",
+    "c2":"ELEVEN",
+    "d2":"After LIKE",
+    "a3":"My Satisfaction",
+    "b3":"Lips",
+    "c3":"ELEVEN",
+    "d3":"After LIKE",
+    "a1_correct":"b",
+    "a2_correct":"d",
+    "a3_correct":"d"
+  }
+  ],
+    "openmindenglishver": [
+  {
+    "video":"https://cdn.discordapp.com/attachments/1120863114624258100/1129145535505367070/13072023_14.mp4",
+    "a1":"LOSE (English Ver.)",
+    "b1":"Open Mind (English Ver.)",
+    "c1":"Ain't About You (feat. Kiiara)",
+    "d1":"Come Over Tonight",
+    "a2":"Ain't About You (feat. Kiiara)",
+    "b2":"LOSE",
+    "c2":"Open Mind (English Ver.)",
+    "d2":"LOSE (English Ver.)",
+    "a3":"Somebody",
+    "b3":"LOSE (English Ver.)",
+    "c3":"BLUE",
+    "d3":"Open Mind (English Ver.)",
+    "a1_correct":"b",
+    "a2_correct":"c",
+    "a3_correct":"d"
+  }
+  ],
+    "hulahoop": [
+  {
+    "video":"https://cdn.discordapp.com/attachments/1120863114624258100/1129145536172282047/13072023_13.mp4",
+    "a1":"HULA HOOP",
+    "b1":"StarSeed",
+    "c1":"PTT (Paint the Town)",
+    "d1":"#",
+    "a2":"So What",
+    "b2":"Why Not?",
+    "c2":"HULA HOOP",
+    "d2":"Voice",
+    "a3":"Star (Voice English Ver.)",
+    "b3":"Butterfly",
+    "c3":"HULA HOOP",
+    "d3":"Dance On My Own",
+    "a1_correct":"b",
+    "a2_correct":"c",
+    "a3_correct":"d"
+  }
+  ],
+    "good4u": [
+  {
+    "video":"https://cdn.discordapp.com/attachments/1120863114624258100/1129145536868515951/13072023_12.mp4",
+    "a1":"drivers license",
+    "b1":"vampire",
+    "c1":"good 4 u",
+    "d1":"too emotional",
+    "a2":"deja vu",
+    "b2":"good 4 u",
+    "c2":"traitor",
+    "d2":"happier",
+    "a3":"too emotional",
+    "b3":"good 4 u",
+    "c3":"jealousy, jealousy",
+    "d3":"hope ur ok",
+    "a1_correct":"c",
+    "a2_correct":"b",
+    "a3_correct":"b"
+  }
+  ]
+}
