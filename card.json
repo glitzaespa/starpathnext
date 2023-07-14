@@ -8361,12 +8361,12 @@
   ],
     "SOWS_DY": [
   {
-    "name":"<:C_:1104449628876841030> **Solo WOOSUNG** Do you miss it?",
+    "name":"<:R_:1104449630659428372> **Solo WOOSUNG** Do you miss it?",
     "idol":"Solo WOOSUNG",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123497070691614750/Phase_Me_R.png",
     "theme": "Phase Me",
-    "min": "0",
-    "max": "100"
+    "min": "100",
+    "max": "500"
   }
   ],
     "PKCI_ME": [
