@@ -8568,5 +8568,75 @@
     "min": "100",
     "max": "500"
   }
-  ] 
+  ],
+    "P1IN_SC": [
+  {
+    "name":"<:C_:1104449628876841030> **P1Harmony Intak** Scared",
+    "idol":"P1Harmony Intak",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123141523882639472/Intak_-_Scared.png",
+    "theme": "겁나니 (Scared)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "P1JI_SC": [
+  {
+    "name":"<:C_:1104449628876841030> **P1Harmony Jiung** Scared",
+    "idol":"P1Harmony Jiung",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123141524272713728/Jiung_-_Scared.png",
+    "theme": "겁나니 (Scared)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "P1SO_SC": [
+  {
+    "name":"<:C_:1104449628876841030> **P1Harmony Soul** Scared",
+    "idol":"P1Harmony Soul",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123141525853966449/Soul_-_Scared.png",
+    "theme": "겁나니 (Scared)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "P1JS_SC": [
+  {
+    "name":"<:C_:1104449628876841030> **P1Harmony Jongseob** Scared",
+    "idol":"P1Harmony Jongseob",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123141524893466674/Jongseob_-_Scared.png",
+    "theme": "겁나니 (Scared)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "P1KH_SC": [
+  {
+    "name":"<:C_:1104449628876841030> **P1Harmony Keeho** Scared",
+    "idol":"P1Harmony Keeho",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123141525287747674/Keeho_-_Scared.png",
+    "theme": "겁나니 (Scared)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "P1TH_SC": [
+  {
+    "name":"<:C_:1104449628876841030> **P1Harmony Theo** Scared",
+    "idol":"P1Harmony Theo",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123141526365667410/Theo_-_Scared.png",
+    "theme": "겁나니 (Scared)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOSG_CR": [
+  {
+    "name":"<:R_:1104449630659428372> **Solo SEULGI** Crown",
+    "idol":"Solo SEULGI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122393131942424576/crown.png",
+    "theme": "Crown",
+    "min": "100",
+    "max": "500"
+  }
+  ]
 }
