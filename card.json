@@ -8798,5 +8798,165 @@
     "min": "2000",
     "max": "2500"
   }
+  ],
+    "P1SO_W23I": [
+  {
+    "name":"<:SW:1128568098631467140> **P1Harmony Soul** Winter 2023 I",
+    "idol":"P1Harmony Soul",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1129647530246946886/winter_soul.png",
+    "theme": "JUMP",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+"ATSH_S23I": [
+  {
+    "name":"<:SS:1128568264000278590> **ATEEZ SEONG HWA** Summer 2023 I",
+    "idol":"ATEEZ SEONG HWA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1129281137953488966/summer_seonghwa.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "SOAG_S23I": [
+  {
+    "name":"<:SS:1128568264000278590> **Solo Ariana Grande** Summer 2023 I",
+    "idol":"Solo Ariana Grande",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1129281137953488966/summer_seonghwa.png",
+    "theme": "positions",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "P1KH_S23I": [
+  {
+    "name":"<:SS:1128568264000278590> **P1Harmony Keeho** Summer 2023 I",
+    "idol":"P1Harmony Keeho",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1129281137953488966/summer_seonghwa.png",
+    "theme": "JUMP",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "PKCI_S23I": [
+  {
+    "name":"<:SS:1128568264000278590> **PURPLE KISS CHAEIN** Summer 2023 I",
+    "idol":"PURPLE KISS CHAEIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1129281137953488966/summer_seonghwa.png",
+    "theme": "memeM",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "IDYQ_S23I": [
+  {
+    "name":"<:SS:1128568264000278590> **(G)I-DLE YUQI** Summer 2023 I",
+    "idol":"(G)I-DLE YUQI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1129281137953488966/summer_seonghwa.png",
+    "theme": "DUMDI DUMDI",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "SOYO_S23I": [
+  {
+    "name":"<:SS:1128568264000278590> **Solo YooA** Summer 2023 I",
+    "idol":"Solo YooA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1129281137953488966/summer_seonghwa.png",
+    "theme": "Selfish",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+"SODL_S23I": [
+  {
+    "name":"<:SS:1128568264000278590> **Solo Demi Lovato** Summer 2023 I",
+    "idol":"Solo Demi Lovato",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1129281137953488966/summer_seonghwa.png",
+    "theme": "Sorry Not Sorry (feat. Slash) - Rock Version",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+"SOCH_S23I": [
+  {
+    "name":"<:SS:1128568264000278590> **Solo CHUNG HA** Summer 2023 I",
+    "idol":"Solo CHUNG HA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1129281137953488966/summer_seonghwa.png",
+    "theme": "Stay Tonight",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+"N1HC_S23I": [
+  {
+    "name":"<:SS:1128568264000278590> **NCT 127 HAECHAN** Summer 2023 I",
+    "idol":"NCT 127 HAECHAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1128956765392875611/summer_haechan.png",
+    "theme": "Ay-Yo",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "BBEJ_S23I": [
+  {
+    "name":"<:SS:1128568264000278590> **BBGIRLS Eunji** Summer 2023 I",
+    "idol":"BBGIRLS Eunji",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1128930763656679435/summer_eunji.png",
+    "theme": "Chi Mat Ba Ram",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+"LOYJ_S23I": [
+  {
+    "name":"<:SS:1128568264000278590> **LOONA YeoJin** Summer 2023 I",
+    "idol":"LOONA YeoJin",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1128809857911369831/YJ_SM23_2.png",
+    "theme": "Why Not?",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+"LOCH_S23I": [
+  {
+    "name":"<:SS:1128568264000278590> **LOONA Chuu** Summer 2023 I",
+    "idol":"LOONA Chuu",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1128804393890889880/IMG_2445.png",
+    "theme": "Why Not?",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+"LOGW_S23I": [
+  {
+    "name":"<:SS:1128568264000278590> **LOONA Go Won** Summer 2023 I",
+    "idol":"LOONA Go Won",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1128765271172190219/SUMMER_2023_Go_Won.png",
+    "theme": "Why Not?",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+"RVJO_S23I": [
+  {
+    "name":"<:SS:1128568264000278590> **Red Velvet JOY** Summer 2023 I",
+    "idol":"Red Velvet JOY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1128622396371386459/SUMMER_2023_1.png",
+    "theme": "Feel My Rhythm",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+"SOWH_S23I": [
+  {
+    "name":"<:SS:1128568264000278590> **Solo WONHO** Summer 2023 I",
+    "idol":"Solo WONHO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1128575997508329512/SOWH_S2I.png",
+    "theme": "BLUE",
+    "min": "2000",
+    "max": "2500"
+  }
   ]
 }
