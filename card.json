@@ -1541,8 +1541,8 @@
   ],
   "BGEJ_WR": [
   {
-    "name":"<:R_:1104449630659428372> **Brave Girls Eunji** We Ride",
-    "idol":"Brave Girls Eunji",
+    "name":"<:R_:1104449630659428372> **BBGIRLS Eunji** We Ride",
+    "idol":"BBGIRLS Eunji",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115837786122100828/Eunji_-_We_Ride.png",
     "theme": "운전만해 (We Ride)",
     "min": "100",
@@ -1551,8 +1551,8 @@
   ],
     "BGMY_WR": [
   {
-    "name":"<:R_:1104449630659428372> **Brave Girls Minyoung** We Ride",
-    "idol":"Brave Girls Minyoung",
+    "name":"<:R_:1104449630659428372> **BBGIRLS Minyoung** We Ride",
+    "idol":"BBGIRLS Minyoung",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115837787049037884/Minyoung_-_We_Ride.png",
     "theme": "운전만해 (We Ride)",
     "min": "100",
@@ -1561,8 +1561,8 @@
   ],
     "BGYJ_WR": [
   {
-    "name":"<:R_:1104449630659428372> **Brave Girls Yujeong** We Ride",
-    "idol":"Brave Girls Yujeong",
+    "name":"<:R_:1104449630659428372> **BBGIRLS Yujeong** We Ride",
+    "idol":"BBGIRLS Yujeong",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115837788001148998/Yujeong_-_We_Ride.png",
     "theme": "운전만해 (We Ride)",
     "min": "100",
@@ -1571,8 +1571,8 @@
   ],
     "BGYN_WR": [
   {
-    "name":"<:R_:1104449630659428372> **Brave Girls Yuna** We Ride",
-    "idol":"Brave Girls Yuna",
+    "name":"<:R_:1104449630659428372> **BBGIRLS Yuna** We Ride",
+    "idol":"BBGIRLS Yuna",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115837788496072765/Yuna_-_We_Ride.png",
     "theme": "운전만해 (We Ride)",
     "min": "100",
@@ -1581,8 +1581,8 @@
   ],
     "BGEJ_CM": [
   {
-    "name":"<:R_:1104449630659428372> **Brave Girls Eunji** Chi Mat Ba Ram",
-    "idol":"Brave Girls Eunji",
+    "name":"<:R_:1104449630659428372> **BBGIRLS Eunji** Chi Mat Ba Ram",
+    "idol":"BBGIRLS Eunji",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115838115907653662/Eunji_-_Chi_Mat_Ba_Ram.png",
     "theme": "Chi Mat Ba Ram (치맛바람)",
     "min": "100",
@@ -1591,8 +1591,8 @@
   ],
       "BGMY_CM": [
   {
-    "name":"<:R_:1104449630659428372> **Brave Girls Minyoung** Chi Mat Ba Ram",
-    "idol":"Brave Girls Minyoung",
+    "name":"<:R_:1104449630659428372> **BBGIRLS Minyoung** Chi Mat Ba Ram",
+    "idol":"BBGIRLS Minyoung",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115838116385787904/Minyoung_-_Chi_Mat_Ba_Ram.png",
     "theme": "Chi Mat Ba Ram (치맛바람)",
     "min": "100",
@@ -1601,8 +1601,8 @@
   ],
       "BGYJ_CM": [
   {
-    "name":"<:R_:1104449630659428372> **Brave Girls Yujeong** Chi Mat Ba Ram",
-    "idol":"Brave Girls Yujeong",
+    "name":"<:R_:1104449630659428372> **BBGIRLS Yujeong** Chi Mat Ba Ram",
+    "idol":"BBGIRLS Yujeong",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115838116826194050/Yujeong_-_Chi_Mat_Ba_Ram.png",
     "theme": "Chi Mat Ba Ram (치맛바람)",
     "min": "100",
@@ -1611,8 +1611,8 @@
   ],
       "BGYN_CM": [
   {
-    "name":"<:R_:1104449630659428372> **Brave Girls Yuna** Chi Mat Ba Ram",
-    "idol":"Brave Girls Yuna",
+    "name":"<:R_:1104449630659428372> **BBGIRLS Yuna** Chi Mat Ba Ram",
+    "idol":"BBGIRLS Yuna",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115838117254025216/Yuna_-_Chi_Mat_Ba_Ram.png",
     "theme": "Chi Mat Ba Ram (치맛바람)",
     "min": "100",
@@ -1621,8 +1621,8 @@
   ],
       "BGEJ_LI": [
   {
-    "name":"<:C_:1104449628876841030> **Brave Girls Eunji** Love Is Gone",
-    "idol":"Brave Girls Eunji",
+    "name":"<:C_:1104449628876841030> **BBGIRLS Eunji** Love Is Gone",
+    "idol":"BBGIRLS Eunji",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115838274280357908/Eunji_-_Love_Is_Gone.png",
     "theme": "물거품 (Love Is Gone)",
     "min": "0",
@@ -1631,8 +1631,8 @@
   ],
         "BGMY_LI": [
   {
-    "name":"<:C_:1104449628876841030> **Brave Girls Minyoung** Love Is Gone",
-    "idol":"Brave Girls Minyoung",
+    "name":"<:C_:1104449628876841030> **BBGIRLS Minyoung** Love Is Gone",
+    "idol":"BBGIRLS Minyoung",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115838274586550324/Minyoung_-_Love_Is_Gone.png",
     "theme": "물거품 (Love Is Gone)",
     "min": "0",
@@ -1641,8 +1641,8 @@
   ],
       "BGYJ_LI": [
   {
-    "name":"<:C_:1104449628876841030> **Brave Girls Yujeong** Love Is Gone",
-    "idol":"Brave Girls Yujeong",
+    "name":"<:C_:1104449628876841030> **BBGIRLS Yujeong** Love Is Gone",
+    "idol":"BBGIRLS Yujeong",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115838275379277884/Yujeong_-_Love_Is_Gone.png",
     "theme": "물거품 (Love Is Gone)",
     "min": "0",
@@ -1651,8 +1651,8 @@
   ],
        "BGYN_LI": [
   {
-    "name":"<:C_:1104449628876841030> **Brave Girls Yuna** Love Is Gone",
-    "idol":"Brave Girls Yuna",
+    "name":"<:C_:1104449628876841030> **BBGIRLS Yuna** Love Is Gone",
+    "idol":"BBGIRLS Yuna",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115838275790307349/Yuna_-_Love_Is_Gone.png",
     "theme": "물거품 (Love Is Gone)",
     "min": "0",
@@ -2921,8 +2921,8 @@
   ],
         "BGEJ_BI": [
   {
-    "name":"<:C_:1104449628876841030> **Brave Girls Eunji** Boy, I wanna see you",
-    "idol":"Brave Girls Eunji",
+    "name":"<:C_:1104449628876841030> **BBGIRLS Eunji** Boy, I wanna see you",
+    "idol":"BBGIRLS Eunji",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115838575490105455/Eunji_-_Boy_I_wanna_see_you.png",
     "theme": "After 'We Ride' (술버릇 (운전만해 그후))",
     "min": "0",
@@ -2931,8 +2931,8 @@
   ],
         "BGMY_BI": [
   {
-    "name":"<:C_:1104449628876841030> **Brave Girls Minyoung** Boy, I wanna see you",
-    "idol":"Brave Girls Minyoung",
+    "name":"<:C_:1104449628876841030> **BBGIRLS Minyoung** Boy, I wanna see you",
+    "idol":"BBGIRLS Minyoung",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115838575913750578/Minyoung_-_Boy_I_wanna_see_you.png",
     "theme": "After 'We Ride' (술버릇 (운전만해 그후))",
     "min": "0",
@@ -2941,8 +2941,8 @@
   ],
       "BGYJ_BI": [
   {
-    "name":"<:C_:1104449628876841030> **Brave Girls Yujeong** Boy, I wanna see you",
-    "idol":"Brave Girls Yujeong",
+    "name":"<:C_:1104449628876841030> **BBGIRLS Yujeong** Boy, I wanna see you",
+    "idol":"BBGIRLS Yujeong",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115838576324788345/Yujeong_-_Boy_I_wanna_see_you.png",
     "theme": "After 'We Ride' (술버릇 (운전만해 그후))",
     "min": "0",
@@ -2951,8 +2951,8 @@
   ],
        "BGYN_BI": [
   {
-    "name":"<:C_:1104449628876841030> **Brave Girls Yuna** Boy, I wanna see you",
-    "idol":"Brave Girls Yuna",
+    "name":"<:C_:1104449628876841030> **BBGIRLS Yuna** Boy, I wanna see you",
+    "idol":"BBGIRLS Yuna",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115838576748396674/Yuna_-_Boy_I_wanna_see_you.png",
     "theme": "After 'We Ride' (술버릇 (운전만해 그후))",
     "min": "0",
