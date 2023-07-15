@@ -8638,5 +8638,165 @@
     "min": "100",
     "max": "500"
   }
+  ],
+"IDMN_W23I": [
+  {
+    "name":"<:SW:1128568098631467140> **(G)I-DLE MINNIE** Winter 2023 I",
+    "idol":"(G)I-DLE MINNIE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1129647960230207608/winter_minnie.png",
+    "theme": "Nxde",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+"TBNW_W23I": [
+  {
+    "name":"<:SW:1128568098631467140> **THE BOYZ NEW** Winter 2023 I",
+    "idol":"THE BOYZ NEW",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1129647862163185714/winter_new.png",
+    "theme": "Nxde",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+"BPRS_W23I": [
+  {
+    "name":"<:SW:1128568098631467140> **BLACKPINK ROSÉ** Winter 2023 I",
+    "idol":"BLACKPINK ROSÉ",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1129647726183854100/winter_rose.png",
+    "theme": "Nxde",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+"ATYH_W23I": [
+  {
+    "name":"<:SW:1128568098631467140> **ATEEZ YUN HO** Winter 2023 I",
+    "idol":"ATEEZ YUN HO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1129647409006399548/winter_yunho.png",
+    "theme": "Nxde",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+"LOCH_W23I": [
+  {
+    "name":"<:SW:1128568098631467140> **LOONA Chuu** Winter 2023 I",
+    "idol":"LOONA Chuu",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1128878257094271027/IMG_2452.png",
+    "theme": "Nxde",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+"TWSN_W23I": [
+  {
+    "name":"<:SW:1128568098631467140> **TWICE SANA** Winter 2023 I",
+    "idol":"TWICE SANA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1128877577369563197/IMG_2451.png",
+    "theme": "Nxde",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+"ENJW_W23I": [
+  {
+    "name":"<:SW:1128568098631467140> **ENHYPEN JUNGWON** Winter 2023 I",
+    "idol":"ENHYPEN JUNGWON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1128879242638262282/IMG_2453.png",
+    "theme": "Nxde",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+"EXDO_W23I": [
+  {
+    "name":"<:SW:1128568098631467140> **EXO D.O** Winter 2023 I",
+    "idol":"EXO D.O",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1128769733580292186/d.o.png",
+    "theme": "Nxde",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "EXBH_W23I": [
+  {
+    "name":"<:SW:1128568098631467140> **EXO BAEKHYUN** Winter 2023 I",
+    "idol":"EXO BAEKHYUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1128769694460039269/baekhyun.png",
+    "theme": "Nxde",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "ITLI_W23I": [
+  {
+    "name":"<:SW:1128568098631467140> **ITZY LIA** Winter 2023 I",
+    "idol":"ITZY LIA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1128769604383150250/lia.png",
+    "theme": "Nxde",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+    "N1TY_W23I": [
+  {
+    "name":"<:SW:1128568098631467140> **NCT 127 TAEYONG** Winter 2023 I",
+    "idol":"NCT 127 TAEYONG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1128762360887251115/taeyong.png",
+    "theme": "2 Baddies",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+    "AEKR_W23I": [
+  {
+    "name":"<:SW:1128568098631467140> **aespa KARINA** Winter 2023 I",
+    "idol":"aespa KARINA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1128762284836126841/karina.png",
+    "theme": "Forever",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+    "RVYR_W23I": [
+  {
+    "name":"<:SW:1128568098631467140> **Red Velvet YERI** Winter 2023 I",
+    "idol":"Red Velvet YERI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1128762231396507788/yeri.png",
+    "theme": "Peek-A-Boo",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+    "TWMM_W23I": [
+  {
+    "name":"<:SW:1128568098631467140> **TWICE MOMO** Winter 2023 I",
+    "idol":"TWICE MOMO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1128581274869698631/TWMM_W2I.png",
+    "theme": "Doughnut",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "IVJWY_W23I": [
+  {
+    "name":"<:SW:1128568098631467140> **IVE JANGWONYOUNG** Winter 2023 I",
+    "idol":"IVE JANGWONYOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1128577294710079588/IVJWY_W2I.png",
+    "theme": "After LIKE",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+    "SOWH_W23I": [
+  {
+    "name":"<:SW:1128568098631467140> **Solo WONHO** Winter 2023 I",
+    "idol":"Solo WONHO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1128575998158450718/SOWH_W2I.png",
+    "theme": "White Miracle (Korean Ver.)",
+    "min": "2000",
+    "max": "2500"
+  }
   ]
 }
