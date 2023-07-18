@@ -10358,5 +10358,335 @@
     "min": "0",
     "max": "100"
   }
+  ],
+  "OOMI_LB": [
+  {
+    "name":"<:R_:1104449630659428372> **OnlyOneOf Mill** libidO",
+    "idol":"OnlyOneOf Mill",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130607424785633471/OOMI_LB.png",
+    "theme": "libidO",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "OORI_LB": [
+  {
+    "name":"<:R_:1104449630659428372> **OnlyOneOf Rie** libidO",
+    "idol":"OnlyOneOf Rie",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130607425553170502/OORI_LB.png",
+    "theme": "libidO",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "OOYJ_LB": [
+  {
+    "name":"<:R_:1104449630659428372> **OnlyOneOf YooJung** libidO",
+    "idol":"OnlyOneOf YooJung",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130607425980997865/OOYJ_LB.png",
+    "theme": "libidO",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "OOJJ_LB": [
+  {
+    "name":"<:R_:1104449630659428372> **OnlyOneOf JunJi** libidO",
+    "idol":"OnlyOneOf JunJi",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130607423598645389/OOJJ_LB.png",
+    "theme": "libidO",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "OOLV_LB": [
+  {
+    "name":"<:R_:1104449630659428372> **OnlyOneOf Love** libidO",
+    "idol":"OnlyOneOf Love",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130607424462651612/OOLV_LB.png",
+    "theme": "libidO",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "OOKB_LB": [
+  {
+    "name":"<:R_:1104449630659428372> **OnlyOneOf KB** libidO",
+    "idol":"OnlyOneOf KB",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130607423997091901/OOKB_LB.png",
+    "theme": "libidO",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "OONI_LB": [
+  {
+    "name":"<:R_:1104449630659428372> **OnlyOneOf Nine** libidO",
+    "idol":"OnlyOneOf Nine",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130607425095999629/OONI_LB.png",
+    "theme": "libidO",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "MSMM_SP": [
+  {
+    "name":"<:C_:1104449628876841030> **MISAMO MOMO** so precious",
+    "idol":"MISAMO MOMO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130349064723112076/STARPATH_C24_20230717001811.png",
+    "theme": "Do not touch",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "MSSN_SP": [
+  {
+    "name":"<:C_:1104449628876841030> **MISAMO SANA** so precious",
+    "idol":"MISAMO SANA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130349064114929765/STARPATH_C24_20230717001555.png",
+    "theme": "Do not touch",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "MSMN_SP": [
+  {
+    "name":"<:C_:1104449628876841030> **MISAMO MINA** so precious",
+    "idol":"MISAMO MINA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130349062969892884/STARPATH_C24_20230717001631.png",
+    "theme": "Do not touch",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "MSMM_MM": [
+  {
+    "name":"<:C_:1104449628876841030> **MISAMO MOMO** Marshmallow",
+    "idol":"MISAMO MOMO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130389329202655292/STARPATH_C24_20230717034238.png",
+    "theme": "Marshmallow",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "MSSN_MM": [
+  {
+    "name":"<:C_:1104449628876841030> **MISAMO SANA** Marshmallow",
+    "idol":"MISAMO SANA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130389328703537273/STARPATH_C24_20230717034215.png",
+    "theme": "Marshmallow",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "MSMN_MM": [
+  {
+    "name":"<:C_:1104449628876841030> **MISAMO MINA** Marshmallow",
+    "idol":"MISAMO MINA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130389328216993862/STARPATH_C24_20230717034138.png",
+    "theme": "Marshmallow",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOJY_LS": [
+  {
+    "name":"<:X_:1104449632890798091> **Solo JO YURI** Love Shhh!",
+    "idol":"Solo JO YURI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130321924514381895/STARPATH_R2_20230716223347.png",
+    "theme": "Love Shhh!",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "SOJY_LS_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **Solo JO YURI** Love Shhh!",
+    "idol":"Solo JO YURI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130322008891195464/STARPATH_R2_20230716231343.png",
+    "theme": "Love Shhh!",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "OMYO_DL": [
+  {
+    "name":"<:C_:1104449628876841030> **OH MY GIRL YOOA** Dirty Laundry",
+    "idol":"OH MY GIRL YOOA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130307842092585071/STARPATH_C16_20230716221257.png",
+    "theme": "Dirty Laundry",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "OMHJ_DL": [
+  {
+    "name":"<:C_:1104449628876841030> **OH MY GIRL HYOJUNG** Dirty Laundry",
+    "idol":"OH MY GIRL HYOJUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130307841358581781/STARPATH_C16_20230716221720.png",
+    "theme": "Dirty Laundry",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "OMMM_DL": [
+  {
+    "name":"<:C_:1104449628876841030> **OH MY GIRL MIMI** Dirty Laundry",
+    "idol":"OH MY GIRL MIMI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130307841744441354/STARPATH_C16_20230716220926.png",
+    "theme": "Dirty Laundry",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "OMSH_DL": [
+  {
+    "name":"<:C_:1104449628876841030> **OH MY GIRL SEUNGHEE** Dirty Laundry",
+    "idol":"OH MY GIRL SEUNGHEE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130307842478448771/STARPATH_C16_20230716221411.png",
+    "theme": "Dirty Laundry",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "OMYB_DL": [
+  {
+    "name":"<:C_:1104449628876841030> **OH MY GIRL YUBIN** Dirty Laundry",
+    "idol":"OH MY GIRL YUBIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130307842952400906/STARPATH_C16_20230716221517.png",
+    "theme": "Dirty Laundry",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "OMAR_DL": [
+  {
+    "name":"<:C_:1104449628876841030> **OH MY GIRL ARIN** Dirty Laundry",
+    "idol":"OH MY GIRL ARIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130307843405402152/STARPATH_C16_20230716221617.png",
+    "theme": "Dirty Laundry",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "P1IN_OI": [
+  {
+    "name":"<:C_:1104449628876841030> **P1Harmony Intak** our idea",
+    "idol":"P1Harmony Intak",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130651266679308379/P1IN_OI.png",
+    "theme": "Peacemaker",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "P1JI_OI": [
+  {
+    "name":"<:C_:1104449628876841030> **P1Harmony Jiung** our idea",
+    "idol":"P1Harmony Jiung",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130651266993901728/P1JI_OI.png",
+    "theme": "Peacemaker",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "P1SO_OI": [
+  {
+    "name":"<:C_:1104449628876841030> **P1Harmony Soul** our idea",
+    "idol":"P1Harmony Soul",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130651268180877352/P1SO_OI.png",
+    "theme": "Peacemaker",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "P1JS_OI": [
+  {
+    "name":"<:C_:1104449628876841030> **P1Harmony Jongseob** our idea",
+    "idol":"P1Harmony Jongseob",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130651267472031804/P1JS_OI.png",
+    "theme": "Peacemaker",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "P1KH_OI": [
+  {
+    "name":"<:C_:1104449628876841030> **P1Harmony Keeho** our idea",
+    "idol":"P1Harmony Keeho",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130651267832762378/P1KH_OI.png",
+    "theme": "Peacemaker",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "P1TH_OI": [
+  {
+    "name":"<:C_:1104449628876841030> **P1Harmony Theo** our idea",
+    "idol":"P1Harmony Theo",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130651268612902972/P1TH_OI.png",
+    "theme": "Peacemaker",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "P1IN_PM": [
+  {
+    "name":"<:R_:1104449630659428372> **P1Harmony Intak** Peacemaker",
+    "idol":"P1Harmony Intak",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130651168809439242/P1IN_PM.png",
+    "theme": "Peacemaker",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "P1JI_PM": [
+  {
+    "name":"<:R_:1104449630659428372> **P1Harmony Jiung** Peacemaker",
+    "idol":"P1Harmony Jiung",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130651169136582736/P1JI_PM.png",
+    "theme": "Peacemaker",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "P1SO_PM": [
+  {
+    "name":"<:R_:1104449630659428372> **P1Harmony Soul** Peacemaker",
+    "idol":"P1Harmony Soul",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130651170520699010/P1SO_PM.png",
+    "theme": "Peacemaker",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "P1JS_PM": [
+  {
+    "name":"<:R_:1104449630659428372> **P1Harmony Jongseob** Peacemaker",
+    "idol":"P1Harmony Jongseob",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130651169660883034/P1JS_PM.png",
+    "theme": "Peacemaker",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "P1KH_PM": [
+  {
+    "name":"<:R_:1104449630659428372> **P1Harmony Keeho** Peacemaker",
+    "idol":"P1Harmony Keeho",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130651170088689714/P1KH_PM.png",
+    "theme": "Peacemaker",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "P1TH_PM": [
+  {
+    "name":"<:R_:1104449630659428372> **P1Harmony Theo** Peacemaker",
+    "idol":"P1Harmony Theo",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130651170898190417/P1TH_PM.png",
+    "theme": "Peacemaker",
+    "min": "100",
+    "max": "500"
+  }
   ]
 }
