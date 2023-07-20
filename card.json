@@ -10688,5 +10688,305 @@
     "min": "100",
     "max": "500"
   }
+  ],
+"IVAYJ_FL": [
+  {
+    "name":"<:X_:1104449632890798091> <:badge_special:1107422313466576937> **IVE ANYUJIN** Feel like eleven",
+    "idol":"IVE ANYUJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1131689575329304597/IVAYJ_FL.png",
+    "theme": "ELEVEN",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "IVGA_FL": [
+  {
+    "name":"<:X_:1104449632890798091> <:badge_special:1107422313466576937> **IVE GAEUL** Feel like eleven",
+    "idol":"IVE GAEUL",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1131689575685836930/IVGA_FL.png",
+    "theme": "ELEVEN",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "IVJWY_FL": [
+  {
+    "name":"<:X_:1104449632890798091> <:badge_special:1107422313466576937> **IVE JANGWONYOUNG** Feel like eleven",
+    "idol":"IVE JANGWONYOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1131689576059125851/IVJWY_FL.png",
+    "theme": "ELEVEN",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "IVLI_FL": [
+  {
+    "name":"<:X_:1104449632890798091> <:badge_special:1107422313466576937> **IVE LIZ** Feel like eleven",
+    "idol":"IVE LIZ",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1131689576398852157/IVLI_FL.png",
+    "theme": "ELEVEN",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "IVLS_FL": [
+  {
+    "name":"<:X_:1104449632890798091> <:badge_special:1107422313466576937> **IVE LEESEO** Feel like eleven",
+    "idol":"IVE LEESEO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1131689576705052712/IVLS_FL.png",
+    "theme": "ELEVEN",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "IVRE_FL": [
+  {
+    "name":"<:X_:1104449632890798091> <:badge_special:1107422313466576937> **IVE REI** Feel like eleven",
+    "idol":"IVE REI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1131689577040593078/IVRE_FL.png",
+    "theme": "ELEVEN",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "IVAYJ_FL_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <:badge_special:1107422313466576937> **IVE ANYUJIN** Feel like eleven",
+    "idol":"IVE ANYUJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1131421230168277172/IVAYJ_FL_P.png",
+    "theme": "ELEVEN",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "IVGA_FL_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <:badge_special:1107422313466576937> **IVE GAEUL** Feel like eleven",
+    "idol":"IVE GAEUL",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1131421231019733012/IVGA_FL_P.png",
+    "theme": "ELEVEN",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "IVJWY_FL_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <:badge_special:1107422313466576937> **IVE JANGWONYOUNG** Feel like eleven",
+    "idol":"IVE JANGWONYOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1131421231544016976/IVJWY_FL_P.png",
+    "theme": "ELEVEN",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "IVLI_FL_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <:badge_special:1107422313466576937> **IVE LIZ** Feel like eleven",
+    "idol":"IVE LIZ",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1131421231976022107/IVLI_FL_P.png",
+    "theme": "ELEVEN",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "IVLS_FL_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <:badge_special:1107422313466576937> **IVE LEESEO** Feel like eleven",
+    "idol":"IVE LEESEO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1131421232647123065/IVLS_FL_P.png",
+    "theme": "ELEVEN",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "IVRE_FL_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <:badge_special:1107422313466576937> **IVE REI** Feel like eleven",
+    "idol":"IVE REI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1131421233322401854/IVRE_FL_P.png",
+    "theme": "ELEVEN",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+    "AEKR_AM_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <:badge_special:1107422313466576937> **aespa KARINA** all my life",
+    "idol":"aespa KARINA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1131417596680474724/AEKR_AM_P.png",
+    "theme": "Life's Too Short (English Version)",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+    "AEGS_AM_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <:badge_special:1107422313466576937> **aespa GISELLE** all my life",
+    "idol":"aespa GISELLE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1131417596017786890/AEGS_AM_P.png",
+    "theme": "Life's Too Short (English Version)",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+    "AENN_AM_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <:badge_special:1107422313466576937> **aespa NINGNING** all my life",
+    "idol":"aespa NINGNING",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1131417597422878790/AENN_AM_P.png",
+    "theme": "Life's Too Short (English Version)",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+    "AEWT_AM_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <:badge_special:1107422313466576937> **aespa WINTER** all my life",
+    "idol":"aespa WINTER",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1131417598068797520/AEWT_AM_P.png",
+    "theme": "Life's Too Short (English Version)",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+      "AEKR_AM": [
+  {
+    "name":"<:X_:1104449632890798091> <:badge_special:1107422313466576937> **aespa KARINA** all my life",
+    "idol":"aespa KARINA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1131417529240260698/AEKR_AM.png",
+    "theme": "Life's Too Short (English Version)",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+    "AEGS_AM": [
+  {
+    "name":"<:X_:1104449632890798091> <:badge_special:1107422313466576937> **aespa GISELLE** all my life",
+    "idol":"aespa GISELLE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1131417528380436612/AEGS_AM.png",
+    "theme": "Life's Too Short (English Version)",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+    "AENN_AM": [
+  {
+    "name":"<:X_:1104449632890798091> <:badge_special:1107422313466576937> **aespa NINGNING** all my life",
+    "idol":"aespa NINGNING",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1131417529890385920/AENN_AM.png",
+    "theme": "Life's Too Short (English Version)",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+    "AEWT_AM": [
+  {
+    "name":"<:X_:1104449632890798091> <:badge_special:1107422313466576937> **aespa WINTER** all my life",
+    "idol":"aespa WINTER",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1131417530477580399/AEWT_AM.png",
+    "theme": "Life's Too Short (English Version)",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+    "LSHE_FN_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <:badge_special:1107422313466576937> **LE SSERAFIM HONG EUNCHAE** FEARNOT (Between you, me and the lamppost)",
+    "idol":"LE SSERAFIM HONG EUNCHAE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1131411846944002119/LSHE_FN_P.png",
+    "theme": "FEARNOT (Between you, me and the lamppost)",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+    "LSHY_FN_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <:badge_special:1107422313466576937> **LE SSERAFIM HUH YUNJIN** FEARNOT (Between you, me and the lamppost)",
+    "idol":"LE SSERAFIM HUH YUNJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1131411847589941248/LSHY_FN_P.png",
+    "theme": "FEARNOT (Between you, me and the lamppost)",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+    "LSKC_FN_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <:badge_special:1107422313466576937> **LE SSERAFIM KIM CHAEWON** FEARNOT (Between you, me and the lamppost)",
+    "idol":"LE SSERAFIM KIM CHAEWON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1131411848349093888/LSKC_FN_P.png",
+    "theme": "FEARNOT (Between you, me and the lamppost)",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+    "LSKZ_FN_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <:badge_special:1107422313466576937> **LE SSERAFIM KAZUHA** FEARNOT (Between you, me and the lamppost)",
+    "idol":"LE SSERAFIM KAZUHA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1131411849024385118/LSKZ_FN_P.png",
+    "theme": "FEARNOT (Between you, me and the lamppost)",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+    "LSSK_FN_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <:badge_special:1107422313466576937> **LE SSERAFIM SAKURA** FEARNOT (Between you, me and the lamppost)",
+    "idol":"LE SSERAFIM SAKURA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1131411849666121749/LSSK_FN_P.png",
+    "theme": "FEARNOT (Between you, me and the lamppost)",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+      "LSHE_FN": [
+  {
+    "name":"<:X_:1104449632890798091> <:badge_special:1107422313466576937> **LE SSERAFIM HONG EUNCHAE** FEARNOT (Between you, me and the lamppost)",
+    "idol":"LE SSERAFIM HONG EUNCHAE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1131411602340581396/LSHE_FN.png",
+    "theme": "FEARNOT (Between you, me and the lamppost)",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+    "LSHY_FN": [
+  {
+    "name":"<:X_:1104449632890798091> <:badge_special:1107422313466576937> **LE SSERAFIM HUH YUNJIN** FEARNOT (Between you, me and the lamppost)",
+    "idol":"LE SSERAFIM HUH YUNJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1131411603397541979/LSHY_FN.png",
+    "theme": "FEARNOT (Between you, me and the lamppost)",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+    "LSKC_FN": [
+  {
+    "name":"<:X_:1104449632890798091> <:badge_special:1107422313466576937> **LE SSERAFIM KIM CHAEWON** FEARNOT (Between you, me and the lamppost)",
+    "idol":"LE SSERAFIM KIM CHAEWON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1131411603997331497/LSKC_FN.png",
+    "theme": "FEARNOT (Between you, me and the lamppost)",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+    "LSKZ_FN": [
+  {
+    "name":"<:X_:1104449632890798091> <:badge_special:1107422313466576937> **LE SSERAFIM KAZUHA** FEARNOT (Between you, me and the lamppost)",
+    "idol":"LE SSERAFIM KAZUHA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1131411604483887226/LSKZ_FN.png",
+    "theme": "FEARNOT (Between you, me and the lamppost)",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+    "LSSK_FN": [
+  {
+    "name":"<:X_:1104449632890798091> <:badge_special:1107422313466576937> **LE SSERAFIM SAKURA** FEARNOT (Between you, me and the lamppost)",
+    "idol":"LE SSERAFIM SAKURA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1131411604949434398/LSSK_FN.png",
+    "theme": "FEARNOT (Between you, me and the lamppost)",
+    "min": "750",
+    "max": "1500"
+  }
   ]
 }
