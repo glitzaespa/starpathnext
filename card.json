@@ -10988,5 +10988,85 @@
     "min": "750",
     "max": "1500"
   }
+  ],
+    "SKBC_BS": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **Stray Kids BANG CHAN** brightest star",
+    "idol":"Stray Kids BANG CHAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125856606861668492/SKBC_BS.png",
+    "theme": "특 (S-Class)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "SKCB_BS": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **Stray Kids CHANGBIN** brightest star",
+    "idol":"Stray Kids CHANGBIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125856607226560612/SKCB_BS.png",
+    "theme": "특 (S-Class)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+    "SKFL_BS": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **Stray Kids FELIX** brightest star",
+    "idol":"Stray Kids FELIX",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125856607822172211/SKFL_BS.png",
+    "theme": "특 (S-Class)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+      "SKHA_BS": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **Stray Kids HAN** brightest star",
+    "idol":"Stray Kids HAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125856608224805006/SKHA_BS.png",
+    "theme": "특 (S-Class)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+        "SKHJ_BS": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **Stray Kids HYUNJIN** brightest star",
+    "idol":"Stray Kids HYUNJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125856608551972925/SKHJ_BS.png",
+    "theme": "특 (S-Class)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "SKIN_BS": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **Stray Kids I.N** brightest star",
+    "idol":"Stray Kids I.N",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125856609168543834/SKIN_BS.png",
+    "theme": "특 (S-Class)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+   "SKLK_BS": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **Stray Kids LEE KNOW** brightest star",
+    "idol":"Stray Kids LEE KNOW",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125856609717977088/SKLK_BS.png",
+    "theme": "특 (S-Class)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+     "SKSM_BS": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **Stray Kids SEUNGMIN** brightest star",
+    "idol":"Stray Kids SEUNGMIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1125856610225508484/SKSM_BS.png",
+    "theme": "특 (S-Class)",
+    "min": "0",
+    "max": "200"
+  }
   ]
 }
