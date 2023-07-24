@@ -11609,5 +11609,25 @@
     "min": "2000",
     "max": "2500"
   }
+  ],
+  "SOKM_PP": [
+  {
+    "name":"<:X_:1104449632890798091> **Solo Kylie Minogue** Padam Padam",
+    "idol":"Solo Kylie Minogue",
+    "image": "https://cdn.discordapp.com/attachments/1106345119667470448/1133106996107808768/SOKM_PP.png",
+    "theme": "Padam Padam",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "SOKM_PP_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **Solo Kylie Minogue** Padam Padam",
+    "idol":"Solo Kylie Minogue",
+    "image": "https://cdn.discordapp.com/attachments/1106345119667470448/1133106997089280000/SOKM_PP_P.png",
+    "theme": "Padam Padam",
+    "min": "1000",
+    "max": "2500"
+  }
   ]
 }
