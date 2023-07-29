@@ -7254,7 +7254,7 @@
     "name":"<:R_:1104449630659428372> **aespa KARINA** ICU",
     "idol":"aespa KARINA",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1127745373474136214/aespaR.png",
-    "theme": "ICU",
+    "theme": "쉬어가도 돼(ICU)",
     "min": "0",
     "max": "100"
   }
@@ -7264,7 +7264,7 @@
     "name":"<:R_:1104449630659428372> **aespa GISELLE** ICU",
     "idol":"aespa GISELLE",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1127745373784526978/ICU_GS.png",
-    "theme": "ICU",
+    "theme": "쉬어가도 돼(ICU)",
     "min": "0",
     "max": "100"
   }
@@ -7274,7 +7274,7 @@
     "name":"<:R_:1104449630659428372> **aespa WINTER** ICU",
     "idol":"aespa WINTER",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1127745374141038642/ICU_WT.png",
-    "theme": "ICU",
+    "theme": "쉬어가도 돼(ICU)",
     "min": "0",
     "max": "100"
   }
@@ -7284,7 +7284,7 @@
     "name":"<:R_:1104449630659428372> **aespa NINGNING** ICU",
     "idol":"aespa NINGNING",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1127745374505934928/ICU_NN.png",
-    "theme": "ICU",
+    "theme": "쉬어가도 돼(ICU)",
     "min": "0",
     "max": "100"
   }
@@ -11628,6 +11628,266 @@
     "theme": "Padam Padam",
     "min": "1000",
     "max": "2500"
+  }
+  ],
+"LSKC_AF": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_winter:1134907178986250330> <:badge_special:1107422313466576937> **LE SSERAFIM KIM CHAEWON** ANTIFRAGILE",
+    "idol":"LE SSERAFIM KIM CHAEWON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1132444748058210365/Untitled38_20230723105047.png",
+    "theme": "ANTIFRAGILE",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+"LSHE_AF": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_winter:1134907178986250330> <:badge_special:1107422313466576937> **LE SSERAFIM HONG EUNCHAE** ANTIFRAGILE",
+    "idol":"LE SSERAFIM HONG EUNCHAE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1132444748561535046/Untitled38_20230723105044.png",
+    "theme": "ANTIFRAGILE",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+"LSHY_AF": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_winter:1134907178986250330> <:badge_special:1107422313466576937> **LE SSERAFIM HUH YUNJIN** ANTIFRAGILE",
+    "idol":"LE SSERAFIM HUH YUNJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1132444749027090504/Untitled38_20230723105041.png",
+    "theme": "ANTIFRAGILE",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+"LSSK_AF": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_winter:1134907178986250330> <:badge_special:1107422313466576937> **LE SSERAFIM SAKURA** ANTIFRAGILE",
+    "idol":"LE SSERAFIM SAKURA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1132444749568159765/Untitled38_20230723105039.png",
+    "theme": "ANTIFRAGILE",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+"LSKZ_AF": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_winter:1134907178986250330> <:badge_special:1107422313466576937> **LE SSERAFIM KAZUHA** ANTIFRAGILE",
+    "idol":"LE SSERAFIM KAZUHA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1132444750134394970/Untitled38_20230723105032.png",
+    "theme": "ANTIFRAGILE",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "AEKR_SF": [
+  {
+    "name":"<:C_:1104449628876841030> <:icon_winter:1134907178986250330> <:badge_special:1107422313466576937> **aespa KARINA** SNOW FIELD",
+    "idol":"aespa KARINA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1132473286324920350/sf_karina.png",
+    "theme": "쉬어가도 돼(ICU)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "AEWT_SF": [
+  {
+    "name":"<:C_:1104449628876841030> <:icon_winter:1134907178986250330> <:badge_special:1107422313466576937> **aespa WINTER** SNOW FIELD",
+    "idol":"aespa WINTER",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1132473285624467506/sf_winter.png",
+    "theme": "쉬어가도 돼(ICU)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "AEGS_SF": [
+  {
+    "name":"<:C_:1104449628876841030> <:icon_winter:1134907178986250330> <:badge_special:1107422313466576937> **aespa GISELLE** SNOW FIELD",
+    "idol":"aespa GISELLE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1132473285997776946/sf_giselle.png",
+    "theme": "쉬어가도 돼(ICU)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "AENN_SF": [
+  {
+    "name":"<:C_:1104449628876841030> <:icon_winter:1134907178986250330> <:badge_special:1107422313466576937> **aespa NINGNING** SNOW FIELD",
+    "idol":"aespa NINGNING",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1132473285209247774/sf_ningning.png",
+    "theme": "쉬어가도 돼(ICU)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "KAJS_HH": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_summer:1134906996148162742> <:badge_special:1107422313466576937> **KARD J.SEPH** Hola Hola",
+    "idol":"KARD J.SEPH",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1132479585016098826/jseph_hh.png",
+    "theme": "Hola Hola",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "KASM_HH": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_summer:1134906996148162742> <:badge_special:1107422313466576937> **KARD SOMIN** Hola Hola",
+    "idol":"KARD SOMIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1132479585297109012/somin_hh.png",
+    "theme": "Hola Hola",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "KABM_HH": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_summer:1134906996148162742> <:badge_special:1107422313466576937> **KARD BM** Hola Hola",
+    "idol":"KARD BM",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1132479585561354340/bm_hh.png",
+    "theme": "Hola Hola",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "KAJW_HH": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_summer:1134906996148162742> <:badge_special:1107422313466576937> **KARD JIWOO** Hola Hola",
+    "idol":"KARD JIWOO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1132479586026926141/jiwoo_hh.png",
+    "theme": "Hola Hola",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "NDMA_MS": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_winter:1134907178986250330> <:badge_special:1107422313466576937> **NCT Dream MARK** MYSTERY SPOT",
+    "idol":"NCT Dream MARK",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1132486489301852180/ms_mark.png",
+    "theme": "Glitch Mode",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "NDRJ_MS": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_winter:1134907178986250330> <:badge_special:1107422313466576937> **NCT Dream RENJUN** MYSTERY SPOT",
+    "idol":"NCT Dream RENJUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1132486489670942740/ms_renjung.png",
+    "theme": "Glitch Mode",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "NDJN_MS": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_winter:1134907178986250330> <:badge_special:1107422313466576937> **NCT Dream JENO** MYSTERY SPOT",
+    "idol":"NCT Dream JENO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1132486490107170888/ms_jeno.png",
+    "theme": "Glitch Mode",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "NDHC_MS": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_winter:1134907178986250330> <:badge_special:1107422313466576937> **NCT Dream HAECHAN** MYSTERY SPOT",
+    "idol":"NCT Dream HAECHAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1132486490459480185/ms_haechan.png",
+    "theme": "Glitch Mode",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "NDJM_MS": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_winter:1134907178986250330> <:badge_special:1107422313466576937> **NCT Dream JAEMIN** MYSTERY SPOT",
+    "idol":"NCT Dream JAEMIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1132486490757267487/ms_jaemin.png",
+    "theme": "Glitch Mode",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "NDCL_MS": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_winter:1134907178986250330> <:badge_special:1107422313466576937> **NCT Dream CHENLE** MYSTERY SPOT",
+    "idol":"NCT Dream CHENLE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1132486491273187489/ms_chenle.png",
+    "theme": "Glitch Mode",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "NDJS_MS": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_winter:1134907178986250330> <:badge_special:1107422313466576937> **NCT Dream JISUNG** MYSTERY SPOT",
+    "idol":"NCT Dream JISUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1132486491789074452/ms_jisung.png",
+    "theme": "Glitch Mode",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "WVHD_AZ": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_winter:1134907178986250330> <:badge_special:1107422313466576937> **WayV 威神V HENDERY** ACTIVITY ZONE",
+    "idol":"WayV 威神V HENDERY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1132491911194746982/az_hendery.png",
+    "theme": "Phantom",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "WVYY_AZ": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_winter:1134907178986250330> <:badge_special:1107422313466576937> **WayV 威神V YANGYANG** ACTIVITY ZONE",
+    "idol":"WayV 威神V YANGYANG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1132491911509311549/az_yy.png",
+    "theme": "Phantom",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "WVXJ_AZ": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_winter:1134907178986250330> <:badge_special:1107422313466576937> **WayV 威神V XIAOJUN** ACTIVITY ZONE",
+    "idol":"WayV 威神V XIAOJUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1132491911920361503/az_xj.png",
+    "theme": "Phantom",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "WVTN_AZ": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_winter:1134907178986250330> <:badge_special:1107422313466576937> **WayV 威神V TEN** ACTIVITY ZONE",
+    "idol":"WayV 威神V TEN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1132491912343978046/az_ten.png",
+    "theme": "Phantom",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "WVWW_AZ": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_winter:1134907178986250330> <:badge_special:1107422313466576937> **WayV 威神V WINWIN** ACTIVITY ZONE",
+    "idol":"WayV 威神V WINWIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1132491912675336335/az_ww.png",
+    "theme": "Phantom",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "WVKN_AZ": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_winter:1134907178986250330> <:badge_special:1107422313466576937> **WayV 威神V KUN** ACTIVITY ZONE",
+    "idol":"WayV 威神V KUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1132491913036058666/az_kun.png",
+    "theme": "Phantom",
+    "min": "200",
+    "max": "750"
   }
   ]
 }
