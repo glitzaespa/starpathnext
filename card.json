@@ -3743,7 +3743,7 @@
   {
     "name":"<:C_:1104449628876841030> **Solo Demi Lovato** SWINE",
     "idol":"Solo Demi Lovato",
-    "image": "https://cdn.discordapp.com/attachments/1106345119667470448/1121957336974630942/SODL_SN.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1135023986561007636/SODL_SN.png",
     "theme": "SWINE",
     "min": "0",
     "max": "100"
@@ -12558,6 +12558,176 @@
     "theme": "Loveable",
     "min": "0",
     "max": "100"
+  }
+  ],
+  "SHSN_PM": [
+  {
+    "name":"<:R_:1104449630659428372> **SHOWNU X HYUNGWON SHOWNU** Play Me",
+    "idol":"SHOWNU X HYUNGWON SHOWNU",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1135013125763117056/SHSN_PM.png",
+    "theme": "Play Me",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SHHW_PM": [
+  {
+    "name":"<:R_:1104449630659428372> **SHOWNU X HYUNGWON HYUNGWON** Play Me",
+    "idol":"SHOWNU X HYUNGWON HYUNGWON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1135013125113008198/SHHW_PM.png",
+    "theme": "Play Me",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+    "SHSN_LM": [
+  {
+    "name":"<:C_:1104449628876841030> **SHOWNU X HYUNGWON SHOWNU** Love Me A Little",
+    "idol":"SHOWNU X HYUNGWON SHOWNU",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1135013177327882280/SHSN_LM.png",
+    "theme": "Love Me A Little",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SHHW_LM": [
+  {
+    "name":"<:C_:1104449628876841030> **SHOWNU X HYUNGWON HYUNGWON** Love Me A Little",
+    "idol":"SHOWNU X HYUNGWON HYUNGWON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1135013176988147834/SHHW_LM.png",
+    "theme": "Love Me A Little",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOHT_BM": [
+  {
+    "name":"<:R_:1104449630659428372> **Solo LEE MINHYUK (HUTA)** BOOM",
+    "idol":"Solo LEE MINHYUK (HUTA)",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1135016429129838662/SOLM_BM.png",
+    "theme": "BOOM",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SOHT_JF": [
+  {
+    "name":"<:R_:1104449630659428372> **Solo LEE MINHYUK (HUTA)** just feel it",
+    "idol":"Solo LEE MINHYUK (HUTA)",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1135016508729348187/SOLM_JF.png",
+    "theme": "BOOM",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SOHT_SD": [
+  {
+    "name":"<:R_:1104449630659428372> **Solo LEE MINHYUK (HUTA)** Shadow",
+    "idol":"Solo LEE MINHYUK (HUTA)",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1135016584314888323/SOLM_SD.png",
+    "theme": "Shadow",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "ZBRC_OS": [
+  {
+    "name":"<:C_:1104449628876841030> **ZEROBASEONE RICKY** Our Season",
+    "idol":"ZEROBASEONE RICKY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1135021208778309703/ZBRC_OS.png",
+    "theme": "Our Season",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "ZBYJ_OS": [
+  {
+    "name":"<:C_:1104449628876841030> **ZEROBASEONE HAN YU JIN** Our Season",
+    "idol":"ZEROBASEONE HAN YU JIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1135021205938769940/ZBHYJ_OS.png",
+    "theme": "Our Season",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "ZBGV_OS": [
+  {
+    "name":"<:C_:1104449628876841030> **ZEROBASEONE KIM GYU VIN** Our Season",
+    "idol":"ZEROBASEONE KIM GYU VIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1135021206324662322/ZBKGV_OS.png",
+    "theme": "Our Season",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "ZBJW_OS": [
+  {
+    "name":"<:C_:1104449628876841030> **ZEROBASEONE KIM JI WOONG** Our Season",
+    "idol":"ZEROBASEONE KIM JI WOONG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1135021206702133418/ZBKJW_OS.png",
+    "theme": "Our Season",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "ZBTR_OS": [
+  {
+    "name":"<:C_:1104449628876841030> **ZEROBASEONE KIM TAE RAE** Our Season",
+    "idol":"ZEROBASEONE KIM TAE RAE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1135021207209660446/ZBKTR_OS.png",
+    "theme": "Our Season",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "ZBGW_OS": [
+  {
+    "name":"<:C_:1104449628876841030> **ZEROBASEONE PARK GUN WOOK** Our Season",
+    "idol":"ZEROBASEONE PARK GUN WOOK",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1135021207696183346/ZBPGW_OS.png",
+    "theme": "Our Season",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "ZBHB_OS": [
+  {
+    "name":"<:C_:1104449628876841030> **ZEROBASEONE SUNG HAN BIN** Our Season",
+    "idol":"ZEROBASEONE SUNG HAN BIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1135021209147428925/ZBSHB_OS.png",
+    "theme": "Our Season",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "ZBMT_OS": [
+  {
+    "name":"<:C_:1104449628876841030> **ZEROBASEONE SEOK MATTHEW** Our Season",
+    "idol":"ZEROBASEONE SEOK MATTHEW",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1135021209487151134/ZBSM_OS.png",
+    "theme": "Our Season",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "ZBZH_OS": [
+  {
+    "name":"<:C_:1104449628876841030> **ZEROBASEONE ZHANG HAO** Our Season",
+    "idol":"ZEROBASEONE ZHANG HAO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1135021209952714892/ZBZH_OS.png",
+    "theme": "Our Season",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "ZBZH_AS": [
+  {
+    "name":"<:R_:1104449630659428372> **ZEROBASEONE ZHANG HAO** Always stay",
+    "idol":"ZEROBASEONE ZHANG HAO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1135021225576501309/ZBZH_AS.png",
+    "theme": "Always",
+    "min": "100",
+    "max": "500"
   }
   ]
 }
