@@ -12729,5 +12729,35 @@
     "min": "100",
     "max": "500"
   }
+  ],
+  "SOLG_RO": [
+  {
+    "name":"<:R_:1104449630659428372> **Solo Lady Gaga** Rain On Me",
+    "idol":"Solo Lady Gaga",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1135031149610160138/SOLG_RO.png",
+    "theme": "Rain On Me (with Ariana Grande)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SOAG_RO": [
+  {
+    "name":"<:R_:1104449630659428372> **Solo Ariana Grande** Rain On Me",
+    "idol":"Solo Ariana Grande",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1135031213694918706/SOAG_RO.png",
+    "theme": "Rain On Me (with Ariana Grande)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SOLG_SL": [
+  {
+    "name":"<:R_:1104449630659428372> **Solo Lady Gaga** Stupid Love",
+    "idol":"Solo Lady Gaga",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1135031933773033623/SOLG_SL.png",
+    "theme": "Stupid Love",
+    "min": "100",
+    "max": "500"
+  }
   ]
 }
