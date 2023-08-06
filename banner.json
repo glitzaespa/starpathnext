@@ -20,7 +20,7 @@
 "AT_BC": [
   {
     "name":"**ATEEZ** BOUNCY (K-HOT CHILLI PEPPERS)",
-    "type":"Basic",
+    "type":"Summer&WinterR",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111566229053561/AT_BC.png",
     "min":"50000",
     "max":"75000"
@@ -29,7 +29,7 @@
   "BP_SD": [
   {
     "name":"**BLACKPINK** Shut Down",
-    "type":"Basic",
+    "type":"Summer&WinterD",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111566652686357/BP_SD.png",
     "min":"50000",
     "max":"75000"
@@ -38,7 +38,7 @@
   "BY_RN": [
   {
     "name":"**Beyoncé** RENAISSANCE",
-    "type":"Basic",
+    "type":"Summer&WinterR",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111567072108565/BY_RN.png",
     "min":"50000",
     "max":"75000"
@@ -65,7 +65,7 @@
     "EN_BM": [
   {
     "name":"**ENHYPEN** Bite Me",
-    "type":"Basic",
+    "type":"Summer&WinterR",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111568401711294/EN_BM.png",
     "min":"50000",
     "max":"75000"
@@ -119,7 +119,7 @@
     "ID_QC": [
   {
     "name":"**(G)I-DLE** Queencard",
-    "type":"Basic",
+    "type":"Summer&WinterR",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111585334112317/ID_QC.png",
     "min":"50000",
     "max":"75000"
@@ -137,7 +137,7 @@
       "IV_IA": [
   {
     "name":"**IVE** I AM",
-    "type":"Basic",
+    "type":"Summer&WinterD",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111585975832657/IV_IA.png",
     "min":"50000",
     "max":"75000"
@@ -191,7 +191,7 @@
        "NJ_DT": [
   {
     "name":"**NewJeans** Ditto",
-    "type":"Basic",
+    "type":"Summer&WinterD",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111603138936912/NJ_DT.png",
     "min":"50000",
     "max":"75000"
@@ -200,7 +200,7 @@
        "P1_JM": [
   {
     "name":"**P1Harmony** JUMP",
-    "type":"Basic",
+    "type":"Summer&WinterR",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111603487055995/P1_JM.png",
     "min":"50000",
     "max":"75000"
@@ -227,7 +227,7 @@
        "TX_TM": [
   {
     "name":"**TOMORROW X TOGETHER** The Name Chapter: TEMPTATION",
-    "type":"Basic",
+    "type":"Summer&WinterD",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111604900544512/TX_TM.png",
     "min":"50000",
     "max":"75000"
@@ -236,7 +236,7 @@
        "VV_BB": [
   {
     "name":"**VIVIZ** BOP BOP!",
-    "type":"Basic",
+    "type":"Summer&WinterR",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111605257052170/VI_BB.png",
     "min":"50000",
     "max":"75000"
