@@ -591,50 +591,50 @@
   ],
   "LSHE_EP": [
   {
-    "name":"<:C_:1104449628876841030> **LE SSERAFIM HONG EUNCHAE** Eve, Psyche & The Bluebeard's Wife",
+    "name":"<:C_:1104449628876841030> **LE SSERAFIM HONG EUNCHAE** Eve, Psyche & the Bluebeard's wife",
     "idol":"LE SSERAFIM HONG EUNCHAE",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112142236168224768/LSHE_EP.png",
-    "theme": "Eve, Psyche & The Bluebeard's Wife",
+    "theme": "Eve, Psyche & the Bluebeard's wife",
     "min": "0",
     "max": "100"
   }
   ],
   "LSHY_EP": [
   {
-    "name":"<:C_:1104449628876841030> **LE SSERAFIM HUH YUNJIN** Eve, Psyche & The Bluebeard's Wife",
+    "name":"<:C_:1104449628876841030> **LE SSERAFIM HUH YUNJIN** Eve, Psyche & the Bluebeard's wife",
     "idol":"LE SSERAFIM HUH YUNJIN",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112142236604436641/LSHY_EP.png",
-    "theme": "Eve, Psyche & The Bluebeard's Wife",
+    "theme": "Eve, Psyche & the Bluebeard's wife",
     "min": "0",
     "max": "100"
   }
   ],
   "LSKC_EP": [
   {
-    "name":"<:C_:1104449628876841030> **LE SSERAFIM KIM CHAEWON** Eve, Psyche & The Bluebeard's Wife",
+    "name":"<:C_:1104449628876841030> **LE SSERAFIM KIM CHAEWON** Eve, Psyche & the Bluebeard's wife",
     "idol":"LE SSERAFIM KIM CHAEWON",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112142237086797896/LSKC_EP.png",
-    "theme": "Eve, Psyche & The Bluebeard's Wife",
+    "theme": "Eve, Psyche & the Bluebeard's wife",
     "min": "0",
     "max": "100"
   }
   ],
   "LSKZ_EP": [
   {
-    "name":"<:C_:1104449628876841030> **LE SSERAFIM KAZUHA** Eve, Psyche & The Bluebeard's Wife",
+    "name":"<:C_:1104449628876841030> **LE SSERAFIM KAZUHA** Eve, Psyche & the Bluebeard's wife",
     "idol":"LE SSERAFIM KAZUHA",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112142237506207805/LSKZ_EP.png",
-    "theme": "Eve, Psyche & The Bluebeard's Wife",
+    "theme": "Eve, Psyche & the Bluebeard's wife",
     "min": "0",
     "max": "100"
   }
   ],
   "LSSK_EP": [
   {
-    "name":"<:C_:1104449628876841030> **LE SSERAFIM SAKURA** Eve, Psyche & The Bluebeard's Wife",
+    "name":"<:C_:1104449628876841030> **LE SSERAFIM SAKURA** Eve, Psyche & the Bluebeard's wife",
     "idol":"LE SSERAFIM SAKURA",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112142237904687215/LSSA_EP.png",
-    "theme": "Eve, Psyche & The Bluebeard's Wife",
+    "theme": "Eve, Psyche & the Bluebeard's wife",
     "min": "0",
     "max": "100"
   }
@@ -13540,6 +13540,126 @@
     "theme": "야간비행 (Turbulence)",
     "min": "500",
     "max": "1000"
+  }
+  ],
+    "LSHE_IW": [
+  {
+    "name":"<:C_:1104449628876841030> **LE SSERAFIM HONG EUNCHAE** I wish for what's forbbiden",
+    "idol":"LE SSERAFIM HONG EUNCHAE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1137585004239650856/LSHE_IW.png",
+    "theme": "Eve, Psyche & the Bluebeard's wife (Rina Sawayama Remix)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "LSHY_IW": [
+  {
+    "name":"<:C_:1104449628876841030> **LE SSERAFIM HUH YUNJIN** I wish for what's forbbiden",
+    "idol":"LE SSERAFIM HUH YUNJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1137585004612952086/LSHY_IW.png",
+    "theme": "Eve, Psyche & the Bluebeard's wife (Rina Sawayama Remix)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "LSKC_IW": [
+  {
+    "name":"<:C_:1104449628876841030> **LE SSERAFIM KIM CHAEWON** I wish for what's forbbiden",
+    "idol":"LE SSERAFIM KIM CHAEWON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1137585005137231963/LSKC_IW.png",
+    "theme": "Eve, Psyche & the Bluebeard's wife (Rina Sawayama Remix)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "LSKZ_IW": [
+  {
+    "name":"<:C_:1104449628876841030> **LE SSERAFIM KAZUHA** I wish for what's forbbiden",
+    "idol":"LE SSERAFIM KAZUHA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1137585005539889252/LSKZ_IW.png",
+    "theme": "Eve, Psyche & the Bluebeard's wife (Rina Sawayama Remix)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "LSSK_IW": [
+  {
+    "name":"<:C_:1104449628876841030> **LE SSERAFIM SAKURA** I wish for what's forbbiden",
+    "idol":"LE SSERAFIM SAKURA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1137585006001266808/LSSA_IW.png",
+    "theme": "Eve, Psyche & the Bluebeard's wife (Rina Sawayama Remix)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+    "LSHE_IA": [
+  {
+    "name":"<:R_:1104449630659428372> **LE SSERAFIM HONG EUNCHAE** I'm a mess in distress",
+    "idol":"LE SSERAFIM HONG EUNCHAE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1137584938741399602/LSHE_IM.png",
+    "theme": "Eve, Psyche & the Bluebeard's wife (ft. Demi Lovato)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "LSHY_IA": [
+  {
+    "name":"<:R_:1104449630659428372> **LE SSERAFIM HUH YUNJIN** I'm a mess in distress",
+    "idol":"LE SSERAFIM HUH YUNJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1137584939160842300/LSHY_IM.png",
+    "theme": "Eve, Psyche & the Bluebeard's wife (ft. Demi Lovato)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "LSKC_IA": [
+  {
+    "name":"<:R_:1104449630659428372> **LE SSERAFIM KIM CHAEWON** I'm a mess in distress",
+    "idol":"LE SSERAFIM KIM CHAEWON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1137584939492179988/LSKC_IM.png",
+    "theme": "Eve, Psyche & the Bluebeard's wife (ft. Demi Lovato)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "LSKZ_IA": [
+  {
+    "name":"<:R_:1104449630659428372> **LE SSERAFIM KAZUHA** I'm a mess in distress",
+    "idol":"LE SSERAFIM KAZUHA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1137584939827728474/LSKZ_IM.png",
+    "theme": "Eve, Psyche & the Bluebeard's wife (ft. Demi Lovato)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "LSSK_IA": [
+  {
+    "name":"<:R_:1104449630659428372> **LE SSERAFIM SAKURA** I'm a mess in distress",
+    "idol":"LE SSERAFIM SAKURA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1137584940180058252/LSSA_IM.png",
+    "theme": "Eve, Psyche & the Bluebeard's wife (ft. Demi Lovato)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SODL_EP": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **Solo Demi Lovato** Eve, Psyche & the Bluebeard's wife",
+    "idol":"Solo Demi Lovato",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1137584031295340574/SODL_EP.png",
+    "theme": "Eve, Psyche & the Bluebeard's wife (ft. Demi Lovato)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SORS_EP": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **Solo Rina Sawayama** Eve, Psyche & the Bluebeard's wife",
+    "idol":"Solo Rina Sawayama",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1137583893281787925/SORS_EP.png",
+    "theme": "Eve, Psyche & the Bluebeard's wife (Rina Sawayama Remix)",
+    "min": "0",
+    "max": "100"
   }
   ]
 }
