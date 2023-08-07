@@ -13661,5 +13661,175 @@
     "min": "0",
     "max": "100"
   }
+  ],
+    "LOCH_SH": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> <:icon_summer:1134906996148162742> **LOONA Chuu** Say hi",
+    "idol":"LOONA Chuu",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1134905002759032942/LOCH_SH.png",
+    "theme": "Hi High",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "LOCR_SH": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> <:icon_summer:1134906996148162742> **LOONA Choerry** Say hi",
+    "idol":"LOONA Choerry",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1134905003136532550/LOCR_SH.png",
+    "theme": "Hi High",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "LOGW_SH": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> <:icon_summer:1134906996148162742> **LOONA Go Won** Say hi",
+    "idol":"LOONA Go Won",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1134905003669196800/LOGW_SH.png",
+    "theme": "Hi High",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "LOHJ_SH": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> <:icon_summer:1134906996148162742> **LOONA HeeJin** Say hi",
+    "idol":"LOONA HeeJin",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1134905004080250931/LOHJ_SH.png",
+    "theme": "Hi High",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "LOHS_SH": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> <:icon_summer:1134906996148162742> **LOONA HaSeul** Say hi",
+    "idol":"LOONA HaSeul",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1134905004411605102/LOHS_SH.png",
+    "theme": "Hi High",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "LOHY_SH": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> <:icon_summer:1134906996148162742> **LOONA HyunJin** Say hi",
+    "idol":"LOONA HyunJin",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1134905004721979503/LOHY_SH.png",
+    "theme": "Hi High",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "LOJS_SH": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> <:icon_summer:1134906996148162742> **LOONA JinSoul** Say hi",
+    "idol":"LOONA JinSoul",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1134905006202572850/LOJS_SH.png",
+    "theme": "Hi High",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "LOKL_SH": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> <:icon_summer:1134906996148162742> **LOONA Kim Lip** Say hi",
+    "idol":"LOONA Kim Lip",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1134905006877839422/LOKL_SH.png",
+    "theme": "Hi High",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "LOOH_SH": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> <:icon_summer:1134906996148162742> **LOONA Olivia Hye** Say hi",
+    "idol":"LOONA Olivia Hye",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1134905007339225199/LOOH_SH.png",
+    "theme": "Hi High",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "LOVV_SH": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> <:icon_summer:1134906996148162742> **LOONA ViVi** Say hi",
+    "idol":"LOONA ViVi",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1134905007674773514/LOVV_SH.png",
+    "theme": "Hi High",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "LOYJ_SH": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> <:icon_summer:1134906996148162742> **LOONA YeoJin** Say hi",
+    "idol":"LOONA YeoJin",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1134905029896179712/LOYJ_SH.png",
+    "theme": "Hi High",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "LOYV_SH": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> <:icon_summer:1134906996148162742> **LOONA Yves** Say hi",
+    "idol":"LOONA Yves",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1134905030210748427/LOYV_SH.png",
+    "theme": "Hi High",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+    "ITYJ_CH": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> <:icon_summer:1134906996148162742> **ITZY YEJI** CHERRY",
+    "idol":"ITZY YEJI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1134877347913400320/ITYJ_CR.png",
+    "theme": "CHERRY",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ITLI_CH": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> <:icon_summer:1134906996148162742> **ITZY LIA** CHERRY",
+    "idol":"ITZY LIA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1134877347024224337/ITLI_CR.png",
+    "theme": "CHERRY",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ITRJ_CH": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> <:icon_summer:1134906996148162742> **ITZY RYUJIN** CHERRY",
+    "idol":"ITZY RYUJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1134877347477213194/ITRJ_CR.png",
+    "theme": "CHERRY",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ITCR_CH": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> <:icon_summer:1134906996148162742> **ITZY CHAERYEONG** CHERRY",
+    "idol":"ITZY CHAERYEONG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1134877346554445904/ITCR_CR.png",
+    "theme": "CHERRY",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ITYN_CH": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> <:icon_summer:1134906996148162742> **ITZY YUNA** CHERRY",
+    "idol":"ITZY YUNA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1134877348353818764/ITYN_CR.png",
+    "theme": "CHERRY",
+    "min": "200",
+    "max": "750"
+  }
   ]
 }
