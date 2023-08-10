@@ -13831,5 +13831,185 @@
     "min": "200",
     "max": "750"
   }
+  ],
+  "SONM_BW": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_summer:1134906996148162742> <:badge_special:1107422313466576937> **Solo Nicki Minaj** Barbie World",
+    "idol":"Solo Nicki Minaj",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1138564676335194352/SONM_BW.png",
+    "theme": "Barbie World (with Aqua) [From Barbie The Album]",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOIS_BW": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_summer:1134906996148162742> <:badge_special:1107422313466576937> **Solo Ice Spice** Barbie World",
+    "idol":"Solo Ice Spice",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1138564712745939024/SOIS_BW.png",
+    "theme": "Barbie World (with Aqua) [From Barbie The Album]",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOWH_DH": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_summer:1134906996148162742> <:badge_special:1107422313466576937> **Solo WONHO** Don't hesitate",
+    "idol":"Solo WONHO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1138572560699760841/SOWH_DHI.png",
+    "theme": "Don't hesitate",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SODL_CI": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_summer:1134906996148162742> <:badge_special:1107422313466576937> **Solo Demi Lovato** 'cuz I'm your body type",
+    "idol":"Solo Demi Lovato",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1138574285611479150/SODL_CZ.png",
+    "theme": "Cool for the Summer (Rock Version)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SODL_WG": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_summer:1134906996148162742> <:badge_special:1107422313466576937> **Solo Dua Lipa** We're Good",
+    "idol":"Solo Dua Lipa",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1138576922918535219/SODL_WG.png",
+    "theme": "We're Good",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOHL_SS": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_summer:1134906996148162742> <:badge_special:1107422313466576937> **Solo HYOLYN** SEE SEA",
+    "idol":"Solo HYOLYN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1138259878897528852/hyolyn_see_sea.png",
+    "theme": "SEE SEA(바다보러갈래)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOCH_LM": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_summer:1134906996148162742> <:badge_special:1107422313466576937> **Solo CHUNG HA** Lemon",
+    "idol":"Solo CHUNG HA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1138986340260782191/SOCH_LM.png",
+    "theme": "Lemon (feat. Colde)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "NMLL_PO": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_summer:1134906996148162742> <:badge_special:1107422313466576937> **NMIXX LILY** Party O'Clock",
+    "idol":"NMIXX LILY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1133995158396993576/lily.png",
+    "theme": "Party O'Clock",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "NMHW_PO": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_summer:1134906996148162742> <:badge_special:1107422313466576937> **NMIXX HAEWON** Party O'Clock",
+    "idol":"NMIXX HAEWON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1133995158912901250/poc_haewon.png",
+    "theme": "Party O'Clock",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "NMSY_PO": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_summer:1134906996148162742> <:badge_special:1107422313466576937> **NMIXX SULLYOON** Party O'Clock",
+    "idol":"NMIXX SULLYOON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1133995159323951165/poc_sullyoon.png",
+    "theme": "Party O'Clock",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "NMBA_PO": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_summer:1134906996148162742> <:badge_special:1107422313466576937> **NMIXX BAE** Party O'Clock",
+    "idol":"NMIXX BAE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1133995159793696809/poc_bae.png",
+    "theme": "Party O'Clock",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "NMJW_PO": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_summer:1134906996148162742> <:badge_special:1107422313466576937> **NMIXX JIWOO** Party O'Clock",
+    "idol":"NMIXX JIWOO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1133995160259272795/poc_jiwoo.png",
+    "theme": "Party O'Clock",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "NMKJ_PO": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_summer:1134906996148162742> <:badge_special:1107422313466576937> **NMIXX KYUJIN** Party O'Clock",
+    "idol":"NMIXX KYUJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1133995160632574063/poc_kyujin.png",
+    "theme": "Party O'Clock",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ITYJ_IS": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_summer:1134906996148162742> <:badge_special:1107422313466576937> **ITZY YEJI** IT'z SUMMER",
+    "idol":"ITZY YEJI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1133648224570318888/itz_yeji.png",
+    "theme": "IT'z SUMMER",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ITLI_IS": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_summer:1134906996148162742> <:badge_special:1107422313466576937> **ITZY LIA** IT'z SUMMER",
+    "idol":"ITZY LIA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1133648225090420776/itz_lia.png",
+    "theme": "IT'z SUMMER",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ITRJ_IS": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_summer:1134906996148162742> <:badge_special:1107422313466576937> **ITZY RYUJIN** IT'z SUMMER",
+    "idol":"ITZY RYUJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1133648225585344614/itz_ryujin.png",
+    "theme": "IT'z SUMMER",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ITCR_IS": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_summer:1134906996148162742> <:badge_special:1107422313466576937> **ITZY CHAERYEONG** IT'z SUMMER",
+    "idol":"ITZY CHAERYEONG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1133648226050908231/itz_chaeryeong.png",
+    "theme": "IT'z SUMMER",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ITYJ_IS": [
+  {
+    "name":"<:R_:1104449630659428372> <:icon_summer:1134906996148162742> <:badge_special:1107422313466576937> **ITZY YUNA** IT'z SUMMER",
+    "idol":"ITZY YUNA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1133648226684256286/itz_yuna.png",
+    "theme": "IT'z SUMMER",
+    "min": "200",
+    "max": "750"
+  }
   ]
 }
