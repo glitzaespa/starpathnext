@@ -15151,5 +15151,295 @@
     "min": "200",
     "max": "750"
   }
+  ],
+    "XDGA_1L": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Xdinary Heroes Gaon** 1st Look [2022]",
+    "idol":"Xdinary Heroes Gaon",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123851526314655794/Gaon_-_1st_Look.png",
+    "theme": "Strawberry Cake",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "XDGI_1L": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Xdinary Heroes Gun-il** 1st Look [2022]",
+    "idol":"Xdinary Heroes Gun-il",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123851526960590888/Gun-il_-_1st_Look.png",
+    "theme": "Strawberry Cake",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "XDJY_1L": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Xdinary Heroes Jooyeon** 1st Look [2022]",
+    "idol":"Xdinary Heroes Jooyeon",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123851527350665216/Jooyeon_-_1st_Look.png",
+    "theme": "Strawberry Cake",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "XDJH_1L": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Xdinary Heroes Jun Han** 1st Look [2022]",
+    "idol":"Xdinary Heroes Jun Han",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123851527816216576/Jun_Han_-_1st_Look.png",
+    "theme": "Strawberry Cake",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "XDJS_1L": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Xdinary Heroes Jungsu** 1st Look [2022]",
+    "idol":"Xdinary Heroes Jungsu",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123851528189522020/Jungsu_-_1st_Look.png",
+    "theme": "Strawberry Cake",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "XDOD_1L": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Xdinary Heroes O.de** 1st Look [2022]",
+    "idol":"Xdinary Heroes O.de",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123851528592179260/O.de_-_1st_Look.png",
+    "theme": "Strawberry Cake",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+        "ATHJ_ZP": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **ATEEZ HONG JOONG** Zipper [2023]",
+    "idol":"ATEEZ HONG JOONG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123851137875972117/HONG_JOONG_-_Zipper.png",
+    "theme": "Guerrilla",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+ "ATJH_ZP": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **ATEEZ JONG HO** Zipper [2023]",
+    "idol":"ATEEZ JONG HO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123851138345738290/JONG_HO_-_Zipper.png",
+    "theme": "Guerrilla",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+   "ATMG_ZP": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **ATEEZ MIN GI** Zipper [2023]",
+    "idol":"ATEEZ MIN GI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123851138857447434/MIN_GI_-_Zipper.png",
+    "theme": "Guerrilla",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+     "ATSA_ZP": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **ATEEZ SAN** Zipper [2023]",
+    "idol":"ATEEZ SAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123851139230732418/SAN_-_Zipper.png",
+    "theme": "Guerrilla",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+     "ATSH_ZP": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **ATEEZ SEONG HWA** Zipper [2023]",
+    "idol":"ATEEZ SEONG HWA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123851139700498472/SEONG_HWA_-_Zipper.png",
+    "theme": "Guerrilla",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+     "ATWY_ZP": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **ATEEZ WOO YOUNG** Zipper [2023]",
+    "idol":"ATEEZ WOO YOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123851140237373450/WOO_YOUNG_-_Zipper.png",
+    "theme": "Guerrilla",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+     "ATYS_ZP": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **ATEEZ YEO SANG** Zipper [2023]",
+    "idol":"ATEEZ YEO SANG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123851140686155857/YEO_SANG_-_Zipper.png",
+    "theme": "Guerrilla",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+     "ATYH_ZP": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **ATEEZ YUN HO** Zipper [2023]",
+    "idol":"ATEEZ YUN HO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123851141080424499/YUN_HO_-_Zipper.png",
+    "theme": "Guerrilla",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "BMSM_RM": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **BABYMETAL SU-METAL** REVOLVER Magazine [2019]",
+    "idol":"BABYMETAL SU-METAL",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123850957663502396/SU-METAL_-_REVOLVER_R.png",
+    "theme": "Elevator Girl",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "BMMM_RM": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **BABYMETAL MOAMETAL** REVOLVER Magazine [2019]",
+    "idol":"BABYMETAL MOAMETAL",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1123850958171021372/MOAMETAL_-_REVOLVER_R.png",
+    "theme": "Elevator Girl",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+      "NJMJ_HS": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **NewJeans MINJI** Highsnobiety Magazine [2023]",
+    "idol":"NewJeans MINJI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1120207581357559898/STARPATH_20230619162403.png",
+    "theme": "Ditto",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "NJHN_HS": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **NewJeans HANNI** Highsnobiety Magazine [2023]",
+    "idol":"NewJeans HANNI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1120207580032159794/STARPATH_20230619162428.png",
+    "theme": "Ditto",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "NJDN_HS": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **NewJeans DANIELLE** Highsnobiety Magazine [2023]",
+    "idol":"NewJeans DANIELLE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1120207580610965554/STARPATH_20230619162416.png",
+    "theme": "Ditto",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "NJHR_HS": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **NewJeans HAERIN** Highsnobiety Magazine [2023]",
+    "idol":"NewJeans HAERIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1120207579549806632/STARPATH_20230619162436.png",
+    "theme": "Ditto",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+    "NJHY_HS": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **NewJeans HYEIN** Highsnobiety Magazine [2023]",
+    "idol":"NewJeans HYEIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1120207578962595850/STARPATH_20230619162443.png",
+    "theme": "Ditto",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+   "TNCL_FM": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **2NE1 CL** FAULT Magazine [2012]",
+    "idol":"2NE1 CL",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1119222985816023112/fault_cl.png",
+    "theme": "I AM THE BEST",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+ "TNBO_FM": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **2NE1 Bom** FAULT Magazine [2012]",
+    "idol":"2NE1 Bom",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1119222986642305095/fault_bom.png",
+    "theme": "I AM THE BEST",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+   "TNDR_FM": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **2NE1 Dara** FAULT Magazine [2012]",
+    "idol":"2NE1 Dara",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1119222987443412992/fault_dara.png",
+    "theme": "I AM THE BEST",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+     "TNMZ_FM": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **2NE1 Minzy** FAULT Magazine [2012]",
+    "idol":"2NE1 Minzy",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1119222988055785563/fault_minzy.png",
+    "theme": "I AM THE BEST",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOAG_AL": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **Solo Ariana Grande** Allure [2021]",
+    "idol":"Solo Ariana Grande",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1118394869359063070/AGAL_21.png",
+    "theme": "positions",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "SOSG_VK": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Solo SEULGI** Vogue Korea [2022]",
+    "idol":"Solo SEULGI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1118377911523754034/seulgi.png",
+    "theme": "Anywhere But Home",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "EXSE_EK": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **EXO SEHUN** ELLE Korea [2022]",
+    "idol":"EXO SEHUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1118377734100492338/sehun.png",
+    "theme": "Tempo",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOJN_VJ": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **Solo JENNIE** Vogue Japan [2023]",
+    "idol":"Solo JENNIE",
+    "image": "https://cdn.discordapp.com/attachments/1106345119667470448/1139665977433399486/jennie_voguejapan.png",
+    "theme": "SOLO",
+    "min": "0",
+    "max": "200"
+  }
   ]
 }
