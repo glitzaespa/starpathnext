@@ -15441,5 +15441,115 @@
     "min": "0",
     "max": "200"
   }
+  ],
+  "NMHW_DK": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **NMIXX HAEWON** DAZED Korea [2022]",
+    "idol":"NMIXX HAEWON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1118367780866101288/dk_haewon.png",
+    "theme": "O.O",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "NMSY_DK": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **NMIXX SULLYOON** DAZED Korea [2022]",
+    "idol":"NMIXX SULLYOON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1118367781277147176/dk_sullyoon.png",
+    "theme": "O.O",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "NMJN_DK": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **NMIXX JINNI** DAZED Korea [2022]",
+    "idol":"NMIXX JINNI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1118367781713363024/dk_jinni.png",
+    "theme": "O.O",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "NMJW_DK": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **NMIXX JIWOO** DAZED Korea [2022]",
+    "idol":"NMIXX JIWOO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1118367782640296028/dk_jiwoo.png",
+    "theme": "O.O",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+"NMLL_DK": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **NMIXX LILY** DAZED Korea [2022]",
+    "idol":"NMIXX LILY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1118367780459266109/dk_lily.png",
+    "theme": "O.O",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "NMKJ_DK": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **NMIXX KYUJIN** DAZED Korea [2022]",
+    "idol":"NMIXX KYUJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1118367783336558612/dk_kyujin.png",
+    "theme": "O.O",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+    "NMBA_DK": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **NMIXX BAE** DAZED Korea [2022]",
+    "idol":"NMIXX BAE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1118367782128586782/dk_bae.png",
+    "theme": "O.O",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "SOBH_WK": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **Solo BAEKHYUN** W Korea [2020]",
+    "idol":"Solo BAEKHYUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1118306465439027310/baekhyun_c.png",
+    "theme": "Ice Queen",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "SODL_GQ": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **Solo Demi Lovato** GQ HYPE [2023]",
+    "idol":"Solo Demi Lovato",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1118281295810801794/SODL_GQ.png",
+    "theme": "29",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "SOWH_D22": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Solo WONHO** DAZED Korea x Calvin Klein Jeans [2022]",
+    "idol":"Solo WONHO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1139223017113788486/SOWH_D22.png",
+    "theme": "Don't Regret",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOWH_D21": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **Solo WONHO** DAZED Korea [2021]",
+    "idol":"Solo WONHO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1139222949719715990/SOWH_D21.png",
+    "theme": "BLUE",
+    "min": "200",
+    "max": "750"
+  }
   ]
 }
