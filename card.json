@@ -16741,5 +16741,15 @@
     "min": "0",
     "max": "100"
   }
+  ],
+  "TBJY_S23I": [
+  {
+    "name":"<:SS:1128568264000278590> <:icon_summer:1134906996148162742> <:badge_special:1107422313466576937> **THE BOYZ JUYEON** Summer 2023 I",
+    "idol":"THE BOYZ JUYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1140368083194753244/TBJY_S23I.png",
+    "theme": "LIP GLOSS",
+    "min": "2000",
+    "max": "2500"
+  }
   ]
 }
