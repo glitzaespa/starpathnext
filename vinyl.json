@@ -114,5 +114,113 @@
     "type_2":"White and Grey Marble",
     "type_2_image":"https://cdn.discordapp.com/attachments/1106345119667470448/1136845981254688798/banner_evepsyche_color.png"
   }
+  ],
+        "hatexx": [
+  {
+    "name":"HATE XX",
+    "artist":"YENA",
+    "type_1":"Standard Black",
+    "type_1_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1131303270938325072/hate_black.png",
+    "type_2":"Hot Pink Colored",
+    "type_2_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1131303271240318986/hate_color.png",
+    "type_3":"Picture Disc + Alternate Cover",
+    "type_3_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1131303271508742274/hate_alt.png"
+  }
+  ],
+          "youthintheshade": [
+  {
+    "name":"YOUTH IN THE SHADE",
+    "artist":"ZEROBASEONE",
+    "type_1":"Standard Black",
+    "type_1_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1131303190021808188/zb1_black.png",
+    "type_2":"Baby Blue Colored",
+    "type_2_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1131303190319599637/zb1_color.png",
+    "type_3":"Picture Disc + Alternate Cover",
+    "type_3_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1131303190625779722/zb1_alt.png"
+  }
+  ],
+          "versionup": [
+  {
+    "name":"Version Up",
+    "artist":"ODD EYE CIRCLE",
+    "type_1":"Standard Black",
+    "type_1_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1131303062951166064/oec_black.png",
+    "type_2":"Light Rose Pink Colored",
+    "type_2_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1131303063265755176/oec_color.png",
+    "type_3":"Picture Disc + Alternate Cover",
+    "type_3_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1131303063639031828/oec_alt.png"
+  }
+  ],
+          "versionup": [
+  {
+    "name":"HARD",
+    "artist":"SHINee",
+    "type_1":"Standard Black",
+    "type_1_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1131302915827581069/hard_black.png",
+    "type_2":"Sky Blue Colored",
+    "type_2_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1131302916150526043/hard_color.png",
+    "type_3":"Picture Disc + Alternate Cover",
+    "type_3_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1131302916431552562/hard_alt.png"
+  }
+  ],
+            "allin": [
+  {
+    "name":"HARMONY : ALL IN",
+    "artist":"P1Harmony",
+    "type_1":"Standard Black",
+    "type_1_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1131302824341418074/harmony_black.png",
+    "type_2":"Sunshine Yellow Colored",
+    "type_2_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1131302824635027600/harmony_color.png",
+    "type_3":"Picture Disc + Alternate Cover",
+    "type_3_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1131302825029279784/harmony_alt.png"
+  }
+  ],
+            "ifeel": [
+  {
+    "name":"I feel",
+    "artist":"(G)I-DLE",
+    "type_1":"Standard Black",
+    "type_1_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1131302227974307972/i_feel_black.png",
+    "type_2":"Light Pink Colored",
+    "type_2_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1131302228427288586/i_feel_color.png",
+    "type_3":"Picture Disc + Alternate Cover",
+    "type_3_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1131302228771209316/i_feel_alt.png"
+  }
+  ],
+            "unforgiven": [
+  {
+    "name":"UNFORGIVEN",
+    "artist":"LE SSERAFIM",
+    "type_1":"Standard Black",
+    "type_1_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1131209693591781558/unf_black.png",
+    "type_2":"Crimson Red Colored",
+    "type_2_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1131209694027976765/unf_color.png",
+    "type_3":"Picture Disc + Alternate Cover",
+    "type_3_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1131209694338367599/unf_alt.png"
+  }
+  ],
+            "perfume": [
+  {
+    "name":"PERFUME",
+    "artist":"DOJAEJUNG",
+    "type_1":"Standard Black",
+    "type_1_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1131209414083346523/perfume_black.png",
+    "type_2":"Silver Colored",
+    "type_2_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1131209414548926544/perfume_color.png",
+    "type_3":"Picture Disc + Alternate Cover",
+    "type_3_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1131209415073222768/perfume_alt.png"
+  }
+  ],
+            "self": [
+  {
+    "name":"SELF",
+    "artist":"Apink",
+    "type_1":"Standard Black",
+    "type_1_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1131209219807379476/self_black.png",
+    "type_2":"Rose Pink Colored",
+    "type_2_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1131209220172296424/self_color.png",
+    "type_3":"Picture Disc + Alternate Cover",
+    "type_3_image":"https://cdn.discordapp.com/attachments/1104448142209990687/1131209220495245352/self_alt.png"
+  }
   ]
 }
