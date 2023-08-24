@@ -16751,5 +16751,35 @@
     "min": "2000",
     "max": "2500"
   }
+  ],
+ "MSMM_RY": [
+  {
+    "name":"<:R_:1104449630659428372> **MISAMO MOMO** Rewind You",
+    "idol":"MISAMO MOMO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1142541312139198484/STARPATH_R38_20230819162938.png",
+    "theme": "Rewind You",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "MSSN_RY": [
+  {
+    "name":"<:R_:1104449630659428372> **MISAMO SANA** Rewind You",
+    "idol":"MISAMO SANA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1142541311774310451/STARPATH_R38_20230819162815.png",
+    "theme": "Rewind You",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "MSMN_RY": [
+  {
+    "name":"<:R_:1104449630659428372> **MISAMO MINA** Rewind You",
+    "idol":"MISAMO MINA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1142541311384236113/STARPATH_R38_20230819162847.png",
+    "theme": "Rewind You",
+    "min": "100",
+    "max": "500"
+  }
   ]
 }
