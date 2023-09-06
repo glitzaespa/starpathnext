@@ -17658,8 +17658,8 @@
     "idol":"Soloist beabadoobee",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1139323996597403658/jtbg_bea.png",
     "theme": "just the bigger guy",
-    "min: "0",
-    "min: "100",
+    "min": "0",
+    "max": "100"
   }
   ],
 "SOBB_TW": [
@@ -17668,8 +17668,8 @@
     "idol":"Soloist beabadoobee",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1139324134959108146/twtg_bea.png",
     "theme": "the way things go",
-    "min: "100",
-    "min: "500",
+    "min": "100",
+    "max": "500"
   }
   ],
 "SOLF_FT": [
@@ -17678,8 +17678,8 @@
     "idol":"Soloist Laufey",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1147344797057687652/lf_fts.png",
     "theme": "From the Start",
-    "min: "100",
-    "min: "500",
+    "min": "100",
+    "max": "500"
   }
   ],
 "SOLF_CI": [
@@ -17688,8 +17688,8 @@
     "idol":"Soloist Laufey",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1147344734730330112/lf_cily.png",
     "theme": "From the Start",
-    "min: "0",
-    "min: "100",
+    "min": "0",
+    "max": "100"
   }
   ]
 }
