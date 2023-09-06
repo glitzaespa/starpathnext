@@ -17651,5 +17651,45 @@
     "min": "0",
     "max": "100"
   }
+  ],
+  "SOBB_JT": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist beabadoobee** just the bigger guy",
+    "idol":"Soloist beabadoobee",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1139323996597403658/jtbg_bea.png",
+    "theme": "just the bigger guy",
+    "min: "0",
+    "min: "100",
+  }
+  ],
+"SOBB_TW": [
+  {
+    "name":"<:R:1104449630659428372> **Soloist beabadoobee** the way things go",
+    "idol":"Soloist beabadoobee",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1139324134959108146/twtg_bea.png",
+    "theme": "the way things go",
+    "min: "100",
+    "min: "500",
+  }
+  ],
+"SOLF_FT": [
+  {
+    "name":"<:R:1104449630659428372> **Soloist Laufey** From the Start",
+    "idol":"Soloist Laufey",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1147344797057687652/lf_fts.png",
+    "theme": "From the Start",
+    "min: "100",
+    "min: "500",
+  }
+  ],
+"SOLF_CI": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist Laufey** confess I loved you",
+    "idol":"Soloist Laufey",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1147344734730330112/lf_cily.png",
+    "theme": "From the Start",
+    "min: "0",
+    "min: "100",
+  }
   ]
 }
