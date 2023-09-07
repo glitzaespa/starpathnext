@@ -17691,5 +17691,525 @@
     "min": "0",
     "max": "100"
   }
+  ],
+  "TCTC_EI": [
+  {
+    "name":"<:C_:1104449628876841030> **THE CARTERS** EVERYTHING IS LOVE",
+    "idol":"THE CARTERS",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149482623383654400/TCTC_EI.png",
+    "theme": "APESH*T",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"SONM_LT": [
+  {
+    "name":"<:R:1104449630659428372> **Soloist Nicki Minaj** Last Time I Saw You",
+    "idol":"Soloist Nicki Minaj",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149482543847059556/SONM_LT.png",
+    "theme": "Last Time I Saw You",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+"SOIS_DL": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist Ice Spice** Deli",
+    "idol":"Soloist Ice Spice",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149482464708927548/SOIS_DL.png",
+    "theme": "Deli",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"SODC_PT": [
+  {
+    "name":"<:R:1104449630659428372> **Soloist Doja Cat** Paint The Town Red",
+    "idol":"Soloist Doja Cat",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149482381384888401/SODC_PT.png",
+    "theme": "Paint The Town Red",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+"SOCH_LM": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist Chlöe** Love me",
+    "idol":"Soloist Chlöe",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149482305035968534/SOCH_LM.png",
+    "theme": "Treat Me",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"SOCH_TM": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist Chlöe** Treat Me",
+    "idol":"Soloist Chlöe",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149482263671746651/SOCH_TM.png",
+    "theme": "Treat Me",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"SOCB_UP": [
+  {
+    "name":"<:R:1104449630659428372> **Soloist Cardi B** Up",
+    "idol":"Soloist Cardi B",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149482134931779644/SOCB_UP.png",
+    "theme": "Treat Me",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+"SOKM_SS": [
+  {
+    "name":"<:R:1104449630659428372> **Soloist Kylie Minogue** Say Something",
+    "idol":"Soloist Kylie Minogue",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149120912906534932/SOKM_SS.png",
+    "theme": "Say Something",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+"SOKM_CL": [
+  {
+    "name":"<:R:1104449630659428372> **Soloist Kylie Minogue** Cool like sorbet",
+    "idol":"Soloist Kylie Minogue",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149028105441255564/cls_km.png",
+    "theme": "Tension",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+"SOKM_LA": [
+  {
+    "name":"<:R:1104449630659428372> **Soloist Kylie Minogue** Love at First Sight",
+    "idol":"Soloist Kylie Minogue",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149028021920071780/lafs_km.png",
+    "theme": "Love at First Sight",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+"SOKM_TM": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist Kylie Minogue** Touch me right there",
+    "idol":"Soloist Kylie Minogue",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149121003323129926/SOKM_TM.png",
+    "theme": "Tension",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"WLZO_AS": [
+  {
+    "name":"<:C_:1104449628876841030> **Weeekly ZOA** After School",
+    "idol":"Weeekly ZOA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1143365992278397029/zoa_as.png",
+    "theme": "After School",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"WLJH_AS": [
+  {
+    "name":"<:C_:1104449628876841030> **Weeekly JIHAN** After School",
+    "idol":"Weeekly JIHAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1143365992689434655/jihan_as.png",
+    "theme": "After School",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"WLJA_AS": [
+  {
+    "name":"<:C_:1104449628876841030> **Weeekly JAEHEE** After School",
+    "idol":"Weeekly JAEHEE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1143365993234698401/jaehee_as.png",
+    "theme": "After School",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"WLSE_AS": [
+  {
+    "name":"<:C_:1104449628876841030> **Weeekly PARK SOEUN** After School",
+    "idol":"Weeekly PARK SOEUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1143365993553477792/soeun_as.png",
+    "theme": "After School",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"WLMD_AS": [
+  {
+    "name":"<:C_:1104449628876841030> **Weeekly MONDAY** After School",
+    "idol":"Weeekly MONDAY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1143365993922560040/monday_as.png",
+    "theme": "After School",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"WLSJ_AS": [
+  {
+    "name":"<:C_:1104449628876841030> **Weeekly LEE SOOJIN** After School",
+    "idol":"Weeekly LEE SOOJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1143365994270691328/soojin_as.png",
+    "theme": "After School",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"WLJY_AS": [
+  {
+    "name":"<:C_:1104449628876841030> **Weeekly SHIN JIYOON** After School",
+    "idol":"Weeekly SHIN JIYOON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1143365994643996863/jiyoon_as.png",
+    "theme": "After School",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"SONY_AO": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist NAYEON** ALL OR NOTHING",
+    "idol":"Soloist NAYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1143283453136207993/IMG_1967.png",
+    "theme": "ALL OR NOTHING",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"CXHS_45": [
+  {
+    "name":"<:C_:1104449628876841030> **CIX HYUNSUK** 458",
+    "idol":"CIX HYUNSUK",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1143157308667465949/458_hyun.png",
+    "theme": "458",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"CXYH_45": [
+  {
+    "name":"<:C_:1104449628876841030> **CIX YONGHEE** 458",
+    "idol":"CIX YONGHEE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1143157309049143306/458_yonghee.png",
+    "theme": "458",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"CXJY_45": [
+  {
+    "name":"<:C_:1104449628876841030> **CIX JINYOUNG** 458",
+    "idol":"CIX JINYOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1143157309405671464/458_jinyoung.png",
+    "theme": "458",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"CXSH_45": [
+  {
+    "name":"<:C_:1104449628876841030> **CIX SEUNGHUN** 458",
+    "idol":"CIX SEUNGHUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1143157309783150693/458_seunghun.png",
+    "theme": "458",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"CXBX_45": [
+  {
+    "name":"<:C_:1104449628876841030> **CIX BX** 458",
+    "idol":"CIX BX",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1143157310252908555/458_bx.png",
+    "theme": "458",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"TBER_LG": [
+  {
+    "name":"<:C_:1104449628876841030> **THE BOYZ ERIC** LIP GLOSS",
+    "idol":"THE BOYZ ERIC",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1142212614018052229/eric_lg.png",
+    "theme": "LIP GLOSS",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"TBSW_LG": [
+  {
+    "name":"<:C_:1104449628876841030> **THE BOYZ SUNWOO** LIP GLOSS",
+    "idol":"THE BOYZ SUNWOO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1142212614487806002/sun_lg.png",
+    "theme": "LIP GLOSS",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"TBJH_LG": [
+  {
+    "name":"<:C_:1104449628876841030> **THE BOYZ JUHAKNYEON** LIP GLOSS",
+    "idol":"THE BOYZ JUHAKNYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1142212614907232488/juh_lg.png",
+    "theme": "LIP GLOSS",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"TBZQ_LG": [
+  {
+    "name":"<:C_:1104449628876841030> **THE BOYZ Q** LIP GLOSS",
+    "idol":"THE BOYZ Q",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1142212615301501088/q_lg.png",
+    "theme": "LIP GLOSS",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"TBNW_LG": [
+  {
+    "name":"<:C_:1104449628876841030> **THE BOYZ NEW** LIP GLOSS",
+    "idol":"THE BOYZ NEW",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1142212615750287390/new_lg.png",
+    "theme": "LIP GLOSS",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"TBKV_LG": [
+  {
+    "name":"<:C_:1104449628876841030> **THE BOYZ KEVIN** LIP GLOSS",
+    "idol":"THE BOYZ KEVIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1142212616412991488/kev_lg.png",
+    "theme": "LIP GLOSS",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"TBJY_LG": [
+  {
+    "name":"<:C_:1104449628876841030> **THE BOYZ JUYEON** LIP GLOSS",
+    "idol":"THE BOYZ JUYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1142212703616770050/ju_lg.png",
+    "theme": "LIP GLOSS",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"TBHJ_LG": [
+  {
+    "name":"<:C_:1104449628876841030> **THE BOYZ HYUNJAE** LIP GLOSS",
+    "idol":"THE BOYZ HYUNJAE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1142212704015237140/hj_lg.png",
+    "theme": "LIP GLOSS",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"TBYH_LG": [
+  {
+    "name":"<:C_:1104449628876841030> **THE BOYZ YOUNGHOON** LIP GLOSS",
+    "idol":"THE BOYZ YOUNGHOON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1142212704401104896/yh_lg.png",
+    "theme": "LIP GLOSS",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"TBJC_LG": [
+  {
+    "name":"<:C_:1104449628876841030> **THE BOYZ JACOB** LIP GLOSS",
+    "idol":"THE BOYZ JACOB",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1142212704715685979/jacob_lip_gloss.png",
+    "theme": "LIP GLOSS",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"TBSY_LG": [
+  {
+    "name":"<:C_:1104449628876841030> **THE BOYZ SANGYEON** LIP GLOSS",
+    "idol":"THE BOYZ SANGYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1142212704992514259/sangyeon_lip_gloss.png",
+    "theme": "LIP GLOSS",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"ITYJ_BT": [
+  {
+    "name":"<:R:1104449630659428372> **ITZY YEJI** Bratty",
+    "idol":"ITZY YEJI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1142202814131613746/bratty_lia.png",
+    "theme": "Bratty (나쁜 애)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+"ITLI_BT": [
+  {
+    "name":"<:R:1104449630659428372> **ITZY LIA** Bratty",
+    "idol":"ITZY LIA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1142202814131613746/bratty_lia.png",
+    "theme": "Bratty (나쁜 애)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+"ITRJ_BT": [
+  {
+    "name":"<:R:1104449630659428372> **ITZY RYUJIN** Bratty",
+    "idol":"ITZY RYUJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1142202812978172036/bratty_ryujin.png",
+    "theme": "Bratty (나쁜 애)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+"ITCR_BT": [
+  {
+    "name":"<:R:1104449630659428372> **ITZY CHAERYEONG** Bratty",
+    "idol":"ITZY CHAERYEONG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1142206195504001064/bratty_chae.png",
+    "theme": "Bratty (나쁜 애)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+"ITYN_BT": [
+  {
+    "name":"<:R:1104449630659428372> **ITZY YUNA** Bratty",
+    "idol":"ITZY YUNA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1142202811753451710/bratty_yuna.png",
+    "theme": "Bratty (나쁜 애)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+"BTJH_BS": [
+  {
+    "name":"<:X:1104449632890798091> **BTS j-hope** Black Swan",
+    "idol":"BTS j-hope",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1141239004902207579/j-hope_X.png",
+    "theme": "Black Swan",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+"BTJH_BS_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **BTS j-hope** Black Swan",
+    "idol":"BTS j-hope",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1141239075920171048/j-hope.png",
+    "theme": "Black Swan",
+    "min": "1000",
+    "max": "1500"
+  }
+  ],
+"BTJM_BS": [
+  {
+    "name":"<:X:1104449632890798091> **BTS Jimin** Black Swan",
+    "idol":"BTS Jimin",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1141239005703327865/jimin_X.png",
+    "theme": "Black Swan",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+"BTJM_BS_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **BTS Jimin** Black Swan",
+    "idol":"BTS Jimin",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1141239076457037854/jimin.png",
+    "theme": "Black Swan",
+    "min": "1000",
+    "max": "1500"
+  }
+  ],
+"BTJI_BS": [
+  {
+    "name":"<:X:1104449632890798091> **BTS Jin** Black Swan",
+    "idol":"BTS Jin",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1141239006022074430/jin_X.png",
+    "theme": "Black Swan",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+"BTJI_BS_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **BTS Jin** Black Swan",
+    "idol":"BTS Jin",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1141239077388161144/jin.png",
+    "theme": "Black Swan",
+    "min": "1000",
+    "max": "1500"
+  }
+  ],
+"BTJK_BS": [
+  {
+    "name":"<:X:1104449632890798091> **BTS Jung Kook** Black Swan",
+    "idol":"BTS Jung Kook",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1141239006345048154/jungkook_X.png",
+    "theme": "Black Swan",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+"BTJK_BS_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **BTS Jung Kook** Black Swan",
+    "idol":"BTS Jung Kook",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1141239078168313906/jungkook.png",
+    "theme": "Black Swan",
+    "min": "1000",
+    "max": "1500"
+  }
+  ],
+"BTRM_BS": [
+  {
+    "name":"<:X:1104449632890798091> **BTS RM** Black Swan",
+    "idol":"BTS RM",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1141239006865149973/rm_X.png",
+    "theme": "Black Swan",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+"BTRM_BS_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **BTS RM** Black Swan",
+    "idol":"BTS RM",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1141239078516428931/rm.png",
+    "theme": "Black Swan",
+    "min": "1000",
+    "max": "1500"
+  }
+  ],
+"BTSV_BS": [
+  {
+    "name":"<:X:1104449632890798091> **BTS V** Black Swan",
+    "idol":"BTS V",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1141239007687225384/v_X.png",
+    "theme": "Black Swan",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+"BTSV_BS_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **BTS V** Black Swan",
+    "idol":"BTS V",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1141239080424837200/v.png",
+    "theme": "Black Swan",
+    "min": "1000",
+    "max": "1500"
+  }
   ]
 }
