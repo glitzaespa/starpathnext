@@ -18211,5 +18211,25 @@
     "min": "1000",
     "max": "1500"
   }
-  ]
+  ],
+"BTSG_BS_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **BTS SUGA** Black Swan",
+    "idol":"BTS SUGA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1141239080101888071/suga.png",
+    "theme": "Black Swan",
+    "min": "1000",
+    "max": "1500"
+  }
+  ],
+ "BTSG_BS": [
+  {
+    "name":"<:X:1104449632890798091> **BTS SUGA** Black Swan",
+    "idol":"BTS SUGA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1141239007376834630/suga_X.png",
+    "theme": "Black Swan",
+    "min": "500",
+    "max": "1000"
+  }
+  ] 
 }
