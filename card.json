@@ -12622,7 +12622,7 @@
   ],
   "SOHT_SD": [
   {
-    "name":"<:R_:1104449630659428372> **Soloist LEE MINHYUK (HUTA)** Shadow",
+    "name":"<:C_:1104449628876841030> **Soloist LEE MINHYUK (HUTA)** Shadow",
     "idol":"Soloist LEE MINHYUK (HUTA)",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1135016584314888323/SOLM_SD.png",
     "theme": "Shadow",
@@ -18231,5 +18231,6 @@
     "min": "500",
     "max": "1000"
   }
-  ] 
+  ],
+  
 }
