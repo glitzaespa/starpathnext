@@ -18231,5 +18231,525 @@
     "min": "500",
     "max": "1000"
   }
+  ],
+  "AEKR_SO": [
+  {
+    "name":"<:R:1104449630659428372> **aespa KARINA** synk out",
+    "idol":"aespa KARINA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149160452752945192/IMG_8569.png",
+    "theme": "Black Mamba",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+"AEGS_SO": [
+  {
+    "name":"<:R:1104449630659428372> **aespa GISELLE** synk out",
+    "idol":"aespa GISELLE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149160453285609502/IMG_8568.png",
+    "theme": "Black Mamba",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+"AEWT_SO": [
+  {
+    "name":"<:R:1104449630659428372> **aespa WINTER** synk out",
+    "idol":"aespa WINTER",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149160453721829376/IMG_8571.png",
+    "theme": "Black Mamba",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+"AENN_SO": [
+  {
+    "name":"<:R:1104449630659428372> **aespa NINGNING** synk out",
+    "idol":"aespa NINGNING",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149160454271270952/IMG_8570.png",
+    "theme": "Black Mamba",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+"SOPP_MT": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist Poppy** Motorbike",
+    "idol":"Soloist Poppy",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1151248281956003900/SOPP_MT.png",
+    "theme": "Motorbike",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"SOPP_MS": [
+  {
+    "name":"<:R:1104449630659428372> **Soloist Poppy** My Style",
+    "idol":"Soloist Poppy",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1151248211693023252/SOPP_MS.png",
+    "theme": "My Style (feat. Charlotte)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+"SOTP_MS": [
+  {
+    "name":"<:R:1104449630659428372> <:badge_special:1107422313466576937> **Soloist That Poppy** Meet Sanrio [2016]",
+    "idol":"Soloist That Poppy",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1151248130906529792/SOTP_MS.png",
+    "theme": "I'm Poppy",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+"SOTP_AT": [
+  {
+    "name":"<:R:1104449630659428372> **Soloist That Poppy** Altar",
+    "idol":"Soloist That Poppy",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1151248070269489202/SOTP_AT.png",
+    "theme": "I'm Poppy",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+   "SKBC_PI": [
+  {
+    "name":"<:R_:1104449630659428372> **Stray Kids BANG CHAN** Stray Kids x Puppy Interview",
+    "idol":"Stray Kids BANG CHAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150987256333611008/bang_chan.png",
+    "theme": "소리꾼(Thunderous)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SKCB_PI": [
+  {
+    "name":"<:R_:1104449630659428372> **Stray Kids CHANGBIN** Stray Kids x Puppy Interview",
+    "idol":"Stray Kids CHANGBIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150987257226985553/changbin.png",
+    "theme": "소리꾼(Thunderous)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SKFL_PI": [
+  {
+    "name":"<:R_:1104449630659428372> **Stray Kids FELIX** Stray Kids x Puppy Interview",
+    "idol":"Stray Kids FELIX",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150987257629655141/felix.png",
+    "theme": "소리꾼(Thunderous)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SKHA_PI": [
+  {
+    "name":"<:R_:1104449630659428372> **Stray Kids HAN** Stray Kids x Puppy Interview",
+    "idol":"Stray Kids HAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150987257986166824/han.png",
+    "theme": "소리꾼(Thunderous)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SKHJ_PI": [
+  {
+    "name":"<:R_:1104449630659428372> **Stray Kids HYUNJIN** Stray Kids x Puppy Interview",
+    "idol":"Stray Kids HYUNJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150987258317504553/hyunjin.png",
+    "theme": "소리꾼(Thunderous)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SKIN_PI": [
+  {
+    "name":"<:R_:1104449630659428372> **Stray Kids I.N** Stray Kids x Puppy Interview",
+    "idol":"Stray Kids I.N",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150987258732757032/i.n.png",
+    "theme": "소리꾼(Thunderous)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SKLK_PI": [
+  {
+    "name":"<:R_:1104449630659428372> **Stray Kids LEE KNOW** Stray Kids x Puppy Interview",
+    "idol":"Stray Kids LEE KNOW",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150987259047325836/lee_know.png",
+    "theme": "소리꾼(Thunderous)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SKSM_PI": [
+  {
+    "name":"<:R_:1104449630659428372> **Stray Kids SEUNGMIN** Stray Kids x Puppy Interview",
+    "idol":"Stray Kids SEUNGMIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150987259462549624/seungmin.png",
+    "theme": "소리꾼(Thunderous)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOBY_RSR": [
+  {
+    "name":"<:R:1104449630659428372> <:badge_special:1107422313466576937> **Soloist Beyoncé** RENAISSANCE WORLD TOUR -SUMMER RENAISSANCE-",
+    "idol":"Soloist Beyoncé",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1151255131405418656/SOBY_RSR.png",
+    "theme": "SUMMER RENAISSANCE",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+"SOBY_RBM": [
+  {
+    "name":"<:R:1104449630659428372> <:badge_special:1107422313466576937> **Soloist Beyoncé** RENAISSANCE WORLD TOUR -BREAK MY SOUL-",
+    "idol":"Soloist Beyoncé",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1151255073830215860/SOBY_RBM.png",
+    "theme": "BREAK MY SOUL",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+"LSHY_NT": [
+  {
+    "name":"<:C_:1104449628876841030> **Loossemble HyunJin** Newtopia",
+    "idol":"Loossemble HyunJin",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149636248156254288/C_1_1.png",
+    "theme": "Newtopia",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"LSYJ_NT": [
+  {
+    "name":"<:C_:1104449628876841030> **Loossemble YeoJin** Newtopia",
+    "idol":"Loossemble YeoJin",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149636248894459935/C_1_2.png",
+    "theme": "Newtopia",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"LSVV_NT": [
+  {
+    "name":"<:C_:1104449628876841030> **Loossemble ViVi** Newtopia",
+    "idol":"Loossemble ViVi",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149636249397764096/C_1_3.png",
+    "theme": "Newtopia",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"LSHJ_NT": [
+  {
+    "name":"<:C_:1104449628876841030> **Loossemble HyeJu** Newtopia",
+    "idol":"Loossemble HyeJu",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149636250215653426/C_1_5.png",
+    "theme": "Newtopia",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"STCJ_BR2": [
+  {
+    "name":"<:B:1122363573629374525> **STAYC J** RUN2U",
+    "idol":"STAYC J",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150602021133635584/run_j.png",
+    "theme": "RUN2U",
+    "min": "1500",
+    "max": "2000"
+  }
+  ],
+"STSE_BR2": [
+  {
+    "name":"<:B:1122363573629374525> **STAYC SEEUN** RUN2U",
+    "idol":"STAYC SEEUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150602021511110736/run_yeeun.png",
+    "theme": "RUN2U",
+    "min": "1500",
+    "max": "2000"
+  }
+  ],
+"STYN_BR2": [
+  {
+    "name":"<:B:1122363573629374525> **STAYC YOON** RUN2U",
+    "idol":"STAYC YOON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150602022131871975/run_yoon.png",
+    "theme": "RUN2U",
+    "min": "1500",
+    "max": "2000"
+  }
+  ],
+"STIS_BR2": [
+  {
+    "name":"<:B:1122363573629374525> **STAYC ISA** RUN2U",
+    "idol":"STAYC ISA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150602022480007198/run_isa.png",
+    "theme": "RUN2U",
+    "min": "1500",
+    "max": "2000"
+  }
+  ],
+"STSI_BR2": [
+  {
+    "name":"<:B:1122363573629374525> **STAYC SIEUN** RUN2U",
+    "idol":"STAYC SIEUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150602022844899438/run_sieun.png",
+    "theme": "RUN2U",
+    "min": "1500",
+    "max": "2000"
+  }
+  ],
+"STSM_BR2": [
+  {
+    "name":"<:B:1122363573629374525> **STAYC SUMIN** RUN2U",
+    "idol":"STAYC SUMIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150602023209807922/run_sumin.png",
+    "theme": "RUN2U",
+    "min": "1500",
+    "max": "2000"
+  }
+  ],
+"SOCH_BG": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist CHEN** Beautiful goodbye",
+    "idol":"Soloist CHEN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150310420620509234/beautiful_goodbye.png",
+    "theme": "사월이 지나면 우리 헤어져요",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"SOCH_LS": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist CHEN** Last Scene",
+    "idol":"Soloist CHEN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150310597267824720/lastscene.png",
+    "theme": "사라지고 있어(Last Scene)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"TBER_PF": [
+  {
+    "name":"<:X_:1104449632890798091> **THE BOYZ ERIC** Passion Fruit",
+    "idol":"THE BOYZ ERIC",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150157702325075978/pf_eric.png",
+    "theme": "Passion Fruit",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+"TBSW_PF": [
+  {
+    "name":"<:X_:1104449632890798091> **THE BOYZ SUNWOO** Passion Fruit",
+    "idol":"THE BOYZ SUNWOO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150157702761304084/pf_sun.png",
+    "theme": "Passion Fruit",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+"TBJH_PF": [
+  {
+    "name":"<:X_:1104449632890798091> **THE BOYZ JUHAKNYEON** Passion Fruit",
+    "idol":"THE BOYZ JUHAKNYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150157703864385626/pf_juh.png",
+    "theme": "Passion Fruit",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+"TBZQ_PF": [
+  {
+    "name":"<:X_:1104449632890798091> **THE BOYZ Q** Passion Fruit",
+    "idol":"THE BOYZ Q",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150157586511954010/pf_q.png",
+    "theme": "Passion Fruit",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+"TBNW_PF": [
+  {
+    "name":"<:X_:1104449632890798091> **THE BOYZ NEW** Passion Fruit",
+    "idol":"THE BOYZ NEW",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150157704577421393/pf_new.png",
+    "theme": "Passion Fruit",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+"TBKV_PF": [
+  {
+    "name":"<:X_:1104449632890798091> **THE BOYZ KEVIN** Passion Fruit",
+    "idol":"THE BOYZ KEVIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150157586113507438/pf_kevin.png",
+    "theme": "Passion Fruit",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+"TBJY_PF": [
+  {
+    "name":"<:X_:1104449632890798091> **THE BOYZ JUYEON** Passion Fruit",
+    "idol":"THE BOYZ JUYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150157586948165692/pf_juyeon.png",
+    "theme": "Passion Fruit",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+"TBHJ_PF": [
+  {
+    "name":"<:X_:1104449632890798091> **THE BOYZ HYUNJAE** Passion Fruit",
+    "idol":"THE BOYZ HYUNJAE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150157703210078328/pf_hyun.png",
+    "theme": "Passion Fruit",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+"TBYH_PF": [
+  {
+    "name":"<:X_:1104449632890798091> **THE BOYZ YOUNGHOON** Passion Fruit",
+    "idol":"THE BOYZ YOUNGHOON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150157585085890610/pf_young.png",
+    "theme": "Passion Fruit",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+"TBJC_PF": [
+  {
+    "name":"<:X_:1104449632890798091> **THE BOYZ JACOB** Passion Fruit",
+    "idol":"THE BOYZ JACOB",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150157704233504898/pf_jacob.png",
+    "theme": "Passion Fruit",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+"TBSY_PF": [
+  {
+    "name":"<:X_:1104449632890798091> **THE BOYZ SANGYEON** Passion Fruit",
+    "idol":"THE BOYZ SANGYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150157585601794239/pf_sang.png",
+    "theme": "Passion Fruit",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "TBER_PF_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **THE BOYZ ERIC** Passion Fruit",
+    "idol":"THE BOYZ ERIC",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150157998229045338/pf_eric_plus.png",
+    "theme": "Passion Fruit",
+    "min": "1000",
+    "max": "1500"
+  }
+  ],
+"TBSW_PF_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **THE BOYZ SUNWOO** Passion Fruit",
+    "idol":"THE BOYZ SUNWOO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150157998652674158/pf_sun_plus.png",
+    "theme": "Passion Fruit",
+    "min": "1000",
+    "max": "1500"
+  }
+  ],
+"TBJH_PF_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **THE BOYZ JUHAKNYEON** Passion Fruit",
+    "idol":"THE BOYZ JUHAKNYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150157999495725117/pf_juh_plus.png",
+    "theme": "Passion Fruit",
+    "min": "1000",
+    "max": "1500"
+  }
+  ],
+"TBZQ_PF_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **THE BOYZ Q** Passion Fruit",
+    "idol":"THE BOYZ Q",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150157897708343306/pf_q_plus.png",
+    "theme": "Passion Fruit",
+    "min": "1000",
+    "max": "1500"
+  }
+  ],
+"TBNW_PF_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **THE BOYZ NEW** Passion Fruit",
+    "idol":"THE BOYZ NEW",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150158000280043581/pf_new_plus.png",
+    "theme": "Passion Fruit",
+    "min": "1000",
+    "max": "1500"
+  }
+  ],
+"TBKV_PF_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **THE BOYZ KEVIN** Passion Fruit",
+    "idol":"THE BOYZ KEVIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150157897175670855/pf_kevin_plus.png",
+    "theme": "Passion Fruit",
+    "min": "1000",
+    "max": "1500"
+  }
+  ],
+"TBJY_PF_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **THE BOYZ JUYEON** Passion Fruit",
+    "idol":"THE BOYZ JUYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150157898148757664/pf_juyeon_plus.png",
+    "theme": "Passion Fruit",
+    "min": "1000",
+    "max": "1500"
+  }
+  ],
+"TBHJ_PF_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **THE BOYZ HYUNJAE** Passion Fruit",
+    "idol":"THE BOYZ HYUNJAE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150157999109832715/pf_hyun_plus.png",
+    "theme": "Passion Fruit",
+    "min": "1000",
+    "max": "1500"
+  }
+  ],
+"TBYH_PF_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **THE BOYZ YOUNGHOON** Passion Fruit",
+    "idol":"THE BOYZ YOUNGHOON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150157895896404031/pf_young_plus.png",
+    "theme": "Passion Fruit",
+    "min": "1000",
+    "max": "1500"
+  }
+  ],
+"TBJC_PF_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **THE BOYZ JACOB** Passion Fruit",
+    "idol":"THE BOYZ JACOB",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150157999848050788/pf_jacob_plus.png",
+    "theme": "Passion Fruit",
+    "min": "1000",
+    "max": "1500"
+  }
+  ],
+"TBSY_PF_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **THE BOYZ SANGYEON** Passion Fruit",
+    "idol":"THE BOYZ SANGYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1150157896387149964/pf_sang_plus.png",
+    "theme": "Passion Fruit",
+    "min": "1000",
+    "max": "1500"
+  }
   ]
 }
