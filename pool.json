@@ -37,6 +37,13 @@
     "main":"hatexx;youthintheshade;versionup;hard;allin;ifeel;unforgiven;perfume;self;honeymoon;beamofprism;holyfvck;daynight;beyondzero;onetoall;theboys;myeverything"
 }
 ],
+  "banner": [
+  {
+    "common":"SK_SC;AE_SP;DJ_PF;DL_HF;EX_LM;FF_CP;GF_MG;GT_SB;HY_GG;IT_CS;KM_PP;KS_GO;LA_DS;MT_TZ;MX_GB;RV_FM;TS_MN;WH_OM;K1_BT;TB_LG",
+    "rare":"K1_GD",
+    "legendary":"K1_HE"
+}
+],
   "guesstheidol": [
   {
     "main":"leeminhyukhuta;san;seungmin;baekho;jangwonyoung;anyujin;chaeryeong;wonho;hyuna;keeho;johnny;gowon"
