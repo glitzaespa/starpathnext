@@ -2,10 +2,10 @@
 "SK_SC": [
   {
     "name":"**Stray Kids** S-Class",
-    "type":"Basic",
+    "type":"Common",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111604174921820/SK_SC.png",
-    "min":"50000",
-    "max":"75000",
+    "min":"10000",
+    "max":"11000",
     "creator":"Glitzy",
     "creatorid":"971289285045141584",
     "commission":"no"
@@ -14,10 +14,10 @@
 "AE_SP": [
   {
     "name":"**aespa** Spicy",
-    "type":"Basic",
+    "type":"Common",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111565801242745/AE_SP.png",
-    "min":"50000",
-    "max":"75000",
+    "min":"10000",
+    "max":"11000",
     "creator":"Glitzy",
     "creatorid":"971289285045141584",
     "commission":"no"
@@ -28,8 +28,8 @@
     "name":"**ATEEZ** BOUNCY (K-HOT CHILLI PEPPERS)",
     "type":"Summer&WinterR",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111566229053561/AT_BC.png",
-    "min":"50000",
-    "max":"75000",
+    "min":"10000",
+    "max":"11000",
     "creator":"Glitzy",
     "creatorid":"971289285045141584",
     "commission":"no"
@@ -40,8 +40,8 @@
     "name":"**BLACKPINK** Shut Down",
     "type":"Summer&WinterD",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111566652686357/BP_SD.png",
-    "min":"50000",
-    "max":"75000",
+    "min":"10000",
+    "max":"11000",
     "creator":"Glitzy",
     "creatorid":"971289285045141584",
     "commission":"no"
@@ -52,8 +52,8 @@
     "name":"**Beyoncé** RENAISSANCE",
     "type":"Summer&WinterR",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111567072108565/BY_RN.png",
-    "min":"50000",
-    "max":"75000",
+    "min":"10000",
+    "max":"11000",
     "creator":"Glitzy",
     "creatorid":"971289285045141584",
     "commission":"no"
@@ -62,10 +62,10 @@
   "DJ_PF": [
   {
     "name":"**DOJAEJUNG** Perfume",
-    "type":"Basic",
+    "type":"Common",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111567596404816/DJ_PF.png",
-    "min":"50000",
-    "max":"75000",
+    "min":"10000",
+    "max":"11000",
     "creator":"Glitzy",
     "creatorid":"971289285045141584",
     "commission":"no"
@@ -74,10 +74,10 @@
     "DL_HF": [
   {
     "name":"**Demi Lovato** HOLY FVCK",
-    "type":"Basic",
+    "type":"Common",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111568040992828/DL_HF.png",
-    "min":"50000",
-    "max":"75000",
+    "min":"10000",
+    "max":"11000",
     "creator":"Glitzy",
     "creatorid":"971289285045141584",
     "commission":"no"
@@ -88,8 +88,8 @@
     "name":"**ENHYPEN** Bite Me",
     "type":"Summer&WinterR",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111568401711294/EN_BM.png",
-    "min":"50000",
-    "max":"75000",
+    "min":"10000",
+    "max":"11000",
     "creator":"Glitzy",
     "creatorid":"971289285045141584",
     "commission":"no"
@@ -98,22 +98,22 @@
   "EX_LM": [
   {
     "name":"**EXO** Let Me In",
-    "type":"Basic",
+    "type":"Common",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111568749830224/EX_HM.png",
-    "min":"50000",
-    "max":"75000",
+    "min":"10000",
+    "max":"11000",
     "creator":"Glitzy",
     "creatorid":"971289285045141584",
     "commission":"no"
   }
   ],
-    "FF_CD": [
+    "FF_CP": [
   {
     "name":"**FIFTY FIFTY** Cupid",
-    "type":"Basic",
+    "type":"Common",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111569127329882/FF_CP.png",
-    "min":"50000",
-    "max":"75000",
+    "min":"10000",
+    "max":"11000",
     "creator":"Glitzy",
     "creatorid":"971289285045141584",
     "commission":"no"
@@ -122,10 +122,10 @@
   "GF_MG": [
   {
     "name":"**GFRIEND** MAGO",
-    "type":"Basic",
+    "type":"Common",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111569513201747/GF_MG.png",
-    "min":"50000",
-    "max":"75000",
+    "min":"10000",
+    "max":"11000",
     "creator":"Glitzy",
     "creatorid":"971289285045141584",
     "commission":"no"
@@ -134,10 +134,10 @@
   "GT_SB": [
   {
     "name":"**GOT the beat** Step Back",
-    "type":"Basic",
+    "type":"Common",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111584616886334/GT_SB.png",
-    "min":"50000",
-    "max":"75000",
+    "min":"10000",
+    "max":"11000",
     "creator":"Glitzy",
     "creatorid":"971289285045141584",
     "commission":"no"
@@ -146,10 +146,10 @@
   "HY_GG": [
   {
     "name":"**HyunA** GOOD GIRL",
-    "type":"Basic",
+    "type":"Common",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111585015336960/HY_GG.png",
-    "min":"50000",
-    "max":"75000",
+    "min":"10000",
+    "max":"11000",
     "creator":"Glitzy",
     "creatorid":"971289285045141584",
     "commission":"no"
@@ -160,8 +160,8 @@
     "name":"**(G)I-DLE** Queencard",
     "type":"Summer&WinterR",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111585334112317/ID_QC.png",
-    "min":"50000",
-    "max":"75000",
+    "min":"10000",
+    "max":"11000",
     "creator":"Glitzy",
     "creatorid":"971289285045141584",
     "commission":"no"
@@ -170,10 +170,10 @@
       "IT_CS": [
   {
     "name":"**ITZY** Cheshire",
-    "type":"Basic",
+    "type":"Common",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111585673859213/IT_CS.png",
-    "min":"50000",
-    "max":"75000",
+    "min":"10000",
+    "max":"11000",
     "creator":"Glitzy",
     "creatorid":"971289285045141584",
     "commission":"no"
@@ -184,8 +184,8 @@
     "name":"**IVE** I AM",
     "type":"Summer&WinterD",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111585975832657/IV_IA.png",
-    "min":"50000",
-    "max":"75000",
+    "min":"10000",
+    "max":"11000",
     "creator":"Glitzy",
     "creatorid":"971289285045141584",
     "commission":"no"
@@ -194,10 +194,10 @@
         "KM_PP": [
   {
     "name":"**Kylie Minogue** Padam Padam",
-    "type":"Basic",
+    "type":"Common",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111586290413599/KM_PD.png",
-    "min":"50000",
-    "max":"75000",
+    "min":"10000",
+    "max":"11000",
     "creator":"Glitzy",
     "creatorid":"971289285045141584",
     "commission":"no"
@@ -206,10 +206,10 @@
         "KS_GO": [
   {
     "name":"**Kesha** Gag Order",
-    "type":"Basic",
+    "type":"Common",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111586701463642/KS_GO.png",
-    "min":"50000",
-    "max":"75000",
+    "min":"10000",
+    "max":"11000",
     "creator":"Glitzy",
     "creatorid":"971289285045141584",
     "commission":"no"
@@ -218,10 +218,10 @@
         "LA_DS": [
   {
     "name":"**Leigh-Anne** Don't Say Love",
-    "type":"Basic",
+    "type":"Common",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111586948911194/LA_DS.png",
-    "min":"50000",
-    "max":"75000",
+    "min":"10000",
+    "max":"11000",
     "creator":"Glitzy",
     "creatorid":"971289285045141584",
     "commission":"no"
@@ -230,10 +230,10 @@
      "MT_TZ": [
   {
     "name":"**Megan Thee Stallion** Traumazine",
-    "type":"Basic",
+    "type":"Common",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111587204771920/MT_TZ.png",
-    "min":"50000",
-    "max":"75000",
+    "min":"10000",
+    "max":"11000",
     "creator":"Glitzy",
     "creatorid":"971289285045141584",
     "commission":"no"
@@ -242,10 +242,10 @@
        "MX_GB": [
   {
     "name":"**MONSTA X** GAMBLER",
-    "type":"Basic",
+    "type":"Common",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111587536130118/MX_GB.png",
-    "min":"50000",
-    "max":"75000",
+    "min":"10000",
+    "max":"11000",
     "creator":"Glitzy",
     "creatorid":"971289285045141584",
     "commission":"no"
@@ -256,8 +256,8 @@
     "name":"**NewJeans** Ditto",
     "type":"Summer&WinterD",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111603138936912/NJ_DT.png",
-    "min":"50000",
-    "max":"75000",
+    "min":"10000",
+    "max":"11000",
     "creator":"Glitzy",
     "creatorid":"971289285045141584",
     "commission":"no"
@@ -268,8 +268,8 @@
     "name":"**P1Harmony** JUMP",
     "type":"Summer&WinterR",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111603487055995/P1_JM.png",
-    "min":"50000",
-    "max":"75000",
+    "min":"10000",
+    "max":"11000",
     "creator":"Glitzy",
     "creatorid":"971289285045141584",
     "commission":"no"
@@ -278,10 +278,10 @@
        "RV_FM": [
   {
     "name":"**Red Velvet** Feel My Rhythm",
-    "type":"Basic",
+    "type":"Common",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111603864551555/RV_FM.png",
-    "min":"50000",
-    "max":"75000",
+    "min":"10000",
+    "max":"11000",
     "creator":"Glitzy",
     "creatorid":"971289285045141584",
     "commission":"no"
@@ -290,10 +290,10 @@
        "TS_MN": [
   {
     "name":"**Taylor Swift** Midnights",
-    "type":"Basic",
+    "type":"Common",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111604506267678/TS_MN.png",
-    "min":"50000",
-    "max":"75000",
+    "min":"10000",
+    "max":"11000",
     "creator":"Glitzy",
     "creatorid":"971289285045141584",
     "commission":"no"
@@ -304,8 +304,8 @@
     "name":"**TOMORROW X TOGETHER** The Name Chapter: TEMPTATION",
     "type":"Summer&WinterD",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111604900544512/TX_TM.png",
-    "min":"50000",
-    "max":"75000",
+    "min":"10000",
+    "max":"11000",
     "creator":"Glitzy",
     "creatorid":"971289285045141584",
     "commission":"no"
@@ -316,8 +316,8 @@
     "name":"**VIVIZ** BOP BOP!",
     "type":"Summer&WinterR",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111605257052170/VI_BB.png",
-    "min":"50000",
-    "max":"75000",
+    "min":"10000",
+    "max":"11000",
     "creator":"Glitzy",
     "creatorid":"971289285045141584",
     "commission":"no"
@@ -326,13 +326,73 @@
        "WH_OM": [
   {
     "name":"**WONHO** Open Mind",
-    "type":"Basic",
+    "type":"Common",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111605571621044/WH_OM.png",
-    "min":"50000",
-    "max":"75000",
+    "min":"10000",
+    "max":"11000",
     "creator":"Glitzy",
     "creatorid":"971289285045141584",
     "commission":"no"
+  }
+  ],
+  "TR_YB": [
+  {
+    "name":"**The Rose** You're Beautiful",
+    "type":"Common",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1152041611560243352/The_Rose_Banner.png",
+    "min":"10000",
+    "max":"11000",
+    "creator":"Vic",
+    "creatorid":"474118268819341000",
+    "commission":"yes"
+  }
+  ],
+"K1_GD": [
+  {
+    "name":"**Kep1er** Giddy",
+    "type":"Rare",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1152075747595386940/giddy_bg.png",
+    "min":"50000",
+    "max":"51000",
+    "creator":"Woozy",
+    "creatorid":"721451367213957000",
+    "commission":"yes"
+  }
+  ],
+"K1_BT": [
+  {
+    "name":"**Kep1er** Back to the City",
+    "type":"Common",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1152076678340812800/bttc_bg.png",
+    "min":"10000",
+    "max":"11000",
+    "creator":"Woozy",
+    "creatorid":"721451367213957000",
+    "commission":"no"
+  }
+  ],
+"K1_HE": [
+  {
+    "name":"**Kep1er** Happy Ending",
+    "type":"Legendary",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1152077028871393370/happy_ending2.png",
+    "min":"90000",
+    "max":"91000",
+    "creator":"Woozy",
+    "creatorid":"721451367213957000",
+    "commission":"yes"
+  }
+  ],
+"TB_LG": [
+  {
+    "name":"**THE BOYZ** LIP GLOSS",
+    "type":"Common",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1152084233188282398/lipgloss_bg.png",
+    "min":"10000",
+    "max":"11000",
+    "creator":"Woozy",
+    "creatorid":"721451367213957000",
+    "commission":"yes"
   }
   ]
 }
