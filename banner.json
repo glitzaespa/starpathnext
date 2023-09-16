@@ -5,7 +5,10 @@
     "type":"Basic",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111604174921820/SK_SC.png",
     "min":"50000",
-    "max":"75000"
+    "max":"75000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
   }
   ],
 "AE_SP": [
@@ -14,7 +17,10 @@
     "type":"Basic",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111565801242745/AE_SP.png",
     "min":"50000",
-    "max":"75000"
+    "max":"75000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
   }
   ],
 "AT_BC": [
@@ -23,7 +29,10 @@
     "type":"Summer&WinterR",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111566229053561/AT_BC.png",
     "min":"50000",
-    "max":"75000"
+    "max":"75000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
   }
   ],
   "BP_SD": [
@@ -32,7 +41,10 @@
     "type":"Summer&WinterD",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111566652686357/BP_SD.png",
     "min":"50000",
-    "max":"75000"
+    "max":"75000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
   }
   ],
   "BY_RN": [
@@ -41,7 +53,10 @@
     "type":"Summer&WinterR",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111567072108565/BY_RN.png",
     "min":"50000",
-    "max":"75000"
+    "max":"75000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
   }
   ],
   "DJ_PF": [
@@ -50,7 +65,10 @@
     "type":"Basic",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111567596404816/DJ_PF.png",
     "min":"50000",
-    "max":"75000"
+    "max":"75000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
   }
   ],
     "DL_HF": [
@@ -59,7 +77,10 @@
     "type":"Basic",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111568040992828/DL_HF.png",
     "min":"50000",
-    "max":"75000"
+    "max":"75000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
   }
   ],
     "EN_BM": [
@@ -68,7 +89,10 @@
     "type":"Summer&WinterR",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111568401711294/EN_BM.png",
     "min":"50000",
-    "max":"75000"
+    "max":"75000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
   }
   ],
   "EX_LM": [
@@ -77,7 +101,10 @@
     "type":"Basic",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111568749830224/EX_HM.png",
     "min":"50000",
-    "max":"75000"
+    "max":"75000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
   }
   ],
     "FF_CD": [
@@ -86,7 +113,10 @@
     "type":"Basic",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111569127329882/FF_CP.png",
     "min":"50000",
-    "max":"75000"
+    "max":"75000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
   }
   ],
   "GF_MG": [
@@ -95,7 +125,10 @@
     "type":"Basic",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111569513201747/GF_MG.png",
     "min":"50000",
-    "max":"75000"
+    "max":"75000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
   }
   ],
   "GT_SB": [
@@ -104,7 +137,10 @@
     "type":"Basic",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111584616886334/GT_SB.png",
     "min":"50000",
-    "max":"75000"
+    "max":"75000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
   }
   ],
   "HY_GG": [
@@ -113,7 +149,10 @@
     "type":"Basic",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111585015336960/HY_GG.png",
     "min":"50000",
-    "max":"75000"
+    "max":"75000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
   }
   ],
     "ID_QC": [
@@ -122,7 +161,10 @@
     "type":"Summer&WinterR",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111585334112317/ID_QC.png",
     "min":"50000",
-    "max":"75000"
+    "max":"75000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
   }
   ],
       "IT_CS": [
@@ -131,7 +173,10 @@
     "type":"Basic",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111585673859213/IT_CS.png",
     "min":"50000",
-    "max":"75000"
+    "max":"75000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
   }
   ],
       "IV_IA": [
@@ -140,7 +185,10 @@
     "type":"Summer&WinterD",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111585975832657/IV_IA.png",
     "min":"50000",
-    "max":"75000"
+    "max":"75000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
   }
   ],
         "KM_PP": [
@@ -149,7 +197,10 @@
     "type":"Basic",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111586290413599/KM_PD.png",
     "min":"50000",
-    "max":"75000"
+    "max":"75000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
   }
   ],
         "KS_GO": [
@@ -158,7 +209,10 @@
     "type":"Basic",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111586701463642/KS_GO.png",
     "min":"50000",
-    "max":"75000"
+    "max":"75000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
   }
   ],
         "LA_DS": [
@@ -167,7 +221,10 @@
     "type":"Basic",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111586948911194/LA_DS.png",
     "min":"50000",
-    "max":"75000"
+    "max":"75000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
   }
   ],
      "MT_TZ": [
@@ -176,7 +233,10 @@
     "type":"Basic",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111587204771920/MT_TZ.png",
     "min":"50000",
-    "max":"75000"
+    "max":"75000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
   }
   ],
        "MX_GB": [
@@ -185,7 +245,10 @@
     "type":"Basic",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111587536130118/MX_GB.png",
     "min":"50000",
-    "max":"75000"
+    "max":"75000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
   }
   ],
        "NJ_DT": [
@@ -194,7 +257,10 @@
     "type":"Summer&WinterD",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111603138936912/NJ_DT.png",
     "min":"50000",
-    "max":"75000"
+    "max":"75000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
   }
   ],
        "P1_JM": [
@@ -203,7 +269,10 @@
     "type":"Summer&WinterR",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111603487055995/P1_JM.png",
     "min":"50000",
-    "max":"75000"
+    "max":"75000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
   }
   ],
        "RV_FM": [
@@ -212,7 +281,10 @@
     "type":"Basic",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111603864551555/RV_FM.png",
     "min":"50000",
-    "max":"75000"
+    "max":"75000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
   }
   ],
        "TS_MN": [
@@ -221,7 +293,10 @@
     "type":"Basic",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111604506267678/TS_MN.png",
     "min":"50000",
-    "max":"75000"
+    "max":"75000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
   }
   ],
        "TX_TM": [
@@ -230,7 +305,10 @@
     "type":"Summer&WinterD",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111604900544512/TX_TM.png",
     "min":"50000",
-    "max":"75000"
+    "max":"75000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
   }
   ],
        "VV_BB": [
@@ -239,7 +317,10 @@
     "type":"Summer&WinterR",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111605257052170/VI_BB.png",
     "min":"50000",
-    "max":"75000"
+    "max":"75000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
   }
   ],
        "WH_OM": [
@@ -248,16 +329,10 @@
     "type":"Basic",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125111605571621044/WH_OM.png",
     "min":"50000",
-    "max":"75000"
-  }
-  ],
-"SK_BS": [
-  {
-    "name":"**Stray Kids** brightest star",
-    "type":"Event",
-    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125855326827184178/SK_BS.png",
-    "min":"100000",
-    "max":"750000"
+    "max":"75000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
   }
   ]
 }
