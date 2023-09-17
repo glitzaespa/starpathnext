@@ -1,50 +1,158 @@
 {
-"MYSUNSET": [
+"SUNSET": [
   {
-    "name":"Basic **MySunset**",
+    "name":"Sunset",
+    "type":"Common",
     "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125816211133960283/mysunset_bg.png",
-    "min":"5000",
-    "max":"7500"
+    "min":"20000",
+    "max":"21000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"yes"
   }
   ],
-  "REDPOWER": [
+"BLACKMARBLE": [
   {
-    "name":"Basic **RedPower**",
-    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125816210819395764/redpower_bg.png",
-    "min":"5000",
-    "max":"7500"
+    "name":"Black Marble",
+    "type":"Common",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1152688056344789103/Black_Marble_BG.png",
+    "min":"15000",
+    "max":"16000",
+    "creator":"Vic",
+    "creatorid":"474118268819341315",
+    "commission":"yes"
   }
   ],
-  "THEGOLD": [
+"BLACKSAND": [
   {
-    "name":"Basic **THEGOLD**",
-    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125816210454495232/thegold_bg.png",
-    "min":"5000",
-    "max":"7500"
+    "name":"Black Sand",
+    "type":"Common",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1152688110694584471/Black_Sand_BG.png",
+    "min":"15000",
+    "max":"16000",
+    "creator":"Vic",
+    "creatorid":"474118268819341315",
+    "commission":"yes"
   }
   ],
-  "ELEGANTGREEN": [
+"BLUEICE": [
   {
-    "name":"Basic **ELEGANTGREEN**",
-    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125816210165076098/elegantgreen_bg.png",
-    "min":"5000",
-    "max":"7500"
+    "name":"Blue Ice",
+    "type":"Common",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1152688211022327979/Blue_Ice_BG.png",
+    "min":"15000",
+    "max":"16000",
+    "creator":"Vic",
+    "creatorid":"474118268819341315",
+    "commission":"yes"
   }
   ],
-  "BLUELIGHT": [
+"OWMARBLE": [
   {
-    "name":"Basic **BlueLight**",
-    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125816209884065833/bluelight_bg.png",
-    "min":"5000",
-    "max":"7500"
+    "name":"Off-White Marble",
+    "type":"Common",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1152688394359558254/Off_White_Marble_BG.png",
+    "min":"15000",
+    "max":"16000",
+    "creator":"Vic",
+    "creatorid":"474118268819341315",
+    "commission":"yes"
   }
   ],
-    "BRIGHTESTSTAR": [
+"PBGRID": [
   {
-    "name":"Limited **Brightest Star**",
-    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1125855283697160192/brighteststar_bg.png",
-    "min":"10000",
-    "max":"75000"
+    "name":"Pink and Blue Grid",
+    "type":"Common",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1152688681027637248/Pink_and_Blue_Pixels.png",
+    "min":"15000",
+    "max":"16000",
+    "creator":"Vic",
+    "creatorid":"474118268819341315",
+    "commission":"yes"
+  }
+  ],
+"COTTONCANDY": [
+  {
+    "name":"Cotton Candy Sky",
+    "type":"Common",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1152688987249582170/Pink_and_Blue_Sunset_BG.png",
+    "min":"15000",
+    "max":"16000",
+    "creator":"Vic",
+    "creatorid":"474118268819341315",
+    "commission":"yes"
+  }
+  ],
+"PINKCLOUDS": [
+  {
+    "name":"Pink Clouds",
+    "type":"Common",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1152689026562793532/Pink_Clouds_BG.png",
+    "min":"15000",
+    "max":"16000",
+    "creator":"Vic",
+    "creatorid":"474118268819341315",
+    "commission":"yes"
+  }
+  ],
+"PURPLESWIRL": [
+  {
+    "name":"Purple Swirl",
+    "type":"Common",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1152689120183849050/Purple_Swirl_BG.png",
+    "min":"15000",
+    "max":"16000",
+    "creator":"Vic",
+    "creatorid":"474118268819341315",
+    "commission":"yes"
+  }
+  ],
+"AURORAB": [
+  {
+    "name":"Aurora Borealis",
+    "type":"Common",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1152689231752339507/Turquoise_White_Gradient_BG.png",
+    "min":"15000",
+    "max":"16000",
+    "creator":"Vic",
+    "creatorid":"474118268819341315",
+    "commission":"yes"
+  }
+  ],
+"WOODP": [
+  {
+    "name":"Wood Planks",
+    "type":"Common",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1152711171909107742/wood_background.png",
+    "min":"15000",
+    "max":"16000",
+    "creator":"Woozy",
+    "creatorid":"721451367213957130",
+    "commission":"yes"
+  }
+  ],
+"CSTONE": [
+  {
+    "name":"Cracked Stone",
+    "type":"Common",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1152711227416526938/stone_background.png",
+    "min":"15000",
+    "max":"16000",
+    "creator":"Woozy",
+    "creatorid":"721451367213957130",
+    "commission":"yes"
+  }
+  ],
+"TLEAVES": [
+  {
+    "name":"Tropical Leaves",
+    "type":"Common",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1152711314997776414/palm_trees_background.png",
+    "min":"15000",
+    "max":"16000",
+    "creator":"Woozy",
+    "creatorid":"721451367213957130",
+    "commission":"yes"
   }
   ]
 }
