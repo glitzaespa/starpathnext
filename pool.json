@@ -44,6 +44,13 @@
     "legendary":"K1_HE"
 }
 ],
+  "background": [
+  {
+    "common":"SUNSET;BLACKMARBLE;BLACKSAND;BLUEICE;OWMARBLE;PBGRID;COTTONCANDY;PINKCLOUDS;PURPLESWIRL;AURORAB;WOODP;CSTONE;TLEAVES",
+    "rare":"TLEAVES",
+    "legendary":"TLEAVES"
+}
+],
   "guesstheidol": [
   {
     "main":"leeminhyukhuta;san;seungmin;baekho;jangwonyoung;anyujin;chaeryeong;wonho;hyuna;keeho;johnny;gowon"
