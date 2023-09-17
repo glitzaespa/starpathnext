@@ -394,5 +394,125 @@
     "creatorid":"721451367213957130",
     "commission":"yes"
   }
+  ],
+  "AT_GR": [
+  {
+    "name":"**ATEEZ** Guerilla",
+    "type":"Common",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1152086894004420688/ATEEZ_Guerrilla_Banner.png",
+    "min":"10000",
+    "max":"11000",
+    "creator":"Vic",
+    "creatorid":"474118268819341315",
+    "commission":"yes"
+  }
+  ],
+"PK_SJ": [
+  {
+    "name":"**PURPLE KISS** Sweet Juice",
+    "type":"Common",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1152087524806774854/PURPLE_KISS_Sweet_Juice_Banner.png",
+    "min":"10000",
+    "max":"11000",
+    "creator":"Vic",
+    "creatorid":"474118268819341315",
+    "commission":"yes"
+  }
+  ],
+"RV_QD": [
+  {
+    "name":"**Red Velvet** Queendom",
+    "type":"Rare",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1152121094438920202/queendom_banner.png",
+    "min":"50000",
+    "max":"51000",
+    "creator":"Lia",
+    "creatorid":"750205766941540468",
+    "commission":"yes"
+  }
+  ],
+"RV_IM": [
+  {
+    "name":"**Red Velvet** In My Dreams",
+    "type":"Legendary",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1152121490381213726/inmydreams_banner.png",
+    "min":"250000",
+    "max":"251000",
+    "creator":"Lia",
+    "creatorid":"750205766941540468",
+    "commission":"yes"
+  }
+  ],
+"GG_LL": [
+  {
+    "name":"**Girls' Generation** Lucky Like That",
+    "type":"Rare",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1152122111717031996/llt_banner.png",
+    "min":"50000",
+    "max":"51000",
+    "creator":"Lia",
+    "creatorid":"750205766941540468",
+    "commission":"no"
+  }
+  ],
+"AE_AT": [
+  {
+    "name":"**aespa** A to the Z",
+    "type":"Common",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1152128246821945354/atothez_banner.png",
+    "min":"10000",
+    "max":"11000",
+    "creator":"Lia",
+    "creatorid":"750205766941540468",
+    "commission":"yes"
+  }
+  ],
+"LO_WN": [
+  {
+    "name":"**LOONA** Why Not?",
+    "type":"Common",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1152408882849787934/why_not_loona.png",
+    "min":"10000",
+    "max":"11000",
+    "creator":"Woozy",
+    "creatorid":"721451367213957130",
+    "commission":"yes"
+  }
+  ],
+"BP_LS": [
+  {
+    "name":"**BLACKPINK** Lovesick Girls",
+    "type":"Common",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1152670702122565653/BLACKPINK_Lovesick_Girls.png",
+    "min":"10000",
+    "max":"11000",
+    "creator":"Vic",
+    "creatorid":"474118268819341315",
+    "commission":"yes"
+  }
+  ],
+"BT_PT": [
+  {
+    "name":"**BTS** Permission To Dance",
+    "type":"Rare",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1152710771395018852/BTS_PTD.png",
+    "min":"50000",
+    "max":"51000",
+    "creator":"Vic",
+    "creatorid":"474118268819341315",
+    "commission":"yes"
+  }
+  ],
+"OE_MS": [
+  {
+    "name":"**ODD EYE CIRCLE** My Secret Playlist",
+    "type":"Common",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1152732570841260072/msp_bg.png",
+    "min":"10000",
+    "max":"11000",
+    "creator":"Woozy",
+    "creatorid":"721451367213957130",
+    "commission":"yes"
+  }
   ]
 }
