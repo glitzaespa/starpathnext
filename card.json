@@ -12490,7 +12490,7 @@
     "max": "500"
   }
   ],
-  "BIHR_SP": [
+  "BIHA_SP": [
   {
     "name":"<:R_:1104449630659428372> **Billlie HARAM** $un palace (Stroop effect)",
     "idol":"Billlie HARAM",
@@ -13112,7 +13112,7 @@
     "max": "1000"
   }
   ],
-  "BIHR_EU": [
+  "BIHA_EU": [
   {
     "name":"<:X_:1104449632890798091> **Billlie HARAM** EUNOIA",
     "idol":"Billlie HARAM",
@@ -13182,7 +13182,7 @@
     "max": "1500"
   }
   ],
-  "BIHR_EU_P": [
+  "BIHA_EU_P": [
   {
     "name":"<a:XP:1116886580586622976> **Billlie HARAM** EUNOIA",
     "idol":"Billlie HARAM",
