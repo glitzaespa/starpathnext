@@ -19331,5 +19331,445 @@
     "min": "1500",
     "max": "3000"
   }
+  ],
+  "SOLD_BJ": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist Lana Del Rey** Blue Jeans",
+    "idol":"Soloist Lana Del Rey",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1154134403405066331/C_1_1_7.png",
+    "theme": "Blue Jeans",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"SOMC_RV": [
+  {
+    "name":"<:R:1104449630659428372> **Soloist Miley Cyrus** River",
+    "idol":"Soloist Miley Cyrus",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1154079619213963274/river_mc.png",
+    "theme": "River",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+"SOPP_NO": [
+  {
+    "name":"<:R:1104449630659428372> **Soloist PinkPantheress** Noticed I Cried",
+    "idol":"Soloist PinkPantheress",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1154035061658750996/pp_nic.png",
+    "theme": "Noticed I Cried",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+"DCGY_IK": [
+  {
+    "name":"<:C_:1104449628876841030> **DREAMCATCHER GAHYEON** I know you",
+    "idol":"DREAMCATCHER GAHYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1153877626121887814/iky_gah.png",
+    "theme": "BONVOYAGE",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"DCDM_IK": [
+  {
+    "name":"<:C_:1104449628876841030> **DREAMCATCHER DAMI** I know you",
+    "idol":"DREAMCATCHER DAMI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1153877626486796309/iky_dami.png",
+    "theme": "BONVOYAGE",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"DCYH_IK": [
+  {
+    "name":"<:C_:1104449628876841030> **DREAMCATCHER YOOHYEON** I know you",
+    "idol":"DREAMCATCHER YOOHYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1153877626851696690/iky_yoo.png",
+    "theme": "BONVOYAGE",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"DCHD_IK": [
+  {
+    "name":"<:C_:1104449628876841030> **DREAMCATCHER HANDONG** I know you",
+    "idol":"DREAMCATCHER HANDONG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1153877627216613467/iky_han.png",
+    "theme": "BONVOYAGE",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"DCSY_IK": [
+  {
+    "name":"<:C_:1104449628876841030> **DREAMCATCHER SIYEON** I know you",
+    "idol":"DREAMCATCHER SIYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1153877627568926770/iky_siyeon.png",
+    "theme": "BONVOYAGE",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"DCSU_IK": [
+  {
+    "name":"<:C_:1104449628876841030> **DREAMCATCHER SUA** I know you",
+    "idol":"DREAMCATCHER SUA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1153877627967381656/iky_sua.png",
+    "theme": "BONVOYAGE",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"DCJI_IK": [
+  {
+    "name":"<:C_:1104449628876841030> **DREAMCATCHER JIU** I know you",
+    "idol":"DREAMCATCHER JIU",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1153877628323909642/iky_jiu.png",
+    "theme": "BONVOYAGE",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"SOLA_ML": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist Leigh-Anne** My Love",
+    "idol":"Soloist Leigh-Anne",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1153518254082494464/IMG_8772.png",
+    "theme": "My Love (feat. Arya Starr)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"SOHY_PT": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist HYO** Picture",
+    "idol":"Soloist HYO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1153038532638691378/IMG_8730.png",
+    "theme": "Picture",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"SOSJ_TO": [
+  {
+    "name":"<:R:1104449630659428372> **Soloist KIM SEJEONG** Top or Cliff",
+    "idol":"Soloist KIM SEJEONG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1151516185226133514/R_5.png",
+    "theme": "Top or Cliff",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+"SOSJ_JG": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist KIM SEJEONG** Jenga",
+    "idol":"Soloist KIM SEJEONG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1151516076732067951/C_21.png",
+    "theme": "Jenga",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"LMJT_WI": [
+  {
+    "name":"<:C_:1104449628876841030> **Little Mix Jade Thirlwall** Wings",
+    "idol":"Little Mix Jade Thirlwall",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1151262964691771542/LMJT_WI.png",
+    "theme": "Wings",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"LMLA_WI": [
+  {
+    "name":"<:C_:1104449628876841030> **Little Mix Leigh-Anne Pinnock** Wings",
+    "idol":"Little Mix Leigh-Anne Pinnock",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1151262965073449040/LMLA_WI.png",
+    "theme": "Wings",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"LMPE_WI": [
+  {
+    "name":"<:C_:1104449628876841030> **Little Mix Perrie Edwards** Wings",
+    "idol":"Little Mix Perrie Edwards",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1151262965618720778/LMPE_WI.png",
+    "theme": "Wings",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"KAJW_RIC": [
+  {
+    "name":"<:B:1122363573629374525> **KARD JIWOO** ICKY",
+    "idol":"KARD JIWOO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149865507189698570/icky_jiwoo.png",
+    "theme": "ICKY",
+    "min": "1500",
+    "max": "2000"
+  }
+  ],
+"KASM_RIC": [
+  {
+    "name":"<:B:1122363573629374525> **KARD SOMIN** ICKY",
+    "idol":"KARD SOMIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149865507659464704/icky_somin.png",
+    "theme": "ICKY",
+    "min": "1500",
+    "max": "2000"
+  }
+  ],
+"KABM_RIC": [
+  {
+    "name":"<:B:1122363573629374525> **KARD BM** ICKY",
+    "idol":"KARD BM",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149865508062109787/icky_bm.png",
+    "theme": "ICKY",
+    "min": "1500",
+    "max": "2000"
+  }
+  ],
+"KAJS_RIC": [
+  {
+    "name":"<:B:1122363573629374525> **KARD J.SEPH** ICKY",
+    "idol":"KARD J.SEPH",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149865509408485516/icky_j.png",
+    "theme": "ICKY",
+    "min": "1500",
+    "max": "2000"
+  }
+  ],
+"KAJS_CK": [
+  {
+    "name":"<:C_:1104449628876841030> **KARD J.SEPH** CAKE",
+    "idol":"KARD J.SEPH",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149865446330343594/cake_jseph.png",
+    "theme": "CAKE",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"KASM_CK": [
+  {
+    "name":"<:C_:1104449628876841030> **KARD SOMIN** CAKE",
+    "idol":"KARD SOMIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149865445470519456/cake_somin.png",
+    "theme": "CAKE",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"KAJW_CK": [
+  {
+    "name":"<:C_:1104449628876841030> **KARD JIWOO** CAKE",
+    "idol":"KARD JIWOO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149865444812005448/cake_jiwoo.png",
+    "theme": "CAKE",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"KASM_CK": [
+  {
+    "name":"<:C_:1104449628876841030> **KARD SOMIN** CAKE",
+    "idol":"KARD SOMIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149865445470519456/cake_somin.png",
+    "theme": "CAKE",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"KABM_CK": [
+  {
+    "name":"<:C_:1104449628876841030> **KARD BM** CAKE",
+    "idol":"KARD BM",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149865445856378910/cake_bm.png",
+    "theme": "CAKE",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"SOHT_AH": [
+  {
+    "name":"<:R:1104449630659428372> <:badge_special:1107422313466576937> **Soloist LEE MINHYUK (HUTA)** ARENA HOMME+ Korea [2023]",
+    "idol":"Soloist LEE MINHYUK (HUTA)",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149539751796412486/huta_specila.png",
+    "theme": "BOOM",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+"SOOR_TG": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist Olivia Rodrigo** the grudge",
+    "idol":"Soloist Olivia Rodrigo",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149516830164135946/STARPATH_C24_20230907222046.png",
+    "theme": "the grudge",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"SOOR_GH": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist Olivia Rodrigo** get him back!",
+    "idol":"Soloist Olivia Rodrigo",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149516875789778984/STARPATH_C24_20230907222443.png",
+    "theme": "get him back!",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"SOOR_MT": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist Olivia Rodrigo** making the bed",
+    "idol":"Soloist Olivia Rodrigo",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149516921528647760/STARPATH_C41_20230907222815.png",
+    "theme": "making the bed",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"SOBH_DZ": [
+  {
+    "name":"<:C_:1104449628876841030> <:badge_special:1107422313466576937> **Soloist BAEKHO** DAZED Korea [2023]",
+    "idol":"Soloist BAEKHO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149190898761072711/dazed_baekho.png",
+    "theme": "Elevator",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+"SOBH_EL": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist BAEKHO** Elevator",
+    "idol":"Soloist BAEKHO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149190678547533874/baekho_elevator.png",
+    "theme": "Elevator",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "LOCH_BT": [
+  {
+    "name":"<:R:1104449630659428372> **LOONA Chuu** Butterfly",
+    "idol":"LOONA Chuu",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1126575642226462812/LOCH_BT.png",
+    "theme": "Butterfly",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "LOCR_BT": [
+  {
+    "name":"<:R:1104449630659428372> **LOONA Choerry** Butterfly",
+    "idol":"LOONA Choerry",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1126575642683650068/LOCR_BT.png",
+    "theme": "Butterfly",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "LOGW_BT": [
+  {
+    "name":"<:R:1104449630659428372> **LOONA Go Won** Butterfly",
+    "idol":"LOONA Go Won",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1126575643220512829/LOGW_BT.png",
+    "theme": "Butterfly",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "LOHJ_BT": [
+  {
+    "name":"<:R:1104449630659428372> **LOONA HeeJin** Butterfly",
+    "idol":"LOONA HeeJin",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1126575643799334922/LOHJ_BT.png",
+    "theme": "Butterfly",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "LOHS_BT": [
+  {
+    "name":"<:R:1104449630659428372> **LOONA HaSeul** Butterfly",
+    "idol":"LOONA HaSeul",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1126575644348797018/LOHS_BT.png",
+    "theme": "Butterfly",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "LOHY_BT": [
+  {
+    "name":"<:R:1104449630659428372> **LOONA HyunJin** Butterfly",
+    "idol":"LOONA HyunJin",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1126575644881457243/LOHY_BT.png",
+    "theme": "Butterfly",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "LOJS_BT": [
+  {
+    "name":"<:R:1104449630659428372> **LOONA JinSoul** Butterfly",
+    "idol":"LOONA JinSoul",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1126575645502230558/LOJS_BT.png",
+    "theme": "Butterfly",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "LOKL_BT": [
+  {
+    "name":"<:R:1104449630659428372> **LOONA Kim Lip** Butterfly",
+    "idol":"LOONA Kim Lip",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1126575646638878790/LOKL_BT.png",
+    "theme": "Butterfly",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "LOOH_BT": [
+  {
+    "name":"<:R:1104449630659428372> **LOONA Olivia Hye** Butterfly",
+    "idol":"LOONA Olivia Hye",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1126575647351918592/LOOH_BT.png",
+    "theme": "Butterfly",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "LOVV_BT": [
+  {
+    "name":"<:R:1104449630659428372> **LOONA ViVi** Butterfly",
+    "idol":"LOONA ViVi",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1126575647825866782/LOVV_BT.png",
+    "theme": "Butterfly",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "LOYJ_BT": [
+  {
+    "name":"<:R:1104449630659428372> **LOONA YeoJin** Butterfly",
+    "idol":"LOONA YeoJin",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1126575684580561036/LOYJ_BT.png",
+    "theme": "Butterfly",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "LOYV_BT": [
+  {
+    "name":"<:R:1104449630659428372> **LOONA Yves** Butterfly",
+    "idol":"LOONA Yves",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1126575685264216114/LOYV_BT.png",
+    "theme": "Butterfly",
+    "min": "100",
+    "max": "500"
+  }
   ]
 }
