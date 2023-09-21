@@ -19771,5 +19771,25 @@
     "min": "100",
     "max": "500"
   }
+  ],
+  "SOHY_DP": [
+  {
+    "name":"<:R:1104449630659428372> **Soloist HYO** DEEP",
+    "idol":"Soloist HYO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1139909597436583967/SOHY_DE.png",
+    "theme": "DEEP",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+"SOHY_ST": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist HYO** Stupid",
+    "idol":"Soloist HYO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1139910305846140978/SOHY_ST.png",
+    "theme": "Stupid",
+    "min": "0",
+    "max": "100"
+  }
   ]
 }
