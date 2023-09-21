@@ -1713,7 +1713,7 @@
   {
     "name":"<:R_:1104449630659428372> **Red Velvet IRENE** Pose",
     "idol":"Red Velvet IRENE",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115697177143017613/image.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1152211408285601792/pose_irene.png",
     "theme": "Pose",
     "min": "100",
     "max": "500"
@@ -1723,7 +1723,7 @@
   {
     "name":"<:R_:1104449630659428372> **Red Velvet SEULGI** Pose",
     "idol":"Red Velvet SEULGI",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115697177596018789/image.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1152211407652274246/pose_seulgi.png",
     "theme": "Pose",
     "min": "100",
     "max": "500"
@@ -1733,7 +1733,7 @@
   {
     "name":"<:R_:1104449630659428372> **Red Velvet WENDY** Pose",
     "idol":"Red Velvet WENDY",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115697178766221312/image.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1152211407224442921/pose_wendy.png",
     "theme": "Pose",
     "min": "100",
     "max": "500"
@@ -1743,7 +1743,7 @@
   {
     "name":"<:R_:1104449630659428372> **Red Velvet JOY** Pose",
     "idol":"Red Velvet JOY",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115697179097579790/image.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1152211406582722580/pose_joy.png",
     "theme": "Pose",
     "min": "100",
     "max": "500"
@@ -1753,7 +1753,7 @@
   {
     "name":"<:R_:1104449630659428372> **Red Velvet YERI** Pose",
     "idol":"Red Velvet YERI",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1115697179542167643/image.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1152211406071021658/pose_yeri.png",
     "theme": "Pose",
     "min": "100",
     "max": "500"
@@ -1803,7 +1803,7 @@
   {
     "name":"<:R_:1104449630659428372> **KARD J.SEPH** My innuendo",
     "idol":"KARD J.SEPH",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112832945485512774/image.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1152223733679931433/mi_jseph.png",
     "theme": "ICKY",
     "min": "100",
     "max": "500"
@@ -1813,7 +1813,7 @@
   {
     "name":"<:R_:1104449630659428372> **KARD BM** My innuendo",
     "idol":"KARD BM",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112832946345349192/image.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1152223734216806420/mi_bm.png",
     "theme": "ICKY",
     "min": "100",
     "max": "500"
@@ -1823,7 +1823,7 @@
   {
     "name":"<:R_:1104449630659428372> **KARD SOMIN** My innuendo",
     "idol":"KARD SOMIN",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112832945825263657/image.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1152223733281476748/mi_somin.png",
     "theme": "ICKY",
     "min": "100",
     "max": "500"
@@ -1833,7 +1833,7 @@
   {
     "name":"<:R_:1104449630659428372> **KARD JIWOO** My innuendo",
     "idol":"KARD JIWOO",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1112832946722832394/image.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1152223732836872202/mi_iwoo.png",
     "theme": "ICKY",
     "min": "100",
     "max": "500"
@@ -2763,7 +2763,7 @@
   {
     "name":"<:C_:1104449628876841030> **NCT 127 TAEYONG** Sticker",
     "idol":"NCT 127 TAEYONG",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106791033292992602/image.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1154257436274864259/sticker_taeyong.png",
     "theme": "Sticker",
     "min": "0",
     "max": "100"
@@ -2773,7 +2773,7 @@
   {
     "name":"<:C_:1104449628876841030> **NCT 127 JOHNNY** Sticker",
     "idol":"NCT 127 JOHNNY",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106791033846636564/image.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1154257435096264714/sticker_johnny.png",
     "theme": "Sticker",
     "min": "0",
     "max": "100"
@@ -2783,7 +2783,7 @@
   {
     "name":"<:C_:1104449628876841030> **NCT 127 TAEIL** Sticker",
     "idol":"NCT 127 TAEIL",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106791034245099551/image.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1154257435553452032/sticker_taeil.png",
     "theme": "Sticker",
     "min": "0",
     "max": "100"
@@ -2793,7 +2793,7 @@
   {
     "name":"<:C_:1104449628876841030> **NCT 127 JAEHYUN** Sticker",
     "idol":"NCT 127 JAEHYUN",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106791034895212544/image.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1154257434681036853/sticker_jaehyun.png",
     "theme": "Sticker",
     "min": "0",
     "max": "100"
@@ -2803,7 +2803,7 @@
   {
     "name":"<:C_:1104449628876841030> **NCT 127 JUNGWOO** Sticker",
     "idol":"NCT 127 JUNGWOO",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106791035184623696/image.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1154257434303541249/sticker_jung.png",
     "theme": "Sticker",
     "min": "0",
     "max": "100"
@@ -2813,7 +2813,7 @@
   {
     "name":"<:C_:1104449628876841030> **NCT 127 DOYOUNG** Sticker",
     "idol":"NCT 127 DOYOUNG",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106791035503382639/image.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1154257433951223808/sticker_doyoung.png",
     "theme": "Sticker",
     "min": "0",
     "max": "100"
@@ -2823,7 +2823,7 @@
   {
     "name":"<:C_:1104449628876841030> **NCT 127 YUTA** Sticker",
     "idol":"NCT 127 YUTA",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106791036031868938/image.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1154257433519206430/sticker_yuta.png",
     "theme": "Sticker",
     "min": "0",
     "max": "100"
@@ -2833,7 +2833,7 @@
   {
     "name":"<:C_:1104449628876841030> **NCT 127 MARK** Sticker",
     "idol":"NCT 127 MARK",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106791036400971776/image.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1154257433112367164/sticker_mark.png",
     "theme": "Sticker",
     "min": "0",
     "max": "100"
@@ -2843,7 +2843,7 @@
   {
     "name":"<:C_:1104449628876841030> **NCT 127 HAECHAN** Sticker",
     "idol":"NCT 127 HAECHAN",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106791036807811172/image.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1154257432793595914/sticker_haechan.png",
     "theme": "Sticker",
     "min": "0",
     "max": "100"
@@ -6743,7 +6743,7 @@
   {
     "name":"<:C_:1104449628876841030> **Kep1er YUJIN** Giddy",
     "idol":"Kep1er YUJIN",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113858781760204890/image.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1152382240542695454/g_yu.png",
     "theme": "Giddy",
     "min": "0",
     "max": "100"
@@ -6753,7 +6753,7 @@
   {
     "name":"<:C_:1104449628876841030> **Kep1er XIAOTING** Giddy",
     "idol":"Kep1er XIAOTING",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113858782234165339/image.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1152382240173592596/g_xt.png",
     "theme": "Giddy",
     "min": "0",
     "max": "100"
@@ -6763,7 +6763,7 @@
   {
     "name":"<:C_:1104449628876841030> **Kep1er MASHIRO** Giddy",
     "idol":"Kep1er MASHIRO",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113858782682951710/image.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1152382239619940383/g_mashiro.png",
     "theme": "Giddy",
     "min": "0",
     "max": "100"
@@ -6773,7 +6773,7 @@
   {
     "name":"<:C_:1104449628876841030> **Kep1er CHAEHYUN** Giddy",
     "idol":"Kep1er CHAEHYUN",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113858783337267353/image.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1152382239045328896/g_chae.png",
     "theme": "Giddy",
     "min": "0",
     "max": "100"
@@ -6783,7 +6783,7 @@
   {
     "name":"<:C_:1104449628876841030> **Kep1er DAYEON** Giddy",
     "idol":"Kep1er DAYEON",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113858783807025202/image.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1152382238684614786/g_daye.png",
     "theme": "Giddy",
     "min": "0",
     "max": "100"
@@ -6793,7 +6793,7 @@
   {
     "name":"<:C_:1104449628876841030> **Kep1er HIKARU** Giddy",
     "idol":"Kep1er HIKARU",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113858784247414915/image.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1152382238315511858/g_hik.png",
     "theme": "Giddy",
     "min": "0",
     "max": "100"
@@ -6803,7 +6803,7 @@
   {
     "name":"<:C_:1104449628876841030> **Kep1er HUENING BAHIYYIH** Giddy",
     "idol":"Kep1er HUENING BAHIYYIH",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113858784692023306/image.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1152382237942227004/g_hue.png",
     "theme": "Giddy",
     "min": "0",
     "max": "100"
@@ -6813,7 +6813,7 @@
   {
     "name":"<:C_:1104449628876841030> **Kep1er YOUNGEUN** Giddy",
     "idol":"Kep1er YOUNGEUN",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113858785073692762/image.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1152382237602484284/g_young.png",
     "theme": "Giddy",
     "min": "0",
     "max": "100"
@@ -6823,7 +6823,7 @@
   {
     "name":"<:C_:1104449628876841030> **Kep1er YESEO** Giddy",
     "idol":"Kep1er YESEO",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113858785493139507/image.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1152382237237575790/g_yes.png",
     "theme": "Giddy",
     "min": "0",
     "max": "100"
@@ -17886,7 +17886,7 @@
   {
     "name":"<:C_:1104449628876841030> **CIX HYUNSUK** 458",
     "idol":"CIX HYUNSUK",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1143157308667465949/458_hyun.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1154257343631073400/458_hun.png",
     "theme": "458",
     "min": "0",
     "max": "100"
@@ -17896,7 +17896,7 @@
   {
     "name":"<:C_:1104449628876841030> **CIX YONGHEE** 458",
     "idol":"CIX YONGHEE",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1143157309049143306/458_yonghee.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1154257343295537254/458_yong.png",
     "theme": "458",
     "min": "0",
     "max": "100"
@@ -17906,7 +17906,7 @@
   {
     "name":"<:C_:1104449628876841030> **CIX JINYOUNG** 458",
     "idol":"CIX JINYOUNG",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1143157309405671464/458_jinyoung.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1154257342939013150/458_bae.png",
     "theme": "458",
     "min": "0",
     "max": "100"
@@ -17916,7 +17916,7 @@
   {
     "name":"<:C_:1104449628876841030> **CIX SEUNGHUN** 458",
     "idol":"CIX SEUNGHUN",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1143157309783150693/458_seunghun.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1154257341651370004/458_seung.png",
     "theme": "458",
     "min": "0",
     "max": "100"
@@ -17926,7 +17926,7 @@
   {
     "name":"<:C_:1104449628876841030> **CIX BX** 458",
     "idol":"CIX BX",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1143157310252908555/458_bx.png",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1154257341273874483/458_bx.png",
     "theme": "458",
     "min": "0",
     "max": "100"
