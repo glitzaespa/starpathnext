@@ -18454,12 +18454,12 @@
   ],
     "LSGW_NT": [
   {
-    "name":"<:X_:1104449632890798091> **Loossemble Go Won** Newtopia",
+    "name":"<:C_:1104449628876841030> **Loossemble Go Won** Newtopia",
     "idol":"Loossemble Go Won",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149636249846558720/C_1_4.png",
     "theme": "Newtopia",
-    "min": "500",
-    "max": "1000"
+    "min": "0",
+    "max": "100"
   }
   ],
 "STCJ_BR2": [
