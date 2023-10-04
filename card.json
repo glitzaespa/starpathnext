@@ -21491,5 +21491,85 @@
     "min": "0",
     "max": "100"
   }
+  ],
+  "ONFU_SS": [
+  {
+    "name":"<:C_:1104449628876841030> **ONF U** Sukhumvit Swimming",
+    "idol":"ONF U",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1142920512536854528/u_suk.png?ex=652c4dac&is=6519d8ac&hm=a39dcbacefe46e2f60f3a140ef8a082de21bd61b3cc373a49f329d687f28650a&",
+    "theme": "Sukhumvit Swimming (스쿰빗스위밍)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"ONMK_SS": [
+  {
+    "name":"<:C_:1104449628876841030> **ONF MK** Sukhumvit Swimming",
+    "idol":"ONF MK",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1142920513035980810/mk_suk.png?ex=652c4dac&is=6519d8ac&hm=60f80533a2c58923f8604ff824d3f1d0cfea0a4a9a31806e808f41506257c358&",
+    "theme": "Sukhumvit Swimming (스쿰빗스위밍)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"ONWY_SS": [
+  {
+    "name":"<:C_:1104449628876841030> **ONF WYATT** Sukhumvit Swimming",
+    "idol":"ONF WYATT",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1142920513379897514/wyatt_suk.png?ex=652c4dac&is=6519d8ac&hm=e70ae1379c401379f3418d969fe52beab90df3734af3e5369b86bacf741e2008&",
+    "theme": "Sukhumvit Swimming (스쿰빗스위밍)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"ONJU_SS": [
+  {
+    "name":"<:C_:1104449628876841030> **ONF J-US** Sukhumvit Swimming",
+    "idol":"ONF J-US",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1142920513769984142/jus_suk.png?ex=652c4dac&is=6519d8ac&hm=1f475ecaa812225eab927ca4bb217e310c2cd5694c256ebf0bbb99c9be71ab60&",
+    "theme": "Sukhumvit Swimming (스쿰빗스위밍)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"ONET_SS": [
+  {
+    "name":"<:C_:1104449628876841030> **ONF E-TION** Sukhumvit Swimming",
+    "idol":"ONF E-TION",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1142920514122301480/etion_suk.png?ex=652c4dad&is=6519d8ad&hm=4aeb06af5b140c9bda5e3875f9a1516268832d8f30c2db4dc5de0b1e74fa836e&",
+    "theme": "Sukhumvit Swimming (스쿰빗스위밍)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"ONHJ_SS": [
+  {
+    "name":"<:C_:1104449628876841030> **ONF HYOJIN** Sukhumvit Swimming",
+    "idol":"ONF HYOJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1142920514592051271/hyojin_suk.png?ex=652c4dad&is=6519d8ad&hm=5da6a5617214df877d27dc15d4b93126c53e65cd6108e5e67e1ab7b331c23d0c&",
+    "theme": "Sukhumvit Swimming (스쿰빗스위밍)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"SHHW_LT": [
+  {
+    "name":"<:C_:1104449628876841030> **SHOWNU X HYUNGWON HYUNGWON** Little",
+    "idol":"SHOWNU X HYUNGWON HYUNGWON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1158726224923852890/IMG_20231003_082239.png?ex=652e6ee4&is=651bf9e4&hm=8adf372a3d205c662c5c18949751de260af1c4df79a92a03c1ba3f057adb7320&",
+    "theme": "Love Me A Little",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"SHSN_LT": [
+  {
+    "name":"<:C_:1104449628876841030> **SHOWNU X HYUNGWON SHOWNU** Little",
+    "idol":"SHOWNU X HYUNGWON SHOWNU",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1158726225385230438/IMG_20231003_082317.png?ex=652e6ee4&is=651bf9e4&hm=8d392ea87bdf57c38332213ab38b5c68651ee62269ecf5b740e9ea1b6eb5144e&",
+    "theme": "Love Me A Little",
+    "min": "0",
+    "max": "100"
+  }
   ]
 }
