@@ -21251,5 +21251,245 @@
     "min": "0",
     "max": "100"
   }
+  ],
+  "MPSL_IL": [
+  {
+    "name":"<:C_:1104449628876841030> **MAMAMOO+ SOLAR** I LIKE THIS",
+    "idol":"MAMAMOO+ SOLAR",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1142975117241094184/IMG_8329.png?ex=652c8087&is=651a0b87&hm=5bf0e6ed1faa241c10cb055eb7a8bf3a42c3d2267ee770f3f6c2a7c084328a13&",
+    "theme": "I LIKE THIS",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"MPMB_IL": [
+  {
+    "name":"<:C_:1104449628876841030> **MAMAMOO+ MOONBYUL** I LIKE THIS",
+    "idol":"MAMAMOO+ MOONBYUL",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1142975117761204244/IMG_8330.png?ex=652c8087&is=651a0b87&hm=6c63764f8d954674d8124f0a3f336dc738b16c0f08b9aae05185e76b5504a689&",
+    "theme": "I LIKE THIS",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"TRDJ_RD": [
+  {
+    "name":"<:C_:1104449628876841030> **The Rose Dojoon** RED",
+    "idol":"The Rose Dojoon",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1151697564807221279/Dojoon_-_RED.png?ex=652751f0&is=6514dcf0&hm=ec8b4c72ead978051e1575823fcea00dfc635862b23368e04867f3c2e86bf46e&",
+    "theme": "RED",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"TRHJ_RD": [
+  {
+    "name":"<:C_:1104449628876841030> **The Rose Hajoon** RED",
+    "idol":"The Rose Hajoon",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1151697565209862235/Hajoon_-_RED.png?ex=652751f1&is=6514dcf1&hm=dd7765e3ab400806b171c769dc2ed4f2bdec1c996f7d9d0f38eda74a4508c337&",
+    "theme": "RED",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"TRJH_RD": [
+  {
+    "name":"<:C_:1104449628876841030> **The Rose Jaehyeong** RED",
+    "idol":"The Rose Jaehyeong",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1151697565641883779/Jaehyeong_-_RED.png?ex=652751f1&is=6514dcf1&hm=df451b9fe0b34c7b9e7c24da1d96bbc02c45adc67dc0d897900719e74209d52c&",
+    "theme": "RED",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"TRWS_RD": [
+  {
+    "name":"<:C_:1104449628876841030> **The Rose Woosung** RED",
+    "idol":"The Rose Woosung",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1151697565952266300/Woosung_-_RED.png?ex=652751f1&is=6514dcf1&hm=a965e6dbf0b8e033e185229f423568b1d248eda89db89db239799ed4608fa8d6&",
+    "theme": "RED",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"D6WP_ZB": [
+  {
+    "name":"<:C_:1104449628876841030> **DAY6 WONPIL** Zombie",
+    "idol":"DAY6 WONPIL",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1156707956004491304/wonpil.png?ex=6527173b&is=6514a23b&hm=70ef676259a076871f385e9aa6701f7a6cfbc4b6280ac99b244110db1622697f&",
+    "theme": "Zombie",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"D6DW_ZB": [
+  {
+    "name":"<:C_:1104449628876841030> **DAY6 DOWOON** Zombie",
+    "idol":"DAY6 DOWOON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1156707955421491310/dowoon.png?ex=6527173b&is=6514a23b&hm=e7d9ff2e7289b787bc91aceee071bf9294b2b6f3be07710a30e29b351b684dcc&",
+    "theme": "Zombie",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"D6YK_ZB": [
+  {
+    "name":"<:C_:1104449628876841030> **DAY6 Young K** Zombie",
+    "idol":"DAY6 Young K",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1156707956331655278/youngk.png?ex=6527173b&is=6514a23b&hm=af8a8d25bba3af75107fdf02ae994ab3fa3b251eb6c166a89d5cfcdb830a3f70&",
+    "theme": "Zombie",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"D6SJ_ZB": [
+  {
+    "name":"<:C_:1104449628876841030> **DAY6 SUNGJIN** Zombie",
+    "idol":"DAY6 SUNGJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1156707955710886008/sungjin.png?ex=6527173b&is=6514a23b&hm=035a9919b6232c0a1e8aff775a4a0f904f0a915638e2526c2d46d07af07b6f96&",
+    "theme": "Zombie",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"SOLD_BDY": [
+  {
+    "name":"<:B:1122363573629374525> **Soloist Lana Del Rey** Did you know that there's a tunnel under Ocean Blvd",
+    "idol":"Soloist Lana Del Rey",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1122568302703693875/SOLD_BDY.png?ex=652c1733&is=6519a233&hm=fd2e943639f485ebcc6d4b16c1e33e684343d8d1a5b54749f7b9b2e45f9051f4&",
+    "theme": "Did you know that there's a tunnel under Ocean Blvd",
+    "min": "1500",
+    "max": "2000"
+  }
+  ],
+  "NDMA_HS": [
+  {
+    "name":"<:C_:1104449628876841030> **NCT DREAM MARK** Hot Sauce",
+    "idol":"NCT DREAM MARK",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1158952252673892352/mark_hs.png?ex=652f4165&is=651ccc65&hm=9addf4f85ca97aaf0dfe4c9625ad51514669a7bb4031b35ebf5672e7ba3e09ce&",
+    "theme": "맛 (Hot Sauce)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "NDHC_HS": [
+  {
+    "name":"<:C_:1104449628876841030> **NCT DREAM HAECHAN** Hot Sauce",
+    "idol":"NCT DREAM HAECHAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1158952250480271380/hc_hs.png?ex=652f4164&is=651ccc64&hm=d94ee85e07cb721a585321724f43635c427a6acfd481e510bde2c6218aa4b777&",
+    "theme": "맛 (Hot Sauce)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "NDJM_HS": [
+  {
+    "name":"<:C_:1104449628876841030> **NCT DREAM JAEMIN** Hot Sauce",
+    "idol":"NCT DREAM JAEMIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1158952250052460564/jaemin_hs.png?ex=652f4164&is=651ccc64&hm=332bd00e7302b266f18079b01d956a8ae911e504aad148b4693226d30a3af680&",
+    "theme": "맛 (Hot Sauce)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "NDJN_HS": [
+  {
+    "name":"<:C_:1104449628876841030> **NCT DREAM JENO** Hot Sauce",
+    "idol":"NCT DREAM JENO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1158952251101040680/jeno_hs.png?ex=652f4164&is=651ccc64&hm=d1c6457e12a692a9920931c1d099b3ed00584c0b8f26690a8351af759a3630c3&",
+    "theme": "맛 (Hot Sauce)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "NDRJ_HS": [
+  {
+    "name":"<:C_:1104449628876841030> **NCT DREAM RENJUN** Hot Sauce",
+    "idol":"NCT DREAM RENJUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1158952251700822036/renjun_hs.png?ex=652f4165&is=651ccc65&hm=197ca4e92f00abbc49f3666da9ae44726f68da89ef5be8eb6e3a8b6e71950884&",
+    "theme": "맛 (Hot Sauce)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "NDCL_HS": [
+  {
+    "name":"<:C_:1104449628876841030> **NCT DREAM CHENLE** Hot Sauce",
+    "idol":"NCT DREAM CHENLE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1158952249721114676/chenle_hs.png?ex=652f4164&is=651ccc64&hm=e90e599b6e8f1a40ef2d3b6e7c1458be447aee327398eb28565424aabdbf5e42&",
+    "theme": "맛 (Hot Sauce)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "NDJS_HS": [
+  {
+    "name":"<:C_:1104449628876841030> **NCT DREAM JISUNG** Hot Sauce",
+    "idol":"NCT DREAM JISUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1158952249352003604/jisung_hs.png?ex=652f4164&is=651ccc64&hm=c2adcb200624ad3ccd550e9b1028097c9b58ca46747fa14d436a2062a15fd186&",
+    "theme": "맛 (Hot Sauce)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "VVKM_CL": [
+  {
+    "name":"<:C_:1104449628876841030> **VERIVERY KANGMIN** Crazy Like That",
+    "idol":"VERIVERY KANGMIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1141137371954430022/km_clt.png?ex=652f0b7e&is=651c967e&hm=9e3afb6991af43c5b347cda966fd9c659d3be00920cb3b0d569fc6208c67fe85&",
+    "theme": "Crazy Like That",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"VVYS_CL": [
+  {
+    "name":"<:C_:1104449628876841030> **VERIVERY YONGSEUNG** Crazy Like That",
+    "idol":"VERIVERY YONGSEUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1141137372424179752/ys_clt.png?ex=652f0b7e&is=651c967e&hm=c3c9039c7761daa7d32b07b75f2df7293e225fadfa2c6e452cb86dde7f3464c5&",
+    "theme": "Crazy Like That",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"VVYH_CL": [
+  {
+    "name":"<:C_:1104449628876841030> **VERIVERY YEONHO** Crazy Like That",
+    "idol":"VERIVERY YEONHO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1141137372759736542/yeonho_clt.png?ex=652f0b7e&is=651c967e&hm=7d625fa891ba1aa2c35afdb37f299326ba495596308c64cb705d1b52eee58c83&",
+    "theme": "Crazy Like That",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"VVGH_CL": [
+  {
+    "name":"<:C_:1104449628876841030> **VERIVERY GYEHYON** Crazy Like That",
+    "idol":"VERIVERY GYEHYON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1141137373128822834/gyehyon_clt.png?ex=652f0b7f&is=651c967f&hm=7debf9a16452ccccdb65a8faaf6fca092a09e8655cfce7d6bace619edc848c6c&",
+    "theme": "Crazy Like That",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"VVHY_CL": [
+  {
+    "name":"<:C_:1104449628876841030> **VERIVERY HOYEON** Crazy Like That",
+    "idol":"VERIVERY HOYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1141137373506322432/hoyoung_clt.png?ex=652f0b7f&is=651c967f&hm=28341778de7a1c150d44cc11d51cee83250815d2ee77e4852692f4806b5511e9&",
+    "theme": "Crazy Like That",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"VVDH_CL": [
+  {
+    "name":"<:C_:1104449628876841030> **VERIVERY DONGHEON** Crazy Like That",
+    "idol":"VERIVERY DONGHEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1141137373929951264/dong_clt.png?ex=652f0b7f&is=651c967f&hm=119942614ade5a88e26085ac20d4a3835dbf3047ccd283c4a11ca21f77f61c00&",
+    "theme": "Crazy Like That",
+    "min": "0",
+    "max": "100"
+  }
   ]
 }
