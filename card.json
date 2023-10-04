@@ -21231,5 +21231,25 @@
     "min": "0",
     "max": "100"
   }
+  ],
+  "SOSG_SS": [
+  {
+    "name":"<:R:1104449630659428372> **Soloist Selena Gomez** Single Soon",
+    "idol":"Soloist Selena Gomez",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1152780296593350667/IMG_8715.png?ex=651d6a90&is=651c1910&hm=53f84a834b69ff80a5493294ab9a6e4fdf8034a10a64705c2efadfbcd3ea41f2&",
+    "theme": "Single Soon",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+"SOSG_CI": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist Selena Gomez** Cause I'll be",
+    "idol":"Soloist Selena Gomez",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1158852099564646431/IMG_9149.png?ex=651dc09e&is=651c6f1e&hm=90dc9bb192c373e88022f8325383a773b4629946fd9a602ad60ec7a54fff77fc&",
+    "theme": "Single Soon",
+    "min": "0",
+    "max": "100"
+  }
   ]
 }
