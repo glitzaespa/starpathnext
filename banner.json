@@ -538,5 +538,17 @@
     "creatorid":"971289285045141584",
     "commission":"yes"
   }
+  ],
+  "KD_PR": [
+  {
+    "name":"**KANGDANIEL** PARANOIA",
+    "type":"Event",
+    "image":"https://cdn.discordapp.com/attachments/1090985395027722333/1160578961240248400/KD_PR.png",
+    "min":"0",
+    "max":"0",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"yes"
+  }
   ]
 }
