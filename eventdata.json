@@ -8,7 +8,9 @@
     "card_1":"SOKD_PR",
     "card_2":"SOKD_ID",
     "card_3":"SOKD_DI",
-    "card_4":"SOKD_AI"
+    "card_4":"SOKD_AI",
+    "preview_false": "https://cdn.discordapp.com/attachments/1106345119667470448/1160558865629331566/set_paranoia-2-fill.png",
+    "preview_true": "https://cdn.discordapp.com/attachments/1090985395027722333/1160581944409608322/set_paranoia-1-nofill.png"
   }
   ]
 }
