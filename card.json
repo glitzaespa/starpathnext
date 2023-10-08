@@ -21571,5 +21571,45 @@
     "min": "0",
     "max": "100"
   }
+  ],
+  "SOKD_PR": [
+  {
+    "name":"<:R:1104449630659428372> <:badge_special:1107422313466576937> **Soloist KANGDANIEL** PARANOIA",
+    "idol":"Soloist KANGDANIEL",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160396177863356427/SOKD_PA.png",
+    "theme": "PARANOIA",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+"SOKD_DI": [
+  {
+    "name":"<:R:1104449630659428372> <:badge_special:1107422313466576937> **Soloist KANGDANIEL** Demons in the night",
+    "idol":"Soloist KANGDANIEL",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160396177506844752/SOKD_DI.png",
+    "theme": "PARANOIA",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+"SOKD_AI": [
+  {
+    "name":"<:R:1104449630659428372> <:badge_special:1107422313466576937> **Soloist KANGDANIEL** Alone in the dark",
+    "idol":"Soloist KANGDANIEL",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160396177137750086/SOKD_AI.png",
+    "theme": "PARANOIA",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+"SOKD_ID": [
+  {
+    "name":"<:R:1104449630659428372> <:badge_special:1107422313466576937> **Soloist KANGDANIEL** I don't wanna",
+    "idol":"Soloist KANGDANIEL",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160396176735088802/SOKD_ID.png",
+    "theme": "PARANOIA",
+    "min": "200",
+    "max": "750"
+  }
   ]
 }
