@@ -550,5 +550,53 @@
     "creatorid":"971289285045141584",
     "commission":"yes"
   }
+  ],
+"BPJS_TH": [
+  {
+    "name":"**BLACKPINK JISOO** The Happiest Girl",
+    "type":"Event",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1161052473360908389/BPJS_TH_bn.png",
+    "min":"0",
+    "max":"0",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"yes"
+  }
+  ],
+"BPJN_TH": [
+  {
+    "name":"**BLACKPINK JENNIE** The Happiest Girl",
+    "type":"Event",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1161052472996024390/BPJN_TH_bn.png",
+    "min":"0",
+    "max":"0",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"yes"
+  }
+  ],
+"BPRS_TH": [
+  {
+    "name":"**BLACKPINK ROSÉ** The Happiest Girl",
+    "type":"Event",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1161052472626917497/BPRS_TH_bn.png",
+    "min":"0",
+    "max":"0",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"yes"
+  }
+  ],
+"BPLS_TH": [
+  {
+    "name":"**BLACKPINK LISA** The Happiest Girl",
+    "type":"Event",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1161052471947448370/BPLS_TH_bn.png",
+    "min":"0",
+    "max":"0",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"yes"
+  }
   ]
 }
