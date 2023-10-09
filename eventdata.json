@@ -12,5 +12,19 @@
     "preview_false": "https://cdn.discordapp.com/attachments/1106345119667470448/1160558865629331566/set_paranoia-2-fill.png",
     "preview_true": "https://cdn.discordapp.com/attachments/1090985395027722333/1160581944409608322/set_paranoia-1-nofill.png"
   }
+  ],
+"thehappiestgirl": [
+  {
+    "limit":"October 20th",
+    "date":"1697842800",
+    "name": "The Happiest Girl",
+    "reward": "n/a",
+    "card_1":"BPJN_TH",
+    "card_2":"BPJS_TH",
+    "card_3":"BPRS_TH",
+    "card_4":"BPLS_TH",
+    "preview_false": "https://cdn.discordapp.com/attachments/1120863114624258100/1161048249432559616/set_thehappiestgirl-2-fill.png",
+    "preview_true": "https://cdn.discordapp.com/attachments/1120863114624258100/1161048249101201488/set_thehappiestgirl-1-nofill.png"
+  }
   ]
 }
