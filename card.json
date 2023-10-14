@@ -21611,5 +21611,345 @@
     "min": "200",
     "max": "750"
   }
+  ],
+  "SOAG_MT": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist Ariana Grande** main thing",
+    "idol":"Soloist Ariana Grande",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1153516807852937327/IMG_8771.png?",
+    "theme": "main thing",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+"STSM_BB": [
+  {
+    "name":"<:R_:1104449630659428372> **STAYC SUMIN** Bubble",
+    "idol":"STAYC SUMIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1141165042910376027/IMG_8260.png",
+    "theme": "Bubble",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "STSI_BB": [
+  {
+    "name":"<:R_:1104449630659428372> **STAYC SIEUN** Bubble",
+    "idol":"STAYC SIEUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1141165043405312170/IMG_8249.png",
+    "theme": "Bubble",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "STIS_BB": [
+  {
+    "name":"<:R_:1104449630659428372> **STAYC ISA** Bubble",
+    "idol":"STAYC ISA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1141165044026048632/IMG_8248.png",
+    "theme": "Bubble",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "STSE_BB": [
+  {
+    "name":"<:R_:1104449630659428372> **STAYC SEEUN** Bubble",
+    "idol":"STAYC SEEUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1141165044579713125/IMG_8258.png",
+    "theme": "Bubble",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "STYN_BB": [
+  {
+    "name":"<:R_:1104449630659428372> **STAYC YOON** Bubble",
+    "idol":"STAYC YOON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1141165045120774195/IMG_8259.png",
+    "theme": "Bubble",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "STCJ_BB": [
+  {
+    "name":"<:R_:1104449630659428372> **STAYC J** Bubble",
+    "idol":"STAYC J",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1141165045657653389/IMG_8257.png",
+    "theme": "Bubble",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "AEGS_PI": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **aespa GISELLE** aespa x Puppy Interview",
+    "idol":"aespa GISELLE",
+    "image": "https://cdn.discordapp.com/attachments/1162164180070170654/1162164260617592832/giselle.png",
+    "theme": "Better Things",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "AEWT_PI": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **aespa WINTER** aespa x Puppy Interview",
+    "idol":"aespa WINTER",
+    "image": "https://cdn.discordapp.com/attachments/1162164180070170654/1162164261116727317/winter.png",
+    "theme": "Better Things",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "AEKR_PI": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **aespa KARINA** aespa x Puppy Interview",
+    "idol":"aespa KARINA",
+    "image": "https://cdn.discordapp.com/attachments/1162164180070170654/1162164261603254385/ka.png",
+    "theme": "Better Things",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "AENN_PI": [
+  {
+    "name":"<:R_:1104449630659428372> <:badge_special:1107422313466576937> **aespa NINGNING** aespa x Puppy Interview",
+    "idol":"aespa NINGNING",
+    "image": "https://media.discordapp.net/attachments/1162164180070170654/1162164262106583040/ning.png",
+    "theme": "Better Things",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOSZ_SN": [
+  {
+    "name":"<:R_:1104449630659428372> **Soloist SZA** Snooze",
+    "idol":"Soloist SZA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1157881809368002581/IMG_8995.png",
+    "theme": "Snooze",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "BPJS_FL": [
+  {
+    "name":"<:R_:1104449630659428372> **BLACKPINK JISOO** Feelin’ like a sinner",
+    "idol":"BLACKPINK JISOO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130027762292363374/JSFLAS_R.png",
+    "theme": "Kill This Love",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "BPJN_FL": [
+  {
+    "name":"<:R_:1104449630659428372> **BLACKPINK JENNIE** Feelin’ like a sinner",
+    "idol":"BLACKPINK JENNIE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130027762665664554/JNFLAS_R.png",
+    "theme": "Kill This Love",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "BPRS_FL": [
+  {
+    "name":"<:R_:1104449630659428372> **BLACKPINK ROSÉ** Feelin’ like a sinner",
+    "idol":"BLACKPINK ROSÉ",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130027763244474399/RSFLAS_R.png",
+    "theme": "Kill This Love",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "BPLS_FL": [
+  {
+    "name":"<:R_:1104449630659428372> **BLACKPINK LISA** Feelin’ like a sinner",
+    "idol":"BLACKPINK LISA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130027763642929223/LSFLAS_R.png",
+    "theme": "Kill This Love",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "WVHD_DO": [
+  {
+    "name":"<:R_:1104449630659428372> **WayV HENDERY** Diamonds Only",
+    "idol":"WayV HENDERY",
+    "image": "https://media.discordapp.net/attachments/1162168704696594442/1162169058012184657/h.png",
+    "theme": "Diamonds Only",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "WVKN_DO": [
+  {
+    "name":"<:R_:1104449630659428372> **WayV KUN** Diamonds Only",
+    "idol":"WayV KUN",
+    "image": "https://cdn.discordapp.com/attachments/1162168704696594442/1162169058502901871/k.png",
+    "theme": "Diamonds Only",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "WVTN_DO": [
+  {
+    "name":"<:R_:1104449630659428372> **WayV TEN** Diamonds Only",
+    "idol":"WayV TEN",
+    "image": "https://cdn.discordapp.com/attachments/1162168704696594442/1162169059102691439/t.png",
+    "theme": "Diamonds Only",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "WVWW_DO": [
+  {
+    "name":"<:R_:1104449630659428372> **WayV WINWIN** Diamonds Only",
+    "idol":"WayV WINWIN",
+    "image": "https://cdn.discordapp.com/attachments/1162168704696594442/1162169059681517640/w.png",
+    "theme": "Diamonds Only",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "WVXJ_DO": [
+  {
+    "name":"<:R_:1104449630659428372> **WayV XIAOJUN** Diamonds Only",
+    "idol":"WayV XIAOJUN",
+    "image": "https://cdn.discordapp.com/attachments/1162168704696594442/1162169060386144379/x.png",
+    "theme": "Diamonds Only",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "WVYY_DO": [
+  {
+    "name":"<:R_:1104449630659428372> **WayV YANGYANG** Diamonds Only",
+    "idol":"WayV YANGYANG",
+    "image": "https://cdn.discordapp.com/attachments/1162168704696594442/1162169060914630666/y.png",
+    "theme": "Diamonds Only",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SOTY_TI": [
+  {
+    "name":"<:R_:1104449630659428372> **Soloist TAEYEON** Timeless",
+    "idol":"Soloist TAEYEON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1158115489017511966/remake_timeless.png",
+    "theme": "Timeless",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SOXM_SE": [
+  {
+    "name":"<:R_:1104449630659428372> **Soloist XIUMIN** Serenity",
+    "idol":"Soloist XIUMIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1157050949425172490/serenity.png",
+    "theme": "Serenity",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SOXM_HW": [
+  {
+    "name":"<:R_:1104449630659428372> **Soloist XIUMIN** How We Do",
+    "idol":"Soloist XIUMIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1157050905431130222/howwedo.png",
+    "theme": "How We Do",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "NZMK_MY": [
+  {
+    "name":"<:C_:1104449628876841030> **NiziU MAKO** Make You Happy",
+    "idol":"NiziU MAKO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1158112438852538390/IMG_9022.png",
+    "theme": "Make You Happy",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "NZRI_MY": [
+  {
+    "name":"<:C_:1104449628876841030> **NiziU RIO** Make You Happy",
+    "idol":"NiziU RIO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1158112439230009444/IMG_9023.png",
+    "theme": "Make You Happy",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "NZMA_MY": [
+  {
+    "name":"<:C_:1104449628876841030> **NiziU MAYA** Make You Happy",
+    "idol":"NiziU MAYA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1158112439766896802/IMG_9024.png",
+    "theme": "Make You Happy",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "NZRK_MY": [
+  {
+    "name":"<:C_:1104449628876841030> **NiziU RIKU** Make You Happy",
+    "idol":"NiziU RIKU",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1158112440203096096/IMG_9025.png",
+    "theme": "Make You Happy",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "NZAY_MY": [
+  {
+    "name":"<:C_:1104449628876841030> **NiziU AYAKA** Make You Happy",
+    "idol":"NiziU AYAKA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1158112440588963971/IMG_9026.png",
+    "theme": "Make You Happy",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "NZMY_MY": [
+  {
+    "name":"<:C_:1104449628876841030> **NiziU MAYUKA** Make You Happy",
+    "idol":"NiziU MAYUKA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1158112441289429165/IMG_9027.png",
+    "theme": "Make You Happy",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "NZRI_MY": [
+  {
+    "name":"<:C_:1104449628876841030> **NiziU RIMA** Make You Happy",
+    "idol":"NiziU RIMA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1158112441721434122/IMG_9028.png",
+    "theme": "Make You Happy",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "NZMI_MY": [
+  {
+    "name":"<:C_:1104449628876841030> **NiziU MIIHI** Make You Happy",
+    "idol":"NiziU MIIHI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1158112442128273428/IMG_9029.png",
+    "theme": "Make You Happy",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "NZNI_MY": [
+  {
+    "name":"<:C_:1104449628876841030> **NiziU NINA** Make You Happy",
+    "idol":"NiziU NINA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1158112442585469088/IMG_9030.png",
+    "theme": "Make You Happy",
+    "min": "0",
+    "max": "100"
+  }
   ]
 }
