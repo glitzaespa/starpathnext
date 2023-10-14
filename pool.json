@@ -56,6 +56,15 @@
     "main":"leeminhyukhuta;san;seungmin;baekho;jangwonyoung;anyujin;chaeryeong;wonho;hyuna;keeho;johnny;gowon"
 }
 ],
+    "earlyaccess": [
+  {
+    "poolcard_C":"SOLA_DO",
+    "poolcard_B":"DJJW_BPF",
+    "poolcard_R":"SODL_HF",
+    "poolcard_X":"SOJH_LB",
+    "poolcard_XP":"SOJH_LB_P"
+}
+],
     "limited": [
   {
     "feelinlike":"PTHS_FL;PTJH_FL;PTKN_FL;PTSW_FL;PTWS_FL;PTYN_FL;PTYO_FL;PTYT_FL"
