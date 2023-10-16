@@ -21951,5 +21951,45 @@
     "min": "0",
     "max": "100"
   }
+  ],
+  "PTJP_FE": [
+  {
+    "name":"<:X_:1104449632890798091> **Pierce The Veil Jaime Preciado** Flawless Execution",
+    "idol":"Pierce The Veil Jaime Preciado",
+    "image": "https://cdn.discordapp.com/attachments/1163332325002715246/1163332397123780628/PTJP_FE_X.png",
+    "theme": "Flawless Execution",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "PTLR_FE": [
+  {
+    "name":"<:X_:1104449632890798091> **Pierce The Veil Loniel Robinson** Flawless Execution",
+    "idol":"Pierce The Veil Loniel Robinson",
+    "image": "https://cdn.discordapp.com/attachments/1163332325002715246/1163332397601927208/PTLR_FE_X.png",
+    "theme": "Flawless Execution",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "PTVF_FE": [
+  {
+    "name":"<:X_:1104449632890798091> **Pierce The Veil Vic Fuentes** Flawless Execution",
+    "idol":"Pierce The Veil Vic Fuentes",
+    "image": "https://cdn.discordapp.com/attachments/1163332325002715246/1163332399124451369/PTVF_FE_X.png",
+    "theme": "Flawless Execution",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "PTTP_FE": [
+  {
+    "name":"<:X_:1104449632890798091> **Pierce The Veil Tony Perry** Flawless Execution",
+    "idol":"Pierce The Veil Tony Perry",
+    "image": "https://cdn.discordapp.com/attachments/1163332325002715246/1163332398528872479/PTTP_FE_X.png",
+    "theme": "Flawless Execution",
+    "min": "500",
+    "max": "1000"
+  }
   ]
 }
