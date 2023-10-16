@@ -1,0 +1,15 @@
+{
+"683724334858108979": [
+  {
+    "invcode":"> $getGlobalUserVar[X_EMOJI] Jaime Preciado **\`PTJP_FE\`**
+$getGlobalUserVar[icon_copy] \`x$getGlobalUserVar[PTJP_FE_COPY]\` | $getGlobalUserVar[icon_power] \`x$getGlobalUserVar[PTJP_FE_POWER]\`
+  > $getGlobalUserVar[X_EMOJI] Loniel Robinson **\`PTLR_FE\`**
+$getGlobalUserVar[icon_copy] \`x$getGlobalUserVar[PTLR_FE_COPY]\` | $getGlobalUserVar[icon_power] \`x$getGlobalUserVar[PTLR_FE_POWER]\`
+  > $getGlobalUserVar[X_EMOJI] Tony Perry **\`PTTP_FE\`**
+$getGlobalUserVar[icon_copy] \`x$getGlobalUserVar[PTTP_FE_COPY]\` | $getGlobalUserVar[icon_power] \`x$getGlobalUserVar[PTTP_FE_POWER]\`
+  > $getGlobalUserVar[X_EMOJI] Vic Fuentes **\`PTVF_FE\`**
+$getGlobalUserVar[icon_copy] \`x$getGlobalUserVar[PTVF_FE_COPY]\` | $getGlobalUserVar[icon_power] \`x$getGlobalUserVar[PTVF_FE_POWER]\`",
+    "invthemename":"Flawless Execution"
+  }
+  ]
+}
