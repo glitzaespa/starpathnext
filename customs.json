@@ -1,7 +1,7 @@
 {
 "inv_683724334858108979": [
   {
-    "invcode":"> $getGlobalUserVar[X_EMOJI] Jaime Preciado **\`PTJP_FE\`**",
+    "invcode":"> $getGlobalUserVar[X_EMOJI] Jaime Preciado **$getGlobalUserVar[testyas]PTJP_FE$getGlobalUserVar[testyas]**",
     "invthemename":"Flawless Execution"
   }
   ]
