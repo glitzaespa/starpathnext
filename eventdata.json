@@ -26,5 +26,19 @@
     "preview_false": "https://cdn.discordapp.com/attachments/1120863114624258100/1161051902352564265/set_thehappiestgirl-2-fill.png",
     "preview_true": "https://cdn.discordapp.com/attachments/1120863114624258100/1161051901975072828/set_thehappiestgirl-1-nofill.png"
   }
+  ],
+"aespapuppy": [
+  {
+    "limit":"November 1st",
+    "date":"1697842800",
+    "name": "aespa x Puppy Interview",
+    "reward": "n/a",
+    "card_1":"BPJN_TH",
+    "card_2":"BPJS_TH",
+    "card_3":"BPRS_TH",
+    "card_4":"BPLS_TH",
+    "preview_false": "https://cdn.discordapp.com/attachments/1120863114624258100/1164340667011579964/set_aespa-puppyinterview_collection.png",
+    "preview_true": "https://cdn.discordapp.com/attachments/1120863114624258100/1164340666546008064/set_aespa-puppyinterview_collection_empty.png"
+  }
   ]
 }
