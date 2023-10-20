@@ -598,5 +598,53 @@
     "creatorid":"971289285045141584",
     "commission":"yes"
   }
+  ],
+"AEKR_PI": [
+  {
+    "name":"**aespa KARINA** aespa x Puppy Interview",
+    "type":"Event",
+    "image":"https://cdn.discordapp.com/attachments/1106345119667470448/1165031003002257469/ka_1.png",
+    "min":"0",
+    "max":"0",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"yes"
+  }
+  ],
+  "AEWT_PI": [
+  {
+    "name":"**aespa WINTER** aespa x Puppy Interview",
+    "type":"Event",
+    "image":"https://cdn.discordapp.com/attachments/1106345119667470448/1165031002440216576/wt.png",
+    "min":"0",
+    "max":"0",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"yes"
+  }
+  ],
+  "AEGS_PI": [
+  {
+    "name":"**aespa GISELLE** aespa x Puppy Interview",
+    "type":"Event",
+    "image":"https://cdn.discordapp.com/attachments/1106345119667470448/1165031004478652516/gs.png",
+    "min":"0",
+    "max":"0",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"yes"
+  }
+  ],
+  "AENN_PI": [
+  {
+    "name":"**aespa NINGNING** aespa x Puppy Interview",
+    "type":"Event",
+    "image":"https://cdn.discordapp.com/attachments/1106345119667470448/1165031003002257469/ka_1.png",
+    "min":"0",
+    "max":"0",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"yes"
+  }
   ]
 }
