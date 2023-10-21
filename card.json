@@ -22421,5 +22421,25 @@
     "min": "1500",
     "max": "2000"
   }
+  ],
+  "INSC_TS": [
+  {
+    "name":"<:X_:1104449632890798091> **Ice Nine Kills Spencer Charnas** The Silver Scream",
+    "idol":"Ice Nine Kills Spencer Charnas",
+    "image": "https://cdn.discordapp.com/attachments/1106345119667470448/1165336799456010250/456789875432.png",
+    "theme": "Enjoy Your Slay",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "INSC_TS_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **Ice Nine Kills Spencer Charnas** The Silver Scream",
+    "idol":"Ice Nine Kills Spencer Charnas",
+    "image": "https://cdn.discordapp.com/attachments/1106345119667470448/1165336799913181255/342253677856436524.png",
+    "theme": "Enjoy Your Slay",
+    "min": "1000",
+    "max": "2500"
+  }
   ]
 }
