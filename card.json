@@ -22441,5 +22441,85 @@
     "min": "1000",
     "max": "2500"
   }
+  ],
+  "AENN_NL_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **aespa NINGNING** Next Level",
+    "idol":"aespa NINGNING",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1165363668737867847/AENN_NL.png",
+    "theme": "Next Level",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "AENN_NL": [
+  {
+    "name":"<:X_:1104449632890798091> **aespa NINGNING** Next Level",
+    "idol":"aespa NINGNING",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1165362822658670743/AENN_NL_X.png",
+    "theme": "Next Level",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+    "AEGS_NL_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **aespa GISELLE** Next Level",
+    "idol":"aespa GISELLE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1165363669631246439/AEgs_NL.png",
+    "theme": "Next Level",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "AEGS_NL": [
+  {
+    "name":"<:X_:1104449632890798091> **aespa GISELLE** Next Level",
+    "idol":"aespa GISELLE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1165362823442997369/AEGS_NL_X.png",
+    "theme": "Next Level",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+    "AEWT_NL_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **aespa WINTER** Next Level",
+    "idol":"aespa WINTER",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1165363670310719488/AEWT_NL.png",
+    "theme": "Next Level",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "AEWT_NL": [
+  {
+    "name":"<:X_:1104449632890798091> **aespa WINTER** Next Level",
+    "idol":"aespa WINTER",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1165362824411893800/AEWT_NL_X.png",
+    "theme": "Next Level",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+    "AEKR_NL_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **aespa KARINA** Next Level",
+    "idol":"aespa KARINA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1165363671057317908/AEKR_NL.png",
+    "theme": "Next Level",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "AEKR_NL": [
+  {
+    "name":"<:X_:1104449632890798091> **aespa KARINA** Next Level",
+    "idol":"aespa KARINA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1165362829042401450/AEKR_NL_X.png",
+    "theme": "Next Level",
+    "min": "500",
+    "max": "1000"
+  }
   ]
 }
