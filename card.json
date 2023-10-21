@@ -22031,5 +22031,395 @@
     "min": "500",
     "max": "1000"
   }
+  ],
+  "RZST_SI": [
+  {
+    "name":"<:C_:1104449628876841030> **RIIZE SHOTARO** Still I Love it",
+    "idol":"RIIZE SHOTARO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1151342532312190976/silt_sho.png",
+    "theme": "Get A Guitar",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "RZEU_SI": [
+  {
+    "name":"<:C_:1104449628876841030> **RIIZE EUNSEOK** Still I Love it",
+    "idol":"RIIZE EUNSEOK",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1151342531968249917/silt_eun.png",
+    "theme": "Get A Guitar",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "RZSC_SI": [
+  {
+    "name":"<:C_:1104449628876841030> **RIIZE SUNGCHAN** Still I Love it",
+    "idol":"RIIZE SUNGCHAN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1151342531594952774/silt_sung.png",
+    "theme": "Get A Guitar",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "RZWB_SI": [
+  {
+    "name":"<:C_:1104449628876841030> **RIIZE WONBIN** Still I Love it",
+    "idol":"RIIZE WONBIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1151342531255226489/silt_won.png",
+    "theme": "Get A Guitar",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "RZSH_SI": [
+  {
+    "name":"<:C_:1104449628876841030> **RIIZE SEUNGHAN** Still I Love it",
+    "idol":"RIIZE SEUNGHAN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1151342530869342310/silt_seung.png",
+    "theme": "Get A Guitar",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "RZSO_SI": [
+  {
+    "name":"<:C_:1104449628876841030> **RIIZE SOHEE** Still I Love it",
+    "idol":"RIIZE SOHEE",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1151342530135334932/silt_sohee.png",
+    "theme": "Get A Guitar",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "RZAN_SI": [
+  {
+    "name":"<:C_:1104449628876841030> **RIIZE ANTON** Still I Love it",
+    "idol":"RIIZE ANTON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1151342529741082685/silt_anton.png",
+    "theme": "Get A Guitar",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "TXBG_HI": [
+  {
+    "name":"<:R_:1104449630659428372> **TOMORROW X TOGETHER BEOMGYU** Hitori no Yoru",
+    "idol":"TOMORROW X TOGETHER BEOMGYU",
+    "image": "https://cdn.discordapp.com/attachments/1162230652284969061/1162230822351417415/br.png",
+    "theme": "Hitori no Yoru",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "TXHK_HI": [
+  {
+    "name":"<:R_:1104449630659428372> **TOMORROW X TOGETHER HUENINGKAI** Hitori no Yoru",
+    "idol":"TOMORROW X TOGETHER HUENINGKAI",
+    "image": "https://cdn.discordapp.com/attachments/1162230652284969061/1162230822871515226/hkr.png",
+    "theme": "Hitori no Yoru",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "TXSB_HI": [
+  {
+    "name":"<:R_:1104449630659428372> **TOMORROW X TOGETHER SOOBIN** Hitori no Yoru",
+    "idol":"TOMORROW X TOGETHER SOOBIN",
+    "image": "https://cdn.discordapp.com/attachments/1162230652284969061/1162230823408381952/sr.png",
+    "theme": "Hitori no Yoru",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "TXTH_HI": [
+  {
+    "name":"<:R_:1104449630659428372> **TOMORROW X TOGETHER TAEHYUN** Hitori no Yoru",
+    "idol":"TOMORROW X TOGETHER TAEHYUN",
+    "image": "https://cdn.discordapp.com/attachments/1162230652284969061/1162230823953645568/tr.png",
+    "theme": "Hitori no Yoru",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "TXYJ_HI": [
+  {
+    "name":"<:R_:1104449630659428372> **TOMORROW X TOGETHER YEONJUN** Hitori no Yoru",
+    "idol":"TOMORROW X TOGETHER YEONJUN",
+    "image": "https://cdn.discordapp.com/attachments/1162230652284969061/1162230824448569374/yr.png",
+    "theme": "Hitori no Yoru",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "CRAL_GR": [
+  {
+    "name":"<:R_:1104449630659428372> **CRAVITY ALLEN** Groovy",
+    "idol":"CRAVITY ALLEN",
+    "image": "https://cdn.discordapp.com/attachments/1162234882609651784/1162235023747973121/ALLEN_-_Groovy.png",
+    "theme": "Groovy",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "CRHJ_GR": [
+  {
+    "name":"<:R_:1104449630659428372> **CRAVITY HYEONGJUN** Groovy",
+    "idol":"CRAVITY HYEONGJUN",
+    "image": "https://cdn.discordapp.com/attachments/1162234882609651784/1162235024742027294/HYEONGJUN_-_Groovy.png",
+    "theme": "Groovy",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "CRJM_GR": [
+  {
+    "name":"<:R_:1104449630659428372> **CRAVITY JUNGMO** Groovy",
+    "idol":"CRAVITY JUNGMO",
+    "image": "https://cdn.discordapp.com/attachments/1162234882609651784/1162235025232756736/JUNGMO_-_Groovy.png",
+    "theme": "Groovy",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "CRMH_GR": [
+  {
+    "name":"<:R_:1104449630659428372> **CRAVITY MINHEE** Groovy",
+    "idol":"CRAVITY MINHEE",
+    "image": "https://cdn.discordapp.com/attachments/1162234882609651784/1162235025752862740/MINHEE_-_Groovy.png",
+    "theme": "Groovy",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "CRSM_GR": [
+  {
+    "name":"<:R_:1104449630659428372> **CRAVITY SEONGMIN** Groovy",
+    "idol":"CRAVITY SEONGMIN",
+    "image": "https://cdn.discordapp.com/attachments/1162234882609651784/1162235026545577994/SEONGMIN_-_Groovy.png",
+    "theme": "Groovy",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "CRSR_GR": [
+  {
+    "name":"<:R_:1104449630659428372> **CRAVITY SERIM** Groovy",
+    "idol":"CRAVITY SERIM",
+    "image": "https://cdn.discordapp.com/attachments/1162234882609651784/1162235027191496766/SERIM_-_Groovy.png",
+    "theme": "Groovy",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "CRTY_GR": [
+  {
+    "name":"<:R_:1104449630659428372> **CRAVITY TAEYOUNG** Groovy",
+    "idol":"CRAVITY TAEYOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1162234882609651784/1162235027778711562/TAEYOUNG_-_Groovy.png",
+    "theme": "Groovy",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "CRWJ_GR": [
+  {
+    "name":"<:R_:1104449630659428372> **CRAVITY WONJIN** Groovy",
+    "idol":"CRAVITY WONJIN",
+    "image": "https://cdn.discordapp.com/attachments/1162234882609651784/1162235028391067648/WONJIN_-_Groovy.png",
+    "theme": "Groovy",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "CRWB_GR": [
+  {
+    "name":"<:R_:1104449630659428372> **CRAVITY WOOBIN** Groovy",
+    "idol":"CRAVITY WOOBIN",
+    "image": "https://cdn.discordapp.com/attachments/1162234882609651784/1162235028865028156/WOOBIN_-_Groovy.png",
+    "theme": "Groovy",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SOHS_SA": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist Han Seungwoo** Sacrifice",
+    "idol":"Soloist Han Seungwoo",
+    "image": "https://cdn.discordapp.com/attachments/1162241412193062982/1162241643148214282/c.png",
+    "theme": "Sacrifice",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOHS_FE": [
+  {
+    "name":"<:R_:1104449630659428372> **Soloist Han Seungwoo** Fever",
+    "idol":"Soloist Han Seungwoo",
+    "image": "https://cdn.discordapp.com/attachments/1162241412193062982/1162241643647352842/r.png",
+    "theme": "Fever",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SOBE_HT": [
+  {
+    "name":"<:R_:1104449630659428372> **Soloist Billie Eilish** Happier Than Ever",
+    "idol":"Soloist Billie Eilish",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1157126717933113395/IMG_8975.png",
+    "theme": "Happier Than Ever",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "GTBO_SO": [
+  {
+    "name":"<:X_:1104449632890798091> **GOT the beat BoA** Stamp On It",
+    "idol":"GOT the beat BoA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1159636783034814527/soi_boa.png",
+    "theme": "Stamp On It",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "GTBO_SO_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **GOT the beat BoA** Stamp On It",
+    "idol":"GOT the beat BoA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1159636898822766653/soi_boa_x.png",
+    "theme": "Stamp On It",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "GTTY_SO": [
+  {
+    "name":"<:X_:1104449632890798091> **GOT the beat TAEYEON** Stamp On It",
+    "idol":"GOT the beat TAEYEON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1159636782506315887/soi_tae.png",
+    "theme": "Stamp On It",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "GTTY_SO_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **GOT the beat TAEYEON** Stamp On It",
+    "idol":"GOT the beat TAEYEON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1159636898369769624/soi_tae_x.png",
+    "theme": "Stamp On It",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "GTHY_SO": [
+  {
+    "name":"<:X_:1104449632890798091> **GOT the beat HYOYEON** Stamp On It",
+    "idol":"GOT the beat HYOYEON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1159636782032367656/soi_hyo.png",
+    "theme": "Stamp On It",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "GTHY_SO_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **GOT the beat HYOYEON** Stamp On It",
+    "idol":"GOT the beat HYOYEON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1159636897644167219/soi_hyo_x.png",
+    "theme": "Stamp On It",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "GTSG_SO": [
+  {
+    "name":"<:X_:1104449632890798091> **GOT the beat SEULGI** Stamp On It",
+    "idol":"GOT the beat SEULGI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1159636781562613781/soi_seul.png",
+    "theme": "Stamp On It",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "GTSG_SO_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **GOT the beat SEULGI** Stamp On It",
+    "idol":"GOT the beat SEULGI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1159636896696242176/soi_seul_x.png",
+    "theme": "Stamp On It",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "GTWD_SO": [
+  {
+    "name":"<:X_:1104449632890798091> **GOT the beat WENDY** Stamp On It",
+    "idol":"GOT the beat WENDY",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1159636781046706326/soi_wendy_x.png",
+    "theme": "Stamp On It",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "GTWD_SO_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **GOT the beat WENDY** Stamp On It",
+    "idol":"GOT the beat WENDY",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1159636896100655134/soi_wendy_xp.png",
+    "theme": "Stamp On It",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "GTKR_SO": [
+  {
+    "name":"<:X_:1104449632890798091> **GOT the beat KARINA** Stamp On It",
+    "idol":"GOT the beat KARINA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1159636780535009391/soi_karina.png",
+    "theme": "Stamp On It",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "GTKR_SO_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **GOT the beat KARINA** Stamp On It",
+    "idol":"GOT the beat KARINA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1159636895580569711/soi_karina_x.png",
+    "theme": "Stamp On It",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "GTWT_SO": [
+  {
+    "name":"<:X_:1104449632890798091> **GOT the beat WINTER** Stamp On It",
+    "idol":"GOT the beat WINTER",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1159636780056842290/soi_winter.png",
+    "theme": "Stamp On It",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "GTWT_SO_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **GOT the beat WINTER** Stamp On It",
+    "idol":"GOT the beat WINTER",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1159636894984966224/soi_winter_x.png",
+    "theme": "Stamp On It",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+   "SOBB_BSP": [
+  {
+    "name":"<:B_:1122363573629374525> **Soloist beabadoobee** She Plays Bass",
+    "idol":"Soloist beabadoobee",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1149874577867026483/she_plays_bass_bea.png",
+    "theme": "She Plays Bass",
+    "min": "1500",
+    "max": "2000"
+  }
   ]
 }
