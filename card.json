@@ -22954,7 +22954,7 @@
   ],
   "SOJK_MT": [
   {
-    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Soloist Jung Kook** Monday, tuesday, Wednesday",
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Soloist Jung Kook** Monday, tuesday, wednesday",
     "idol":"Soloist Jung Kook",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160258554578608218/SOJK_MT.png",
     "theme": "Seven (feat. Latto)",
@@ -22964,10 +22964,970 @@
   ],
   "SOJK_TF": [
   {
-    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Soloist Jung Kook** Thursday, friday, Saturday",
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Soloist Jung Kook** Thursday, friday, saturday",
     "idol":"Soloist Jung Kook",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160258665278869674/SOJK_TF.png",
     "theme": "Seven (feat. Latto)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+    "SOKE_GS": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Soloist KEY** Gasoline",
+    "idol":"Soloist KEY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160304293778313336/gasoline.png",
+    "theme": "가솔린(Gasoline)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "ENHS_CN": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **ENHYPEN HEESEUNG** carnival",
+    "idol":"ENHYPEN HEESEUNG",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160305577474400366/h.png",
+    "theme": "Intro : The Invitation",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "ENJK_CN": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **ENHYPEN JAKE** carnival",
+    "idol":"ENHYPEN JAKE",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160305577856073819/j.png",
+    "theme": "Intro : The Invitation",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "ENJA_CN": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **ENHYPEN JAY** carnival",
+    "idol":"ENHYPEN JAY",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160305578434900069/ja.png",
+    "theme": "Intro : The Invitation",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "ENJW_CN": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **ENHYPEN JUNGWON** carnival",
+    "idol":"ENHYPEN JUNGWON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160305578892075137/ju.png",
+    "theme": "Intro : The Invitation",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "ENNK_CN": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **ENHYPEN NI-KI** carnival",
+    "idol":"ENHYPEN NI-KI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160305579324092526/n.png",
+    "theme": "Intro : The Invitation",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "ENSN_CN": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **ENHYPEN SUNOO** carnival",
+    "idol":"ENHYPEN SUNOO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160305579844182066/s.png",
+    "theme": "Intro : The Invitation",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "ENSH_CN": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **ENHYPEN SUNGHOON** carnival",
+    "idol":"ENHYPEN SUNGHOON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160305580343296091/sh.png",
+    "theme": "Intro : The Invitation",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "ATHJ_DVV": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **ATEEZ HONG JOONG** Deja Vu (Vampire ver.)",
+    "idol":"ATEEZ HONG JOONG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160306853696258058/hj.png",
+    "theme": "Deja Vu",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ATJH_DVV": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **ATEEZ JONG HO** Deja Vu (Vampire ver.)",
+    "idol":"ATEEZ JONG HO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160306854061166712/jh.png",
+    "theme": "Deja Vu",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ATMG_DVV": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **ATEEZ MIN GI** Deja Vu (Vampire ver.)",
+    "idol":"ATEEZ MIN GI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160306854459617410/mg.png",
+    "theme": "Deja Vu",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ATSA_DVV": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **ATEEZ SAN** Deja Vu (Vampire ver.)",
+    "idol":"ATEEZ SAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160306855134904470/san.png",
+    "theme": "Deja Vu",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ATSH_DVV": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **ATEEZ SEONG HWA** Deja Vu (Vampire ver.)",
+    "idol":"ATEEZ SEONG HWA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160306855533355129/sh.png",
+    "theme": "Deja Vu",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ATWY_DVV": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **ATEEZ WOO YOUNG** Deja Vu (Vampire ver.)",
+    "idol":"ATEEZ WOO YOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160306856124756078/wy.png",
+    "theme": "Deja Vu",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ATYH_DVV": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **ATEEZ YUN HO** Deja Vu (Vampire ver.)",
+    "idol":"ATEEZ YUN HO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160306856468693043/yh.png",
+    "theme": "Deja Vu",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ATYS_DVV": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **ATEEZ YEO SANG** Deja Vu (Vampire ver.)",
+    "idol":"ATEEZ YEO SANG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160306857026527242/ys.png",
+    "theme": "Deja Vu",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOSM_TL": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Soloist SUNMI** TAIL",
+    "idol":"Soloist SUNMI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160308629430345906/tail_sunmi.png",
+    "theme": "꼬리(TAIL)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOKE_VL": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Soloist KEY** Villain",
+    "idol":"Soloist KEY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160309032289054752/Villain_key.png",
+    "theme": "Villain (feat. JENO of NCT)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "N1HC_LO": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **NCT 127 HAECHAN** Love On The Floor",
+    "idol":"NCT 127 HAECHAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160316329505587343/lotf_haechan.png",
+    "theme": "Love On The Floor",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "N1MR_LO": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **NCT 127 MARK** Love On The Floor",
+    "idol":"NCT 127 MARK",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160316329912442910/lotf_mark.png",
+    "theme": "Love On The Floor",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "N1YT_LO": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **NCT 127 YUTA** Love On The Floor",
+    "idol":"NCT 127 YUTA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160316330646437898/lotf_yuta.png",
+    "theme": "Love On The Floor",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "N1DY_LO": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **NCT 127 DOYOUNG** Love On The Floor",
+    "idol":"NCT 127 DOYOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160316331116208218/lotf_doyonug.png",
+    "theme": "Love On The Floor",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "N1JW_LO": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **NCT 127 JUNGWOO** Love On The Floor",
+    "idol":"NCT 127 JUNGWOO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160316332508725401/lotf_jungwoo.png",
+    "theme": "Love On The Floor",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "N1JH_LO": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **NCT 127 JAEHYUN** Love On The Floor",
+    "idol":"NCT 127 JAEHYUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160316333179805807/lotf_jaehyun.png",
+    "theme": "Love On The Floor",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "N1JN_LO": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **NCT 127 JOHNNY** Love On The Floor",
+    "idol":"NCT 127 JOHNNY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160316333670531143/lotf_johnny.png",
+    "theme": "Love On The Floor",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "N1TA_LO": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **NCT 127 TAEIL** Love On The Floor",
+    "idol":"NCT 127 TAEIL",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160316334186438716/lotf_taeil.png",
+    "theme": "Love On The Floor",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "N1TY_LO": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **NCT 127 TAEYONG** Love On The Floor",
+    "idol":"NCT 127 TAEYONG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160316334748483776/lotf_taeyong.png",
+    "theme": "Love On The Floor",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ENJW_SC": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **ENHYPEN JUNGWON** Sacrifice (Eat Me Up)",
+    "idol":"ENHYPEN JUNGWON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160330661249421312/halloweenC_4.png",
+    "theme": "Sacrifice (Eat Me Up)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "ENHS_SC": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **ENHYPEN HEESEUNG** Sacrifice (Eat Me Up)",
+    "idol":"ENHYPEN HEESEUNG",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160330661807280238/halloweenC_6.png",
+    "theme": "Sacrifice (Eat Me Up)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "ENJA_SC": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **ENHYPEN JAY** Sacrifice (Eat Me Up)",
+    "idol":"ENHYPEN JAY",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160330662499323994/halloweenC_5.png",
+    "theme": "Sacrifice (Eat Me Up)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "ENJK_SC": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **ENHYPEN JAKE** Sacrifice (Eat Me Up)",
+    "idol":"ENHYPEN JAKE",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160330663006851154/halloweenC_2.png",
+    "theme": "Sacrifice (Eat Me Up)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "ENSH_SC": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **ENHYPEN SUNGHOON** Sacrifice (Eat Me Up)",
+    "idol":"ENHYPEN SUNGHOON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160330663648563320/halloweenC_7.png",
+    "theme": "Sacrifice (Eat Me Up)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "ENSN_SC": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **ENHYPEN SUNOO** Sacrifice (Eat Me Up)",
+    "idol":"ENHYPEN SUNOO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160330664126726210/halloweenC.png",
+    "theme": "Sacrifice (Eat Me Up)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "ENNK_SC": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **ENHYPEN NI-KI** Sacrifice (Eat Me Up)",
+    "idol":"ENHYPEN NI-KI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160330664932020224/halloweenC_3.png",
+    "theme": "Sacrifice (Eat Me Up)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "LMPE_TA": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Little Mix Perrie Edwards** Think About Us",
+    "idol":"Little Mix Perrie Edwards",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160331587603415040/LMPE_TA.png",
+    "theme": "Think About Us (ft. Ty Dolla $ign)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "LMJT_TA": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Little Mix Jade Thirlwall** Think About Us",
+    "idol":"Little Mix Jade Thirlwall",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160331587968323695/LMJT_TA.png",
+    "theme": "Think About Us (ft. Ty Dolla $ign)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "LMLA_TA": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Little Mix Leigh-Anne Pinnock** Think About Us",
+    "idol":"Little Mix Leigh-Anne Pinnock",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160331588320624690/LMLA_TA.png",
+    "theme": "Think About Us (ft. Ty Dolla $ign)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "PXRJ_KM": [
+  {
+    "name":"<:X_:1104449632890798091> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **PIXY RINJI** KARMA",
+    "idol":"PIXY RINJI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160387582966902804/karma_rinji.png",
+    "theme": "KARMA",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "PXRJ_KM_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **PIXY RINJI** KARMA",
+    "idol":"PIXY RINJI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160387671215058965/karma_rinji_xp.png",
+    "theme": "KARMA",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "PXDJ_KM": [
+  {
+    "name":"<:X_:1104449632890798091> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **PIXY DAJEONG** KARMA",
+    "idol":"PIXY DAJEONG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160387583348572190/karma_dajeong.png",
+    "theme": "KARMA",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "PXDJ_KM_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **PIXY DAJEONG** KARMA",
+    "idol":"PIXY DAJEONG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160387671651270706/karma_dajeong_p.png",
+    "theme": "KARMA",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "PXSU_KM": [
+  {
+    "name":"<:X_:1104449632890798091> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **PIXY SUA** KARMA",
+    "idol":"PIXY SUA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160387583705104484/karma_sua.png",
+    "theme": "KARMA",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "PXSU_KM_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **PIXY SUA** KARMA",
+    "idol":"PIXY SUA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160387672058114138/karma_sua_p.png",
+    "theme": "KARMA",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "PXLL_KM": [
+  {
+    "name":"<:X_:1104449632890798091> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **PIXY LOLA** KARMA",
+    "idol":"PIXY LOLA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160387584111935509/karma_lola.png",
+    "theme": "KARMA",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "PXLL_KM_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **PIXY LOLA** KARMA",
+    "idol":"PIXY LOLA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160387672469151794/karma_lola_p.png",
+    "theme": "KARMA",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "PXDI_KM": [
+  {
+    "name":"<:X_:1104449632890798091> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **PIXY DIA** KARMA",
+    "idol":"PIXY DIA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160387584485244998/karma_dia.png",
+    "theme": "KARMA",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "PXDI_KM_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **PIXY DIA** KARMA",
+    "idol":"PIXY DIA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160387673031196793/karma_dia_p.png",
+    "theme": "KARMA",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "PKCI_IS": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **PURPLE KISS CHAEIN** it's so mystical",
+    "idol":"PURPLE KISS CHAEIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160434678810026025/chaein.png",
+    "theme": "Ponzona",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "PKDS_IS": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **PURPLE KISS DOSIE** it's so mystical",
+    "idol":"PURPLE KISS DOSIE",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160434679195906048/dosei.png",
+    "theme": "Ponzona",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "PKIR_IS": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **PURPLE KISS IREH** it's so mystical",
+    "idol":"PURPLE KISS IREH",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160434679539843163/ireh.png",
+    "theme": "Ponzona",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "PKGE_IS": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **PURPLE KISS NA GO EUN** it's so mystical",
+    "idol":"PURPLE KISS NA GO EUN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160434679862796329/nge.png",
+    "theme": "Ponzona",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "PKJE_IS": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **PURPLE KISS PARK JI EUN** it's so mystical",
+    "idol":"PURPLE KISS PARK JI EUN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160434680202539068/pje.png",
+    "theme": "Ponzona",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "PKSW_IS": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **PURPLE KISS SWAN** it's so mystical",
+    "idol":"PURPLE KISS SWAN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160434680580030545/swan.png",
+    "theme": "Ponzona",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "PKYK_IS": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **PURPLE KISS YUKI** it's so mystical",
+    "idol":"PURPLE KISS YUKI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160434680940732478/yuki.png",
+    "theme": "Ponzona",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "BTJH_BS": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **BTS j-hope** Blood Sweat & Tears",
+    "idol":"BTS j-hope",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160438859553853441/jhope.png",
+    "theme": "피 땀 눈물(Blood Sweat & Tears)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "BTJM_BS": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **BTS Jimin** Blood Sweat & Tears",
+    "idol":"BTS Jimin",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160438859964891146/jimin.png",
+    "theme": "피 땀 눈물(Blood Sweat & Tears)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "BTJN_BS": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **BTS Jin** Blood Sweat & Tears",
+    "idol":"BTS Jin",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160438860455616653/jin.png",
+    "theme": "피 땀 눈물(Blood Sweat & Tears)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "BTJK_BS": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **BTS Jung Kook** Blood Sweat & Tears",
+    "idol":"BTS Jung Kook",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160438860862476308/jugn_kook.png",
+    "theme": "피 땀 눈물(Blood Sweat & Tears)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "BTRM_BS": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **BTS RM** Blood Sweat & Tears",
+    "idol":"BTS RM",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160438861286096967/RM.png",
+    "theme": "피 땀 눈물(Blood Sweat & Tears)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "BTSG_BS": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **BTS SUGA** Blood Sweat & Tears",
+    "idol":"BTS SUGA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160438861655187507/SUGA.png",
+    "theme": "피 땀 눈물(Blood Sweat & Tears)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "BTSV_BS": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **BTS V** Blood Sweat & Tears",
+    "idol":"BTS V",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160438862129152051/V.png",
+    "theme": "피 땀 눈물(Blood Sweat & Tears)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "XDGA_CI": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Xdinary Heroes Gaon** Cut it out",
+    "idol":"Xdinary Heroes Gaon",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160449213457506386/ga.png",
+    "theme": "Hair Cut",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "XDGI_CI": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Xdinary Heroes Gun-il** Cut it out",
+    "idol":"Xdinary Heroes Gun-il",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160449213763702865/gi.png",
+    "theme": "Hair Cut",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "XDJS_CI": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Xdinary Heroes Jungsu** Cut it out",
+    "idol":"Xdinary Heroes Jungsu",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160449214162145320/js.png",
+    "theme": "Hair Cut",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "XDJH_CI": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Xdinary Heroes Jun Han** Cut it out",
+    "idol":"Xdinary Heroes Jun Han",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160449214548025364/juhan.png",
+    "theme": "Hair Cut",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "XDJY_CI": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Xdinary Heroes Jooyeon** Cut it out",
+    "idol":"Xdinary Heroes Jooyeon",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160449214912942200/jy.png",
+    "theme": "Hair Cut",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "XDOD_CI": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Xdinary Heroes O.de** Cut it out",
+    "idol":"Xdinary Heroes O.de",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160449215361716244/o.de.png",
+    "theme": "Hair Cut",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "RVIR_KC": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Red Velvet IRENE** Kingdom Come",
+    "idol":"Red Velvet IRENE",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160472373028474970/kc_irene.png",
+    "theme": "Kingdom Come",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "RVSG_KC": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Red Velvet SEULGI** Kingdom Come",
+    "idol":"Red Velvet SEULGI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160472373368193074/kc_seulgi.png",
+    "theme": "Kingdom Come",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "RVWD_KC": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Red Velvet WENDY** Kingdom Come",
+    "idol":"Red Velvet WENDY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160472373854740570/kc_wendy.png",
+    "theme": "Kingdom Come",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "RVJO_KC": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Red Velvet JOY** Kingdom Come",
+    "idol":"Red Velvet JOY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160472374391623811/kc_joy.png",
+    "theme": "Kingdom Come",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "RVYR_KC": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Red Velvet YERI** Kingdom Come",
+    "idol":"Red Velvet YERI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160472374915891300/kc_yeri.png",
+    "theme": "Kingdom Come",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "TWNY_TT": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **TWICE NAYEON** TT",
+    "idol":"TWICE NAYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160547506191597718/STARPATH_C86_20231008080515.png",
+    "theme": "TT",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "TWJY_TT": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **TWICE JEONGYEON** TT",
+    "idol":"TWICE JEONGYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160547506585882655/STARPATH_C86_20231008080753.png",
+    "theme": "TT",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "TWMM_TT": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **TWICE MOMO** TT",
+    "idol":"TWICE MOMO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160547506992717895/STARPATH_C86_20231008080933.png",
+    "theme": "TT",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "TWSN_TT": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **TWICE SANA** TT",
+    "idol":"TWICE SANA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160547507399557241/STARPATH_C86_20231008084346.png",
+    "theme": "TT",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "TWJH_TT": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **TWICE JIHYO** TT",
+    "idol":"TWICE JIHYO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160547507772870737/STARPATH_C86_20231008084642.png",
+    "theme": "TT",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "TWMN_TT": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **TWICE MINA** TT",
+    "idol":"TWICE MINA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160547508108402798/STARPATH_C86_20231008085214.png",
+    "theme": "TT",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "TWDH_TT": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **TWICE DAHYUN** TT",
+    "idol":"TWICE DAHYUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160547508439744632/STARPATH_C86_20231008085648.png",
+    "theme": "TT",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "TWCY_TT": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **TWICE CHAEYOUNG** TT",
+    "idol":"TWICE CHAEYOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160547508855001098/STARPATH_C86_20231008085759.png",
+    "theme": "TT",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "TWTY_TT": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **TWICE TZUYU** TT",
+    "idol":"TWICE TZUYU",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160547509173756065/STARPATH_C86_20231008085924.png",
+    "theme": "TT",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "SOLF_HT": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Soloist Laufey** Haunted",
+    "idol":"Soloist Laufey",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160605380582309990/laufey_haunted.png",
+    "theme": "Haunted",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "DCJI_NM": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **DREAMCATCHER JIU** Nightmare",
+    "idol":"DREAMCATCHER JIU",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160627670816673894/IMG_2959.png",
+    "theme": "Chase Me",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "DCSU_NM": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **DREAMCATCHER SUA** Nightmare",
+    "idol":"DREAMCATCHER SUA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160627671374499840/IMG_2971.png",
+    "theme": "Chase Me",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "DCSY_NM": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **DREAMCATCHER SIYEON** Nightmare",
+    "idol":"DREAMCATCHER SIYEON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160627671873630379/IMG_2973.png",
+    "theme": "Chase Me",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "DCHD_NM": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **DREAMCATCHER HANDONG** Nightmare",
+    "idol":"DREAMCATCHER HANDONG",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160627672586670221/IMG_2968.png",
+    "theme": "Chase Me",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "DCYH_NM": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **DREAMCATCHER YOOHYEON** Nightmare",
+    "idol":"DREAMCATCHER YOOHYEON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160627673110941839/IMG_2969.png",
+    "theme": "Chase Me",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "DCDM_NM": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **DREAMCATCHER DAMI** Nightmare",
+    "idol":"DREAMCATCHER DAMI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160627673782038638/IMG_2970.png",
+    "theme": "Chase Me",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "DCGY_NM": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **DREAMCATCHER GAHYEON** Nightmare",
+    "idol":"DREAMCATCHER GAHYEON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160627674436358216/IMG_2972.png",
+    "theme": "Chase Me",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "GWLN_BN": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **GWSN LENA** Burn",
+    "idol":"GWSN LENA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160661097699868712/lena_burn.png",
+    "theme": "Burn (Song by MIYA, SEORYOUNG, ANNE, LENA)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "GWSS_BN": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **GWSN SOSO** Burn",
+    "idol":"GWSN SOSO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1160661098182230140/soso_burn.png",
+    "theme": "Burn (Song by MIYA, SEORYOUNG, ANNE, LENA)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "GWMJ_BN": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **GWSN MINJU** Burn",
+    "idol":"GWSN MINJU",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160661098597453934/minju_burn.png",
+    "theme": "Burn (Song by MIYA, SEORYOUNG, ANNE, LENA)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "GWAN_BN": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **GWSN ANNE** Burn",
+    "idol":"GWSN ANNE",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160661099117559962/anne_burn.png",
+    "theme": "Burn (Song by MIYA, SEORYOUNG, ANNE, LENA)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "GWSR_BN": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **GWSN SEORYOUNG** Burn",
+    "idol":"GWSN SEORYOUNG",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160661099620864020/seoryoung_burn.png",
+    "theme": "Burn (Song by MIYA, SEORYOUNG, ANNE, LENA)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "GWSK_BN": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **GWSN SEOKYOUNG** Burn",
+    "idol":"GWSN SEOKYOUNG",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160661100421988502/seokyeon_burn.png",
+    "theme": "Burn (Song by MIYA, SEORYOUNG, ANNE, LENA)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "GWMY_BN": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **GWSN MIYA** Burn",
+    "idol":"GWSN MIYA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160661100841402398/miya_burn.png",
+    "theme": "Burn (Song by MIYA, SEORYOUNG, ANNE, LENA)",
     "min": "200",
     "max": "750"
   }
