@@ -23512,7 +23512,7 @@
     "max": "200"
   }
   ],
-  "BTJH_BS": [
+  "BTJH_BL": [
   {
     "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **BTS j-hope** Blood Sweat & Tears",
     "idol":"BTS j-hope",
@@ -23522,7 +23522,7 @@
     "max": "200"
   }
   ],
-  "BTJM_BS": [
+  "BTJM_BL": [
   {
     "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **BTS Jimin** Blood Sweat & Tears",
     "idol":"BTS Jimin",
@@ -23532,7 +23532,7 @@
     "max": "200"
   }
   ],
-  "BTJN_BS": [
+  "BTJN_BL": [
   {
     "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **BTS Jin** Blood Sweat & Tears",
     "idol":"BTS Jin",
@@ -23542,7 +23542,7 @@
     "max": "200"
   }
   ],
-  "BTJK_BS": [
+  "BTJK_BL": [
   {
     "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **BTS Jung Kook** Blood Sweat & Tears",
     "idol":"BTS Jung Kook",
@@ -23552,7 +23552,7 @@
     "max": "200"
   }
   ],
-  "BTRM_BS": [
+  "BTRM_BL": [
   {
     "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **BTS RM** Blood Sweat & Tears",
     "idol":"BTS RM",
@@ -23562,7 +23562,7 @@
     "max": "200"
   }
   ],
-  "BTSG_BS": [
+  "BTSG_BL": [
   {
     "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **BTS SUGA** Blood Sweat & Tears",
     "idol":"BTS SUGA",
@@ -23572,7 +23572,7 @@
     "max": "200"
   }
   ],
-  "BTSV_BS": [
+  "BTSV_BL": [
   {
     "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **BTS V** Blood Sweat & Tears",
     "idol":"BTS V",
