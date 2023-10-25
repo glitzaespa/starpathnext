@@ -23951,5 +23951,195 @@
     "min": "1000",
     "max": "2500"
   }
+  ],
+    "PTWS_BQ": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **PENTAGON WOOSEOK** Basquiat",
+    "idol":"PENTAGON WOOSEOK",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160666793493414008/wooseok_bas.png",
+    "theme": "바스키아(Basquiat)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "PTKN_BQ": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **PENTAGON KINO** Basquiat",
+    "idol":"PENTAGON KINO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160666793849921616/kino_bas.png",
+    "theme": "바스키아(Basquiat)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "PTYT_BQ": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **PENTAGON YUTO** Basquiat",
+    "idol":"PENTAGON YUTO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160666794227421374/yuto_bas.png",
+    "theme": "바스키아(Basquiat)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "PTYO_BQ": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **PENTAGON YEO ONE** Basquiat",
+    "idol":"PENTAGON YEO ONE",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160666794588127273/yeo_bas.png",
+    "theme": "바스키아(Basquiat)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "PTSW_BQ": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **PENTAGON SHINWON** Basquiat",
+    "idol":"PENTAGON SHINWON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160666795070464040/shin_bas.png",
+    "theme": "바스키아(Basquiat)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "PTHS_BQ": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **PENTAGON HONGSEOK** Basquiat",
+    "idol":"PENTAGON HONGSEOK",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160666795552817253/hui_hong.png",
+    "theme": "바스키아(Basquiat)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "PTHU_BQ": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **PENTAGON HUI** Basquiat",
+    "idol":"PENTAGON HUI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1160666795963850914/hui_bas.png",
+    "theme": "바스키아(Basquiat)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "IZKEB_VP": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **IZ*ONE KWON EUN BI** Vampire",
+    "idol":"IZ*ONE KWON EUN BI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1161068084023525466/IMG_2997.png",
+    "theme": "Vampire",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "IZMSK_VP": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **IZ*ONE MIYAWAKI SAKURA** Vampire",
+    "idol":"IZ*ONE MIYAWAKI SAKURA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1161068084778516510/IMG_2993.png",
+    "theme": "Vampire",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "IZKHW_VP": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **IZ*ONE KANG HYE WON** Vampire",
+    "idol":"IZ*ONE KANG HYE WON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1161068085604778024/IMG_3002.png",
+    "theme": "Vampire",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "IZCYN_VP": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **IZ*ONE CHOI YE NA** Vampire",
+    "idol":"IZ*ONE CHOI YE NA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1161068086288466001/IMG_2995.png",
+    "theme": "Vampire",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "IZLCY_VP": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **IZ*ONE LEE CHAE YEON** Vampire",
+    "idol":"IZ*ONE LEE CHAE YEON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1161068087907467314/IMG_3003.png",
+    "theme": "Vampire",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "IZKCW_VP": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **IZ*ONE KIM CHAE WON** Vampire",
+    "idol":"IZ*ONE KIM CHAE WON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1161068088943460463/IMG_2958.png",
+    "theme": "Vampire",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "IZKMJ_VP": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **IZ*ONE KIM MIN JU** Vampire",
+    "idol":"IZ*ONE KIM MIN JU",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1161068206908256286/IMG_2996.png",
+    "theme": "Vampire",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "IZYNK_VP": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **IZ*ONE YABUKI NAKO** Vampire",
+    "idol":"IZ*ONE YABUKI NAKO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1161068207512223814/IMG_2999.png",
+    "theme": "Vampire",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "IZHHT_VP": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **IZ*ONE HONDA HITOMI** Vampire",
+    "idol":"IZ*ONE HONDA HITOMI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1161068208317542501/IMG_3001.png",
+    "theme": "Vampire",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "IZJYR_VP": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **IZ*ONE JO YU RI** Vampire",
+    "idol":"IZ*ONE JO YU RI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1161068208913121441/IMG_2994.png",
+    "theme": "Vampire",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "IZAYJ_VP": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **IZ*ONE AN YU JIN** Vampire",
+    "idol":"IZ*ONE AN YU JIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1161068209529692200/IMG_2998.png",
+    "theme": "Vampire",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "IZJWY_VP": [
+  {
+    "name":"<:C_:1104449628876841030> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **IZ*ONE JANG WON YOUNG** Vampire",
+    "idol":"IZ*ONE JANG WON YOUNG",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1161068210154647622/IMG_2992.png",
+    "theme": "Vampire",
+    "min": "0",
+    "max": "200"
+  }
   ]
 }
