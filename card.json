@@ -24781,5 +24781,525 @@
     "min": "200",
     "max": "750"
   }
+  ],
+  "AEGS_H231": [
+  {
+    "name":"<:H1:1165773532513448007> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **aespa GISELLE** Halloween 2023 I",
+    "idol":"aespa GISELLE",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160016682962653284/hw23_giselle.png",
+    "theme": "Next Level",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "N1TJ_H231": [
+  {
+    "name":"<:H1:1165773532513448007> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **NCT 127 JUNGWOO, TAEYONG** Halloween 2023 I",
+    "idol":"NCT 127 JUNGWOO, TAEYONG",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160018401356435507/hw23_taewoo.png",
+    "theme": "2 Baddies",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "NDCL_H231": [
+  {
+    "name":"<:H1:1165773532513448007> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **NCT DREAM CHENLE** Halloween 2023 I",
+    "idol":"NCT DREAM CHENLE",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160019389366685787/hall_1_chenle.png",
+    "theme": "ISTJ",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "ITLI_H231": [
+  {
+    "name":"<:H1:1165773532513448007> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **ITZY LIA** Halloween 2023 I",
+    "idol":"ITZY LIA",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160019783140511834/hw23_lia.png",
+    "theme": "ICY",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "ENJW_H231": [
+  {
+    "name":"<:H1:1165773532513448007> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **ENHYPEN JUNGWON** Halloween 2023 I",
+    "idol":"ENHYPEN JUNGWON",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160020951384215643/HW23_Template_4.png",
+    "theme": "Bite Me",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "ENNK_H231": [
+  {
+    "name":"<:H1:1165773532513448007> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **ENHYPEN NI-KI** Halloween 2023 I",
+    "idol":"ENHYPEN NI-KI",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160020873487597588/HW23_Template_3.png",
+    "theme": "Bite Me",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "P1JT_H231": [
+  {
+    "name":"<:H1:1165773532513448007> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **P1Harmony Jiung, Theo** Halloween 2023 I",
+    "idol":"P1Harmony Jiung, Theo",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160041951442251846/jt.png",
+    "theme": "JUMP",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "ATMG_H231": [
+  {
+    "name":"<:H1:1165773532513448007> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **ATEEZ MIN GI** Halloween 2023 I",
+    "idol":"ATEEZ MIN GI",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160042097408225340/mg.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "SKIN_H231": [
+  {
+    "name":"<:H1:1165773532513448007> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **Stray Kids I.N** Halloween 2023 I",
+    "idol":"Stray Kids I.N",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160042199011041320/in.png",
+    "theme": "MIROH",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "GGTT_H231": [
+  {
+    "name":"<:H1:1165773532513448007> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **Girls' Generation TAEYEON, TIFFANY** Halloween 2023 I",
+    "idol":"Girls' Generation TAEYEON, TIFFANY",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160112401736282192/hw23_taeny.png",
+    "theme": "PARTY",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "NMLL_H231": [
+  {
+    "name":"<:H1:1165773532513448007> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **NMIXX LILY** Halloween 2023 I",
+    "idol":"NMIXX LILY",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160112480425615411/hw23_lily.png",
+    "theme": "PARTY",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "SOWH_H231": [
+  {
+    "name":"<:H1:1165773532513448007> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **Soloist WONHO** Halloween 2023 I",
+    "idol":"Soloist WONHO",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160245191823855788/SOWH_H23I.png",
+    "theme": "Open Mind",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "SHON_H231": [
+  {
+    "name":"<:H1:1165773532513448007> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **SHINee ONEW** Halloween 2023 I",
+    "idol":"SHINee ONEW",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160340896647233597/hall_1_onew.png",
+    "theme": "HARD",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "RZST_H231": [
+  {
+    "name":"<:H1:1165773532513448007> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **RIIZE SHOTARO** Halloween 2023 I",
+    "idol":"RIIZE SHOTARO",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160341731515056189/hall_1_shot.png",
+    "theme": "Get a Guitar",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "RZSC_H231": [
+  {
+    "name":"<:H1:1165773532513448007> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **RIIZE SUNGCHAN** Halloween 2023 I",
+    "idol":"RIIZE SUNGCHAN",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160341775987245117/hall_1_sung.png",
+    "theme": "Get a Guitar",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "WVTN_H231": [
+  {
+    "name":"<:H1:1165773532513448007> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **WayV 威神V TEN** Halloween 2023 I",
+    "idol":"WayV 威神V TEN",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160341827229057024/hall_1_ten.png",
+    "theme": "Action Figure",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "LOYV_H23I": [
+  {
+    "name":"<:H1:1165773532513448007> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **LOONA Yves** Halloween 2023 I",
+    "idol":"LOONA Yves",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160349364284301372/HW23_Template_1.png",
+    "theme": "new",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "F9SR_H231": [
+  {
+    "name":"<:H1:1165773532513448007> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **fromis_9 SAEROM** Halloween 2023 I",
+    "idol":"fromis_9 SAEROM",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160372830777659562/saerom_hallo.png",
+    "theme": "Talk & Talk",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "TBNW_H23I": [
+  {
+    "name":"<:H1:1165773532513448007> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **THE BOYZ NEW** Halloween 2023 I",
+    "idol":"THE BOYZ NEW",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160377350018576494/n.png",
+    "theme": "THRILL RIDE",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "TBQH_H23I": [
+  {
+    "name":"<:H1:1165773532513448007> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **THE BOYZ Q, HYUNJAE** Halloween 2023 I",
+    "idol":"THE BOYZ Q, HYUNJAE",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160378098580201573/qh.png",
+    "theme": "LIP GLOSS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "N1JN_H231": [
+  {
+    "name":"<:H1:1165773532513448007> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **NCT 127 JOHNNY** Halloween 2023 I",
+    "idol":"NCT 127 JOHNNY",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160378456169775104/j.png",
+    "theme": "CHERRY BOMB",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "AENN_H231": [
+  {
+    "name":"<:H1:1165773532513448007> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **aespa NINGNING** Halloween 2023 I",
+    "idol":"aespa NINGNING",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160624224520654908/93_Sem_Titulo_20231008140446.png",
+    "theme": "Spicy",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "AEKR_H231": [
+  {
+    "name":"<:H1:1165773532513448007> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **aespa KARINA** Halloween 2023 I",
+    "idol":"aespa KARINA",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160624336638586941/93_Sem_Titulo_20231008140500.png",
+    "theme": "Spicy",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "OOKJ_H231": [
+  {
+    "name":"<:H1:1165773532513448007> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **OnlyOneOf KB, JunJi** Halloween 2023 I",
+    "idol":"OnlyOneOf KB, JunJi",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1161139841522745354/ooo_hallow.png",
+    "theme": "libidO",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "GGYY_H231": [
+  {
+    "name":"<:H1:1165773532513448007> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **Girls' Generation YOONA, YURI** Halloween 2023 I",
+    "idol":"Girls' Generation YOONA, YURI",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1161532873845776506/hw23_yoonyul.png",
+    "theme": "Holiday",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "IZKMJ_H232": [
+  {
+    "name":"<:H2:1165773453505339473> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **IZ*ONE KIM MIN JU** Halloween 2023 II",
+    "idol":"IZ*ONE KIM MIN JU",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1161536630067310722/hw232_kmj.png",
+    "theme": "비올레타(Violeta)",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "TSSH_H232": [
+  {
+    "name":"<:H2:1165773453505339473> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **tripleS SoHyun** Halloween 2023 II",
+    "idol":"tripleS SoHyun",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160715663518728293/halloweenII_sohyun.png",
+    "theme": "Girls' Capitalism",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "DCSY_H232": [
+  {
+    "name":"<:H2:1165773453505339473> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **DREAMCATCHER SIYEON** Halloween 2023 II",
+    "idol":"DREAMCATCHER SIYEON",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160714365855617155/halloweenII_organized_1.png",
+    "theme": "Girls' Capitalism",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "LOJS_H232": [
+  {
+    "name":"<:H2:1165773453505339473> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **LOONA JinSoul** Halloween 2023 II",
+    "idol":"LOONA JinSoul",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160690454816379000/halloweenII_organized_3.png",
+    "theme": "Singing in the Rain",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "RVJI_H232": [
+  {
+    "name":"<:H2:1165773453505339473> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **Red Velvet JOY, IRENE** Halloween 2023 II",
+    "idol":"Red Velvet JOY, IRENE",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160653898940420248/hw23_joyrene.png",
+    "theme": "Ice Cream Cake",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "CXJY_H232": [
+  {
+    "name":"<:H2:1165773453505339473> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **CIX BAEJINYOUNG** Halloween 2023 II",
+    "idol":"CIX BAEJINYOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160429013534265354/baejin_hallo.png",
+    "theme": "Curtain Call",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "ONFU_H232": [
+  {
+    "name":"<:H2:1165773453505339473> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **ONF U** Halloween 2023 II",
+    "idol":"ONF U",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160428924912808026/u_hallo.png",
+    "theme": "Sukhumvit Swimming (스쿰빗스위밍)",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "PKGE_H232": [
+  {
+    "name":"<:H2:1165773453505339473> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **PURPLE KISS NA GO EUN** Halloween 2023 II",
+    "idol":"PURPLE KISS NA GO EUN",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160421550089064519/nge.png",
+    "theme": "Ponzona",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "BTJK_H232": [
+  {
+    "name":"<:H2:1165773453505339473> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **BTS Jung Kook** Halloween 2023 II",
+    "idol":"BTS Jung Kook",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160421466932781126/jk.png",
+    "theme": "Butter",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "SVT8_H232": [
+  {
+    "name":"<:H2:1165773453505339473> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **SEVENTEEN THE8** Halloween 2023 II",
+    "idol":"SEVENTEEN THE8",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160421298355326976/t8.png",
+    "theme": "Left & Right",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "TXHK_H232": [
+  {
+    "name":"<:H2:1165773453505339473> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **TOMORROW X TOGETHER HUENINGKAI** Halloween 2023 II",
+    "idol":"TOMORROW X TOGETHER HUENINGKAI",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160421172945633353/h.png",
+    "theme": "Sugar Rush Ride",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "BPLJ_H232": [
+  {
+    "name":"<:H2:1165773453505339473> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **BLACKPINK LISA, JISOO** Halloween 2023 II",
+    "idol":"BLACKPINK LISA, JISOO",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160420971790999704/lj.png",
+    "theme": "뚜두뚜두 (DDU-DU DDU-DU)",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "N1JH_H232": [
+  {
+    "name":"<:H2:1165773453505339473> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **NCT 127 JAEHYUN** Halloween 2023 II",
+    "idol":"NCT 127 JAEHYUN",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160370119424360569/jaehyun_hallow.png",
+    "theme": "Ay-Yo",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "WMLU_H232": [
+  {
+    "name":"<:H2:1165773453505339473> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **Weki Meki LUA** Halloween 2023 II",
+    "idol":"Weki Meki LUA",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160369976818012201/lua_hallow.png",
+    "theme": "Picky Picky",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "LOKL_H232": [
+  {
+    "name":"<:H2:1165773453505339473> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **LOONA Kim Lip** Halloween 2023 II",
+    "idol":"LOONA Kim Lip",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160351119474708603/halloweenII_organized.png",
+    "theme": "Eclipse (Prod. by Daniel Obi Klein) (김립)",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "TWMM_H232": [
+  {
+    "name":"<:H2:1165773453505339473> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **TWICE MOMO** Halloween 2023 II",
+    "idol":"TWICE MOMO",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160317694617337886/94_Sem_Titulo_20231007172205.png",
+    "theme": "TT",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "SODL_H232": [
+  {
+    "name":"<:H2:1165773453505339473> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **Soloist Demi Lovato** Halloween 2023 II",
+    "idol":"Soloist Demi Lovato",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160246733956194465/SODL_H23II.png",
+    "theme": "Cool for the Summer (feat. Slash) [Rock Version]",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "SOWH_H232": [
+  {
+    "name":"<:H2:1165773453505339473> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **Soloist WONHO** Halloween 2023 II",
+    "idol":"Soloist WONHO",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160245248665071696/SOWH_H23II.png",
+    "theme": "Open Mind",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "EXCBX_H232": [
+  {
+    "name":"<:H2:1165773453505339473> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **EXO-CBX** Halloween 2023 II",
+    "idol":"EXO-CBX",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160112614706258002/hw23_cbx.png",
+    "theme": "Open Mind",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "SKCB_H232": [
+  {
+    "name":"<:H2:1165773453505339473> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **Stray Kids CHANGBIN** Halloween 2023 II",
+    "idol":"Stray Kids CHANGBIN",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160042420591919185/cb.png",
+    "theme": "Double Knot",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "ATYS_H232": [
+  {
+    "name":"<:H2:1165773453505339473> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **ATEEZ YEO SANG** Halloween 2023 II",
+    "idol":"ATEEZ YEO SANG",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160042332398288896/ys.png",
+    "theme": "BOUNCY (K-HOT CHILLI PEPPERS)",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "ITCR_H232": [
+  {
+    "name":"<:H2:1165773453505339473> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **ITZY CHAERYEONG** Halloween 2023 II",
+    "idol":"ITZY CHAERYEONG",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160017869531250708/halloweenII_organized_2.png",
+    "theme": "WANNABE",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "IVJWY_H232": [
+  {
+    "name":"<:H2:1165773453505339473> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **IVE JANGWONYOUNG** Halloween 2023 II",
+    "idol":"IVE JANGWONYOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1167265423935418388/IVJWY_H232.png",
+    "theme": "ELEVEN",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "SOPP_H232": [
+  {
+    "name":"<:H2:1165773453505339473> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **Soloist Poppy** Halloween 2023 II",
+    "idol":"Soloist Poppy",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1167267040424362114/SOPP_H232.png",
+    "theme": "I Disagree",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "SOTS_H231": [
+  {
+    "name":"<:H1:1165773532513448007> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **Soloist Taylor Swift** Halloween 2023 I",
+    "idol":"Soloist Taylor Swift",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1167268511727484948/SOTS_H231.png",
+    "theme": "Shake It Off (Taylor's Version)",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "LMJT_H232": [
+  {
+    "name":"<:H2:1165773453505339473> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **Little Mix Jade Thirlwall** Halloween 2023 II",
+    "idol":"Little Mix Jade Thirlwall",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1167269599553790043/LMJT_H232.png",
+    "theme": "Wasabi",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "SODU_H232": [
+  {
+    "name":"<:H2:1165773453505339473> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **Soloist Dua Lipa** Halloween 2023 II",
+    "idol":"Soloist Dua Lipa",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1167271138691391548/SODU_H232.png",
+    "theme": "Blow Your Mind (Mwah)",
+    "min": "2000",
+    "max": "2500"
+  }
   ]
 }
