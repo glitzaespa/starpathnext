@@ -646,5 +646,113 @@
     "creatorid":"971289285045141584",
     "commission":"yes"
   }
+  ],
+    "TW_YO": [
+  {
+    "name":"**TWICE** YES or YES",
+    "type":"Halloween2023",
+    "image":"https://cdn.discordapp.com/tachments/1120863114624258100/1168648012940185701/TW_YO.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "FL_FG": [
+  {
+    "name":"**FLO** Fly Girl",
+    "type":"Halloween2023",
+    "image":"https://cdn.discordapp.com/tachments/1120863114624258100/1168648013481259090/FL_FG.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "AT_DVV": [
+  {
+    "name":"**ATEEZ** Deja Vu (Vampire ver.)",
+    "type":"Halloween2023",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1168648014261391390/AT_DJV.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "LO_NN": [
+  {
+    "name":"**LOONA** Na na na",
+    "type":"Halloween2023",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1168648014823436348/icon_nanana.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "BT_BS": [
+  {
+    "name":"**BTS** Blood Sweat & Tears",
+    "type":"Halloween2023",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1168648015473549362/BT_BS.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "TW_TT1": [
+  {
+    "name":"**TWICE (JEONGYEON, MINA, NAYEON, MOMO)** TT",
+    "type":"Halloween2023",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1168648015981056161/TW_TT1.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "TW_TT2": [
+  {
+    "name":"**TWICE (DAHYUN, JIHYO, SANA, CHAEYOUNG, TZUYU)** TT",
+    "type":"Halloween2023",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1168648016538902689/TW_TT2.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "MX_GB": [
+  {
+    "name":"**MONSTA X** GAMBLER",
+    "type":"Halloween2023",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1168648017075769394/MX_GB.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "CL_DV": [
+  {
+    "name":"**CLC** Devil",
+    "type":"Halloween2023",
+    "image":"https://cdn.discordapp.com/attachments/1120863114624258100/1168648017629425706/CL_DV.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
   ]
 }
