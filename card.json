@@ -24652,6 +24652,16 @@
     "max": "750"
   }
   ],
+    "SKHA_MR": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **Stray Kids HAN** MIROH",
+    "idol":"Stray Kids HAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1168342829500747836/SKHA_MR.png",
+    "theme": "MIROH",
+    "min": "200",
+    "max": "750"
+  }
+  ],
   "SOLCY_OT": [
   {
     "name":"<:R_:1104449630659428372> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **Soloist LEE CHAE YEON** on the stage",
