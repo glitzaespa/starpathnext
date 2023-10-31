@@ -25162,7 +25162,7 @@
     "max": "100"
   }
   ],
-  "RZEU_SI": [
+  "RZES_SI": [
   {
     "name":"<:C_:1104449628876841030> **RIIZE EUNSEOK** Still I Love it",
     "idol":"RIIZE EUNSEOK",
@@ -25212,7 +25212,7 @@
     "max": "100"
   }
   ],
-  "RZAN_SI": [
+  "RZAT_SI": [
   {
     "name":"<:C_:1104449628876841030> **RIIZE ANTON** Still I Love it",
     "idol":"RIIZE ANTON",
@@ -25540,6 +25540,216 @@
     "theme": "She Plays Bass",
     "min": "1500",
     "max": "2000"
+  }
+  ],
+  "SOYN_HR": [
+  {
+    "name":"<:R_:1104449630659428372> **Soloist YENA** Hate Rodrigo",
+    "idol":"Soloist YENA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1140065948506796112/R_13.png",
+    "theme": "Hate Rodrigo",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SOYN_WL": [
+  {
+    "name":"<:R_:1104449630659428372> **Soloist YENA** WICKED LOVE",
+    "idol":"Soloist YENA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1140066073178296351/R_14.png",
+    "theme": "WICKED LOVE",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SOMY_DR": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist MIYEON** Drive",
+    "idol":"Soloist MIYEON",
+    "image": "https://cdn.discordapp.com/attachments/1162243390717566997/1162243414222458961/SOMY.png",
+    "theme": "Drive",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOKA_RV": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist KAI** Rover",
+    "idol":"Soloist KAI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1140085204405456906/rover_kai.png",
+    "theme": "Rover",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "RZST_GA": [
+  {
+    "name":"<:X_:1104449632890798091> **RIIZE SHOTARO** Get A Guitar",
+    "idol":"RIIZE SHOTARO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1165120415300059166/shotaro_gag.png",
+    "theme": "Get A Guitar",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "RZST_GA_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **RIIZE SHOTARO** Get A Guitar",
+    "idol":"RIIZE SHOTARO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1165120501253931029/shotaro_gag_p.png",
+    "theme": "Get A Guitar",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "RZES_GA": [
+  {
+    "name":"<:X_:1104449632890798091> **RIIZE EUNSEOK** Get A Guitar",
+    "idol":"RIIZE EUNSEOK",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1165120414721261579/eunsok_gag.png",
+    "theme": "Get A Guitar",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "RZES_GA_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **RIIZE EUNSEOK** Get A Guitar",
+    "idol":"RIIZE EUNSEOK",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1165120500578652200/eunseok_gag_p.png",
+    "theme": "Get A Guitar",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "RZSC_GA": [
+  {
+    "name":"<:X_:1104449632890798091> **RIIZE SUNGCHAN** Get A Guitar",
+    "idol":"RIIZE SUNGCHAN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1165120413995630614/sungchan_gag.png",
+    "theme": "Get A Guitar",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "RZSC_GA_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **RIIZE SUNGCHAN** Get A Guitar",
+    "idol":"RIIZE SUNGCHAN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1165120499970490499/sungchan_gag_p.png",
+    "theme": "Get A Guitar",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "RZWB_GA": [
+  {
+    "name":"<:X_:1104449632890798091> **RIIZE WONBIN** Get A Guitar",
+    "idol":"RIIZE WONBIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1165120413215506502/winbin_gag.png",
+    "theme": "Get A Guitar",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "RZWB_GA_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **RIIZE WONBIN** Get A Guitar",
+    "idol":"RIIZE WONBIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1165120499353911297/wonbin_gag_p.png",
+    "theme": "Get A Guitar",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "RZSH_GA": [
+  {
+    "name":"<:X_:1104449632890798091> **RIIZE SEUNGHAN** Get A Guitar",
+    "idol":"RIIZE SEUNGHAN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1165120412540211241/seunghan_gag.png",
+    "theme": "Get A Guitar",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "RZSH_GA_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **RIIZE SEUNGHAN** Get A Guitar",
+    "idol":"RIIZE SEUNGHAN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1165120498707992616/seunghan_gag_p.png",
+    "theme": "Get A Guitar",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "RZSO_GA": [
+  {
+    "name":"<:X_:1104449632890798091> **RIIZE SOHEE** Get A Guitar",
+    "idol":"RIIZE SOHEE",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1165120411982364712/sohee_gag.png",
+    "theme": "Get A Guitar",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "RZSO_GA_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **RIIZE SOHEE** Get A Guitar",
+    "idol":"RIIZE SOHEE",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1165120498074664970/sohee_gag_p.png",
+    "theme": "Get A Guitar",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "RZAT_GA": [
+  {
+    "name":"<:X_:1104449632890798091> **RIIZE ANTON** Get A Guitar",
+    "idol":"RIIZE ANTON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1165120411265142814/anton_gag_p.png",
+    "theme": "Get A Guitar",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "RZAT_GA_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **RIIZE ANTON** Get A Guitar",
+    "idol":"RIIZE ANTON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1165120497453891614/anton_gag_pp.png",
+    "theme": "Get A Guitar",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+    "SOHS_IO": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist HWASA** it's okay",
+    "idol":"Soloist HWASA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1165109223798091806/C_106.png",
+    "theme": "I Love My Body",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOHS_IL": [
+  {
+    "name":"<:R_:1104449630659428372> **Soloist HWASA** I Love My Body",
+    "idol":"Soloist HWASA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1169003418585661551/SOHS_IL.png",
+    "theme": "I Love My Body",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SOHS_TM": [
+  {
+    "name":"<:R_:1104449630659428372> **Soloist HWASA** That's my body",
+    "idol":"Soloist HWASA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1169003462055440424/SOHS_TM.png",
+    "theme": "I Love My Body",
+    "min": "100",
+    "max": "500"
   }
   ]
 }
