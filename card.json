@@ -25751,5 +25751,35 @@
     "min": "100",
     "max": "500"
   }
+  ],
+  "SOLA_RO": [
+  {
+    "name":"<:R_:1104449630659428372> **Soloist Leigh-Anne** Rhythm of it vibrates",
+    "idol":"Soloist Leigh-Anne",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1153446702943064135/IMG_8754.png",
+    "theme": "My Love (feat. Arya Starr)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SOLA_NA": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist Leigh-Anne** Not a heart on Earth",
+    "idol":"Soloist Leigh-Anne",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1154900458100510821/SOLA_NA.png",
+    "theme": "My Love (feat. Arya Starr)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOLA_SM": [
+  {
+    "name":"<:R_:1104449630659428372> **Soloist Leigh-Anne** Stop my love",
+    "idol":"Soloist Leigh-Anne",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1154900520364933224/SOLA_SM.png",
+    "theme": "My Love (feat. Arya Starr)",
+    "min": "100",
+    "max": "500"
+  }
   ]
 }
