@@ -25781,5 +25781,45 @@
     "min": "100",
     "max": "500"
   }
+  ],
+    "AEKR_BSP": [
+  {
+    "name":"<:B_:1122363573629374525> **aespa KARINA** Spicy",
+    "idol":"aespa KARINA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1157919753239797800/spicy_b_karina.png",
+    "theme": "Spicy",
+    "min": "1500",
+    "max": "2000"
+  }
+  ],
+  "AEWT_BSP": [
+  {
+    "name":"<:B_:1122363573629374525> **aespa WINTER** Spicy",
+    "idol":"aespa WINTER",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1157919753889914909/spicy_b_winter.png",
+    "theme": "Spicy",
+    "min": "1500",
+    "max": "2000"
+  }
+  ],
+  "AEGS_BSP": [
+  {
+    "name":"<:B_:1122363573629374525> **aespa GISELLE** Spicy",
+    "idol":"aespa GISELLE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1157919753525014568/spicy_b_giselle.png",
+    "theme": "Spicy",
+    "min": "1500",
+    "max": "2000"
+  }
+  ],
+  "AENN_BSP": [
+  {
+    "name":"<:B_:1122363573629374525> **aespa NINGNING** Spicy",
+    "idol":"aespa NINGNING",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1157919754229657750/spicy_b_ningning.png",
+    "theme": "Spicy",
+    "min": "1500",
+    "max": "2000"
+  }
   ]
 }
