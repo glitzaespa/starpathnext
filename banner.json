@@ -754,5 +754,53 @@
     "creatorid":"971289285045141584",
     "commission":"no"
   }
+  ],
+    "AEKR_BSP": [
+  {
+    "name":"**aespa KARINA** Spicy",
+    "type":"CustomComp",
+    "image":"https://cdn.discordapp.com/tachments/1090791248744415302/1173349800339591278/AEKR_BSP.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "AEGS_BSP": [
+  {
+    "name":"**aespa GISELLE** Spicy",
+    "type":"CustomComp",
+    "image":"https://cdn.discordapp.com/tachments/1090791248744415302/1173349800763211896/AEGS_BSP.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "AENN_BSP": [
+  {
+    "name":"**aespa NINGNING** Spicy",
+    "type":"CustomComp",
+    "image":"https://cdn.discordapp.com/tachments/1090791248744415302/1173349801161658368/AENN_BSP.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "AEWT_BSP": [
+  {
+    "name":"**aespa WINTER** Spicy",
+    "type":"CustomComp",
+    "image":"https://cdn.discordapp.com/tachments/1090791248744415302/1173349801539162153/AEWT_BSP.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
   ]
 }
