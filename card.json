@@ -25821,5 +25821,285 @@
     "min": "1500",
     "max": "2000"
   }
+  ],
+    "EXXM_MT": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **EXO XIUMIN** Monster",
+    "idol":"EXO XIUMIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1167253679171178517/monster_xiumin.png",
+    "theme": "Monster",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "EXSH_MT": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **EXO SUHO** Monster",
+    "idol":"EXO SUHO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1167253679972286514/monster_suho.png",
+    "theme": "Monster",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "EXLA_MT": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **EXO LAY** Monster",
+    "idol":"EXO LAY",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1167253680710496367/monster_lay.png",
+    "theme": "Monster",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "EXBH_MT": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **EXO BAEKHYUN** Monster",
+    "idol":"EXO BAEKHYUN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1167253681603874858/monster_baekhyun.png",
+    "theme": "Monster",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "EXCH_MT": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **EXO CHEN** Monster",
+    "idol":"EXO CHEN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1167253682316902462/monster_chen.png",
+    "theme": "Monster",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "EXCY_MT": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **EXO CHANYEOL** Monster",
+    "idol":"EXO CHANYEOL",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1167253682975420476/monster_chanyeol.png",
+    "theme": "Monster",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "EXDO_MT": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **EXO D.O** Monster",
+    "idol":"EXO D.O",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1167253683688443994/monster_do.png",
+    "theme": "Monster",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "EXKA_MT": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **EXO KAI** Monster",
+    "idol":"EXO KAI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1167253684711850085/monster_kai.png",
+    "theme": "Monster",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "EXSE_MT": [
+  {
+    "name":"<:R_:1104449630659428372> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **EXO SEHUN** Monster",
+    "idol":"EXO SEHUN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1167253685567500339/monster_sehun.png",
+    "theme": "Monster",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+    "BIMS_AS": [
+  {
+    "name":"<:X_:1104449632890798091> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Billlie MOON SUA** a sign ~ anonymous",
+    "idol":"Billlie MOON SUA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130716057192124436/a sign ~ anonymous_moon_x.png",
+    "theme": "a sign ~ anonymous",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "BISU_AS": [
+  {
+    "name":"<:X_:1104449632890798091> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Billlie SUHYEON** a sign ~ anonymous",
+    "idol":"Billlie SUHYEON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1165867566783283343/moonsua.png",
+    "theme": "a sign ~ anonymous",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "BIHA_AS": [
+  {
+    "name":"<:X_:1104449632890798091> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Billlie HARAM** a sign ~ anonymous",
+    "idol":"Billlie HARAM",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1165867565373988864/haram.png",
+    "theme": "a sign ~ anonymous",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "BITK_AS": [
+  {
+    "name":"<:X_:1104449632890798091> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Billlie TSUKI** a sign ~ anonymous",
+    "idol":"Billlie TSUKI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1165867568846872637/tsuki.png",
+    "theme": "a sign ~ anonymous",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "BISH_AS": [
+  {
+    "name":"<:X_:1104449632890798091> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Billlie SHEON** a sign ~ anonymous",
+    "idol":"Billlie SHEON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1165867567278202950/sheon.png",
+    "theme": "a sign ~ anonymous",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "BISY_AS": [
+  {
+    "name":"<:X_:1104449632890798091> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Billlie SIYOON** a sign ~ anonymous",
+    "idol":"Billlie SIYOON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1165867567794106408/siyoon.png",
+    "theme": "a sign ~ anonymous",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "BIHR_AS": [
+  {
+    "name":"<:X_:1104449632890798091> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Billlie HARUNA** a sign ~ anonymous",
+    "idol":"Billlie HARUNA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1165867565852143626/haruna.png",
+    "theme": "a sign ~ anonymous",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+    "BIMS_AS_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Billlie MOON SUA** a sign ~ anonymous",
+    "idol":"Billlie MOON SUA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1165867664351182898/moonsua2.png",
+    "theme": "a sign ~ anonymous",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "BISU_AS_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Billlie SUHYEON** a sign ~ anonymous",
+    "idol":"Billlie SUHYEON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1165867666003730494/suhyeon2.png",
+    "theme": "a sign ~ anonymous",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "BIHA_AS_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Billlie HARAM** a sign ~ anonymous",
+    "idol":"Billlie HARAM",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1165867663046746152/haram2.png",
+    "theme": "a sign ~ anonymous",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "BITK_AS_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Billlie TSUKI** a sign ~ anonymous",
+    "idol":"Billlie TSUKI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1165867666637082694/tsuki2.png",
+    "theme": "a sign ~ anonymous",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "BISH_AS_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Billlie SHEON** a sign ~ anonymous",
+    "idol":"Billlie SHEON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1165867664934195311/sheon2.png",
+    "theme": "a sign ~ anonymous",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "BISY_AS_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Billlie SIYOON** a sign ~ anonymous",
+    "idol":"Billlie SIYOON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1165867665496227881/siyoon2.png",
+    "theme": "a sign ~ anonymous",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "BIHR_AS_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <:hw:1159958118021738536> <:badge_special:1107422313466576937> **Billlie HARUNA** a sign ~ anonymous",
+    "idol":"Billlie HARUNA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1165867663625572352/haruna2.png",
+    "theme": "a sign ~ anonymous",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+    "IZJYR_H231": [
+  {
+    "name":"<:H1:1165773532513448007> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **IZ*ONE JO YU RI** Halloween 2023 I",
+    "idol":"IZ*ONE JO YU RI",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1161533079396024350/hw23_jyr.png",
+    "theme": "Violeta",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "GGHY_H231": [
+  {
+    "name":"<:H1:1165773532513448007> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **Girls' Generation HYOYEON** Halloween 2023 I",
+    "idol":"Girls' Generation HYOYEON",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1161532825577738280/hw23_hyoyeon.png",
+    "theme": "PARTY",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "GGSY_H231": [
+  {
+    "name":"<:H1:1165773532513448007> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **Girls' Generation SOOYOUNG** Halloween 2023 I",
+    "idol":"Girls' Generation SOOYOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1161532785601818664/hw23_sooyoung.png",
+    "theme": "PARTY",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "TWSN_H231": [
+  {
+    "name":"<:H1:1165773532513448007> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **TWICE SANA** Halloween 2023 I",
+    "idol":"TWICE SANA",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160713579226484916/STARPATH_C86_20231008180335.png",
+    "theme": "FANCY",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "TBKV_H232": [
+  {
+    "name":"<:H2:1165773453505339473> <:hw:1160245022432698488> <:badge_special:1107422313466576937> **THE BOYZ KEVIN** Halloween 2023 II",
+    "idol":"THE BOYZ KEVIN",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1160370077934305351/kevin_hallow.png",
+    "theme": "MAVERICK",
+    "min": "2000",
+    "max": "2500"
+  }
   ]
 }
