@@ -154,5 +154,17 @@
     "creatorid":"721451367213957130",
     "commission":"yes"
   }
+  ],
+  "YOU_ME": [
+  {
+    "name":"You & Me",
+    "type":"Event",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1174474850207797318/YOUANDME.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"yes"
+  }
   ]
 }
