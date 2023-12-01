@@ -27601,5 +27601,65 @@
     "min": "1000",
     "max": "2500"
   }
+  ],
+  "KDJY_CC": [
+  {
+    "name":"<:X_:1104449632890798091> <a:custom:1176286502007877642> **Kadri's JAY** Chaconne",
+    "idol":"Kadri's JAY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1179104018140774441/KADRI_CUSTOM_20231128125445.png",
+    "theme": "Chaconne",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "KDJY_CC_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:custom:1176286502007877642> **Kadri's JAY** Chaconne",
+    "idol":"Kadri's JAY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1179104018673442856/KADRI_CUSTOM.png",
+    "theme": "Chaconne",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "STARSTAFF_REVE": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:custom:1176286502007877642> **STAFF ReVe** STARSTAFF",
+    "idol":"STAFF ReVe",
+    "image": "https://cdn.discordapp.com/attachments/1176289141944766554/1176501847817732147/starstaff_reve.png",
+    "theme": "Monster",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "STARSTAFF_MIKY": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:custom:1176286502007877642> **STAFF MIKY** STARSTAFF",
+    "idol":"STAFF MIKY",
+    "image": "https://cdn.discordapp.com/attachments/1176289141944766554/1178046177745313802/hao_custom_2.png",
+    "theme": "In Bloom",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "STARSTAFF_LUNA": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:custom:1176286502007877642> **STAFF LUNA** STARSTAFF",
+    "idol":"STAFF LUNA",
+    "image": "https://cdn.discordapp.com/attachments/1176289141944766554/1178167500807098498/ss_luna.png",
+    "theme": "In Bloom",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "STARSTAFF_VIC": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:custom:1176286502007877642> **STAFF VIC** STARSTAFF",
+    "idol":"STAFF VIC",
+    "image": "https://cdn.discordapp.com/attachments/1176289141944766554/1179214344639221880/SS_VIC.png",
+    "theme": "In Bloom",
+    "min": "1000",
+    "max": "2500"
+  }
   ]
 }
