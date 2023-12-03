@@ -27661,5 +27661,65 @@
     "min": "1000",
     "max": "2500"
   }
+  ],
+    "WLSJ_HC": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Weeekly LEE SOOJIN** Happy Christmas",
+    "idol":"Weeekly LEE SOOJIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1180327844979687464/soojin_hc.png",
+    "theme": "Happy Christmas",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "WLSE_HC": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Weeekly PARK SOEUN** Happy Christmas",
+    "idol":"Weeekly PARK SOEUN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1180327845688516629/soeun_hc.png",
+    "theme": "Happy Christmas",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "WLMD_HC": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Weeekly MONDAY** Happy Christmas",
+    "idol":"Weeekly MONDAY",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1180327846384775280/monday_hc.png",
+    "theme": "Happy Christmas",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "WLJA_HC": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Weeekly LEE JAEHEE** Happy Christmas",
+    "idol":"Weeekly LEE JAEHEE",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1180327847185883166/jaehee_hc.png",
+    "theme": "Happy Christmas",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "WLJH_HC": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Weeekly JIHAN** Happy Christmas",
+    "idol":"Weeekly JIHAN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1180327847886336010/jihan_hc.png",
+    "theme": "Happy Christmas",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "WLZO_HC": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Weeekly ZOA** Happy Christmas",
+    "idol":"Weeekly ZOA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1180327848637120522/zoa_hc.png",
+    "theme": "Happy Christmas",
+    "min": "0",
+    "max": "200"
+  }
   ]
 }
