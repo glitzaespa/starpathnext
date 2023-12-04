@@ -838,5 +838,17 @@
     "creatorid":"971289285045141584",
     "commission":"no"
   }
+  ],
+    "IV_BD": [
+  {
+    "name":"**IVE** Baddie",
+    "type":"Common",
+    "image":"https://cdn.discordapp.com/attachments/1090985395027722333/1181376776371458088/IV_BD.png",
+    "min":"10000",
+    "max":"11000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
   ]
 }
