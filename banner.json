@@ -850,5 +850,41 @@
     "creatorid":"971289285045141584",
     "commission":"no"
   }
+  ],
+      "LS_FF": [
+  {
+    "name":"**LE SSERAFIM** Flash Forward",
+    "type":"Common",
+    "image":"https://cdn.discordapp.com/attachments/1090791248744415302/1181377750704078868/LS_FF.png",
+    "min":"10000",
+    "max":"11000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+        "OR_LA": [
+  {
+    "name":"**Olivia Rodrigo** Like a goddamn vampire",
+    "type":"Common",
+    "image":"https://cdn.discordapp.com/attachments/1090791248744415302/1181378960584622150/OR_LA.png",
+    "min":"10000",
+    "max":"11000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+          "TX_CT": [
+  {
+    "name":"**TOMORROW X TOGETHER** Chasing That Feeling",
+    "type":"Common",
+    "image":"https://cdn.discordapp.com/attachments/1090791248744415302/1181382162902171749/TX_CT.png",
+    "min":"10000",
+    "max":"11000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
   ]
 }
