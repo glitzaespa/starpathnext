@@ -28212,7 +28212,7 @@
     "max": "200"
   }
   ],
-  "RVYR_IC": [
+  "RVYR_ID": [
   {
     "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Red Velvet YERI** Iced Coffee",
     "idol":"Red Velvet YERI",
@@ -28222,7 +28222,7 @@
     "max": "200"
   }
   ],
-  "RVJO_IC": [
+  "RVJO_ID": [
   {
     "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Red Velvet JOY** Iced Coffee",
     "idol":"Red Velvet JOY",
@@ -28232,7 +28232,7 @@
     "max": "200"
   }
   ],
-  "RVWD_IC": [
+  "RVWD_ID": [
   {
     "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Red Velvet WENDY** Iced Coffee",
     "idol":"Red Velvet WENDY",
@@ -28242,7 +28242,7 @@
     "max": "200"
   }
   ],
-  "RVSG_IC": [
+  "RVSG_ID": [
   {
     "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Red Velvet SEULGI** Iced Coffee",
     "idol":"Red Velvet SEULGI",
@@ -28252,7 +28252,7 @@
     "max": "200"
   }
   ],
-  "RVIR_IC": [
+  "RVIR_ID": [
   {
     "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Red Velvet IRENE** Iced Coffee",
     "idol":"Red Velvet IRENE",
