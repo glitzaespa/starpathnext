@@ -27901,5 +27901,165 @@
     "min": "1000",
     "max": "2500"
   }
+  ],
+    "GGSH_TB_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:custom:1176286502007877642> **Girls' Generation SEOHYUN** The Boys",
+    "idol":"Girls' Generation SEOHYUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1181646616764108890/GGSH_TB_P.png",
+    "theme": "The Boys",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "GGSH_TB": [
+  {
+    "name":"<:X_:1104449632890798091> <a:custom:1176286502007877642> **Girls' Generation SEOHYUN** The Boys",
+    "idol":"Girls' Generation SEOHYUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1181646831160139806/GGSH_TB.png",
+    "theme": "The Boys",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "GGYN_TB": [
+  {
+    "name":"<:X_:1104449632890798091> <a:custom:1176286502007877642> **Girls' Generation YOONA** The Boys",
+    "idol":"Girls' Generation YOONA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1181646831751540736/GGYN_TB.png",
+    "theme": "The Boys",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "GGYN_TB_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:custom:1176286502007877642> **Girls' Generation YOONA** The Boys",
+    "idol":"Girls' Generation YOONA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1181646617477136484/GGYN_TB_P.png",
+    "theme": "The Boys",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "GGSY_TB_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:custom:1176286502007877642> **Girls' Generation SOOYOUNG** The Boys",
+    "idol":"Girls' Generation SOOYOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1181646623823101962/GGSY_TB_P.png",
+    "theme": "The Boys",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "GGSY_TB": [
+  {
+    "name":"<:X_:1104449632890798091> <a:custom:1176286502007877642> **Girls' Generation SOOYOUNG** The Boys",
+    "idol":"Girls' Generation SOOYOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1181646832422625300/GGSY_TB.png",
+    "theme": "The Boys",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "GGYR_TB_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:custom:1176286502007877642> **Girls' Generation YURI** The Boys",
+    "idol":"Girls' Generation YURI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1181646624443879524/GGYR_TB_P.png",
+    "theme": "The Boys",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "GGYR_TB": [
+  {
+    "name":"<:X_:1104449632890798091> <a:custom:1176286502007877642> **Girls' Generation YURI** The Boys",
+    "idol":"Girls' Generation YURI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1181646833244713122/GGYR_TB.png",
+    "theme": "The Boys",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "GGHY_TB": [
+  {
+    "name":"<:X_:1104449632890798091> <a:custom:1176286502007877642> **Girls' Generation HYOYEON** The Boys",
+    "idol":"Girls' Generation HYOYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1181646833810952192/GGHY_TB.png",
+    "theme": "The Boys",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "GGHY_TB_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:custom:1176286502007877642> **Girls' Generation HYOYEON** The Boys",
+    "idol":"Girls' Generation HYOYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1181646625014284288/GGHY_TB_P.png",
+    "theme": "The Boys",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "GGTF_TB_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:custom:1176286502007877642> **Girls' Generation TIFFANY** The Boys",
+    "idol":"Girls' Generation TIFFANY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1181646625622478978/GGTF_TB_P.png",
+    "theme": "The Boys",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "GGTF_TB": [
+  {
+    "name":"<:X_:1104449632890798091> <a:custom:1176286502007877642> **Girls' Generation TIFFANY** The Boys",
+    "idol":"Girls' Generation TIFFANY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1181646834444283945/GGTF_TB.png",
+    "theme": "The Boys",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "GGSN_TB_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:custom:1176286502007877642> **Girls' Generation SUNNY** The Boys",
+    "idol":"Girls' Generation SUNNY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1181646626272591923/GGSN_TB_P.png",
+    "theme": "The Boys",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "GGSN_TB": [
+  {
+    "name":"<:X_:1104449632890798091> <a:custom:1176286502007877642> **Girls' Generation SUNNY** The Boys",
+    "idol":"Girls' Generation SUNNY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1181646835069243392/GGSN_TB.png",
+    "theme": "The Boys",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "GGTY_TB_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:custom:1176286502007877642> **Girls' Generation TAEYEON** The Boys",
+    "idol":"Girls' Generation TAEYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1181646626847195236/GGTY_TB_P.png",
+    "theme": "The Boys",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "GGTY_TB": [
+  {
+    "name":"<:X_:1104449632890798091> <a:custom:1176286502007877642> **Girls' Generation TAEYEON** The Boys",
+    "idol":"Girls' Generation TAEYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1181646835736125540/GGTY_TB.png",
+    "theme": "The Boys",
+    "min": "500",
+    "max": "1000"
+  }
   ]
 }
