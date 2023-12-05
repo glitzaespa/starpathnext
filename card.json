@@ -28741,5 +28741,735 @@
     "min": "200",
     "max": "750"
   }
+  ],
+  "SOCH_GT": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Soloist CHEN** Good To Be Alive",
+    "idol":"Soloist CHEN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177456584339759174/chen.png",
+    "theme": "Good To Be Alive (Sung by HYO, KEY, CHEN, JOHNNY, NINGNING, GINJO, Raiden, IMLAY & Mar Vista)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOHY_GT": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Soloist HYO** Good To Be Alive",
+    "idol":"Soloist HYO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177456584985690152/hyo2.png",
+    "theme": "Good To Be Alive (Sung by HYO, KEY, CHEN, JOHNNY, NINGNING, GINJO, Raiden, IMLAY & Mar Vista)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "N1JN_GT": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **NCT 127 JOHNNY** Good To Be Alive",
+    "idol":"NCT 127 JOHNNY",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177456585677742080/johnny.png",
+    "theme": "Good To Be Alive (Sung by HYO, KEY, CHEN, JOHNNY, NINGNING, GINJO, Raiden, IMLAY & Mar Vista)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOKE_GT": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Soloist KEY** Good To Be Alive",
+    "idol":"Soloist KEY",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177456586285908028/key.png",
+    "theme": "Good To Be Alive (Sung by HYO, KEY, CHEN, JOHNNY, NINGNING, GINJO, Raiden, IMLAY & Mar Vista)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "AENN_GT": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **aespa NINGNING** Good To Be Alive",
+    "idol":"aespa NINGNING",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177456587116388482/ningning.png",
+    "theme": "Good To Be Alive (Sung by HYO, KEY, CHEN, JOHNNY, NINGNING, GINJO, Raiden, IMLAY & Mar Vista)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "IZCYN_CS2": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **IZ*ONE CHOI YE NA** Christmas Style II",
+    "idol":"IZ*ONE CHOI YE NA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177627233632919682/yena.png",
+    "theme": "환상동화(Secret Story of the Swan)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "IZKHW_CS2": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **IZ*ONE KANG HYE WON** Christmas Style II",
+    "idol":"IZ*ONE KANG HYE WON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177627234366931014/hyewon.png",
+    "theme": "환상동화(Secret Story of the Swan)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "IZMSK_CS2": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **IZ*ONE MIYAWAKI SAKURA** Christmas Style II",
+    "idol":"IZ*ONE MIYAWAKI SAKURA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177627235486806066/kura.png",
+    "theme": "환상동화(Secret Story of the Swan)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "IZKEB_CS2": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **IZ*ONE KWON EUN BI** Christmas Style II",
+    "idol":"IZ*ONE KWON EUN BI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177627236858339369/eunbi.png",
+    "theme": "환상동화(Secret Story of the Swan)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "IZJWY_CS2": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **IZ*ONE JANG WON YOUNG** Christmas Style II",
+    "idol":"IZ*ONE JANG WON YOUNG",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177627237470711898/wony.png",
+    "theme": "환상동화(Secret Story of the Swan)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "IZAYJ_CS2": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **IZ*ONE AN YU JIN** Christmas Style II",
+    "idol":"IZ*ONE AN YU JIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177627238175350835/yujin.png",
+    "theme": "환상동화(Secret Story of the Swan)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "IZJYR_CS2": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **IZ*ONE JO YU RI** Christmas Style II",
+    "idol":"IZ*ONE JO YU RI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177627337362256032/yuri.png",
+    "theme": "환상동화(Secret Story of the Swan)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "IZHHT_CS2": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **IZ*ONE HONDA HITOMI** Christmas Style II",
+    "idol":"IZ*ONE HONDA HITOMI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177627338100441148/tomi.png",
+    "theme": "환상동화(Secret Story of the Swan)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "IZYNK_CS2": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **IZ*ONE YABUKI NAKO** Christmas Style II",
+    "idol":"IZ*ONE YABUKI NAKO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177627339153227846/nako.png",
+    "theme": "환상동화(Secret Story of the Swan)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "IZKMJ_CS2": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **IZ*ONE KIM MIN JU** Christmas Style II",
+    "idol":"IZ*ONE KIM MIN JU",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177627339903991858/minju.png",
+    "theme": "환상동화(Secret Story of the Swan)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "IZKCW_CS2": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **IZ*ONE KIM CHAE WON** Christmas Style II",
+    "idol":"IZ*ONE KIM CHAE WON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177627340784812082/chaewon.png",
+    "theme": "환상동화(Secret Story of the Swan)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "IZLCY_CS2": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **IZ*ONE LEE CHAE YEON** Christmas Style II",
+    "idol":"IZ*ONE LEE CHAE YEON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177627341543977081/chaeyeon.png",
+    "theme": "환상동화(Secret Story of the Swan)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "WJSL_AT": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **WJSN THE BLACK SEOLA** Easy",
+    "idol":"WJSN THE BLACK SEOLA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177687962432049222/WJSL_AT.png",
+    "theme": "Easy",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "WJBN_AT": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **WJSN THE BLACK BONA** Easy",
+    "idol":"WJSN THE BLACK BONA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177687963128299690/WJBN_AT.png",
+    "theme": "Easy",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "WJES_AT": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **WJSN THE BLACK EUNSEO** Easy",
+    "idol":"WJSN THE BLACK EUNSEO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177687963933610096/WJES_AT.png",
+    "theme": "Easy",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "WJEX_AT": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **WJSN THE BLACK EXY** Easy",
+    "idol":"WJSN THE BLACK EXY",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177687964755689602/WJEX_AT.png",
+    "theme": "Easy",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "STCJ_AA": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **STAYC J** Anyway anyway",
+    "idol":"STAYC J",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177700380675674223/STCJ_AA.png",
+    "theme": "Teddy Bear",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "STYN_AA": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **STAYC YOON** Anyway anyway",
+    "idol":"STAYC YOON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177700381430644816/STYN_AA.png",
+    "theme": "Teddy Bear",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "STSE_AA": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **STAYC SEEUN** Anyway anyway",
+    "idol":"STAYC SEEUN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177700382496002221/STSE_AA.png",
+    "theme": "Teddy Bear",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "STIS_AA": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **STAYC ISA** Anyway anyway",
+    "idol":"STAYC ISA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177700383209037854/STIS_AA.png",
+    "theme": "Teddy Bear",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "STSI_AA": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **STAYC SIEUN** Anyway anyway",
+    "idol":"STAYC SIEUN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177700385188741130/STSI_AA.png",
+    "theme": "Teddy Bear",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "STSM_AA": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **STAYC SUMIN** Anyway anyway",
+    "idol":"STAYC SUMIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177700386098913330/STSM_AA.png",
+    "theme": "Teddy Bear",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOAG_ST": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Soloist Ariana Grande** Santa Tell Me",
+    "idol":"Soloist Ariana Grande",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178048777647571025/IMG_9692.png",
+    "theme": "Santa Tell Me",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "RVIR_BT": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Red Velvet IRENE** Best time of the year",
+    "idol":"Red Velvet IRENE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1177856009277030401/btoty_irene.png",
+    "theme": "Beautiful Christmas",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "RVSG_BT": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Red Velvet SEULGI** Best time of the year",
+    "idol":"Red Velvet SEULGI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177856010027794482/btoty_seulgi.png",
+    "theme": "Beautiful Christmas",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "RVWD_BT": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Red Velvet WENDY** Best time of the year",
+    "idol":"Red Velvet WENDY",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177856010736635934/btoty_wendy.png",
+    "theme": "Beautiful Christmas",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "RVJO_BT": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Red Velvet JOY** Best time of the year",
+    "idol":"Red Velvet JOY",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177856011596476498/btoty_joy.png",
+    "theme": "Beautiful Christmas",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "RVYR_BT": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Red Velvet YERI** Best time of the year",
+    "idol":"Red Velvet YERI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177856012733120632/btoty_yeri.png",
+    "theme": "Beautiful Christmas",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "AEKR_BT": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **aespa KARINA** Best time of the year",
+    "idol":"aespa KARINA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177856058551705640/btoty_karina.png",
+    "theme": "Beautiful Christmas",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "AEGS_BT": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **aespa GISELLE** Best time of the year",
+    "idol":"aespa GISELLE",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177856059835158548/btoty_giselle.png",
+    "theme": "Beautiful Christmas",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "AEWT_BT": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **aespa WINTER** Best time of the year",
+    "idol":"aespa WINTER",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177856060682412102/btoty_winter.png",
+    "theme": "Beautiful Christmas",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "AENN_BT": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **aespa NINGNING** Best time of the year",
+    "idol":"aespa NINGNING",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177856061332525107/btoty_ningning.png",
+    "theme": "Beautiful Christmas",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "GGTY_DS": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Girls' Generation-TTS TAEYEON** Dear Santa",
+    "idol":"Girls' Generation-TTS TAEYEON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177862121208434738/ds_taeyeon.png",
+    "theme": "Dear Santa",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "GGTF_DS": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Girls' Generation-TTS TIFFANY** Dear Santa",
+    "idol":"Girls' Generation-TTS TIFFANY",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177862121955008604/ds_tiffany.png",
+    "theme": "Dear Santa",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "GGSH_DS": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Girls' Generation-TTS SEOHYUN** Dear Santa",
+    "idol":"Girls' Generation-TTS SEOHYUN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177862122596728853/ds_seohyun.png",
+    "theme": "Dear Santa",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "IVRE_LM": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **IVE REI** Love myself",
+    "idol":"IVE REI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177974378596663406/IVRE_LM.png",
+    "theme": "My Satisfaction",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "IVGA_LM": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **IVE GAEUL** Love myself",
+    "idol":"IVE GAEUL",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177974379339071578/IVGA_LM.png",
+    "theme": "My Satisfaction",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "IVAYJ_LM": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **IVE ANYUJIN** Love myself",
+    "idol":"IVE ANYUJIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177974380194713700/IVAYJ_LM.png",
+    "theme": "My Satisfaction",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "IVLS_LM": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **IVE LEESEO** Love myself",
+    "idol":"IVE LEESEO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177974381192954018/IVLS_LM.png",
+    "theme": "My Satisfaction",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "IVLI_LM": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **IVE LIZ** Love myself",
+    "idol":"IVE LIZ",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177974382006652948/IVLI_LM.png",
+    "theme": "My Satisfaction",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "IVJWY_LM": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **IVE JANGWONYOUNG** Love myself",
+    "idol":"IVE JANGWONYOUNG",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177974382631600229/IVJWY_LM.png",
+    "theme": "My Satisfaction",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ITYJ_FK": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **ITZY YEJI** Freaky",
+    "idol":"ITZY YEJI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178053912100618332/freaky_yeji.png",
+    "theme": "Freaky",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "ITLI_FK": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **ITZY LIA** Freaky",
+    "idol":"ITZY LIA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178053912931086426/freaky_lia.png",
+    "theme": "Freaky",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "ITRJ_FK": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **ITZY RYUJIN** Freaky",
+    "idol":"ITZY RYUJIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178053914210357298/freaky_ryujin.png",
+    "theme": "Freaky",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "ITCR_FK": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **ITZY CHAERYEONG** Freaky",
+    "idol":"ITZY CHAERYEONG",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178053914961129593/freaky_chaeryeong.png",
+    "theme": "Freaky",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "ITYN_FK": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **ITZY YUNA** Freaky",
+    "idol":"ITZY YUNA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178053915959382168/freaky_yuna.png",
+    "theme": "Freaky",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "ZBRC_GN": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **ZEROBASEONE RICKY** Good Night",
+    "idol":"ZEROBASEONE RICKY",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178058881381969980/ricky.png",
+    "theme": "가시(CRUSH)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ZBHB_GN": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **ZEROBASEONE SUNG HAN BIN** Good Night",
+    "idol":"ZEROBASEONE SUNG HAN BIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178058881960792084/hanbin.png",
+    "theme": "가시(CRUSH)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ZBTR_GN": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **ZEROBASEONE KIM TAE RAE** Good Night",
+    "idol":"ZEROBASEONE KIM TAE RAE",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178058882640253048/taerae.png",
+    "theme": "가시(CRUSH)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ZBJW_GN": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **ZEROBASEONE KIM JI WOONG** Good Night",
+    "idol":"ZEROBASEONE KIM JI WOONG",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178058883277795418/jiwoong.png",
+    "theme": "가시(CRUSH)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ZBGV_GN": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **ZEROBASEONE KIM GYU VIN** Good Night",
+    "idol":"ZEROBASEONE KIM GYU VIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178058883978235934/gyuvin.png",
+    "theme": "가시(CRUSH)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ZBGW_GN": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **ZEROBASEONE PARK GUN WOOK** Good Night",
+    "idol":"ZEROBASEONE PARK GUN WOOK",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178058884749996144/gunwook.png",
+    "theme": "가시(CRUSH)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ZBMT_GN": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **ZEROBASEONE SEOK MATTHEW** Good Night",
+    "idol":"ZEROBASEONE SEOK MATTHEW",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178058885471408158/matthew.png",
+    "theme": "가시(CRUSH)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ZBYJ_GN": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **ZEROBASEONE HAN YU JIN** Good Night",
+    "idol":"ZEROBASEONE HAN YU JIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178058886142504990/yujin.png",
+    "theme": "가시(CRUSH)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ZBZH_GN": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **ZEROBASEONE ZHANG HAO** Good Night",
+    "idol":"ZEROBASEONE ZHANG HAO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178058886717132900/hao.png",
+    "theme": "가시(CRUSH)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOKL_TW": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Soloist Kim Lip** Twilight",
+    "idol":"Soloist Kim Lip",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178063877162934352/LOKL_TW.png",
+    "theme": "Twilight (Prod. by Cha Cha Malone)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOVV_EN": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Soloist ViVi** Everyday I Need You",
+    "idol":"Soloist ViVi",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178063942795411538/LOVV_EN.png",
+    "theme": "Everyday I Need You (Feat. JinSoul) (ViVi)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOJS_LL": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Soloist JinSoul** Love Letter",
+    "idol":"Soloist JinSoul",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178063992363696258/LOJS_LL.png",
+    "theme": "Love Letter (Kim Lip‚ JinSoul)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOCR_PZ": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Soloist Choerry** Puzzle",
+    "idol":"Soloist Choerry",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178064071984168980/LOCR_PZ.png",
+    "theme": "Puzzle (JinSoul, Choerry)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOHJ_VA": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Soloist HeeJin** ViViD (Acoustic Mix)",
+    "idol":"Soloist HeeJin",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178064136895217684/LOHJ_VAM.png",
+    "theme": "ViViD (Acoustic Mix)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOHY_IB": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Soloist HyunJin** I'll Be There",
+    "idol":"Soloist HyunJin",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178064190611652688/LOHY_IB.png",
+    "theme": "I'll Be There (HeeJin, HyunJin)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOHS_TC": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Soloist HaSeul** The Carol",
+    "idol":"Soloist HaSeul",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178064241463394375/LOHS_TC.png",
+    "theme": "The Carol (HeeJin, HyunJin, HaSeul)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOYJ_MM": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Soloist YeoJin** My Melody",
+    "idol":"Soloist YeoJin",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178064293275639918/LOYJ_MM.png",
+    "theme": "My Melody (HaSeul, YeoJin)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOOH_RS": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Soloist Olivia Hye** Rosy",
+    "idol":"Soloist Olivia Hye",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178066850182086817/SOOH_RS.png",
+    "theme": "Rosy (Go Won, Olivia Hye)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOGW_SS": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Soloist Go Won** See Saw",
+    "idol":"Soloist Go Won",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178069274179412071/SOGW_SS.png",
+    "theme": "See Saw (Chuu, Go Won)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOYV_D1": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Soloist Yves** D-1",
+    "idol":"Soloist Yves",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178070380846518362/SOYV_D1.png",
+    "theme": "D-1",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOCH_GT": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Soloist Chuu** Girl's Talk TEMPORARY IMAGE PLACEHOLDER!",
+    "idol":"Soloist Chuu",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178073693583331478/SOCH_GT.png",
+    "theme": "Girl's Talk (Yves, Chuu)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOTS_SO": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Soloist Taylor Swift** Snow On The Beach",
+    "idol":"Soloist Taylor Swift",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178130419695231078/24356478643721.png",
+    "theme": "Snow On The Beach (ft. Lana Del Rey)",
+    "min": "0",
+    "max": "200"
+  }
   ]
 }
