@@ -29471,5 +29471,185 @@
     "min": "0",
     "max": "200"
   }
+  ],
+  "CGDH_AU": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **cignature DO HEE** AURORA",
+    "idol":"cignature DO HEE",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178362205129941142/aurora_do_hee.png",
+    "theme": "오로라(AURORA)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "CGSM_AU": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **cignature SEMI** AURORA",
+    "idol":"cignature SEMI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178362205989781534/aurra_semi.png",
+    "theme": "오로라(AURORA)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "CGBL_AU": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **cignature BELLE** AURORA",
+    "idol":"cignature BELLE",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178362206673449031/aurora_belle.png",
+    "theme": "오로라(AURORA)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "CGCH_AU": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **cignature CHLOE** AURORA",
+    "idol":"cignature CHLOE",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178362207449391245/aurira_chloe.png",
+    "theme": "오로라(AURORA)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "CGSL_AU": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **cignature SELINE** AURORA",
+    "idol":"cignature SELINE",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178362208254705684/aurora_seline.png",
+    "theme": "오로라(AURORA)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "CGJW_AU": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **cignature JEE WON** AURORA",
+    "idol":"cignature JEE WON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178362208959344710/aurora_jeewon.png",
+    "theme": "오로라(AURORA)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "CGCS_AU": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **cignature CHAESOL** AURORA",
+    "idol":"cignature CHAESOL",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178362209739481188/aurora_chae.png",
+    "theme": "오로라(AURORA)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOTM_PY": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Soloist TAEMIN** Press Your Number",
+    "idol":"Soloist TAEMIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178394140598345828/pyn_taemin.png",
+    "theme": "Press Your Number",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOJH_EO": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Soloist JONGHYUN** End of a day",
+    "idol":"Soloist JONGHYUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178394199893233725/eoad_jonghyun.png",
+    "theme": "하루의 끝(End of a day)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOKE_IW": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Soloist KEY** I Wanna Be",
+    "idol":"Soloist KEY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178394251185373204/iwb_key.png",
+    "theme": "I Wanna Be (feat. SOYEON of (G)I-DLE)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOON_OC": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Soloist ONEW** O (Circle)",
+    "idol":"Soloist ONEW",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178394300812382229/circle_onew.png",
+    "theme": "O (Circle)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOMH_CH": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Soloist MINHO** Chase",
+    "idol":"Soloist MINHO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178394333259517952/chase_minho.png",
+    "theme": "놓아줘(Chase)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "BTSEK_WA": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **BTOB SEO EUNKWANG** Wind And Wish",
+    "idol":"BTOB SEO EUNKWANG",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178552696362500147/Untitled5_20231127002045.png",
+    "theme": "나의 바람(Wind And Wish)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "BTLMH_WA": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **BTOB LEE MINHYUK** Wind And Wish",
+    "idol":"BTOB LEE MINHYUK",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178552697016827934/Untitled5_20231127002105.png",
+    "theme": "나의 바람(Wind And Wish)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "BTLCS_WA": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **BTOB LEE CHANGSUB** Wind And Wish",
+    "idol":"BTOB LEE CHANGSUB",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178552697704685689/Untitled5_20231127002144.png",
+    "theme": "나의 바람(Wind And Wish)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "BTIHS_WA": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **BTOB IM HYUNSIK** Wind And Wish",
+    "idol":"BTOB IM HYUNSIK",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178552698430291988/Untitled5_20231127002203.png",
+    "theme": "나의 바람(Wind And Wish)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "BTPN_WA": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **BTOB PENIEL** Wind And Wish",
+    "idol":"BTOB PENIEL",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178552699072036894/Untitled5_20231127002233.png",
+    "theme": "나의 바람(Wind And Wish)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "BTYSJ_WA": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **BTOB YOOK SUNGJAE** Wind And Wish",
+    "idol":"BTOB YOOK SUNGJAE",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178552699810226266/Untitled5_20231127002253.png",
+    "theme": "나의 바람(Wind And Wish)",
+    "min": "200",
+    "max": "750"
+  }
   ]
 }
