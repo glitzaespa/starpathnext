@@ -28482,7 +28482,7 @@
     "max": "750"
   }
   ],
-  "BLSH_PB": [
+  "BLSU_PB": [
   {
     "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Billlie SUHYEON** Patbingsu",
     "idol":"Billlie SUHYEON",
@@ -28494,8 +28494,8 @@
   ],
   "BLTK_PB": [
   {
-    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Billlie SUHYEON** Patbingsu",
-    "idol":"Billlie SUHYEON",
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Billlie TSUKI** Patbingsu",
+    "idol":"Billlie TSUKI",
     "image": "https://media.discordapp.net/attachments/1104448142209990687/1177035352138059846/tsuki_pat.png",
     "theme": "팥빙수(Patbingsu) (ft. Yoon Jong Shin(윤종신))",
     "min": "200",
@@ -30041,5 +30041,96 @@
     "min": "0",
     "max": "200"
   }
-  ]
+  ],
+    "EXCY_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **EXO CHANYEOL** Christmas 2023 I",
+    "idol":"EXO CHANYEOL",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1173093476267733094/christmas23i_chanyeol.png",
+    "theme": "EXOXMAS",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "ITYN_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **ITZY YUNA** Christmas 2023 I",
+    "idol":"ITZY YUNA",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1173093526507110512/christmas23i_yuna.png",
+    "theme": "EXOXMAS",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "IZKHW_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **IZ*ONE KANG HYE WON** Christmas 2023 I",
+    "idol":"IZ*ONE KANG HYE WON",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1173093595381776504/christmas23i_kanghyewon.png",
+    "theme": "EXOXMAS",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "IVLI_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **IVE LIZ** Christmas 2023 I",
+    "idol":"IVE LIZ",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1173093649739960481/christmas23i_liz.png",
+    "theme": "EXOXMAS",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "WJDW_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **WJSN DAWON** Christmas 2023 I",
+    "idol":"WJSN DAWON",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1173093707516481597/christmas23i_dawon.png",
+    "theme": "EXOXMAS",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "N1JN_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **NCT 127 JOHNNY** Christmas 2023 I",
+    "idol":"NCT 127 JOHNNY",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1173093757877489674/christmas23i_johnny.png",
+    "theme": "EXOXMAS",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "SOKD_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Soloist KANGDANIEL** Christmas 2023 I",
+    "idol":"Soloist KANGDANIEL",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1173103470455304252/kangdaniel_christmas.png",
+    "theme": "EXOXMAS",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "SVJS_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **SEVENTEEN JOSHUA** Christmas 2023 I",
+    "idol":"SEVENTEEN JOSHUA",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1173103558732824666/joshua_xmas.png",
+    "theme": "EXOXMAS",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "VVUJ_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **VIVIZ UMJI** Christmas 2023 I",
+    "idol":"VIVIZ UMJI",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1173103613439119370/umji_xmas.png",
+    "theme": "EXOXMAS",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+
 }
