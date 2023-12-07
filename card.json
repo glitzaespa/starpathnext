@@ -30131,5 +30131,45 @@
     "min": "500",
     "max": "1000"
   }
+  ],
+    "SFTY_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **SF9 Yoo Tae Yang** Christmas 2023 I",
+    "idol":"SF9 Yoo Tae Yang",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1173312199465373818/yty_xmas.png",
+    "theme": "EXOXMAS",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "GGSJ_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **gugudan SEJEONG** Christmas 2023 I",
+    "idol":"gugudan SEJEONG",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1176727479893905448/christmas23i_sejeong.png",
+    "theme": "EXOXMAS",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "NJHN_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **gugudan SEJEONG** Christmas 2023 I",
+    "idol":"gugudan SEJEONG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178511794990501961/IMG_9719.png",
+    "theme": "EXOXMAS",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "AEKR_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **aespa KARINA** Christmas 2023 I",
+    "idol":"aespa KARINA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178511795820957766/IMG_9720.png",
+    "theme": "EXOXMAS",
+    "min": "500",
+    "max": "1000"
+  }
   ]
 }
