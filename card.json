@@ -261,8 +261,8 @@
   ],
   "DJDY_TB": [
   {
-    "name":"<:C_:1104449628876841030> **DOJAEJUNG DOYOUNG** The Blotter Paper",
-    "idol":"DOJAEJUNG DOYOUNG",
+    "name":"<:C_:1104449628876841030> **NCT DOJAEJUNG DOYOUNG** The Blotter Paper",
+    "idol":"NCT DOJAEJUNG DOYOUNG",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1105900740469338192/doyoung.png",
     "theme": "Perfume",
     "min": "0",
@@ -271,8 +271,8 @@
   ],
     "DJJW_TB": [
   {
-    "name":"<:C_:1104449628876841030> **DOJAEJUNG JUNGWOO** The Blotter Paper",
-    "idol":"DOJAEJUNG JUNGWOO",
+    "name":"<:C_:1104449628876841030> **NCT DOJAEJUNG JUNGWOO** The Blotter Paper",
+    "idol":"NCT DOJAEJUNG JUNGWOO",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1105900741329178674/jungwoo.png",
     "theme": "Perfume",
     "min": "0",
@@ -281,8 +281,8 @@
   ],
     "DJJH_TB": [
   {
-    "name":"<:C_:1104449628876841030> **DOJAEJUNG JAEHYUN** The Blotter Paper",
-    "idol":"DOJAEJUNG JAEHYUN",
+    "name":"<:C_:1104449628876841030> **NCT DOJAEJUNG JAEHYUN** The Blotter Paper",
+    "idol":"NCT DOJAEJUNG JAEHYUN",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1105900740876177428/jaehyun.png",
     "theme": "Perfume",
     "min": "0",
@@ -741,8 +741,8 @@
   ],
   "DJDY_YE": [
   {
-    "name":"<:R_:1104449630659428372> **DOJAEJUNG DOYOUNG** Yeah, yeah, that's me",
-    "idol":"DOJAEJUNG DOYOUNG",
+    "name":"<:R_:1104449630659428372> **NCT DOJAEJUNG DOYOUNG** Yeah, yeah, that's me",
+    "idol":"NCT DOJAEJUNG DOYOUNG",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106377020486725652/doyoung_r.png",
     "theme": "Perfume",
     "min": "100",
@@ -751,8 +751,8 @@
   ],
   "DJJH_YE": [
   {
-    "name":"<:R_:1104449630659428372> **DOJAEJUNG JAEHYUN** Yeah, yeah, that's me",
-    "idol":"DOJAEJUNG JAEHYUN",
+    "name":"<:R_:1104449630659428372> **NCT DOJAEJUNG JAEHYUN** Yeah, yeah, that's me",
+    "idol":"NCT DOJAEJUNG JAEHYUN",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106377021539504159/jaehyun_r.png",
     "theme": "Perfume",
     "min": "100",
@@ -761,8 +761,8 @@
   ],
   "DJJW_YE": [
   {
-    "name":"<:R_:1104449630659428372> **DOJAEJUNG JUNGWOO** Yeah, yeah, that's me",
-    "idol":"DOJAEJUNG JUNGWOO",
+    "name":"<:R_:1104449630659428372> **NCT DOJAEJUNG JUNGWOO** Yeah, yeah, that's me",
+    "idol":"NCT DOJAEJUNG JUNGWOO",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1106377022189617254/jungwoo_r.png",
     "theme": "Perfume",
     "min": "100",
@@ -12362,8 +12362,8 @@
   ],
   "DJJW_BPF": [
   {
-    "name":"<:B_:1122363573629374525> **DOJAEJUNG JUNGWOO** Perfume",
-    "idol":"DOJAEJUNG JUNGWOO",
+    "name":"<:B_:1122363573629374525> **NCT DOJAEJUNG JUNGWOO** Perfume",
+    "idol":"NCT DOJAEJUNG JUNGWOO",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130974750546612334/perfume_jw.png",
     "theme": "Perfume",
     "min": "1500",
@@ -12372,8 +12372,8 @@
   ],
   "DJJH_BPF": [
   {
-    "name":"<:B_:1122363573629374525> **DOJAEJUNG JAEHYUN** Perfume",
-    "idol":"DOJAEJUNG JAEHYUN",
+    "name":"<:B_:1122363573629374525> **NCT DOJAEJUNG JAEHYUN** Perfume",
+    "idol":"NCT DOJAEJUNG JAEHYUN",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130974750987010132/perfume_jh.png",
     "theme": "Perfume",
     "min": "1500",
@@ -12382,8 +12382,8 @@
   ],
   "DJDY_BPF": [
   {
-    "name":"<:B_:1122363573629374525> **DOJAEJUNG DOYOUNG** Perfume",
-    "idol":"DOJAEJUNG DOYOUNG",
+    "name":"<:B_:1122363573629374525> **NCT DOJAEJUNG DOYOUNG** Perfume",
+    "idol":"NCT DOJAEJUNG DOYOUNG",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1130974751314161694/perfume_dy.png",
     "theme": "Perfume",
     "min": "1500",
@@ -29650,6 +29650,396 @@
     "theme": "나의 바람(Wind And Wish)",
     "min": "200",
     "max": "750"
+  }
+  ],
+  "SOBH_AP": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Soloist BAEKHYUN** Amusement Park",
+    "idol":"Soloist BAEKHYUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1180318794674090004/baek_amuse.png",
+    "theme": "놀이공원 (Amusement Park)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "NWRE_DV": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **NU'EST W REN** Dejavu",
+    "idol":"NU'EST W REN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1180322505429368895/dejavu_ren.png",
+    "theme": "Dejavu",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "NWBH_DV": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **NU'EST W BAEKHO** Dejavu",
+    "idol":"NU'EST W BAEKHO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1180322506083672205/dejavu_baekho.png",
+    "theme": "Dejavu",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "NWJR_DV": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **NU'EST W JR** Dejavu",
+    "idol":"NU'EST W JR",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1180322506914152529/dejavu_jr.png",
+    "theme": "Dejavu",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "NWAR_DV": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **NU'EST W ARON** Dejavu",
+    "idol":"NU'EST W ARON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1180322507664924713/dejavu_aron.png",
+    "theme": "Dejavu",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "VVYH_IY": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **VERIVERY YEONHO** It's you",
+    "idol":"VERIVERY YEONHO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1181778031610712125/its_you_yeonho.png",
+    "theme": "It's you",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "VVKM_IY": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **VERIVERY KANGMIN** It's you",
+    "idol":"VERIVERY KANGMIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1181778032399224872/its_you_kangmin.png",
+    "theme": "It's you",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "VVYS_IY": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **VERIVERY YONGSEUNG** It's you",
+    "idol":"VERIVERY YONGSEUNG",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1181778038611005531/its_you_yongseung.png",
+    "theme": "It's you",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "VVGH_IY": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **VERIVERY GYEHYEON** It's you",
+    "idol":"VERIVERY GYEHYEON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1181778039420485652/its_you_gyehyeon.png",
+    "theme": "It's you",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "VVHY_IY": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **VERIVERY HOYOUNG** It's you",
+    "idol":"VERIVERY HOYOUNG",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1181778040859136030/its_you_hoyoung.png",
+    "theme": "It's you",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "VVDH_IY": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **VERIVERY DONGHEON** It's you",
+    "idol":"VERIVERY DONGHEON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1181778041953849414/its_you_donheon.png",
+    "theme": "It's you",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "DJJW_CW": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **NCT DOJAEJUNG JUNGWOO** Can We Go Back",
+    "idol":"NCT DOJAEJUNG JUNGWOO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1181778087768236092/cwgb_jungwoo.png",
+    "theme": "후유증 (Can We Go Back)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "DJJH_CW": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **NCT DOJAEJUNG JAEHYUN** Can We Go Back",
+    "idol":"NCT DOJAEJUNG JAEHYUN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1181778088485453894/cwgb_jaehyung.png",
+    "theme": "후유증 (Can We Go Back)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "DJDY_CW": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **NCT DOJAEJUNG DOYOUNG** Can We Go Back",
+    "idol":"NCT DOJAEJUNG DOYOUNG",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1181778089215266877/cwgb_doyoung.png",
+    "theme": "후유증 (Can We Go Back)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "MMHS_MM": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **MAMAMOO HWASA** mumumumuch",
+    "idol":"MAMAMOO HWASA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1181783636471722104/hwasa_mm.png",
+    "theme": "하늘 땅 바다만큼(mumumumuch)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "MMMB_MM": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **MAMAMOO MOONBYUL** mumumumuch",
+    "idol":"MAMAMOO MOONBYUL",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1181783637159583774/moonbyul_mm.png",
+    "theme": "하늘 땅 바다만큼(mumumumuch)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "MMSL_MM": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **MAMAMOO SOLAR** mumumumuch",
+    "idol":"MAMAMOO SOLAR",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1181783637969080350/solar_mm.png",
+    "theme": "하늘 땅 바다만큼(mumumumuch)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "MMWH_MM": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **MAMAMOO WHEEIN** mumumumuch",
+    "idol":"MAMAMOO WHEEIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1181783638631788554/wheein_mm.png",
+    "theme": "하늘 땅 바다만큼(mumumumuch)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "OMJH_SH": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **OH MY GIRL JIHO** Sailing Heart",
+    "idol":"OH MY GIRL JIHO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1181790592552939550/sh_jiho.png",
+    "theme": "항해 (Sailing Heart)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "OMAR_SH": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **OH MY GIRL ARIN** Sailing Heart",
+    "idol":"OH MY GIRL ARIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1181790593358241872/sh_arin.png",
+    "theme": "항해 (Sailing Heart)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "OMYB_SH": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **OH MY GIRL YUBIN** Sailing Heart",
+    "idol":"OH MY GIRL YUBIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1181790594062880788/sh_yubin.png",
+    "theme": "항해 (Sailing Heart)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "OMSH_SH": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **OH MY GIRL SEUNGHEE** Sailing Heart",
+    "idol":"OH MY GIRL SEUNGHEE",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1181790594956271717/sh_seunghee.png",
+    "theme": "항해 (Sailing Heart)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "OMYO_SH": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **OH MY GIRL YOOA** Sailing Heart",
+    "idol":"OH MY GIRL YOOA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1181790595782553671/sh_yooa.png",
+    "theme": "항해 (Sailing Heart)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "OMHJ_SH": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **OH MY GIRL HYOJUNG** Sailing Heart",
+    "idol":"OH MY GIRL HYOJUNG",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1181790596558495804/sh_hyojung.png",
+    "theme": "항해 (Sailing Heart)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "OMMM_SH": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **OH MY GIRL MIMI** Sailing Heart",
+    "idol":"OH MY GIRL MIMI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1181790597552541717/sh_mimi.png",
+    "theme": "항해 (Sailing Heart)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ASCEW_FM": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **ASTRO CHA EUN WOO** FM201.8",
+    "idol":"ASTRO CHA EUN WOO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1182134106272845894/ASTRO_Xmas_R_20231206213440.png",
+    "theme": "All I Want",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ASYSH_FM": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **ASTRO YOON SAN HA** FM201.8",
+    "idol":"ASTRO YOON SAN HA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1182134107174608978/ASTRO_Xmas_R_20231206213433.png",
+    "theme": "All I Want",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ASRC_FM": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **ASTRO ROCKY** FM201.8",
+    "idol":"ASTRO ROCKY",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1182134108202225735/ASTRO_Xmas_R_20231206213424.png",
+    "theme": "All I Want",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ASMB_FM": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **ASTRO MOON BIN** FM201.8",
+    "idol":"ASTRO MOON BIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1182134109028491306/ASTRO_Xmas_R_20231206213418.png",
+    "theme": "All I Want",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ASMJ_FM": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **ASTRO MJ** FM201.8",
+    "idol":"ASTRO MJ",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1182134109762502687/ASTRO_Xmas_R_20231206213412.png",
+    "theme": "All I Want",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ASJJ_FM": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **ASTRO JINJIN** FM201.8",
+    "idol":"ASTRO JINJIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1182134110634921984/ASTRO_Xmas_R_20231206213404.png",
+    "theme": "All I Want",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "GGSH_LH": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Girls' Generation SEOHYUN** Lion Heart",
+    "idol":"Girls' Generation SEOHYUN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1182305594246434816/lh_seo.png",
+    "theme": "All I Want",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "GGYN_LH": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Girls' Generation YOONA** Lion Heart",
+    "idol":"Girls' Generation YOONA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1182305595215335434/lh_yoona.png",
+    "theme": "Lion Heart",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "GGSY_LH": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Girls' Generation SOOYOUNG** Lion Heart",
+    "idol":"Girls' Generation SOOYOUNG",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1182305596112904224/lh_soo.png",
+    "theme": "Lion Heart",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "GGYR_LH": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Girls' Generation YURI** Lion Heart",
+    "idol":"Girls' Generation YURI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1182305597027274873/lh_yuro.png",
+    "theme": "Lion Heart",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "GGHY_LH": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Girls' Generation HYOYEON** Lion Heart",
+    "idol":"Girls' Generation HYOYEON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1182305597895479357/lh_hyo.png",
+    "theme": "Lion Heart",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "GGTF_LH": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Girls' Generation TIFFANY** Lion Heart",
+    "idol":"Girls' Generation TIFFANY",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1182305598730149990/lh_tiffany.png",
+    "theme": "Lion Heart",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "GGSN_LH": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Girls' Generation SUNNY** Lion Heart",
+    "idol":"Girls' Generation SUNNY",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1182305599548051586/lh_sunny.png",
+    "theme": "Lion Heart",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "GGTY_LH": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Girls' Generation TAEYEON** Lion Heart",
+    "idol":"Girls' Generation TAEYEON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1182305600642752675/paradise_taeyeon.png",
+    "theme": "Lion Heart",
+    "min": "0",
+    "max": "200"
   }
   ]
 }
