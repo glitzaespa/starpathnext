@@ -30171,5 +30171,25 @@
     "min": "500",
     "max": "1000"
   }
+  ],
+  "QPDH_NX_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:custom:1176286502007877642> **QUEENDOM PUZZLE DOHWA** Nxde",
+    "idol":"QUEENDOM PUZZLE DOHWA",
+    "image": "https://cdn.discordapp.com/attachments/1181983199916720239/1182454889360662700/QPDH_NX_P.png",
+    "theme": "Nxde",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "ICJN_RM_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:custom:1176286502007877642> **ICHILLIN' JOONIE** Ring my-, ring the alarm",
+    "idol":"ICHILLIN' JOONIE",
+    "image": "https://cdn.discordapp.com/attachments/1181983199916720239/1182472802587115570/ICJN_RM_P.png",
+    "theme": "ALARM",
+    "min": "1000",
+    "max": "2500"
+  }
   ]
 }
