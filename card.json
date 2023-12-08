@@ -30191,5 +30191,35 @@
     "min": "1000",
     "max": "2500"
   }
+  ],
+    "BTJK_MT_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:custom:1176286502007877642> **BTS Jung Kook** My Time",
+    "idol":"BTS Jung Kook",
+    "image": "https://cdn.discordapp.com/attachments/1181983199916720239/1182681218601463868/BTJK_MT_P.png",
+    "theme": "시차 (My Time)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "SOCH_BM_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:custom:1176286502007877642> **Soloist CHUU** be my little hero",
+    "idol":"Soloist CHUU",
+    "image": "https://cdn.discordapp.com/attachments/1181983199916720239/1182548627747512330/zane_chuu.png",
+    "theme": "Howl",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "SOYV_AM_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:custom:1176286502007877642> **Soloist Yves** All my life, by my life",
+    "idol":"Soloist Yves",
+    "image": "https://cdn.discordapp.com/attachments/1181983199916720239/1182698642600120401/SOYV_AM_P.png",
+    "theme": "new",
+    "min": "1000",
+    "max": "2500"
+  }
   ]
 }
