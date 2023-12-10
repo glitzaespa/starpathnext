@@ -886,5 +886,629 @@
     "creatorid":"971289285045141584",
     "commission":"no"
   }
+  ],
+  "LS_FI": [
+  {
+    "name":"**LE SSERAFIM** Fire in the belly",
+    "type":"X-MAS 2023",
+    "image":"https://cdn.discordapp.com/tachments/1182755899698323456/1182755966073180190/LS_FI.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "SF_TD": [
+  {
+    "name":"**SF9** Tear Drop",
+    "type":"X-MAS 2023",
+    "image":"https://cdn.discordapp.com/tachments/1182755899698323456/1182756001120800859/SF_TD.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "LM_OI": [
+  {
+    "name":"**Little Mix** One I've Been Missing",
+    "type":"X-MAS 2023",
+    "image":"https://cdn.discordapp.com/tachments/1182755899698323456/1182756034272567296/LM_OI.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "SM_SP": [
+  {
+    "name":"**SMTOWN** 2022 Winter SMTOWN : SMCU PALACE",
+    "type":"X-MAS 2023",
+    "image":"https://cdn.discordapp.com/tachments/1182755899698323456/1182756054438789202/SM_PL.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "ST_AA": [
+  {
+    "name":"**STAYC** Anyway anyway",
+    "type":"X-MAS 2023",
+    "image":"https://cdn.discordapp.com/tachments/1182755899698323456/1182756084314820688/ST_AA.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "AG_CN": [
+  {
+    "name":"**Ariana Grande** Christmas & Chill",
+    "type":"X-MAS 2023",
+    "image":"https://cdn.discordapp.com/tachments/1182755899698323456/1182756116787114085/AG_CN.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "MC_AI": [
+  {
+    "name":"**Mariah Carey** All I Want for Christmas Is You",
+    "type":"X-MAS 2023",
+    "image":"https://cdn.discordapp.com/tachments/1182755899698323456/1182756165768196206/MC_AI.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "TB_CM": [
+  {
+    "name":"**THE BOYZ** Christmassy!",
+    "type":"X-MAS 2023",
+    "image":"https://cdn.discordapp.com/tachments/1182755899698323456/1182756176874709002/TB_CM.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "ZBHYJ_GN": [
+  {
+    "name":"**ZEROBASEONE HAN YU JIN** Good Night",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756356046999592/HYJ_GN.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "ZBPGW_GN": [
+  {
+    "name":"**ZEROBASEONE PARK GUN WOOK** Good Night",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756356529336492/PGW_GN.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "ZBKGV_GN": [
+  {
+    "name":"**ZEROBASEONE KIM GYU VIN** Good Night",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756357057822891/KGV_GN.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "ZBRC_GN": [
+  {
+    "name":"**ZEROBASEONE RICKY** Good Night",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756357506617477/RC_GN.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "ZBKTR_GN": [
+  {
+    "name":"**ZEROBASEONE KIM TAE RAE** Good Night",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756358123171860/KTR_GN.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "ZBSMT_GN": [
+  {
+    "name":"**ZEROBASEONE SEOK MATTHEW** Good Night",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756358584549416/SMT_GN.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "ZBZH_GN": [
+  {
+    "name":"**ZEROBASEONE ZHANG HAO** Good Night",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756359100444784/ZH_GN.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "ZBKJW_GN": [
+  {
+    "name":"**ZEROBASEONE KIM JI WOONG** Good Night",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756359578599554/KJW_GN.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "ZBSHB_GN": [
+  {
+    "name":"**ZEROBASEONE SUNG HAN BIN** Good Night",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756360161611846/SHB_GN.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "STCJ_AA": [
+  {
+    "name":"**STAYC J** Anyway anyway",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756413194375338/STCJ_YN_banner.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "STIS_AA": [
+  {
+    "name":"**STAYC ISA** Anyway anyway",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756413622206514/STIS_YN_banner.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "STSI_AA": [
+  {
+    "name":"**STAYC SIEUN** Anyway anyway",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756414209400832/STSI_YN_banner.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "STSE_AA": [
+  {
+    "name":"**STAYC SEEUN** Anyway anyway",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756414674964540/STSE_YN_banner.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "STYN_AA": [
+  {
+    "name":"**STAYC YOON** Anyway anyway",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756415161516152/STSM_YN_banner.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "STSM_AA": [
+  {
+    "name":"**STAYC SUMIN** Anyway anyway",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756415685795910/STSM_AA_banner.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "CH_GT": [
+  {
+    "name":"**Chuu** Girl's Talk",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756506706395187/CH_GT.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "YV_D1": [
+  {
+    "name":"**Yves** D-1",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756507243253861/YV_D1.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "GW_SS": [
+  {
+    "name":"**Go Won** See Saw",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756508182786099/GW_SS.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "OH_RS": [
+  {
+    "name":"**Olivia Hye** Rosy",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756508795158609/OH_RS.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "KL_TW": [
+  {
+    "name":"**Kim Lip** Twilight",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756509185216532/KL_TW.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "VV_EN": [
+  {
+    "name":"**ViVi** Everyday I Need You",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756509629820999/VV_E.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "JS_LL": [
+  {
+    "name":"**JinSoul** Love Letter",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756510070214736/JS_LL.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "CR_PZ": [
+  {
+    "name":"**Choerry** Puzzle",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756510569345044/CR_PZ.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "HJ_VA": [
+  {
+    "name":"**HeeJin** ViViD (Acoustic Mix)",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756510976196658/HJ_VV.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "HY_IB": [
+  {
+    "name":"**HyunJin** I'll Be There",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756511399809194/HY_AY.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "HS_TC": [
+  {
+    "name":"**HaSeul** The Carol",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756542215356446/HS_LM.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "YJ_MM": [
+  {
+    "name":"**YeoJin** My Melody",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756542655762532/YJ_KL.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "IVJWY_LM": [
+  {
+    "name":"**IVE JANGWONYOUNG** Love myself",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756605184446464/IVJWY_LM_banner.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "IVLI_LM": [
+  {
+    "name":"**IVE LIZ** Love myself",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756606379839538/IVLI_LM_banner.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "IVLS_LM": [
+  {
+    "name":"**IVE LEESEO** Love myself",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756607269011607/IVLS_LM_banner.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "IVAYJ_LM": [
+  {
+    "name":"**IVE ANYUJIN** Love myself",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756608648941629/IVAYJ_LM_banner.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "IVGA_LM": [
+  {
+    "name":"**IVE GAEUL** Love myself",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756609936609381/IVGA_LM_banner.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "IVRE_LM": [
+  {
+    "name":"**IVE REI** Love myself",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756610905473064/IVRE_LM_banner.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "GS_JT": [
+  {
+    "name":"**GISELLE** Jet",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756657311252540/GS_JT.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "HY_JT": [
+  {
+    "name":"**HYO** Jet",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756657663582428/HY_JT.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "JM_JT": [
+  {
+    "name":"**JAEMIN** Jet",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756657999122472/JM_JT.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "SC_JT": [
+  {
+    "name":"**SUNGCHAN** Jet",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756658372411482/SC_JT.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "TY_JT": [
+  {
+    "name":"**TAEYONG** Jet",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756658758295663/TY_JT.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "WT_JT": [
+  {
+    "name":"**WINTER** Jet",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182756659072864256/WT_JT.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "HY_GT": [
+  {
+    "name":"**HYO** Good To Be Alive",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182757283629907978/HY_GT.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "NN_GT": [
+  {
+    "name":"**NINGNING** Good To Be Alive",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182757283994808494/NN_GT.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "KE_GT": [
+  {
+    "name":"**KEY** Good To Be Alive",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182757284472963153/KE_GT.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "JN_GT": [
+  {
+    "name":"**JOHNNY** Good To Be Alive",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182757284829474866/JN_GT.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "CH_GT": [
+  {
+    "name":"**CHEN** Good To Be Alive",
+    "type":"X-MAS EVE BUNDLE",
+    "image":"https://cdn.discordapp.com/attachments/1182756223217578044/1182757285584437339/CH_GT-banner.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
   ]
 }
