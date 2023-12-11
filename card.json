@@ -28432,7 +28432,7 @@
     "max": "750"
   }
   ],
-  "BLHA_PB": [
+  "BIHA_PB": [
   {
     "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Billlie HARAM** Patbingsu",
     "idol":"Billie HARAM",
@@ -28442,7 +28442,7 @@
     "max": "750"
   }
   ],
-  "BLHR_PB": [
+  "BIHR_PB": [
   {
     "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Billlie HARUNA** Patbingsu",
     "idol":"Billie HARUNA",
@@ -28452,7 +28452,7 @@
     "max": "750"
   }
   ],
-  "BLSH_PB": [
+  "BISH_PB": [
   {
     "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Billlie SHEON** Patbingsu",
     "idol":"Billie SHEON",
@@ -28462,7 +28462,7 @@
     "max": "750"
   }
   ],
-  "BLSY_PB": [
+  "BISY_PB": [
   {
     "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Billlie SIYOON** Patbingsu",
     "idol":"Billlie SIYOON",
@@ -28472,7 +28472,7 @@
     "max": "750"
   }
   ],
-  "BLMS_PB": [
+  "BIMS_PB": [
   {
     "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Billlie MOON SUA** Patbingsu",
     "idol":"Billlie MOON SUA",
@@ -28482,7 +28482,7 @@
     "max": "750"
   }
   ],
-  "BLSU_PB": [
+  "BISU_PB": [
   {
     "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Billlie SUHYEON** Patbingsu",
     "idol":"Billlie SUHYEON",
@@ -28492,7 +28492,7 @@
     "max": "750"
   }
   ],
-  "BLTK_PB": [
+  "BITK_PB": [
   {
     "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Billlie TSUKI** Patbingsu",
     "idol":"Billlie TSUKI",
@@ -30048,8 +30048,8 @@
     "idol":"EXO CHANYEOL",
     "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1173093476267733094/christmas23i_chanyeol.png",
     "theme": "EXOXMAS",
-    "min": "500",
-    "max": "1000"
+    "min": "2000",
+    "max": "2500"
   }
   ],
   "ITYN_X231": [
@@ -30058,8 +30058,8 @@
     "idol":"ITZY YUNA",
     "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1173093526507110512/christmas23i_yuna.png",
     "theme": "EXOXMAS",
-    "min": "500",
-    "max": "1000"
+    "min": "2000",
+    "max": "2500"
   }
   ],
   "IZKHW_X231": [
@@ -30068,8 +30068,8 @@
     "idol":"IZ*ONE KANG HYE WON",
     "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1173093595381776504/christmas23i_kanghyewon.png",
     "theme": "EXOXMAS",
-    "min": "500",
-    "max": "1000"
+    "min": "2000",
+    "max": "2500"
   }
   ],
   "IVLI_X231": [
@@ -30078,8 +30078,8 @@
     "idol":"IVE LIZ",
     "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1173093649739960481/christmas23i_liz.png",
     "theme": "EXOXMAS",
-    "min": "500",
-    "max": "1000"
+    "min": "2000",
+    "max": "2500"
   }
   ],
   "WJDW_X231": [
@@ -30088,8 +30088,8 @@
     "idol":"WJSN DAWON",
     "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1173093707516481597/christmas23i_dawon.png",
     "theme": "EXOXMAS",
-    "min": "500",
-    "max": "1000"
+    "min": "2000",
+    "max": "2500"
   }
   ],
   "N1JN_X231": [
@@ -30098,8 +30098,8 @@
     "idol":"NCT 127 JOHNNY",
     "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1173093757877489674/christmas23i_johnny.png",
     "theme": "EXOXMAS",
-    "min": "500",
-    "max": "1000"
+    "min": "2000",
+    "max": "2500"
   }
   ],
   "SOKD_X231": [
@@ -30108,8 +30108,8 @@
     "idol":"Soloist KANGDANIEL",
     "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1173103470455304252/kangdaniel_christmas.png",
     "theme": "EXOXMAS",
-    "min": "500",
-    "max": "1000"
+    "min": "2000",
+    "max": "2500"
   }
   ],
   "SVJS_X231": [
@@ -30118,8 +30118,8 @@
     "idol":"SEVENTEEN JOSHUA",
     "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1173103558732824666/joshua_xmas.png",
     "theme": "EXOXMAS",
-    "min": "500",
-    "max": "1000"
+    "min": "2000",
+    "max": "2500"
   }
   ],
   "VVUJ_X231": [
@@ -30128,8 +30128,8 @@
     "idol":"VIVIZ UMJI",
     "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1173103613439119370/umji_xmas.png",
     "theme": "EXOXMAS",
-    "min": "500",
-    "max": "1000"
+    "min": "2000",
+    "max": "2500"
   }
   ],
     "SFTY_X231": [
@@ -30138,28 +30138,28 @@
     "idol":"SF9 Yoo Tae Yang",
     "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1173312199465373818/yty_xmas.png",
     "theme": "EXOXMAS",
-    "min": "500",
-    "max": "1000"
+    "min": "2000",
+    "max": "2500"
   }
   ],
   "GGSJ_X231": [
   {
-    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **gugudan SEJEONG** Christmas 2023 I",
-    "idol":"gugudan SEJEONG",
-    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1176727479893905448/christmas23i_sejeong.png",
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **gugudan KIM SEJEONG** Christmas 2023 I",
+    "idol":"gugudan KIM SEJEONG",
+    "image": "https://cdn.discordapp.com/attachments/1129480282702102560/1176727543458562118/christmas23i_kimsejeong.png",
     "theme": "EXOXMAS",
-    "min": "500",
-    "max": "1000"
+    "min": "2000",
+    "max": "2500"
   }
   ],
   "NJHN_X231": [
   {
-    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **gugudan SEJEONG** Christmas 2023 I",
-    "idol":"gugudan SEJEONG",
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **NewJeans HANNI** Christmas 2023 I",
+    "idol":"NewJeans HANNI",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178511794990501961/IMG_9719.png",
     "theme": "EXOXMAS",
-    "min": "500",
-    "max": "1000"
+    "min": "2000",
+    "max": "2500"
   }
   ],
   "AEKR_X231": [
@@ -30168,8 +30168,8 @@
     "idol":"aespa KARINA",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178511795820957766/IMG_9720.png",
     "theme": "EXOXMAS",
-    "min": "500",
-    "max": "1000"
+    "min": "2000",
+    "max": "2500"
   }
   ],
   "QPDH_NX_P": [
@@ -30219,6 +30219,476 @@
     "image": "https://cdn.discordapp.com/attachments/1181983199916720239/1182698642600120401/SOYV_AM_P.png",
     "theme": "new",
     "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "PXRJ_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **PIXY RINJI** Christmas 2023 I",
+    "idol":"PIXY RINJI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178555666638573638/Untitled6_20231126215517.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "PXDI_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **PIXY DIA** Christmas 2023 I",
+    "idol":"PIXY DIA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178555667485827092/Untitled6_20231126215557.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "VABR_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **VAV BARON** Christmas 2023 I",
+    "idol":"VAV BARON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178555668320489535/Untitled6_20231126215923.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "KDAT_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **KINGDOM ARTHUR** Christmas 2023 I",
+    "idol":"KINGDOM ARTHUR",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178557484693192745/Untitled6_20231126215943.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "KDJH_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **KINGDOM JAHAN** Christmas 2023 I",
+    "idol":"KINGDOM JAHAN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178557485397839923/Untitled6_20231126215859.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "SKFL_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Stray Kids FELIX** Christmas 2023 I",
+    "idol":"Stray Kids FELIX",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178557486077313156/Untitled6_20231126220632.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "TXBG_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **TOMORROW X TOGETHER BEOMGYU** Christmas 2023 I",
+    "idol":"TOMORROW X TOGETHER BEOMGYU",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178829257946968134/gyu.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "TXYJ_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **TOMORROW X TOGETHER YEONJUN** Christmas 2023 I",
+    "idol":"TOMORROW X TOGETHER YEONJUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178829342919372860/jun.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "KDMJ_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **KINGDOM MUJIN** Christmas 2023 I",
+    "idol":"KINGDOM MUJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178829753873076294/mujin.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "ENJA_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **ENHYPEN JAY** Christmas 2023 I",
+    "idol":"ENHYPEN JAY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1179107630296342641/jay_xmas.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "IZYNK_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **IZ*ONE YABUKI NAKO** Christmas 2023 I",
+    "idol":"IZ*ONE YABUKI NAKO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1180336397589168199/ChristmasI_nako.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "WAWY_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **woo!ah! WOOYEON** Christmas 2023 I",
+    "idol":"woo!ah! WOOYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1180336596109770923/ChristmasI_wooyeon.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "WJSB_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **WJSN SOOBIN** Christmas 2023 I",
+    "idol":"WJSN SOOBIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1180336763269554434/ChristmasI_soobin.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "RPDH_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Rocket Punch Da Hyun** Christmas 2023 I",
+    "idol":"Rocket Punch Da Hyun",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1180336909533327360/ChristmasI_dahyun.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "BISY_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Billlie SIYOON** Christmas 2023 I",
+    "idol":"Billlie SIYOON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1180337319891456180/ChristmasI_siyoon.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "SVT8_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Billlie SIYOON** Christmas 2023 I",
+    "idol":"Billlie SIYOON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1180337525370396783/ChristmasI_the8.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "DCYH_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **DREAMCATCHER YOOHYEON** Christmas 2023 I",
+    "idol":"DREAMCATCHER YOOHYEON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1180337998588555334/ChristmasI_yoo.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "DCJI_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **DREAMCATCHER JIU** Christmas 2023 I",
+    "idol":"DREAMCATCHER JIU",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1180337999330955476/ChristmasI_jiu.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "EXKA_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **EXO KAI** Christmas 2023 I",
+    "idol":"EXO KAI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1182335888026513448/Untitled6_20231127102203.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "ASMB_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **ASTRO MOON BIN** Christmas 2023 I",
+    "idol":"ASTRO MOON BIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1182335889792315533/christmasI2023_20231207104855.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "ONLD_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **ONEUS LEEDO** Christmas 2023 I",
+    "idol":"ONEUS LEEDO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1182335890668929094/christmasI2023_20231207103508.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "ONHW_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **ONEUS HWANWOONG** Christmas 2023 I",
+    "idol":"ONEUS HWANWOONG",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1182335891604258846/christmasI2023_20231207103314.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "GGTY_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Girls' Generation TAEYEON** Christmas 2023 I",
+    "idol":"Girls' Generation TAEYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1182885161076015274/christmas23i_taeyeon.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "GGSH_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Girls' Generation SEOHYUN** Christmas 2023 I",
+    "idol":"Girls' Generation SEOHYUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1182885189031047248/christmas23i_seohyun.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "SHON_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **SHINee ONEW** Christmas 2023 I",
+    "idol":"SHINee ONEW",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1182885267112210513/christmas23i_onew.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "RVSG_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Red Velvet SEULGI** Christmas 2023 I",
+    "idol":"Red Velvet SEULGI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1182885318043643904/christmas23i_seulgi.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "NMSY_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **NMIXX SULLYOON** Christmas 2023 I",
+    "idol":"NMIXX SULLYOON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1182885370686357614/christmas23i_sullyoon.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "IDMN_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **(G)I-DLE MINNIE** Christmas 2023 I",
+    "idol":"(G)I-DLE MINNIE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183151599024087110/christmas23i_minnie.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "IDMY_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **(G)I-DLE MIYEON** Christmas 2023 I",
+    "idol":"(G)I-DLE MIYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183151636760232066/christmas23i_miyeon.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "WLJH_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Weeekly JIHAN** Christmas 2023 I",
+    "idol":"Weeekly JIHAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183151765399548014/christmas23i_jihan.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "STSM_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **STAYC SUMIN** Christmas 2023 I",
+    "idol":"STAYC SUMIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183151825956900914/christmas23i_sumin.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "STIS_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **STAYC ISA** Christmas 2023 I",
+    "idol":"STAYC ISA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183151857858777188/christmas23i_isa.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "WJEX_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **WJSN EXY** Christmas 2023 I",
+    "idol":"WJSN EXY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183151897075515412/christmas23i_exy.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "K1DY_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Kep1er DAYEON** Christmas 2023 I",
+    "idol":"Kep1er DAYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183152386009743471/christmas23i_kimdayeon.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "K1YJ_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Kep1er YUJIN** Christmas 2023 I",
+    "idol":"Kep1er YUJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183152422290460683/christmas23i_choiyujin.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "AEWT_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **aespa WINTER** Christmas 2023 I",
+    "idol":"aespa WINTER",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183178156971151413/christmas23i_winter.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "LSSK_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **LE SSERAFIM SAKURA** Christmas 2023 I",
+    "idol":"LE SSERAFIM SAKURA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183178282863165500/christmas23i_sakura.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "LSHY_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **LE SSERAFIM HUH YUNJIN** Christmas 2023 I",
+    "idol":"LE SSERAFIM HUH YUNJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183178348113965157/christmas23i_huhyunjin.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "XDGA_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Xdinary Heroes Gaon** Christmas 2023 I",
+    "idol":"Xdinary Heroes Gaon",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183329665939669062/gaon.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "XDGI_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Xdinary Heroes Gun-il** Christmas 2023 I",
+    "idol":"Xdinary Heroes Gun-il",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183329931908882534/gunil.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "SKHJ_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Stray Kids HYUNJIN** Christmas 2023 I",
+    "idol":"Stray Kids HYUNJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183329988519403550/hyunjin.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "XKJS_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **xikers JINSIK** Christmas 2023 I",
+    "idol":"xikers JINSIK",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183330035483017276/jinsik.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "ATSA_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **ATEEZ SAN** Christmas 2023 I",
+    "idol":"ATEEZ SAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183330170749321248/san.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "P1SO_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **P1Harmony Soul** Christmas 2023 I",
+    "idol":"P1Harmony Soul",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183330225908633690/soul.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "TBSW_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **THE BOYZ SUNWOO** Christmas 2023 I",
+    "idol":"THE BOYZ SUNWOO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183330306107920415/sunwoo.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "SVWW_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **SEVENTEEN WONWOO** Christmas 2023 I",
+    "idol":"SEVENTEEN WONWOO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183330381106270236/wonwoo.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
+    "max": "2500"
+  }
+  ],
+  "ATWY_X231": [
+  {
+    "name":"<:X1:1182405788342419537> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **ATEEZ WOO YOUNG** Christmas 2023 I",
+    "idol":"ATEEZ WOO YOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183330419890982983/wooyoung.png",
+    "theme": "EXOXMAS",
+    "min": "2000",
     "max": "2500"
   }
   ]
