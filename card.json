@@ -30691,5 +30691,685 @@
     "min": "2000",
     "max": "2500"
   }
+  ],
+  "F9JH_WG": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **fromis_9 JIHEON** WE GO",
+    "idol":"fromis_9 JIHEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1175292120635015219/wg_jiheon.png",
+    "theme": "EXOXMAS",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "F9JH_WG_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **fromis_9 JIHEON** WE GO",
+    "idol":"fromis_9 JIHEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1175292201014657085/wg_jiheon_p.png",
+    "theme": "EXOXMAS",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "F9NG_WG": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **fromis_9 NAGYUNG** WE GO",
+    "idol":"fromis_9 NAGYUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1175292121213849651/wg_nag.png",
+    "theme": "EXOXMAS",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "F9NG_WG_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **fromis_9 NAGYUNG** WE GO",
+    "idol":"fromis_9 NAGYUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1175292201786429470/wg_nag_p.png",
+    "theme": "EXOXMAS",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "F9CY_WG": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **fromis_9 CHAEYOUNG** WE GO",
+    "idol":"fromis_9 CHAEYOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1175292121918472253/wg_chae.png",
+    "theme": "EXOXMAS",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "F9CY_WG_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **fromis_9 CHAEYOUNG** WE GO",
+    "idol":"fromis_9 CHAEYOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1175292203262803968/wg_chae_p.png",
+    "theme": "EXOXMAS",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "F9SY_WG": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **fromis_9 SEOYEON** WE GO",
+    "idol":"fromis_9 SEOYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1175292122547626084/wg_seoyeon.png",
+    "theme": "EXOXMAS",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "F9SY_WG_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **fromis_9 SEOYEON** WE GO",
+    "idol":"fromis_9 SEOYEON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1175292204059734026/wg_seoyeon_p.png",
+    "theme": "EXOXMAS",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "F9JS_WG": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **fromis_9 JISUN** WE GO",
+    "idol":"fromis_9 JISUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1175292123088683109/wg_jisun.png",
+    "theme": "EXOXMAS",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "F9JS_WG_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **fromis_9 JISUN** WE GO",
+    "idol":"fromis_9 JISUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1175292204802134117/wg_jisun_p.png",
+    "theme": "EXOXMAS",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "F9JW_WG_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **fromis_9 JIWON** WE GO",
+    "idol":"fromis_9 JIWON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1175292205607419924/wg_jiwon_p.png",
+    "theme": "EXOXMAS",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "F9JW_WG": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **fromis_9 JIWON** WE GO",
+    "idol":"fromis_9 JIWON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1175292123763974154/wg_jiwon.png",
+    "theme": "EXOXMAS",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "F9GR_WG": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **fromis_9 GYURI** WE GO",
+    "idol":"fromis_9 GYURI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1175292124380528713/wg_gyuri.png",
+    "theme": "EXOXMAS",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "F9GR_WG_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **fromis_9 GYURI** WE GO",
+    "idol":"fromis_9 GYURI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1175292206429515826/wg_gyuri_p.png",
+    "theme": "EXOXMAS",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "F9HY_WG": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **fromis_9 HAYOUNG** WE GO",
+    "idol":"fromis_9 HAYOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1175292124896436364/wg_hayoung.png",
+    "theme": "EXOXMAS",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "F9HY_WG_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **fromis_9 HAYOUNG** WE GO",
+    "idol":"fromis_9 HAYOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1175292207008338040/wg_hayoung_p.png",
+    "theme": "EXOXMAS",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "F9SR_WG": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **fromis_9 SAEROM** WE GO",
+    "idol":"fromis_9 SAEROM",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1175292125911470080/wg_saerom.png",
+    "theme": "EXOXMAS",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "F9SR_WG_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **fromis_9 SAEROM** WE GO",
+    "idol":"fromis_9 SAEROM",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1175292207935258684/wg_saerom_p.png",
+    "theme": "EXOXMAS",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "APHY_FL": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Apink HAYOUNG** Free & Love",
+    "idol":"Apink HAYOUNG",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177978412116217926/fnl_hayoung.png",
+    "theme": "Free & Love",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "APNJ_FL": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Apink NAMJOO** Free & Love",
+    "idol":"Apink NAMJOO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177978412770541708/fnl_namjoo.png",
+    "theme": "Free & Love",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "APNA_FL": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Apink NAEUN** Free & Love",
+    "idol":"Apink NAEUN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177978413827498014/fnl_naeun.png",
+    "theme": "Free & Love",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "APEJ_FL": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Apink EUNJI** Free & Love",
+    "idol":"Apink EUNJI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177978414670549022/fnl_eunji.png",
+    "theme": "Free & Love",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "APBM_FL": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Apink BOMI** Free & Love",
+    "idol":"Apink BOMI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177978415538774037/fnl_bomi.png",
+    "theme": "Free & Love",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "APCR_FL": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Apink CHORONG** Free & Love",
+    "idol":"Apink CHORONG",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1177978416331493476/fnl_chorong.png",
+    "theme": "Free & Love",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SFCN_TD_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **SF9 Cha Ni** Tear Drop",
+    "idol":"SF9 Cha Ni",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178431071445069886/td_chani_p.png",
+    "theme": "EXOXMAS",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "SFCN_TD": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **SF9 Cha Ni** Tear Drop",
+    "idol":"SF9 Cha Ni",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178430967287922688/td_chani.png",
+    "theme": "EXOXMAS",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "SFHY_TD": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **SF9 Hwi Young** Tear Drop",
+    "idol":"SF9 Hwi Young",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178430967820595260/td_hwi.png",
+    "theme": "EXOXMAS",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "SFHY_TD_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **SF9 Hwi Young** Tear Drop",
+    "idol":"SF9 Hwi Young",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178431071994527794/td_hwi_p.png",
+    "theme": "EXOXMAS",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "SFTY_TD": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **SF9 Yoo Tae Yang** Tear Drop",
+    "idol":"SF9 Yoo Tae Yang",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178430968378441878/td_yty.png",
+    "theme": "EXOXMAS",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "SFTY_TD_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **SF9 Yoo Tae Yang** Tear Drop",
+    "idol":"SF9 Yoo Tae Yang",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178431072711749652/td_yty_p.png",
+    "theme": "EXOXMAS",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "SFZH_TD": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **SF9 Zu Ho** Tear Drop",
+    "idol":"SF9 Zu Ho",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178430968814645278/td_zuho.png",
+    "theme": "EXOXMAS",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "SFZH_TD_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **SF9 Zu Ho** Tear Drop",
+    "idol":"SF9 Zu Ho",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178431073328312340/td_zuho_p.png",
+    "theme": "EXOXMAS",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "SFRW_TD": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **SF9 Ro Woon** Tear Drop",
+    "idol":"SF9 Ro Woon",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178430969443786813/td_rowoon.png",
+    "theme": "EXOXMAS",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "SFRW_TD_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **SF9 Ro Woon** Tear Drop",
+    "idol":"SF9 Ro Woon",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1178431073881964585/td_rowoon_p.png",
+    "theme": "EXOXMAS",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "SFDW_TD_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **SF9 Da Won** Tear Drop",
+    "idol":"SF9 Da Won",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178431074460770385/td_dawon_p.png",
+    "theme": "EXOXMAS",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "SFDW_TD": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **SF9 Da Won** Tear Drop",
+    "idol":"SF9 Da Won",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178430970152628244/td_dawon.png",
+    "theme": "EXOXMAS",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "SFJY_TD_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **SF9 Jae Yoon** Tear Drop",
+    "idol":"SF9 Jae Yoon",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178431075006021632/td_jaeyoon_p.png",
+    "theme": "EXOXMAS",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "SFJY_TD": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **SF9 Jae Yoon** Tear Drop",
+    "idol":"SF9 Jae Yoon",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178430970655940659/td_jaeyoon.png",
+    "theme": "EXOXMAS",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "SFIS_TD": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **SF9 In Seong** Tear Drop",
+    "idol":"SF9 In Seong",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178430971234758707/td_inseong.png",
+    "theme": "EXOXMAS",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "SFIS_TD_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **SF9 In Seong** Tear Drop",
+    "idol":"SF9 In Seong",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178431075740033024/td_inseong_p.png",
+    "theme": "EXOXMAS",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "SFYB_TD_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **SF9 Young Bin** Tear Drop",
+    "idol":"SF9 Young Bin",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178431076448874506/td_youngbin_p.png",
+    "theme": "EXOXMAS",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "SFYB_TD": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **SF9 Young Bin** Tear Drop",
+    "idol":"SF9 Young Bin",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178430972849561770/td_young_bin.png",
+    "theme": "EXOXMAS",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "RVIR_BC": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Red Velvet IRENE** Beautiful Christmas",
+    "idol":"Red Velvet IRENE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178927843107934268/bc_irene.png",
+    "theme": "EXOXMAS",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "RVIR_BC_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Red Velvet IRENE** Beautiful Christmas",
+    "idol":"Red Velvet IRENE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178928899577626644/bc_irene.png",
+    "theme": "EXOXMAS",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "RVSG_BC": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Red Velvet SEULGI** Beautiful Christmas",
+    "idol":"Red Velvet SEULGI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178927843686756472/bc_seulgi.png",
+    "theme": "EXOXMAS",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "RVSG_BC_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Red Velvet SEULGI** Beautiful Christmas",
+    "idol":"Red Velvet SEULGI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178928900378734622/bc_seulgi.png",
+    "theme": "EXOXMAS",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "RVWD_BC": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Red Velvet WENDY** Beautiful Christmas",
+    "idol":"Red Velvet WENDY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178927844194258994/bc_wendy.png",
+    "theme": "EXOXMAS",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "RVWD_BC_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Red Velvet WENDY** Beautiful Christmas",
+    "idol":"Red Velvet WENDY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178928901100150824/bc_wendy.png",
+    "theme": "EXOXMAS",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "RVJO_BC": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Red Velvet JOY** Beautiful Christmas",
+    "idol":"Red Velvet JOY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178927844710154240/bc_joy.png",
+    "theme": "EXOXMAS",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "RVJO_BC_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Red Velvet JOY** Beautiful Christmas",
+    "idol":"Red Velvet JOY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178928901674778644/bc_joy.png",
+    "theme": "EXOXMAS",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "RVYR_BC": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Red Velvet YERI** Beautiful Christmas",
+    "idol":"Red Velvet YERI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178927845188309043/bc_yeri.png",
+    "theme": "EXOXMAS",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "RVYR_BC_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Red Velvet YERI** Beautiful Christmas",
+    "idol":"Red Velvet YERI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178928902425550888/bc_yeri.png",
+    "theme": "EXOXMAS",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "AEKR_BC": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **aespa KARINA** Beautiful Christmas",
+    "idol":"aespa KARINA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178927920975200306/bc_karina.png",
+    "theme": "EXOXMAS",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "AEKR_BC_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **aespa KARINA** Beautiful Christmas",
+    "idol":"aespa KARINA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178929370363088916/bc_karina.png",
+    "theme": "EXOXMAS",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "AEGS_BC": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **aespa GISELLE** Beautiful Christmas",
+    "idol":"aespa GISELLE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178927921864376330/bc_giselle.png",
+    "theme": "EXOXMAS",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "AEGS_BC_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **aespa GISELLE** Beautiful Christmas",
+    "idol":"aespa GISELLE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178929370899947560/bc_giselle.png",
+    "theme": "EXOXMAS",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "AEWT_BC": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **aespa WINTER** Beautiful Christmas",
+    "idol":"aespa WINTER",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178927922451595285/bc_winter.png",
+    "theme": "EXOXMAS",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "AEWT_BC_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **aespa WINTER** Beautiful Christmas",
+    "idol":"aespa WINTER",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178929371587809332/bc_winter.png",
+    "theme": "EXOXMAS",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "AENN_BC": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **aespa WINTER** Beautiful Christmas",
+    "idol":"aespa WINTER",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178927922954895420/bc_ningning.png",
+    "theme": "EXOXMAS",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "AENN_BC_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **aespa WINTER** Beautiful Christmas",
+    "idol":"aespa WINTER",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178929372456046642/bc_ningning.png",
+    "theme": "EXOXMAS",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "BGEJ_OM": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **BBGIRLS Eunji** ONE MORE TIME",
+    "idol":"BBGIRLS Eunji",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1182107524292431962/omt_eunji.png",
+    "theme": "EXOXMAS",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "BGEJ_OM_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **BBGIRLS Eunji** ONE MORE TIME",
+    "idol":"BBGIRLS Eunji",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1182107586988888074/omt_eunji_p.png",
+    "theme": "EXOXMAS",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "BGYJ_OM": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **BBGIRLS Yujeong** ONE MORE TIME",
+    "idol":"BBGIRLS Yujeong",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1182107524942536804/omt_yujeong.png",
+    "theme": "EXOXMAS",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "BGYJ_OM_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **BBGIRLS Yujeong** ONE MORE TIME",
+    "idol":"BBGIRLS Yujeong",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1182107587689324724/omt_yujeong_p.png",
+    "theme": "EXOXMAS",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "BGYN_OM": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **BBGIRLS Yuna** ONE MORE TIME",
+    "idol":"BBGIRLS Yuna",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1182107525500391484/omt_yuna.png",
+    "theme": "EXOXMAS",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "BGYN_OM_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **BBGIRLS Yuna** ONE MORE TIME",
+    "idol":"BBGIRLS Yuna",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1182107588326871050/omt_yuna_p.png",
+    "theme": "EXOXMAS",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "BGMY_OM": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **BBGIRLS Minyoung** ONE MORE TIME",
+    "idol":"BBGIRLS Minyoung",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1182107526167269456/omt_minyoung.png",
+    "theme": "EXOXMAS",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "BGMY_OM_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **BBGIRLS Minyoung** ONE MORE TIME",
+    "idol":"BBGIRLS Minyoung",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1182107589006332005/omt_minyoung_p.png",
+    "theme": "EXOXMAS",
+    "min": "1500",
+    "max": "3000"
+  }
   ]
 }
