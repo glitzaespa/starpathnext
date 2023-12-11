@@ -32231,5 +32231,255 @@
     "min": "1500",
     "max": "3000"
   }
+  ],
+    "SKBC_CE": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Stray Kids BANG CHAN** Christmas EveL",
+    "idol":"Stray Kids BANG CHAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183318273530544148/bangchan.png",
+    "theme": "Christmas EveL",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "SKBC_CE_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Stray Kids BANG CHAN** Christmas EveL",
+    "idol":"Stray Kids BANG CHAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183318302936809572/bangchanx.png",
+    "theme": "Christmas EveL",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "SKCB_CE_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Stray Kids CHANGBIN** Christmas EveL",
+    "idol":"Stray Kids CHANGBIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183318303536582697/changbinx.png",
+    "theme": "Christmas EveL",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "SKCB_CE": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Stray Kids CHANGBIN** Christmas EveL",
+    "idol":"Stray Kids CHANGBIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183318274100957254/changbin.png",
+    "theme": "Christmas EveL",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "SKFL_CE": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Stray Kids FELIX** Christmas EveL",
+    "idol":"Stray Kids FELIX",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183318274625241139/felix.png",
+    "theme": "Christmas EveL",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "SKFL_CE_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Stray Kids FELIX** Christmas EveL",
+    "idol":"Stray Kids FELIX",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183318304484507688/felixx.png",
+    "theme": "Christmas EveL",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "SKHA_CE": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Stray Kids HAN** Christmas EveL",
+    "idol":"Stray Kids HAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183318275237625916/han.png",
+    "theme": "Christmas EveL",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "SKHA_CE_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Stray Kids HAN** Christmas EveL",
+    "idol":"Stray Kids HAN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183318305096863774/hanx.png",
+    "theme": "Christmas EveL",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "SKHJ_CE": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Stray Kids HYUNJIN** Christmas EveL",
+    "idol":"Stray Kids HYUNJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183318275849982072/hyunjin.png",
+    "theme": "Christmas EveL",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "SKHJ_CE_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Stray Kids HYUNJIN** Christmas EveL",
+    "idol":"Stray Kids HYUNJIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183318305684074576/hyunjinx.png",
+    "theme": "Christmas EveL",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "SKIN_CE": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Stray Kids I.N** Christmas EveL",
+    "idol":"Stray Kids I.N",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183318276755947641/in.png",
+    "theme": "Christmas EveL",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "SKIN_CE_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Stray Kids I.N** Christmas EveL",
+    "idol":"Stray Kids I.N",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183318306149646417/inx.png",
+    "theme": "Christmas EveL",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "SKLK_CE": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Stray Kids LEE KNOW** Christmas EveL",
+    "idol":"Stray Kids LEE KNOW",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183318277427052634/leeknow.png",
+    "theme": "Christmas EveL",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "SKLK_CE_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Stray Kids LEE KNOW** Christmas EveL",
+    "idol":"Stray Kids LEE KNOW",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183318306741030982/leeknowx.png",
+    "theme": "Christmas EveL",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "SKSM_CE": [
+  {
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Stray Kids SEUNGMIN** Christmas EveL",
+    "idol":"Stray Kids SEUNGMIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183318277997465700/seungmin.png",
+    "theme": "Christmas EveL",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "SKSM_CE_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **Stray Kids SEUNGMIN** Christmas EveL",
+    "idol":"Stray Kids SEUNGMIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183318307424710686/seungminx.png",
+    "theme": "Christmas EveL",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "TWNY_JB": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **TWICE NAYEON** Jingle bells ring",
+    "idol":"TWICE NAYEON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1183460309382471680/nyn_jbr.png",
+    "theme": "Merry & Happy",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "TWJY_JB": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **TWICE JEONGYEON** Jingle bells ring",
+    "idol":"TWICE JEONGYEON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1183460308568780810/jgy_jbr.png",
+    "theme": "Merry & Happy",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "TWMM_JB": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **TWICE MOMO** Jingle bells ring",
+    "idol":"TWICE MOMO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1183460307838971984/mom_jbr.png",
+    "theme": "Merry & Happy",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "TWSN_JB": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **TWICE SANA** Jingle bells ring",
+    "idol":"TWICE SANA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1183460307050438716/sna_jbr.png",
+    "theme": "Merry & Happy",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "TWJH_JB": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **TWICE JIHYO** Jingle bells ring",
+    "idol":"TWICE JIHYO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1183460306081558690/jho_jbr.png",
+    "theme": "Merry & Happy",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "TWMN_JB": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **TWICE MINA** Jingle bells ring",
+    "idol":"TWICE MINA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1183460305360134355/mna_jbr.png",
+    "theme": "Merry & Happy",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "TWDH_JB": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **TWICE DAHYUN** Jingle bells ring",
+    "idol":"TWICE DAHYUN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1183460304563224637/dyn_jbr.png",
+    "theme": "Merry & Happy",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "TWCY_JB": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **TWICE CHAEYOUNG** Jingle bells ring",
+    "idol":"TWICE CHAEYOUNG",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1183460303829217420/cyg_jbr.png",
+    "theme": "Merry & Happy",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "TWTY_JB": [
+  {
+    "name":"<:R_:1104449630659428372> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **TWICE TZUYU** Jingle bells ring",
+    "idol":"TWICE TZUYU",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1183460303040684113/tzu_jbr.png",
+    "theme": "Merry & Happy",
+    "min": "200",
+    "max": "750"
+  }
   ]
 }
