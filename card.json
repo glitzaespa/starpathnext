@@ -32481,5 +32481,55 @@
     "min": "200",
     "max": "750"
   }
+  ],
+    "TXHK_SY": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **TOMORROW X TOGETHER HUENINGKAI** Say you love me",
+    "idol":"TOMORROW X TOGETHER HUENINGKAI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1183814521735884810/TXHK_SY.png",
+    "theme": "0X1=LOVESONG (I Know I Love You) feat. Seori",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "TXTH_SY": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **TOMORROW X TOGETHER TAEHYUN** Say you love me",
+    "idol":"TOMORROW X TOGETHER TAEHYUN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1183814522646040636/TXTH_SY.png",
+    "theme": "0X1=LOVESONG (I Know I Love You) feat. Seori",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "TXBG_SY": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **TOMORROW X TOGETHER BEOMGYU** Say you love me",
+    "idol":"TOMORROW X TOGETHER BEOMGYU",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1183814523631710258/TXBG_SY.png",
+    "theme": "0X1=LOVESONG (I Know I Love You) feat. Seori",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "TXSB_SY": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **TOMORROW X TOGETHER SOOBIN** Say you love me",
+    "idol":"TOMORROW X TOGETHER SOOBIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1183814524592197763/TXSB_SY.png",
+    "theme": "0X1=LOVESONG (I Know I Love You) feat. Seori",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "TXYJ_SY": [
+  {
+    "name":"<:C_:1104449628876841030> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **TOMORROW X TOGETHER YEONJUN** Say you love me",
+    "idol":"TOMORROW X TOGETHER YEONJUN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1183814525582061678/TXYJ_SY.png",
+    "theme": "0X1=LOVESONG (I Know I Love You) feat. Seori",
+    "min": "0",
+    "max": "200"
+  }
   ]
 }
