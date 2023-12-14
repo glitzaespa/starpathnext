@@ -34721,5 +34721,15 @@
     "min": "1500",
     "max": "3000"
   }
+  ],
+  "SOJU_EB": [
+  {
+    "name":"<:R_:1104449630659428372> **Soloist JUEUN** Easy Breezy",
+    "idol":"Soloist JUEUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1173359172885155901/IMG_3825.png",
+    "theme": "Easy Breezy",
+    "min": "100",
+    "max": "500"
+  }
   ]
 }
