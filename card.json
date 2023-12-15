@@ -31264,8 +31264,8 @@
   ],
   "AENN_BC": [
   {
-    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **aespa WINTER** Beautiful Christmas",
-    "idol":"aespa WINTER",
+    "name":"<:X_:1104449632890798091> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **aespa NINGNING** Beautiful Christmas",
+    "idol":"aespa NINGNING",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178927922954895420/bc_ningning.png",
     "theme": "EXOXMAS",
     "min": "750",
@@ -31274,8 +31274,8 @@
   ],
   "AENN_BC_P": [
   {
-    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **aespa WINTER** Beautiful Christmas",
-    "idol":"aespa WINTER",
+    "name":"<a:XP:1116886580586622976> <a:xmas:1180661425388138638> <a:special:1174782872016658472> **aespa NINGNING** Beautiful Christmas",
+    "idol":"aespa NINGNING",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1178929372456046642/bc_ningning.png",
     "theme": "EXOXMAS",
     "min": "1500",
@@ -33397,26 +33397,6 @@
     "name":"<a:XP:1116886580586622976> **NMIXX HAEWON** AD MARE",
     "idol":"NMIXX HAEWON",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1171216568923979816/NMHW_AM_P.png",
-    "theme": "O.O",
-    "min": "1000",
-    "max": "2500"
-  }
-  ],
-  "NMSY_AM": [
-  {
-    "name":"<:X_:1104449632890798091> **NMIXX SULLYOON** AD MARE",
-    "idol":"NMIXX SULLYOON",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1171216528490889307/NMSY_AM.png",
-    "theme": "O.O",
-    "min": "500",
-    "max": "1000"
-  }
-  ],
-  "NMSY_AM_P": [
-  {
-    "name":"<a:XP:1116886580586622976> **NMIXX SULLYOON** AD MARE",
-    "idol":"NMIXX SULLYOON",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1171216569569906748/NMBA_AM_P.png",
     "theme": "O.O",
     "min": "1000",
     "max": "2500"
