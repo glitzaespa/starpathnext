@@ -34751,5 +34751,15 @@
     "min": "200",
     "max": "750"
   }
+  ],
+  "MICM_CH": [
+  {
+    "name":"<:R_:1104449630659428372> <a:custom:1176286502007877642> **Motionless In White Chris Motionless** Cyberhex",
+    "idol":"Motionless In White Chris Motionless",
+    "image": "https://cdn.discordapp.com/attachments/1185727382674477146/1185985841105997835/MICM_CH.png",
+    "theme": "Cyberhex",
+    "min": "200",
+    "max": "750"
+  }
   ]
 }
