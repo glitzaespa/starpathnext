@@ -34761,5 +34761,15 @@
     "min": "200",
     "max": "750"
   }
+  ],
+  "LSHE_DR": [
+  {
+    "name":"<:R_:1104449630659428372> <a:custom:1176286502007877642> **LE SSERAFIM HONG EUNCHAE** dream that grows without a brake",
+    "idol":"LE SSERAFIM HONG EUNCHAE",
+    "image": "https://cdn.discordapp.com/attachments/1185727382674477146/1185985557013221386/LSHE_DR.png",
+    "theme": "The Great Mermaid",
+    "min": "200",
+    "max": "750"
+  }
   ]
 }
