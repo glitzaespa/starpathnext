@@ -34791,5 +34791,15 @@
     "min": "200",
     "max": "750"
   }
+  ],
+  "NTTN_BD": [
+  {
+    "name":"<:R_:1104449630659428372> <a:custom:1176286502007877642> **NCT U TEN** Baby Don't Stop",
+    "idol":"NCT U TEN",
+    "image": "https://cdn.discordapp.com/attachments/1185727382674477146/1185996370990080080/NTTN_BD.png",
+    "theme": "Baby Don't Stop",
+    "min": "200",
+    "max": "750"
+  }
   ]
 }
