@@ -34711,5 +34711,15 @@
     "min": "100",
     "max": "500"
   }
+  ],
+  "SOJS_BT": [
+  {
+    "name":"<:R_:1104449630659428372> <a:custom:1176286502007877642> **Soloist Jeff Satur** Black Tie",
+    "idol":"Soloist Jeff Satur",
+    "image": "https://cdn.discordapp.com/attachments/1185727382674477146/1185986570533212160/SOJS_BT.png",
+    "theme": "Black Tie",
+    "min": "200",
+    "max": "750"
+  }
   ]
 }
