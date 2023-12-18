@@ -34721,5 +34721,15 @@
     "min": "200",
     "max": "750"
   }
+  ],
+  "SOJS_DD": [
+  {
+    "name":"<:R_:1104449630659428372> <a:custom:1176286502007877642> **Soloist Jeff Satur** Dum Dum",
+    "idol":"Soloist Jeff Satur",
+    "image": "https://cdn.discordapp.com/attachments/1185727382674477146/1185986699382227037/SOJS_DD.png",
+    "theme": "Dum Dum",
+    "min": "200",
+    "max": "750"
+  }
   ]
 }
