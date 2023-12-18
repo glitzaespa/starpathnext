@@ -34771,5 +34771,15 @@
     "min": "200",
     "max": "750"
   }
+  ],
+  "SKBC_WH": [
+  {
+    "name":"<:R_:1104449630659428372> <a:custom:1176286502007877642> **Stray Kids BANG CHAN** What?",
+    "idol":"Stray Kids BANG CHAN",
+    "image": "https://cdn.discordapp.com/attachments/1185727382674477146/1185986444238532618/SKBC_WH.png",
+    "theme": "S-Class",
+    "min": "200",
+    "max": "750"
+  }
   ]
 }
