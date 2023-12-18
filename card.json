@@ -34781,5 +34781,15 @@
     "min": "200",
     "max": "750"
   }
+  ],
+  "TXYJ_MA": [
+  {
+    "name":"<:R_:1104449630659428372> <a:custom:1176286502007877642> **TOMORROW X TOGETHER YEONJUN** Mi Amor",
+    "idol":"TOMORROW X TOGETHER YEONJUN",
+    "image": "https://cdn.discordapp.com/attachments/1185727382674477146/1185988487653113907/TXYJ_MA.png",
+    "theme": "Sugar Rush Ride",
+    "min": "200",
+    "max": "750"
+  }
   ]
 }
