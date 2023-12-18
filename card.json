@@ -34821,5 +34821,15 @@
     "min": "200",
     "max": "750"
   }
+  ],
+  "TWSN_FL": [
+  {
+    "name":"<:R_:1104449630659428372> <a:custom:1176286502007877642> **TWICE SANA** Forever Love",
+    "idol":"TWICE SANA",
+    "image": "https://cdn.discordapp.com/attachments/1185727382674477146/1186399399081934848/TWSN_FL.png",
+    "theme": "Hare Hare",
+    "min": "200",
+    "max": "750"
+  }
   ]
 }
