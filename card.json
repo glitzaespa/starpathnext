@@ -34741,5 +34741,15 @@
     "min": "200",
     "max": "750"
   }
+  ],
+  "SORS_HT": [
+  {
+    "name":"<:R_:1104449630659428372> <a:custom:1176286502007877642> **Soloist Rina Sawayama** Hold the Girl",
+    "idol":"Soloist Rina Sawayama",
+    "image": "https://cdn.discordapp.com/attachments/1185727382674477146/1185987965298688060/SORS_HT.png",
+    "theme": "Hold The Girl",
+    "min": "200",
+    "max": "750"
+  }
   ]
 }
