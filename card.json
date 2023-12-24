@@ -34831,5 +34831,215 @@
     "min": "200",
     "max": "750"
   }
+  ],
+    "SOPP_TI": [
+  {
+    "name":"<:R_:1104449630659428372> **Soloist Poppy** Time Is Up",
+    "idol":"Soloist Poppy",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1187818300281987224/SOPP_TI.png",
+    "theme": "Time Is Up (feat. Diplo)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "OECR_CH": [
+  {
+    "name":"<:R_:1104449630659428372> **ODD EYE CIRCLE (ARTMS) Choerry** Chaotic",
+    "idol":"ODD EYE CIRCLE (ARTMS) Choerry",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1185423335996264558/choatic_choerry.png",
+    "theme": "Chaotic",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "OEJS_CH": [
+  {
+    "name":"<:R_:1104449630659428372> **ODD EYE CIRCLE (ARTMS) JinSoul** Chaotic",
+    "idol":"ODD EYE CIRCLE (ARTMS) JinSoul",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1185423336814161971/choatic_jinsul.png",
+    "theme": "Chaotic",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "EVSE_WT": [
+  {
+    "name":"<:R_:1104449630659428372> **EVNNE YOO SEUNGEON** Welcome to EVNNE LAND",
+    "idol":"EVNEE YOO SEUNGEON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1185356801563164752/seungeon_r.png",
+    "theme": "TROUBLE",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "OEKL_CH": [
+  {
+    "name":"<:R_:1104449630659428372> **ODD EYE CIRCLE (ARTMS) Kim Lip** Chaotic",
+    "idol":"ODD EYE CIRCLE (ARTMS) Kim Lip",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1185423337317466142/choatic_kl.png",
+    "theme": "Chaotic",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "EVJI_WT": [
+  {
+    "name":"<:R_:1104449630659428372> **EVNNE PARK JIHOO** Welcome to EVNNE LAND",
+    "idol":"EVNEE PARK JIHOO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1185356802251051130/jihoo_r.png",
+    "theme": "TROUBLE",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "EVKT_WT": [
+  {
+    "name":"<:R_:1104449630659428372> **EVNNE KEITA** Welcome to EVNNE LAND",
+    "idol":"EVNNE KEITA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1185356802880184370/keita_r.png",
+    "theme": "TROUBLE",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "EVHB_WT": [
+  {
+    "name":"<:R_:1104449630659428372> **EVNNE PARK HANBIN** Welcome to EVNNE LAND",
+    "idol":"EVNNE PARK HANBIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1185356803488350358/phanbin_r_1.png",
+    "theme": "TROUBLE",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "EVYS_WT": [
+  {
+    "name":"<:R_:1104449630659428372> **EVNNE JI YUNSEO** Welcome to EVNNE LAND",
+    "idol":"EVNNE JI YUNSEO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1185356804037824512/yunseo_r_1.png",
+    "theme": "TROUBLE",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "EVJH_WT": [
+  {
+    "name":"<:R_:1104449630659428372> **EVNNE LEE JEONGHYEON** Welcome to EVNNE LAND",
+    "idol":"EVNNE LEE JEONGHYEON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1185356804574683146/jeonghyeon_r_2.png",
+    "theme": "TROUBLE",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "EVJG_WT": [
+  {
+    "name":"<:R_:1104449630659428372> **EVNNE MUN JUNGHYUN** Welcome to EVNNE LAND",
+    "idol":"EVNNE MUN JUNGHYUN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1185356805178654790/junghyun_r.png",
+    "theme": "TROUBLE",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "LSHY_MA": [
+  {
+    "name":"<:R_:1104449630659428372> **Loossemble HyunJin** Make a Voyage",
+    "idol":"Loossemble HyunJin",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1185339264242810960/LOONA_R_starpath_3_1_1.png",
+    "theme": "Sensitive",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "LSYJ_MA": [
+  {
+    "name":"<:R_:1104449630659428372> **Loossemble YeoJin** Make a Voyage",
+    "idol":"Loossemble YeoJin",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1185339264888746094/LOONA_R_starpath_3_1_2.png",
+    "theme": "Sensitive",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "LSVV_MA": [
+  {
+    "name":"<:R_:1104449630659428372> **Loossemble ViVi** Make a Voyage",
+    "idol":"Loossemble ViVi",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1185339265496928408/LOONA_R_starpath_3_1_3.png",
+    "theme": "Sensitive",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "LSGW_MA": [
+  {
+    "name":"<:R_:1104449630659428372> **Loossemble Go Won** Make a Voyage",
+    "idol":"Loossemble Go Won",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1185339266054750250/LOONA_R_starpath_3_1_4.png",
+    "theme": "Sensitive",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "LSHJ_MA": [
+  {
+    "name":"<:R_:1104449630659428372> **Loossemble HyeJu** Make a Voyage",
+    "idol":"Loossemble HyeJu",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1185339266646159390/LOONA_R_starpath_3_1_5.png",
+    "theme": "Sensitive",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SOBY_BAH": [
+  {
+    "name":"<:B_:1122363573629374525> **Soloist Beyoncé** AMERICA HAS A PROBLEM",
+    "idol":"Soloist Beyoncé",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1185229873145450586/SOBY_BAH.png",
+    "theme": "AMERICA HAS A PROBLEM",
+    "min": "1500",
+    "max": "2000"
+  }
+  ],
+  "WJLD_SW": [
+  {
+    "name":"<:R_:1104449630659428372> **WJSN CHOCOME LUDA** Sweetie",
+    "idol":"WJSN CHOCOME LUDA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1186395635344216284/WJLD_SW.png",
+    "theme": "쪼꼬우유 (Sweetie)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "WJYR_SW": [
+  {
+    "name":"<:R_:1104449630659428372> **WJSN CHOCOME YEOREUM** Sweetie",
+    "idol":"WJSN CHOCOME YEOREUM",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1186395636074041364/WJYR_SW.png",
+    "theme": "쪼꼬우유 (Sweetie)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "WJDY_SW": [
+  {
+    "name":"<:R_:1104449630659428372> **WJSN CHOCOME DAYOUNG** Sweetie",
+    "idol":"WJSN CHOCOME DAYOUNG",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1186395636770279504/WJDY_SW.png",
+    "theme": "쪼꼬우유 (Sweetie)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "WJSB_SW": [
+  {
+    "name":"<:R_:1104449630659428372> **WJSN CHOCOME SOOBIN** Sweetie",
+    "idol":"WJSN CHOCOME SOOBIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1186395637349109890/WJSB_sW.png",
+    "theme": "쪼꼬우유 (Sweetie)",
+    "min": "100",
+    "max": "500"
+  }
   ]
 }
