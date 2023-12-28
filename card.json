@@ -35041,5 +35041,135 @@
     "min": "100",
     "max": "500"
   }
+  ],
+  "STARSTAFF_LYX": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:custom:1176286502007877642> **STAFF LYX** STARSTAFF",
+    "idol":"STAFF LYX",
+    "image": "https://cdn.discordapp.com/attachments/1176289141944766554/1180561938334367817/X_X5_20231202131025.png",
+    "theme": "쪼꼬우유 (Sweetie)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "STARSTAFF_LIA": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:custom:1176286502007877642> **STAFF LIA** STARSTAFF",
+    "idol":"STAFF LIA",
+    "image": "https://cdn.discordapp.com/attachments/1176289141944766554/1180743501676294244/starstaff_lia.png",
+    "theme": "쪼꼬우유 (Sweetie)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "STARSTAFF_ANDREW": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:custom:1176286502007877642> **STAFF Andrew** STARSTAFF",
+    "idol":"STAFF Andrew",
+    "image": "https://cdn.discordapp.com/attachments/1176289141944766554/1185108036356943902/starstaff_andrew.png",
+    "theme": "쪼꼬우유 (Sweetie)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "ONSH_EP": [
+  {
+    "name":"<:X_:1104449632890798091> <a:custom:1176286502007877642> **ONEUS SEO HO** Epilogue",
+    "idol":"ONEUS SEO HO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1186427016904441917/ONSH_EP.png",
+    "theme": "Epilogue",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "ONSH_EP_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:custom:1176286502007877642> **ONEUS SEO HO** Epilogue",
+    "idol":"ONEUS SEO HO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1186425098857611354/ONSH_EP_P.png",
+    "theme": "Epilogue",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "ONXI_EP": [
+  {
+    "name":"<:X_:1104449632890798091> <a:custom:1176286502007877642> **ONEUS XION** Epilogue",
+    "idol":"ONEUS XION",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1186427017504247819/ONXI_EP.png",
+    "theme": "Epilogue",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "ONXI_EP_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:custom:1176286502007877642> **ONEUS XION** Epilogue",
+    "idol":"ONEUS XION",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1186425099398684712/ONXI_EP_P.png",
+    "theme": "Epilogue",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "ONLD_EP": [
+  {
+    "name":"<:X_:1104449632890798091> <a:custom:1176286502007877642> **ONEUS LEE DO** Epilogue",
+    "idol":"ONEUS LEE DO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1186427018095624212/ONLD_EP.png",
+    "theme": "Epilogue",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "ONLD_EP_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:custom:1176286502007877642> **ONEUS LEE DO** Epilogue",
+    "idol":"ONEUS LEE DO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1186425100023640085/ONLD_EP_P.png",
+    "theme": "Epilogue",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "ONKH_EP": [
+  {
+    "name":"<:X_:1104449632890798091> <a:custom:1176286502007877642> **ONEUS KEON HEE** Epilogue",
+    "idol":"ONEUS KEON HEE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1186427018615722125/ONKH_EP.png",
+    "theme": "Epilogue",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "ONKH_EP_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:custom:1176286502007877642> **ONEUS KEON HEE** Epilogue",
+    "idol":"ONEUS KEON HEE",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1186425100547915826/ONKH_EP_P.png",
+    "theme": "Epilogue",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "ONHW_EP": [
+  {
+    "name":"<:X_:1104449632890798091> <a:custom:1176286502007877642> **ONEUS HWAN WOONG** Epilogue",
+    "idol":"ONEUS HWAN WOONG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1186427019186163762/ONHW_EP.png",
+    "theme": "Epilogue",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "ONHW_EP_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:custom:1176286502007877642> **ONEUS HWAN WOONG** Epilogue",
+    "idol":"ONEUS HWAN WOONG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1186425101042851970/ONHW_EP_P.png",
+    "theme": "Epilogue",
+    "min": "1500",
+    "max": "3000"
+  }
   ]
 }
