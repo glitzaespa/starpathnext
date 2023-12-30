@@ -1510,5 +1510,53 @@
     "creatorid":"971289285045141584",
     "commission":"no"
   }
+  ],
+    "AK_FD": [
+  {
+    "name":"**AKMU** Fry's Dream",
+    "type":"Rare",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1183523258281238588/frys_dream_bg.png",
+    "min":"50000",
+    "max":"51000",
+    "creator":"Woozy",
+    "creatorid":"721451367213957130",
+    "commission":"no"
+  }
+  ],
+  "NJ_OM": [
+  {
+    "name":"**NewJeans** OMG",
+    "type":"Legendary",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1152727341680840744/omg_newjeans.png",
+    "min":"250000",
+    "max":"251000",
+    "creator":"Woozy",
+    "creatorid":"721451367213957130",
+    "commission":"no"
+  }
+  ],
+  "RV_PS": [
+  {
+    "name":"**Red Velvet** Pose",
+    "type":"Rare",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1152731949501251725/pose_rv.png",
+    "min":"50000",
+    "max":"51000",
+    "creator":"Woozy",
+    "creatorid":"721451367213957130",
+    "commission":"no"
+  }
+  ],
+  "NJ_NJ": [
+  {
+    "name":"**NewJeans** New Jeans",
+    "type":"Rare",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1152732067025649734/new_jeans_bg.png",
+    "min":"60000",
+    "max":"61000",
+    "creator":"Woozy",
+    "creatorid":"721451367213957130",
+    "commission":"no"
+  }
   ]
 }
