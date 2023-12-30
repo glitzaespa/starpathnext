@@ -35171,5 +35171,15 @@
     "min": "1500",
     "max": "3000"
   }
+  ],
+    "LOYAL_2023": [
+  {
+    "name":"<a:2023:1190437623882330113> <a:special:1174782872016658472> **STARPATH Year-End Awards 2023** LOYAL PLAYER AWARD",
+    "idol":"STARPATH Year-End Awards 2023",
+    "image": "https://cdn.discordapp.com/attachments/1090985395027722333/1190741788802158703/LOYAL_2023.png",
+    "theme": "Royal",
+    "min": "1500",
+    "max": "3000"
+  }
   ]
 }
