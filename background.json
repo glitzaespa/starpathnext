@@ -166,5 +166,29 @@
     "creatorid":"971289285045141584",
     "commission":"yes"
   }
+  ],
+  "TRIPPYRB": [
+  {
+    "name":"TRIPPY (Red & Blue)",
+    "type":"Rare",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1185221059696414910/TRIPPYRB.png",
+    "min":"40000",
+    "max":"41000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"yes"
+  }
+  ],
+  "TRIPPYBG": [
+  {
+    "name":"TRIPPY (Blue & Green)",
+    "type":"Rare",
+    "image":"https://cdn.discordapp.com/attachments/1129480282702102560/1185221276638380042/TRIPPYBG.png",
+    "min":"40000",
+    "max":"41000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"yes"
+  }
   ]
 }
