@@ -35181,5 +35181,45 @@
     "min": "1500",
     "max": "3000"
   }
+  ],
+    "SKLK_OD": [
+  {
+    "name":"<:R_:1104449630659428372> <a:custom:1176286502007877642> **Stray Kids LEE KNOW** Odd Imagination",
+    "idol":"Stray Kids LEE KNOW",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1191468115033325698/SKLK_OD.png",
+    "theme": "MIROH",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SOBI_BI": [
+  {
+    "name":"<:R_:1104449630659428372> <a:custom:1176286502007877642> **Soloist B.I** Bing Bong",
+    "idol":"Soloist B.I",
+    "image": "https://media.discordapp.net/attachments/1090791248744415302/1191468115553435759/SOBI_BI.png",
+    "theme": "CUSTOMSONG",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SOTI_LJ": [
+  {
+    "name":"<:R_:1104449630659428372> <a:custom:1176286502007877642> **Soloist TINI** Las Jordans",
+    "idol":"Soloist TINI",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1191468116048347216/SOTI_LJ.png",
+    "theme": "CUSTOMSONG",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "ZBRI_MC": [
+  {
+    "name":"<:R_:1104449630659428372> <a:custom:1176286502007877642> **ZEROBASEONE RICKY** Midnight",
+    "idol":"ZEROBASEONE RICKY",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1191468116513931274/ZBRI_MC.png",
+    "theme": "CUSTOMSONG",
+    "min": "100",
+    "max": "500"
+  }
   ]
 }
