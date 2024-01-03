@@ -35221,5 +35221,35 @@
     "min": "100",
     "max": "500"
   }
+  ],
+  "RVSG_FS": [
+  {
+    "name":"<:R_:1104449630659428372> <a:custom:1176286502007877642> **Red Velvet KANG SEULGI** Flower Kkangseul",
+    "idol":"Red Velvet KANG SEULGI",
+    "image": "https://media.discordapp.net/attachments/1090791248744415302/1191906740304875520/RVSG_FS.png",
+    "theme": "CUSTOMSONG",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "RZWB_RR": [
+  {
+    "name":"<:R_:1104449630659428372> <a:custom:1176286502007877642> **RIIZE WONBIN** RISEandREALIZE",
+    "idol":"RIIZE WONBIN",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1191906740858540144/RZWB_RR.png",
+    "theme": "CUSTOMSONG",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "ZBHZ_Z": [
+  {
+    "name":"<:R_:1104449630659428372> <a:custom:1176286502007877642> **ZEROBASEONE HARIBOZ** =^-^=",
+    "idol":"ZEROBASEONE HARIBOZ",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1191906741428944966/ZBHZ_Z.png",
+    "theme": "CUSTOMSONG",
+    "min": "100",
+    "max": "500"
+  }
   ]
 }
