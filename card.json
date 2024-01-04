@@ -35251,5 +35251,345 @@
     "min": "100",
     "max": "500"
   }
+  ],
+  "WJBN_AY": [
+  {
+    "name":"<:R_:1104449630659428372> <a:2024:1192555763487494305> <a:special:1174782872016658472> **WJSN BONA** As You Wish",
+    "idol":"WJSN BONA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1191062955673010176/WJBN_AY.png",
+    "theme": "이루리(As You Wish)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "WJDW_AY": [
+  {
+    "name":"<:R_:1104449630659428372> <a:2024:1192555763487494305> <a:special:1174782872016658472> **WJSN DAWON** As You Wish",
+    "idol":"WJSN DAWON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1191062956276994169/WJDW_AY.png",
+    "theme": "이루리(As You Wish)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "WJDY_AY": [
+  {
+    "name":"<:R_:1104449630659428372> <a:2024:1192555763487494305> <a:special:1174782872016658472> **WJSN DAYOUNG** As You Wish",
+    "idol":"WJSN DAYOUNG",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1191062956717375558/WJDY_AY.png",
+    "theme": "이루리(As You Wish)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "WJES_AY": [
+  {
+    "name":"<:R_:1104449630659428372> <a:2024:1192555763487494305> <a:special:1174782872016658472> **WJSN EUNSEO** As You Wish",
+    "idol":"WJSN EUNSEO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1191062957363314768/WJES_AY.png",
+    "theme": "이루리(As You Wish)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "WJEX_AY": [
+  {
+    "name":"<:R_:1104449630659428372> <a:2024:1192555763487494305> <a:special:1174782872016658472> **WJSN EXY** As You Wish",
+    "idol":"WJSN EXY",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1191062958005047356/WJEX_AY.png",
+    "theme": "이루리(As You Wish)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "WJLD_AY": [
+  {
+    "name":"<:R_:1104449630659428372> <a:2024:1192555763487494305> <a:special:1174782872016658472> **WJSN LUDA** As You Wish",
+    "idol":"WJSN LUDA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1191062958512554056/WJLD_AY.png",
+    "theme": "이루리(As You Wish)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "WJSB_AY": [
+  {
+    "name":"<:R_:1104449630659428372> <a:2024:1192555763487494305> <a:special:1174782872016658472> **WJSN SOOBIN** As You Wish",
+    "idol":"WJSN SOOBIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1191062959011680276/WJSB_AY.png",
+    "theme": "이루리(As You Wish)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "WJSL_AY": [
+  {
+    "name":"<:R_:1104449630659428372> <a:2024:1192555763487494305> <a:special:1174782872016658472> **WJSN SEOLA** As You Wish",
+    "idol":"WJSN SEOLA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1191062959590490234/WJSL_AY.png",
+    "theme": "이루리(As You Wish)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "WJYJ_AY": [
+  {
+    "name":"<:R_:1104449630659428372> <a:2024:1192555763487494305> <a:special:1174782872016658472> **WJSN YEONJUNG** As You Wish",
+    "idol":"WJSN YEONJUNG",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1191062960068644864/WJYJ_AY.png",
+    "theme": "이루리(As You Wish)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "WJYR_AY": [
+  {
+    "name":"<:R_:1104449630659428372> <a:2024:1192555763487494305> <a:special:1174782872016658472> **WJSN YEOREUM** As You Wish",
+    "idol":"WJSN YEOREUM",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1191062960773267546/WJYR_AY.png",
+    "theme": "이루리(As You Wish)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "WJEX_DY": [
+  {
+    "name":"<:C_:1104449628876841030> <a:2024:1192555763487494305> **WJSN EXY** Dream your dream",
+    "idol":"WJSN EXY",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1153496416501637161/IMG_2783.png",
+    "theme": "꿈꾸는 마음으로(Dreams Come True)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "WJSL_DY": [
+  {
+    "name":"<:C_:1104449628876841030> <a:2024:1192555763487494305> **WJSN SEOLA** Dream your dream",
+    "idol":"WJSN SEOLA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1153496417051082872/IMG_2785.png",
+    "theme": "꿈꾸는 마음으로(Dreams Come True)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "WJXY_DY": [
+  {
+    "name":"<:C_:1104449628876841030> <a:2024:1192555763487494305> **WJSN XUAN YI** Dream your dream",
+    "idol":"WJSN XUAN YI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1153496417546018856/IMG_2784.png",
+    "theme": "꿈꾸는 마음으로(Dreams Come True)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "WJBN_DY": [
+  {
+    "name":"<:C_:1104449628876841030> <a:2024:1192555763487494305> **WJSN BONA** Dream your dream",
+    "idol":"WJSN BONA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1153496418053537872/IMG_2786.png",
+    "theme": "꿈꾸는 마음으로(Dreams Come True)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "WJSB_DY": [
+  {
+    "name":"<:C_:1104449628876841030> <a:2024:1192555763487494305> **WJSN SOOBIN** Dream your dream",
+    "idol":"WJSN SOOBIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1153496418636529745/IMG_2787.png",
+    "theme": "꿈꾸는 마음으로(Dreams Come True)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "WJLD_DY": [
+  {
+    "name":"<:C_:1104449628876841030> <a:2024:1192555763487494305> **WJSN LUDA** Dream your dream",
+    "idol":"WJSN LUDA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1153496419454427156/IMG_2788.png",
+    "theme": "꿈꾸는 마음으로(Dreams Come True)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "WJDW_DY": [
+  {
+    "name":"<:C_:1104449628876841030> <a:2024:1192555763487494305> **WJSN DAWON** Dream your dream",
+    "idol":"WJSN DAWON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1153496419920003134/IMG_2789.png",
+    "theme": "꿈꾸는 마음으로(Dreams Come True)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "WJES_DY": [
+  {
+    "name":"<:C_:1104449628876841030> <a:2024:1192555763487494305> **WJSN EUNSEO** Dream your dream",
+    "idol":"WJSN EUNSEO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1153496420339417108/IMG_2790.png",
+    "theme": "꿈꾸는 마음으로(Dreams Come True)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "WJCX_DY": [
+  {
+    "name":"<:C_:1104449628876841030> <a:2024:1192555763487494305> **WJSN CHENG XIAO** Dream your dream",
+    "idol":"WJSN CHENG XIAO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1153496420779827321/IMG_2791.png",
+    "theme": "꿈꾸는 마음으로(Dreams Come True)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "WJMQ_DY": [
+  {
+    "name":"<:C_:1104449628876841030> <a:2024:1192555763487494305> **WJSN MEI QI** Dream your dream",
+    "idol":"WJSN MEI QI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1153496421434146846/IMG_2792.png",
+    "theme": "꿈꾸는 마음으로(Dreams Come True)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "WJYR_DY": [
+  {
+    "name":"<:C_:1104449628876841030> <a:2024:1192555763487494305> **WJSN YEOREUM** Dream your dream",
+    "idol":"WJSN YEOREUM",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1153496437670289478/IMG_2793.png",
+    "theme": "꿈꾸는 마음으로(Dreams Come True)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "WJDY_DY": [
+  {
+    "name":"<:C_:1104449628876841030> <a:2024:1192555763487494305> **WJSN DAYOUNG** Dream your dream",
+    "idol":"WJSN DAYOUNG",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1153496439117320373/IMG_2794.png",
+    "theme": "꿈꾸는 마음으로(Dreams Come True)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "WJYJ_DY": [
+  {
+    "name":"<:C_:1104449628876841030> <a:2024:1192555763487494305> **WJSN YEONJUNG** Dream your dream",
+    "idol":"WJSN YEONJUNG",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1153496439708721234/IMG_2795.png",
+    "theme": "꿈꾸는 마음으로(Dreams Come True)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOTS_DB": [
+  {
+    "name":"<:C_:1104449628876841030> <a:2024:1192555763487494305> **Soloist Taylor Swift** Don't Blame Me",
+    "idol":"Soloist Taylor Swift",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1191070553566617712/SOTS_DB.png",
+    "theme": "Don't Blame Me",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOTS_NY": [
+  {
+    "name":"<:R_:1104449630659428372> <a:2024:1192555763487494305> <a:special:1174782872016658472> **Soloist Taylor Swift** New Year's Day",
+    "idol":"Soloist Taylor Swift",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1191070595706781727/SOTS_NY.png",
+    "theme": "New Year's Day",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "TWCY_FW": [
+  {
+    "name":"<:R_:1104449630659428372> <a:2024:1192555763487494305> <a:special:1174782872016658472> **TWICE CHAEYOUNG** FIREWORK",
+    "idol":"TWICE CHAEYOUNG",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1191080466963497010/TWCY_FW.png",
+    "theme": "FIREWORK",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "TWDH_FW": [
+  {
+    "name":"<:R_:1104449630659428372> <a:2024:1192555763487494305> <a:special:1174782872016658472> **TWICE DAHYUN** FIREWORK",
+    "idol":"TWICE DAHYUN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1191080467563290684/TWDH_FW.png",
+    "theme": "FIREWORK",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "TWJH_FW": [
+  {
+    "name":"<:R_:1104449630659428372> <a:2024:1192555763487494305> <a:special:1174782872016658472> **TWICE JIHYO** FIREWORK",
+    "idol":"TWICE JIHYO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1191080468221788251/TWJH_FW.png",
+    "theme": "FIREWORK",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "TWJY_FW": [
+  {
+    "name":"<:R_:1104449630659428372> <a:2024:1192555763487494305> <a:special:1174782872016658472> **TWICE JEONGYEON** FIREWORK",
+    "idol":"TWICE JEONGYEON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1191080468880302183/TWJY_FW.png",
+    "theme": "FIREWORK",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "TWMM_FW": [
+  {
+    "name":"<:R_:1104449630659428372> <a:2024:1192555763487494305> <a:special:1174782872016658472> **TWICE MOMO** FIREWORK",
+    "idol":"TWICE MOMO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1191080469375221761/TWMM_FW.png",
+    "theme": "FIREWORK",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "TWMN_FW": [
+  {
+    "name":"<:R_:1104449630659428372> <a:2024:1192555763487494305> <a:special:1174782872016658472> **TWICE MINA** FIREWORK",
+    "idol":"TWICE MINA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1191080470021156884/TWMN_FW.png",
+    "theme": "FIREWORK",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "TWNY_FW": [
+  {
+    "name":"<:R_:1104449630659428372> <a:2024:1192555763487494305> <a:special:1174782872016658472> **TWICE NAYEON** FIREWORK",
+    "idol":"TWICE NAYEON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1191080470604161044/TWNY_FW.png",
+    "theme": "FIREWORK",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "TWSN_FW": [
+  {
+    "name":"<:R_:1104449630659428372> <a:2024:1192555763487494305> <a:special:1174782872016658472> **TWICE SANA** FIREWORK",
+    "idol":"TWICE SANA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1191080471237492957/TWSN_FW.png",
+    "theme": "FIREWORK",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "TWTY_FW": [
+  {
+    "name":"<:R_:1104449630659428372> <a:2024:1192555763487494305> <a:special:1174782872016658472> **TWICE TZUYU** FIREWORK",
+    "idol":"TWICE TZUYU",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1191080471828901958/TWTY_FW.png",
+    "theme": "FIREWORK",
+    "min": "200",
+    "max": "750"
+  }
   ]
 }
