@@ -1558,5 +1558,293 @@
     "creatorid":"721451367213957130",
     "commission":"no"
   }
+  ],
+  "LR_II": [
+  {
+    "name":"**Loreen** Is It Love",
+    "type":"New Years 2024: RUSH PASS",
+    "image":"https://cdn.discordapp.com/attachments/1192635251520962630/1192635309322686484/LR_II.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "MX_ZN": [
+  {
+    "name":"**MONSTA X** ZONE",
+    "type":"New Years 2024: RUSH PASS",
+    "image":"https://cdn.discordapp.com/attachments/1192635251520962630/1192635309704347759/MX_ZN.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "SH_1X": [
+  {
+    "name":"**SHINee** 10X",
+    "type":"New Years 2024: RUSH PASS",
+    "image":"https://cdn.discordapp.com/attachments/1192635251520962630/1192635310111203459/SH_1X.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "TM_NA": [
+  {
+    "name":"**TAEMIN** Night Away",
+    "type":"New Years 2024: RUSH PASS",
+    "image":"https://cdn.discordapp.com/attachments/1192635251520962630/1192635310539034634/TM_NA.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "TS_DB": [
+  {
+    "name":"**Taylor Swift** Don't Blame Me",
+    "type":"New Years 2024: RUSH PASS",
+    "image":"https://cdn.discordapp.com/attachments/1192635251520962630/1192635311033950278/TS_ID.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "TW_SS": [
+  {
+    "name":"**TWICE** Sweet Summer Day",
+    "type":"New Years 2024: RUSH PASS",
+    "image":"https://cdn.discordapp.com/attachments/1192635251520962630/1192635311495335996/TW_SS.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "WH_24": [
+  {
+    "name":"**WONHO** 24/7",
+    "type":"New Years 2024: RUSH PASS",
+    "image":"https://cdn.discordapp.com/attachments/1192635251520962630/1192635312036388994/WH_24.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "WJ_DY": [
+  {
+    "name":"**WJSN** Dream your dream",
+    "type":"New Years 2024: RUSH PASS",
+    "image":"https://cdn.discordapp.com/attachments/1192635251520962630/1192635312531329134/WJ_DY.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "LR_TT": [
+  {
+    "name":"**Loreen** Tattoo",
+    "type":"New Years 2024: Deluxe RUSH PASS",
+    "image":"https://cdn.discordapp.com/attachments/1192635251520962630/1192635341044203550/LR_TT.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "MX_FT": [
+  {
+    "name":"**MONSTA X** FANTASIA",
+    "type":"New Years 2024: Deluxe RUSH PASS",
+    "image":"https://cdn.discordapp.com/attachments/1192635251520962630/1192635341488791692/MX_FT.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "SH_IT": [
+  {
+    "name":"**SHINee** Identity",
+    "type":"New Years 2024: Deluxe RUSH PASS",
+    "image":"https://cdn.discordapp.com/attachments/1192635251520962630/1192635341966934076/SH_ID.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "TM_GT": [
+  {
+    "name":"**TAEMIN** Guilty",
+    "type":"New Years 2024: Deluxe RUSH PASS",
+    "image":"https://cdn.discordapp.com/attachments/1192635251520962630/1192635342394769449/TM_GT.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "TS_NY": [
+  {
+    "name":"**Taylor Swift** New Year's Day",
+    "type":"New Years 2024: Deluxe RUSH PASS",
+    "image":"https://cdn.discordapp.com/attachments/1192635251520962630/1192635342713528461/TS_NY.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "TW_FW": [
+  {
+    "name":"**TWICE** FIREWORK",
+    "type":"New Years 2024: Deluxe RUSH PASS",
+    "image":"https://cdn.discordapp.com/attachments/1192635251520962630/1192635343128756356/TW_FW.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "WH_BL": [
+  {
+    "name":"**WONHO** BLUE",
+    "type":"New Years 2024: Deluxe RUSH PASS",
+    "image":"https://cdn.discordapp.com/attachments/1192635251520962630/1192635343585951814/WH_BL.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "WJ_AY": [
+  {
+    "name":"**WJSN** As You Wish",
+    "type":"New Years 2024: Deluxe RUSH PASS",
+    "image":"https://cdn.discordapp.com/attachments/1192635251520962630/1192635344139583529/WJ_AY.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "LR_II2": [
+  {
+    "name":"**Loreen** Is It Love (Alternate Ver.)",
+    "type":"New Years 2024: Firework Party",
+    "image":"https://cdn.discordapp.com/attachments/1192635251520962630/1192635366251962470/LR_II2.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "MX_ZN2": [
+  {
+    "name":"**MONSTA X** ZONE (Alternate Ver.)",
+    "type":"New Years 2024: Firework Party",
+    "image":"https://cdn.discordapp.com/attachments/1192635251520962630/1192635366700765255/MX_ZN2.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "SH_1X2": [
+  {
+    "name":"**SHINee** 10X (Alternate Ver.)",
+    "type":"New Years 2024: Firework Party",
+    "image":"https://cdn.discordapp.com/attachments/1192635251520962630/1192635367120179280/SH_1X2.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "TM_NA2": [
+  {
+    "name":"**TAEMIN** Night Away (Alternate Ver.)",
+    "type":"New Years 2024: Firework Party",
+    "image":"https://cdn.discordapp.com/attachments/1192635251520962630/1192635367480893510/TM_NA2.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "TS_DB2": [
+  {
+    "name":"**Taylor Swift** New Year's Day (Alternate Ver.)",
+    "type":"New Years 2024: Firework Party",
+    "image":"https://cdn.discordapp.com/attachments/1192635251520962630/1192635367858393158/TS_NY2.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "TW_FW2": [
+  {
+    "name":"**TWICE** FIREWORK (Alternate Ver.)",
+    "type":"New Years 2024: Firework Party",
+    "image":"https://cdn.discordapp.com/attachments/1192635251520962630/1192635368252641311/TW_SS2.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "WH_242": [
+  {
+    "name":"**WONHO** 24/7 (Alternate Ver.)",
+    "type":"New Years 2024: Firework Party",
+    "image":"https://cdn.discordapp.com/attachments/1192635251520962630/1192635368965677206/WH_242.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "WJ_DY2": [
+  {
+    "name":"**WJSN** Dream your dream (Alternate Ver.)",
+    "type":"New Years 2024: Firework Party",
+    "image":"https://cdn.discordapp.com/attachments/1192635251520962630/1192635369431257139/WJ_DY2.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
   ]
 }
