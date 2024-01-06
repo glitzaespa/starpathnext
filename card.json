@@ -36104,142 +36104,142 @@
   ],
   "KDJH_LS": [
   {
-    "name":"<:X_:1104449632890798091> <a:custom:1176286502007877642> **KINGDOM JAHAN** LOVE SONG",
+    "name":"<:X_:1104449632890798091> **KINGDOM JAHAN** LOVE SONG",
     "idol":"KINGDOM JAHAN",
     "image": "https://media.discordapp.net/attachments/1104448142209990687/1185410437735514142/ls_jahan.png",
     "theme": "LOVE SONG",
-    "min": "750",
-    "max": "1500"
+    "min": "500",
+    "max": "1000"
   }
   ],
   "KDJH_LS_P": [
   {
-    "name":"<a:XP:1116886580586622976> <a:custom:1176286502007877642> **KINGDOM JAHAN** LOVE SONG",
+    "name":"<a:XP:1116886580586622976> **KINGDOM JAHAN** LOVE SONG",
     "idol":"KINGDOM JAHAN",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1185410509344870440/ls_jahan_p.png",
     "theme": "LOVE SONG",
-    "min": "1500",
-    "max": "3000"
+    "min": "1000",
+    "max": "2500"
   }
   ],
   "KDHW_LS": [
   {
-    "name":"<:X_:1104449632890798091> <a:custom:1176286502007877642> **KINGDOM HWON** LOVE SONG",
+    "name":"<:X_:1104449632890798091> **KINGDOM HWON** LOVE SONG",
     "idol":"KINGDOM HWON",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1185410438293364746/ls_hwon.png",
     "theme": "LOVE SONG",
-    "min": "750",
-    "max": "1500"
+    "min": "500",
+    "max": "1000"
   }
   ],
   "KDHW_LS_P": [
   {
-    "name":"<a:XP:1116886580586622976> <a:custom:1176286502007877642> **KINGDOM HWON** LOVE SONG",
+    "name":"<a:XP:1116886580586622976> **KINGDOM HWON** LOVE SONG",
     "idol":"KINGDOM HWON",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1185410510036926554/ls_hwon_p.png",
     "theme": "LOVE SONG",
-    "min": "1500",
-    "max": "3000"
+    "min": "1000",
+    "max": "2500"
   }
   ],
   "KDIV_LS_P": [
   {
-    "name":"<a:XP:1116886580586622976> <a:custom:1176286502007877642> **KINGDOM IVAN** LOVE SONG",
+    "name":"<a:XP:1116886580586622976> **KINGDOM IVAN** LOVE SONG",
     "idol":"KINGDOM IVAN",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1185410510645112923/ls_ivan_p.png",
     "theme": "LOVE SONG",
-    "min": "1500",
-    "max": "3000"
+    "min": "1000",
+    "max": "2500"
   }
   ],
   "KDIV_LS": [
   {
-    "name":"<:X_:1104449632890798091> <a:custom:1176286502007877642> **KINGDOM IVAN** LOVE SONG",
+    "name":"<:X_:1104449632890798091> **KINGDOM IVAN** LOVE SONG",
     "idol":"KINGDOM IVAN",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1185410438721179719/ls_ivan.png",
     "theme": "LOVE SONG",
-    "min": "750",
-    "max": "1500"
+    "min": "500",
+    "max": "1000"
   }
   ],
   "KDLO_LS": [
   {
-    "name":"<:X_:1104449632890798091> <a:custom:1176286502007877642> **KINGDOM LOUIS** LOVE SONG",
+    "name":"<:X_:1104449632890798091> **KINGDOM LOUIS** LOVE SONG",
     "idol":"KINGDOM LOUIS",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1185410439249657866/ls_louis.png",
     "theme": "LOVE SONG",
-    "min": "750",
-    "max": "1500"
+    "min": "500",
+    "max": "1000"
   }
   ],
   "KDLO_LS_P": [
   {
-    "name":"<a:XP:1116886580586622976> <a:custom:1176286502007877642> **KINGDOM LOUIS** LOVE SONG",
+    "name":"<a:XP:1116886580586622976> **KINGDOM LOUIS** LOVE SONG",
     "idol":"KINGDOM LOUIS",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1185410511261667389/ls_louis_p.png",
     "theme": "LOVE SONG",
-    "min": "1500",
-    "max": "3000"
+    "min": "1000",
+    "max": "2500"
   }
   ],
   "KDMJ_LS": [
   {
-    "name":"<:X_:1104449632890798091> <a:custom:1176286502007877642> **KINGDOM MUJIN** LOVE SONG",
+    "name":"<:X_:1104449632890798091> **KINGDOM MUJIN** LOVE SONG",
     "idol":"KINGDOM MUJIN",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1185410439799115776/ls_mujin.png",
     "theme": "LOVE SONG",
-    "min": "750",
-    "max": "1500"
+    "min": "500",
+    "max": "1000"
   }
   ],
   "KDMJ_LS_P": [
   {
-    "name":"<a:XP:1116886580586622976> <a:custom:1176286502007877642> **KINGDOM MUJIN** LOVE SONG",
+    "name":"<a:XP:1116886580586622976> **KINGDOM MUJIN** LOVE SONG",
     "idol":"KINGDOM MUJIN",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1185410512553508955/ls_mujin_p.png",
     "theme": "LOVE SONG",
-    "min": "1500",
-    "max": "3000"
+    "min": "1000",
+    "max": "2500"
   }
   ],
   "KDAR_LS_P": [
   {
-    "name":"<a:XP:1116886580586622976> <a:custom:1176286502007877642> **KINGDOM ARTHUR** LOVE SONG",
+    "name":"<a:XP:1116886580586622976> **KINGDOM ARTHUR** LOVE SONG",
     "idol":"KINGDOM ARTHUR",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1185410513241387038/ls_arthur_p.png",
     "theme": "LOVE SONG",
-    "min": "1500",
-    "max": "3000"
+    "min": "1000",
+    "max": "2500"
   }
   ],
   "KDAR_LS": [
   {
-    "name":"<:X_:1104449632890798091> <a:custom:1176286502007877642> **KINGDOM ARTHUR** LOVE SONG",
+    "name":"<:X_:1104449632890798091> **KINGDOM ARTHUR** LOVE SONG",
     "idol":"KINGDOM ARTHUR",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1185410440298234048/ls_arthur.png",
     "theme": "LOVE SONG",
-    "min": "750",
-    "max": "1500"
+    "min": "500",
+    "max": "1000"
   }
   ],
   "KDDA_LS": [
   {
-    "name":"<:X_:1104449632890798091> <a:custom:1176286502007877642> **KINGDOM DANN** LOVE SONG",
+    "name":"<:X_:1104449632890798091> **KINGDOM DANN** LOVE SONG",
     "idol":"KINGDOM DANN",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1185410440784781362/ls_dann.png",
     "theme": "LOVE SONG",
-    "min": "750",
-    "max": "1500"
+    "min": "500",
+    "max": "1000"
   }
   ],
   "KDDA_LS_P": [
   {
-    "name":"<a:XP:1116886580586622976> <a:custom:1176286502007877642> **KINGDOM DANN** LOVE SONG",
+    "name":"<a:XP:1116886580586622976> **KINGDOM DANN** LOVE SONG",
     "idol":"KINGDOM DANN",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1185410513849548870/ls_dann_p.png",
     "theme": "LOVE SONG",
-    "min": "1500",
-    "max": "3000"
+    "min": "1000",
+    "max": "2500"
   }
   ],
   "TSCY_CT": [
@@ -36299,7 +36299,7 @@
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1108252607824265246/Megan_Thee_Stallion_-_Megans_Piano_X.png",
     "theme": "Megan's Piano",
     "min": "1000",
-    "max": "1500"
+    "max": "2500"
   }
   ],
   "NJMJ_DT": [
