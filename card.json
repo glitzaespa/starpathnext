@@ -36571,5 +36571,95 @@
     "min": "0",
     "max": "100"
   }
+  ],
+  "BESTMOD_2023": [
+  {
+    "name":"<a:2023:1192555758299127858> <a:special:1174782872016658472> **STARPATH Year-End Awards 2023** Best Moderator",
+    "idol":"STARPATH Year-End Awards 2023",
+    "image": "https://media.discordapp.net/attachments/1090791248744415302/1190442087372566549/BESTMOD_2023.png",
+    "theme": "SWINE",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "BESTMC_2023": [
+  {
+    "name":"<a:2023:1192555758299127858> <a:special:1174782872016658472> **STARPATH Year-End Awards 2023** Best Media Creator",
+    "idol":"STARPATH Year-End Awards 2023",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1190442087741661314/BESTMC_2023.png",
+    "theme": "SWINE",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "BESTRMC_2023": [
+  {
+    "name":"<a:2023:1192555758299127858> <a:special:1174782872016658472> **STARPATH Year-End Awards 2023** Best Rookie Media Creator",
+    "idol":"STARPATH Year-End Awards 2023",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1190442088257564752/BESTSMC_2023.png",
+    "theme": "SWINE",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "BESTRSP_2023": [
+  {
+    "name":"<a:2023:1192555758299127858> <a:special:1174782872016658472> **STARPATH Year-End Awards 2023** Best Special R Theme",
+    "idol":"STARPATH Year-End Awards 2023",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1190442089348083732/BESTRS_2023.png",
+    "theme": "SWINE",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "BESTCSP_2023": [
+  {
+    "name":"<a:2023:1192555758299127858> <a:special:1174782872016658472> **STARPATH Year-End Awards 2023** Best Special C Theme",
+    "idol":"STARPATH Year-End Awards 2023",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1190442089851404439/BESTCS_2023.png",
+    "theme": "SWINE",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "BESTXSP_2023": [
+  {
+    "name":"<a:2023:1192555758299127858> <a:special:1174782872016658472> **STARPATH Year-End Awards 2023** Best Special X/X+ Theme",
+    "idol":"STARPATH Year-End Awards 2023",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1190442090245660832/BESTXPS_2023.png",
+    "theme": "SWINE",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "BESTX_2023": [
+  {
+    "name":"<a:2023:1192555758299127858> <a:special:1174782872016658472> **STARPATH Year-End Awards 2023** Best X/X+ Theme",
+    "idol":"STARPATH Year-End Awards 2023",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1190442090702848120/BESTXP_2023.png",
+    "theme": "SWINE",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "BESTR_2023": [
+  {
+    "name":"<a:2023:1192555758299127858> <a:special:1174782872016658472> **STARPATH Year-End Awards 2023** Best R Theme",
+    "idol":"STARPATH Year-End Awards 2023",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1190442135258927225/BESTR_2023.png",
+    "theme": "SWINE",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "BESTC_2023": [
+  {
+    "name":"<a:2023:1192555758299127858> <a:special:1174782872016658472> **STARPATH Year-End Awards 2023** Best C Theme",
+    "idol":"STARPATH Year-End Awards 2023",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1190442135854530631/BESTC_2023.png",
+    "theme": "SWINE",
+    "min": "1500",
+    "max": "3000"
+  }
   ]
 }
