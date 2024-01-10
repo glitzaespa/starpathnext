@@ -36661,5 +36661,25 @@
     "min": "1500",
     "max": "3000"
   }
+  ],
+  "BPJS_HJ": [
+  {
+    "name":"<:R_:1104449630659428372> <a:custom:1176286502007877642> **BLACKPINK JISOO** Happy JISOO!",
+    "idol":"BLACKPINK JISOO",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1194775239465369640/BPJS_HJ.png",
+    "theme": "CUSTOM",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "LOGW_SI": [
+  {
+    "name":"<:R_:1104449630659428372> <a:custom:1176286502007877642> **LOONA Go Won** Shake It",
+    "idol":"LOONA Go Won",
+    "image": "https://cdn.discordapp.com/attachments/1090791248744415302/1194775240375537705/LOGW_SI.png",
+    "theme": "CUSTOM",
+    "min": "100",
+    "max": "500"
+  }
   ]
 }
