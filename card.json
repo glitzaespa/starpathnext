@@ -9584,7 +9584,7 @@
   {
     "name":"<:X_:1104449632890798091> **Soloist BAEKHYUN** Candy",
     "idol":"Soloist BAEKHYUN",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113323175011418192/candy_x.png",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1190552340122566726/candyrevamp_x.png",
     "theme": "Candy",
     "min": "500",
     "max": "1000"
@@ -9594,7 +9594,7 @@
   {
     "name":"<a:XP:1116886580586622976> **Soloist BAEKHYUN** Candy",
     "idol":"Soloist BAEKHYUN",
-    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1113323347179225108/candy_x.png",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1190552340848185405/candyrevamp_x.png",
     "theme": "Candy",
     "min": "1000",
     "max": "2500"
@@ -36680,6 +36680,326 @@
     "theme": "CUSTOM",
     "min": "100",
     "max": "500"
+  }
+  ],
+  "SODW_DD": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist DAWN** DAWNDIDIDAWN",
+    "idol":"Soloist DAWN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1195011336858517596/SODW_DD.png",
+    "theme": "DAWNDIDIDAWN (던디리던)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOSC_FT": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist Sabrina Carpenter** Feather",
+    "idol":"Soloist Sabrina Carpenter",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1195006427559899176/SOSC_FT.png",
+    "theme": "Feather",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOJY_TX": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist JO YURI** TAXI",
+    "idol":"Soloist JO YURI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1195000422126063616/taxt_jy.png",
+    "theme": "TAXI",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOTE_PM": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist TEN** Paint Me Naked",
+    "idol":"Soloist TEN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1194833673497874442/ten_pmn.png",
+    "theme": "Paint Me Naked",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOJH_HR": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist JAEHYUN** Horizon",
+    "idol":"Soloist JAEHYUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1194834020886925343/jaehyun_horizon.png",
+    "theme": "Horizon",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOAR_BIL": [
+  {
+    "name":"<:R_:1104449630659428372> **Soloist Ariana Grande** Baby I (Live from London)",
+    "idol":"Soloist Ariana Grande",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1194465157766709449/SOAG_BIL.png",
+    "theme": "Baby I (Live from London)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SOYK_GY": [
+  {
+    "name":"<:R_:1104449630659428372> **Soloist Young K** Guard You",
+    "idol":"Soloist Young K",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1194360049422843904/SOYK_GY.png",
+    "theme": "Guard You",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "TVMC_RB": [
+  {
+    "name":"<:R_:1104449630659428372> **TVXQ! MAX CHANGMIN** Rebel",
+    "idol":"TVXQ! MAX CHANGMIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1194042489477267627/TVMC_RB.png",
+    "theme": "Rebel",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "TVUK_RB": [
+  {
+    "name":"<:R_:1104449630659428372> **TVXQ! U-KNOW** Rebel",
+    "idol":"TVXQ! U-KNOW",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1194042490907541616/TVUK_RB.png",
+    "theme": "Rebel",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "GCBSM_FM": [
+  {
+    "name":"<:C_:1104449628876841030> **Golden Child BAE SEUNGMIN** Feel me",
+    "idol":"Golden Child BAE SEUNGMIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1194026176788836462/baeseungmin.png",
+    "theme": "Feel me",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "GCBJH_FM": [
+  {
+    "name":"<:C_:1104449628876841030> **Golden Child BONG JAEHYUN** Feel me",
+    "idol":"Golden Child BONG JAEHYUN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1194026177493475338/bongjaehyun.png",
+    "theme": "Feel me",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "GCCBM_FM": [
+  {
+    "name":"<:C_:1104449628876841030> **Golden Child CHOI BOMIN** Feel me",
+    "idol":"Golden Child CHOI BOMIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1194026178042925148/choibomin.png",
+    "theme": "Feel me",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "GCHJC_FM": [
+  {
+    "name":"<:C_:1104449628876841030> **Golden Child HONG JOOCHAN** Feel me",
+    "idol":"Golden Child HONG JOOCHAN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1194026178512695306/hongjoochan.png",
+    "theme": "Feel me",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "GCKDH_FM": [
+  {
+    "name":"<:C_:1104449628876841030> **Golden Child KIM DONGHYUN** Feel me",
+    "idol":"Golden Child KIM DONGHYUN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1194026179007619092/kimdonghyun.png",
+    "theme": "Feel me",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "GCKJB_FM": [
+  {
+    "name":"<:C_:1104449628876841030> **Golden Child KIM JIBEOM** Feel me",
+    "idol":"Golden Child KIM JIBEOM",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1194026179489959996/kimjibeom.png",
+    "theme": "Feel me",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "GCLDY_FM": [
+  {
+    "name":"<:C_:1104449628876841030> **Golden Child LEE DAEYEOL** Feel me",
+    "idol":"Golden Child LEE DAEYEOL",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1194026179980701816/leedaeyeol.png",
+    "theme": "Feel me",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "GCLJJ_FM": [
+  {
+    "name":"<:C_:1104449628876841030> **Golden Child LEE JANGJUN** Feel me",
+    "idol":"Golden Child LEE JANGJUN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1194026180425293964/leejangjun.png",
+    "theme": "Feel me",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "GCTG_FM": [
+  {
+    "name":"<:C_:1104449628876841030> **Golden Child TAG** Feel me",
+    "idol":"Golden Child TAG",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1194026181012492288/tag.png",
+    "theme": "Feel me",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOBY_BCZ": [
+  {
+    "name":"<:B_:1122363573629374525> **Soloist Beyoncé** COZY",
+    "idol":"Soloist Beyoncé",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1193878687439925258/COZY.png",
+    "theme": "COZY",
+    "min": "1500",
+    "max": "2000"
+  }
+  ],
+  "SOBY_BAS": [
+  {
+    "name":"<:B_:1122363573629374525> **Soloist Beyoncé** ALIEN SUPERSTAR",
+    "idol":"Soloist Beyoncé",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1193879079124996126/ALIEN_SUPERSTAR.png",
+    "theme": "ALIEN SUPERSTAR",
+    "min": "1500",
+    "max": "2000"
+  }
+  ],
+  "DNEJ_BL": [
+  {
+    "name":"<:C_:1104449628876841030> **DreamNote Eunjo** BLUE",
+    "idol":"DreamNote Eunjo",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1193320006805622854/eunjo_blue.png",
+    "theme": "BLUE",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "DNSM_BL": [
+  {
+    "name":"<:C_:1104449628876841030> **DreamNote Sumin** BLUE",
+    "idol":"DreamNote Sumin",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1193320007271198751/sumin_blue.png",
+    "theme": "BLUE",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "DNMS_BL": [
+  {
+    "name":"<:C_:1104449628876841030> **DreamNote MISO** BLUE",
+    "idol":"DreamNote MISO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1193320007686438962/miso_blue.png",
+    "theme": "BLUE",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "DNLR_BL": [
+  {
+    "name":"<:C_:1104449628876841030> **DreamNote Lara** BLUE",
+    "idol":"DreamNote Lara",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1193320008080691310/Lara_Blue.png",
+    "theme": "BLUE",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "DNBN_BL": [
+  {
+    "name":"<:C_:1104449628876841030> **DreamNote BoNi** BLUE",
+    "idol":"DreamNote BoNi",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1193320008445603870/Boni_blue.png",
+    "theme": "BLUE",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "DNYO_BL": [
+  {
+    "name":"<:C_:1104449628876841030> **DreamNote YOUI** BLUE",
+    "idol":"DreamNote YOUI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1193320008823095427/youi_blue.png",
+    "theme": "BLUE",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "ILEV_TM": [
+  {
+    "name":"<:C_:1104449628876841030> **ILY:1 ELVA** To My Boyfriend",
+    "idol":"ILY:1 ELVA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1193323688196571236/tmb_elva.png",
+    "theme": "To My Boyfriend",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "ILRN_TM": [
+  {
+    "name":"<:C_:1104449628876841030> **ILY:1 RONA** To My Boyfriend",
+    "idol":"ILY:1 RONA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1193323688678920262/tmb_rona.png",
+    "theme": "To My Boyfriend",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "ILNY_TM": [
+  {
+    "name":"<:C_:1104449628876841030> **ILY:1 NAYU** To My Boyfriend",
+    "idol":"ILY:1 NAYU",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1193323689308073985/tmb_nayu.png",
+    "theme": "To My Boyfriend",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "ILRR_TM": [
+  {
+    "name":"<:C_:1104449628876841030> **ILY:1 RIRIKA** To My Boyfriend",
+    "idol":"ILY:1 RIRIKA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1193323689865904248/tmb_rirka.png",
+    "theme": "To My Boyfriend",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "ILAR_TM": [
+  {
+    "name":"<:C_:1104449628876841030> **ILY:1 ARA** To My Boyfriend",
+    "idol":"ILY:1 ARA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1193323690377613442/tmb_ara.png",
+    "theme": "To My Boyfriend",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "ILHN_TM": [
+  {
+    "name":"<:C_:1104449628876841030> **ILY:1 HANA** To My Boyfriend",
+    "idol":"ILY:1 HANA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1193323690935464047/tmb_hana.png",
+    "theme": "To My Boyfriend",
+    "min": "0",
+    "max": "100"
   }
   ]
 }
