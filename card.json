@@ -37001,5 +37001,25 @@
     "min": "0",
     "max": "100"
   }
+  ],
+  "SOAG_YS": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist Ariana Grande** yes",
+    "idol":"Soloist Ariana Grande",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1195343489345523732/SOAG_YS.png",
+    "theme": "yes, and?",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOAG_AN": [
+  {
+    "name":"<:R_:1104449630659428372> **Soloist Ariana Grande** and?",
+    "idol":"Soloist Ariana Grande",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1195343540079833158/SOAG_AN.png",
+    "theme": "yes, and?",
+    "min": "100",
+    "max": "500"
+  }
   ]
 }
