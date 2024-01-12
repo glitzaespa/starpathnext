@@ -1846,5 +1846,41 @@
     "creatorid":"971289285045141584",
     "commission":"no"
   }
+  ],
+  "AG_YA1": [
+  {
+    "name":"**Ariana Grande** yes, and? #1",
+    "type":"yes, and? Collection Event",
+    "image":"https://cdn.discordapp.com/attachments/1090791248744415302/1195417021106626670/yesand_banner1.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "AG_YA2": [
+  {
+    "name":"**Ariana Grande** yes, and? #2",
+    "type":"yes, and? Collection Event",
+    "image":"https://cdn.discordapp.com/attachments/1090791248744415302/1195417020691398737/yes_banner.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "AG_YS": [
+  {
+    "name":"**Ariana Grande** yes",
+    "type":"Common",
+    "image":"https://cdn.discordapp.com/attachments/1090791248744415302/1195417020259381308/and_banner.png",
+    "min":"14000",
+    "max":"15000",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
   ]
 }
