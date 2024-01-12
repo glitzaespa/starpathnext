@@ -88,5 +88,11 @@
     "pool_card":"OEKL_FN;OECR_FN;OEJS_FN;OEKL_GF;OECR_GF;OEJS_GF;OEKL_SC;OECR_SC;OEJS_SC;OEKL_SB;OECR_SB;OEJS_SB;OEKL_MS;OECR_MS;OEJS_MS;OEKL_AF;OECR_AF;OEJS_AF",
     "pool_banner":"OE_MS"
   }
+  ],
+              "arianagrande": [
+  {
+    "pool_card":"SOAG_SW;SOAG_BO;SOAG_NT;SOAG_DW;SOAG_ED;SOAG_RO;SOAG_YS;SOAG_AN;SOAG_TU;SOAG_BIL;SOAG_MT;SOAG_PS;SOAG_MA",
+    "pool_banner":"AG_YS"
+  }
   ]
 }
