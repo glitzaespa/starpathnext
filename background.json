@@ -190,5 +190,17 @@
     "creatorid":"971289285045141584",
     "commission":"yes"
   }
+  ],
+  "YES_AND": [
+  {
+    "name":"yes, and?",
+    "type":"Event",
+    "image":"https://cdn.discordapp.com/attachments/1090791248744415302/1195417753658593441/yesand_banner.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"yes"
+  }
   ]
 }
