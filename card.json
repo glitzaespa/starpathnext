@@ -37021,5 +37021,45 @@
     "min": "100",
     "max": "500"
   }
+  ],
+  "STBR_NM": [
+  {
+    "name":"<:R_:1104449630659428372> **SISTAR19 BORA** NO MORE (MA BOY)",
+    "idol":"SISTAR19 BORA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1194419897057415299/IMG_0713.png",
+    "theme": "NO MORE (MA BOY)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "STHL_NM": [
+  {
+    "name":"<:R_:1104449630659428372> **SISTAR19 HYOLYN** NO MORE (MA BOY)",
+    "idol":"SISTAR19 HYOLYN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1194419896172425367/IMG_0712.png",
+    "theme": "NO MORE (MA BOY)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "STHL_SC": [
+  {
+    "name":"<:C_:1104449628876841030> **SISTAR19 HYOLYN** SAUCY",
+    "idol":"SISTAR19 HYOLYN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1194422713217990746/IMG_0717.png",
+    "theme": "SAUCY",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "STBR_SC": [
+  {
+    "name":"<:C_:1104449628876841030> **SISTAR19 BORA** SAUCY",
+    "idol":"SISTAR19 BORA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1194422713872293908/IMG_0716.png",
+    "theme": "SAUCY",
+    "min": "0",
+    "max": "100"
+  }
   ]
 }
