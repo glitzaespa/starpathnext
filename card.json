@@ -37061,5 +37061,315 @@
     "min": "0",
     "max": "100"
   }
+  ],
+  "N1DY_AH": [
+  {
+    "name":"<:C_:1104449628876841030> <a:special:1174782872016658472> **NCT 127 DOYOUNG** ARENA HOMME+ [2023]",
+    "idol":"NCT 127 DOYOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1165023833191886898/dy_ah.png",
+    "theme": "SPECIALSONG",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "ARHJ_SF": [
+  {
+    "name":"<:R_:1104449630659428372> <a:special:1174782872016658472> **ARTMS HeeJin** Shoot for the Moon",
+    "idol":"ARTMS HeeJin",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1191509213688635453/LOONA_seasons_greetings_R_4.png",
+    "theme": "SPECIALSONG",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ARHS_SF": [
+  {
+    "name":"<:R_:1104449630659428372> <a:special:1174782872016658472> **ARTMS HaSeul** Shoot for the Moon",
+    "idol":"ARTMS HaSeul",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1191509214187765861/LOONA_seasons_greetings_R_6.png",
+    "theme": "SPECIALSONG",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ARKL_SF": [
+  {
+    "name":"<:R_:1104449630659428372> <a:special:1174782872016658472> **ARTMS Kim Lip** Shoot for the Moon",
+    "idol":"ARTMS Kim Lip",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1191509214854656041/LOONA_seasons_greetings_R_8.png",
+    "theme": "SPECIALSONG",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ARJS_SF": [
+  {
+    "name":"<:R_:1104449630659428372> <a:special:1174782872016658472> **ARTMS JinSoul** Shoot for the Moon",
+    "idol":"ARTMS JinSoul",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1191509215517351986/LOONA_seasons_greetings_R_10.png",
+    "theme": "SPECIALSONG",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "ARCR_SF": [
+  {
+    "name":"<:R_:1104449630659428372> <a:special:1174782872016658472> **ARTMS Choerry** Shoot for the Moon",
+    "idol":"ARTMS Choerry",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1191509216247169204/LOONA_seasons_greetings_R_12.png",
+    "theme": "SPECIALSONG",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOCH_CC": [
+  {
+    "name":"<:R_:1104449630659428372> <a:special:1174782872016658472> **Soloist CHUU** CHUU CHUU!",
+    "idol":"Soloist CHUU",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1191499925851222128/LOONA_seasons_greetings_R_2.png",
+    "theme": "SPECIALSONG",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "GFSW_ML": [
+  {
+    "name":"<:X_:1104449632890798091> **GFRIEND SOWON** My life is waiting for you",
+    "idol":"GFRIEND SOWON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1195806191364886799/IMG_0847.png",
+    "theme": "MAGO",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "GFSW_ML_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **GFRIEND SOWON** My life is waiting for you",
+    "idol":"GFRIEND SOWON",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1195806260243738644/IMG_0846.png",
+    "theme": "MAGO",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "GFYR_ML": [
+  {
+    "name":"<:X_:1104449632890798091> **GFRIEND YERIN** My life is waiting for you",
+    "idol":"GFRIEND YERIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1195806192660910090/IMG_0849.png",
+    "theme": "MAGO",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "GFYR_ML_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **GFRIEND YERIN** My life is waiting for you",
+    "idol":"GFRIEND YERIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1195806261107757207/IMG_0848.png",
+    "theme": "MAGO",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "GFEH_ML": [
+  {
+    "name":"<:X_:1104449632890798091> **GFRIEND EUNHA** My life is waiting for you",
+    "idol":"GFRIEND EUNHA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1195806193663357109/IMG_0851.png",
+    "theme": "MAGO",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "GFEH_ML_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **GFRIEND EUNHA** My life is waiting for you",
+    "idol":"GFRIEND EUNHA",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1195806262051483700/IMG_0850.png",
+    "theme": "MAGO",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "GFYJ_ML": [
+  {
+    "name":"<:X_:1104449632890798091> **GFRIEND YUJU** My life is waiting for you",
+    "idol":"GFRIEND YUJU",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1195806194317676654/IMG_0853.png",
+    "theme": "MAGO",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "GFYJ_ML_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **GFRIEND YUJU** My life is waiting for you",
+    "idol":"GFRIEND YUJU",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1195806262856777748/IMG_0852.png",
+    "theme": "MAGO",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "GFSB_ML": [
+  {
+    "name":"<:X_:1104449632890798091> **GFRIEND SinB** My life is waiting for you",
+    "idol":"GFRIEND SinB",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1195806194959396924/IMG_0855.png",
+    "theme": "MAGO",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "GFSB_ML_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **GFRIEND SinB** My life is waiting for you",
+    "idol":"GFRIEND SinB",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1195806263523676291/IMG_0854.png",
+    "theme": "MAGO",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "GFUJ_ML": [
+  {
+    "name":"<:X_:1104449632890798091> **GFRIEND UMJI** My life is waiting for you",
+    "idol":"GFRIEND UMJI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1195806195701780540/IMG_0856.png",
+    "theme": "MAGO",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "GFUJ_ML_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **GFRIEND UMJI** My life is waiting for you",
+    "idol":"GFRIEND UMJI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1195806264236716072/IMG_0857.png",
+    "theme": "MAGO",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "WVXJ_PT": [
+  {
+    "name":"<:X_:1104449632890798091> **WayV 威神V XIAOJUN** Phantom",
+    "idol":"WayV 威神V XIAOJUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1195806429261611058/phantom_xiao.png",
+    "theme": "Phantom",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "WVXJ_PT_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **WayV 威神V XIAOJUN** Phantom",
+    "idol":"WayV 威神V XIAOJUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1195806514783461396/phantom_xiao_p.png",
+    "theme": "Phantom",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "WVHD_PT": [
+  {
+    "name":"<:X_:1104449632890798091> **WayV 威神V HENDERY** Phantom",
+    "idol":"WayV 威神V HENDERY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1195806429823651910/phantom_hendery.png",
+    "theme": "Phantom",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "WVHD_PT_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **WayV 威神V HENDERY** Phantom",
+    "idol":"WayV 威神V HENDERY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1195806515379044352/phantom_hendery_p.png",
+    "theme": "Phantom",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "WVYY_PT": [
+  {
+    "name":"<:X_:1104449632890798091> **WayV 威神V YANGYANG** Phantom",
+    "idol":"WayV 威神V YANGYANG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1195806430326956233/phantom_yy.png",
+    "theme": "Phantom",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "WVYY_PT_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **WayV 威神V YANGYANG** Phantom",
+    "idol":"WayV 威神V YANGYANG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1195806515848822904/phatom_yy_p.png",
+    "theme": "Phantom",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "WVWW_PT": [
+  {
+    "name":"<:X_:1104449632890798091> **WayV 威神V WINWIN** Phantom",
+    "idol":"WayV 威神V WINWIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1195806430792532009/phantom_ww.png",
+    "theme": "Phantom",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "WVWW_PT_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **WayV 威神V WINWIN** Phantom",
+    "idol":"WayV 威神V WINWIN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1195806516452794408/phantom_ww_p.png",
+    "theme": "Phantom",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "WVTN_PT": [
+  {
+    "name":"<:X_:1104449632890798091> **WayV 威神V TEN** Phantom",
+    "idol":"WayV 威神V TEN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1195806431253909665/phantom_ten.png",
+    "theme": "Phantom",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "WVTN_PT_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **WayV 威神V TEN** Phantom",
+    "idol":"WayV 威神V TEN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1195806517144846467/phantom_ten_p.png",
+    "theme": "Phantom",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "WVKN_PT": [
+  {
+    "name":"<:X_:1104449632890798091> **WayV 威神V KUN** Phantom",
+    "idol":"WayV 威神V KUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1195806432558325801/phantom_kun.png",
+    "theme": "Phantom",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "WVKN_PT_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **WayV 威神V KUN** Phantom",
+    "idol":"WayV 威神V KUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1195806517908226078/phantom_kun_p.png",
+    "theme": "Phantom",
+    "min": "1000",
+    "max": "2500"
+  }
   ]
 }
