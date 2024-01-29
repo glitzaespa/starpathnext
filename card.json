@@ -37371,5 +37371,735 @@
     "min": "1000",
     "max": "2500"
   }
+  ],
+  "SOPP_NT": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Soloist PinkPantheress** Nice to meet you",
+    "idol":"Soloist PinkPantheress",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1196493330561912984/SOPP_NT.png",
+    "theme": "Nice to meet you (feat. Central Cee)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "SOCX_T1": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Soloist Charli XCX** Track 10",
+    "idol":"Soloist Charli XCX",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1196493415865663678/SOCX_T1.png",
+    "theme": "Track 10",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "WJEX_LL": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **WJSN EXY** La La Love",
+    "idol":"WJSN EXY",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196505264598306826/IMG_6146.png",
+    "theme": "La La Love",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "WJSL_LL": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **WJSN SEOLA** La La Love",
+    "idol":"WJSN SEOLA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196505265311326269/IMG_6148.png",
+    "theme": "La La Love",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "WJBN_LL": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **WJSN BONA** La La Love",
+    "idol":"WJSN BONA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196505266087284806/IMG_6142.png",
+    "theme": "La La Love",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "WJSB_LL": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **WJSN SOOBIN** La La Love",
+    "idol":"WJSN SOOBIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196505267152625835/IMG_6149.png",
+    "theme": "La La Love",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "WJDW_LL": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **WJSN DAWON** La La Love",
+    "idol":"WJSN DAWON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196505267928580116/IMG_6143.png",
+    "theme": "La La Love",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "WJLD_LL": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **WJSN LUDA** La La Love",
+    "idol":"WJSN LUDA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196505269144920145/IMG_6147.png",
+    "theme": "La La Love",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "WJES_LL": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **WJSN EUNSEO** La La Love",
+    "idol":"WJSN EUNSEO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196505269925068931/IMG_6145.png",
+    "theme": "La La Love",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "WJYR_LL": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **WJSN YEOREUM** La La Love",
+    "idol":"WJSN YEOREUM",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196505270583578695/IMG_6151.png",
+    "theme": "La La Love",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "WJDY_LL": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **WJSN DAYOUNG** La La Love",
+    "idol":"WJSN DAYOUNG",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196505271254654976/IMG_6144.png",
+    "theme": "La La Love",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "WJYJ_LL": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **WJSN YEONJUNG** La La Love",
+    "idol":"WJSN YEONJUNG",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196505271992860813/IMG_6150.png",
+    "theme": "La La Love",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "D6DW_RT": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **DAY6 (Even of Day) DOWOON** Right Through Me",
+    "idol":"DAY6 (Even of Day) DOWOON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196505869068808302/D6DW_RT.png",
+    "theme": "Right Through Me(뚫고 지나가요)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "D6WP_RT": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **DAY6 (Even of Day) WONPIL** Right Through Me",
+    "idol":"DAY6 (Even of Day) WONPIL",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196505869551144971/D6WP_RT.png",
+    "theme": "Right Through Me(뚫고 지나가요)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "D6YK_RT": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **DAY6 (Even of Day) Young K** Right Through Me",
+    "idol":"DAY6 (Even of Day) Young K",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196505870192877578/D6YK_RT.png",
+    "theme": "Right Through Me(뚫고 지나가요)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "K1YS_SP": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Kep1er YESEO** stop pretending",
+    "idol":"Kep1er YESEO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196541481398325391/sp_yeseo.png",
+    "theme": "Happy Ending",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "K1YE_SP": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Kep1er YOUNGEUN** stop pretending",
+    "idol":"Kep1er YOUNGEUN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196541482128121997/sp_young.png",
+    "theme": "Happy Ending",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "K1HB_SP": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Kep1er HUENING BAHIYYIH** stop pretending",
+    "idol":"Kep1er HUENING BAHIYYIH",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196541482732113980/sp_hb.png",
+    "theme": "Happy Ending",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "K1HK_SP": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Kep1er HIKARU** stop pretending",
+    "idol":"Kep1er HIKARU",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196541483373826048/sp_hik.png",
+    "theme": "Happy Ending",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "K1DY_SP": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Kep1er DAYEON** stop pretending",
+    "idol":"Kep1er DAYEON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196541483835203664/sp_daye.png",
+    "theme": "Happy Ending",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "K1CH_SP": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Kep1er CHAEHYUN** stop pretending",
+    "idol":"Kep1er CHAEHYUN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196541484321755226/sp_chae.png",
+    "theme": "Happy Ending",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "K1MS_SP": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Kep1er MASHIRO** stop pretending",
+    "idol":"Kep1er MASHIRO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196541484837638165/sp_mash.png",
+    "theme": "Happy Ending",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "K1YJ_SP": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Kep1er YUJIN** stop pretending",
+    "idol":"Kep1er YUJIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196541485294821396/sp_yujin.png",
+    "theme": "Happy Ending",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "K1XT_SP": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Kep1er XIAOTING** stop pretending",
+    "idol":"Kep1er XIAOTING",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196541485861064755/sp_xt.png",
+    "theme": "Happy Ending",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "WMRN_TP": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Weki Meki RINA** The Paradise",
+    "idol":"Weki Meki RINA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196545041389326336/tp_rina.png",
+    "theme": "The Paradise",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "WMLC_TP": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Weki Meki LUCY** The Paradise",
+    "idol":"Weki Meki LUCY",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196545041892659230/tp_lucy.png",
+    "theme": "The Paradise",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "WMEL_TP": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Weki Meki ELLY** The Paradise",
+    "idol":"Weki Meki ELLY",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196545042496630834/tp_elly.png",
+    "theme": "The Paradise",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "WMDY_TP": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Weki Meki Kim Doyeon** The Paradise",
+    "idol":"Weki Meki Kim Doyeon",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196545043184488548/tp_kd.png",
+    "theme": "The Paradise",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "WMYJ_TP": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Weki Meki Choi Yoojung** The Paradise",
+    "idol":"Weki Meki Choi Yoojung",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196545043763318905/tp_cy.png",
+    "theme": "The Paradise",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "WMSY_TP": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Weki Meki Ji Suyeon** The Paradise",
+    "idol":"Weki Meki Ji Suyeon",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196545044300181595/tp_js.png",
+    "theme": "The Paradise",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "WMSE_TP": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Weki Meki SEI** The Paradise",
+    "idol":"Weki Meki SEI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196545044816072754/tp_sei.png",
+    "theme": "The Paradise",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "WMLU_TP": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Weki Meki LUA** The Paradise",
+    "idol":"Weki Meki LUA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196545045319405608/tp_lua.png",
+    "theme": "The Paradise",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "LVYI_TP": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Lovelyz Jeong Ye In** Heal",
+    "idol":"Lovelyz Jeong Ye In",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196549761050886154/yein_heal.png",
+    "theme": "Heal 治癒 (치유)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "LVSJ_TP": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Lovelyz Ryu Su Jeong** Heal",
+    "idol":"Lovelyz Ryu Su Jeong",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196549761596129360/sujeong_heal.png",
+    "theme": "Heal 治癒 (치유)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "LVJN_TP": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Lovelyz JIN** Heal",
+    "idol":"Lovelyz JIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196549762116243659/heal_jin.png",
+    "theme": "Heal 治癒 (치유)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "LVKE_TP": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Lovelyz Kei** Heal",
+    "idol":"Lovelyz Kei",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196549762867019857/heeeeeheal_ki.png",
+    "theme": "Heal 治癒 (치유)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "LVMJ_TP": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Lovelyz Lee Mi Joo** Heal",
+    "idol":"Lovelyz Lee Mi Joo",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196549763357737020/heal_mijoo.png",
+    "theme": "Heal 治癒 (치유)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "LVJS_TP": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Lovelyz Seo Ji Soo** Heal",
+    "idol":"Lovelyz Seo Ji Soo",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196549763831713982/heal_jisoo.png",
+    "theme": "Heal 治癒 (치유)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "LVJA_TP": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Lovelyz Yoo Ji Ae** Heal",
+    "idol":"Lovelyz Yoo Ji Ae",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196549764330831982/heal_jiae.png",
+    "theme": "Heal 治癒 (치유)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "LVBS_TP": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Lovelyz Baby Soul** Heal",
+    "idol":"Lovelyz Baby Soul",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196549764716691567/heal_bs.png",
+    "theme": "Heal 治癒 (치유)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "H1YE_TT": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **H1-KEY YEL** Time to Shine",
+    "idol":"H1-KEY YEL",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196551508536336476/tts_yel.png",
+    "theme": "불빛을 꺼뜨리지 마(Time to Shine)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "H1HS_TT": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **H1-KEY HWISEO** Time to Shine",
+    "idol":"H1-KEY HWISEO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196551509362626560/tts_hwi.png",
+    "theme": "불빛을 꺼뜨리지 마(Time to Shine)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "H1RN_TT": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **H1-KEY RIINA** Time to Shine",
+    "idol":"H1-KEY RIINA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196551510029516971/tts_riina.png",
+    "theme": "불빛을 꺼뜨리지 마(Time to Shine)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "H1SE_TT": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **H1-KEY SEOI** Time to Shine",
+    "idol":"H1-KEY SEOI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196551510662848662/tts_seoi.png",
+    "theme": "불빛을 꺼뜨리지 마(Time to Shine)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "WAMS_LT": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **woo!ah! MINSEO** LOVE THING",
+    "idol":"woo!ah! MINSEO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196568024648527924/IMG_6201.png",
+    "theme": "LOVE THING",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "WALC_LT": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **woo!ah! LUCY** LOVE THING",
+    "idol":"woo!ah! LUCY",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196568025357373510/IMG_6196.png",
+    "theme": "LOVE THING",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "WASR_LT": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **woo!ah! SORA** LOVE THING",
+    "idol":"woo!ah! SORA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196568025990693004/IMG_6200.png",
+    "theme": "LOVE THING",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "WAWY_LT": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **woo!ah! WOOYEON** LOVE THING",
+    "idol":"woo!ah! WOOYEON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196568026699542548/IMG_6199.png",
+    "theme": "LOVE THING",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "WANN_LT": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **woo!ah! NANA** LOVE THING",
+    "idol":"woo!ah! NANA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196568027362230352/IMG_6197.png",
+    "theme": "LOVE THING",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "STMS_OY": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **SATURDAY MINSEO** Only You",
+    "idol":"SATURDAY MINSEO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196568370833801246/IMG_6193.png",
+    "theme": "Only You",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "STYK_OY": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **SATURDAY YUKI** Only You",
+    "idol":"SATURDAY YUKI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196568371706212514/IMG_6195.png",
+    "theme": "Only You",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "STAY_OY": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **SATURDAY AYEON** Only You",
+    "idol":"SATURDAY AYEON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196568372322771115/IMG_6191.png",
+    "theme": "Only You",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "STJY_OY": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **SATURDAY JUYEON** Only You",
+    "idol":"SATURDAY JUYEON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196568372930953226/IMG_6192.png",
+    "theme": "Only You",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "STHN_OY": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **SATURDAY HANEUL** Only You",
+    "idol":"SATURDAY HANEUL",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196568373555900526/IMG_6194.png",
+    "theme": "Only You",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "SODO_ML": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Soloist D.O** My Love",
+    "idol":"Soloist D.O",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1196568552895942796/SODO_ML.png",
+    "theme": "My Love",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "SOWD_WC": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Soloist WENDY** Why Can't You Love Me?",
+    "idol":"Soloist WENDY",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1196568676896354414/SOWD_WC.png",
+    "theme": "Why Can't You Love Me?",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "SOON_LP": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Soloist ONEW** Love Phobia",
+    "idol":"Soloist ONEW",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1196568731602657350/SOON_LP.png",
+    "theme": "Love Phobia",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "SOTY_HH": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Soloist Tiffany Young** Heartbreak Hotel",
+    "idol":"Soloist Tiffany Young",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1196568818252792010/tiffanyv1.png",
+    "theme": "Heartbreak Hotel",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "EXXM_LS": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **EXO XIUMIN** Love Shot",
+    "idol":"EXO XIUMIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196568958904565850/EXXM_LS.png",
+    "theme": "Love Shot",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "EXSH_LS": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **EXO SUHO** Love Shot",
+    "idol":"EXO SUHO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196568959428857996/EXSH_LS.png",
+    "theme": "Love Shot",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "EXBH_LS": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **EXO BAEKHYUN** Love Shot",
+    "idol":"EXO BAEKHYUN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196568959932170350/EXBH_LS.png",
+    "theme": "Love Shot",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "EXCH_LS": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **EXO CHEN** Love Shot",
+    "idol":"EXO CHEN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196568960339038268/EXCH_LS.png",
+    "theme": "Love Shot",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "EXCY_LS": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **EXO CHANYEOL** Love Shot",
+    "idol":"EXO CHANYEOL",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196568960766840902/EXCY_LS.png",
+    "theme": "Love Shot",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "EXDO_LS": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **EXO D.O** Love Shot",
+    "idol":"EXO D.O",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196568961203044402/EXDO_LS.png",
+    "theme": "Love Shot",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "EXKA_LS": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **EXO KAI** Love Shot",
+    "idol":"EXO KAI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196568961630883991/EXKA_LS.png",
+    "theme": "Love Shot",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "EXSE_LS": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **EXO SEHUN** Love Shot",
+    "idol":"EXO SEHUN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196568962125795498/EXSE_LS.png",
+    "theme": "Love Shot",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "SOMH_SF": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Soloist MINHO** Stay for a night",
+    "idol":"Soloist MINHO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1196578277435900035/SOMH_SN.png",
+    "theme": "Stay for a night",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "SOEB_LH": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Soloist KWON EUN BI** Like Heaven",
+    "idol":"Soloist KWON EUN BI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1196581264019443762/SOEB_LH.png",
+    "theme": "Like Heaven (Feat. Paul Blanco)",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "SODL_MM": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Soloist Dua Lipa** make me stay",
+    "idol":"Soloist Dua Lipa",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1196824367577964554/SODL_MM.png",
+    "theme": "Houdini",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "TNCL_IL": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **2NE1 CL** I LOVE YOU",
+    "idol":"2NE1 CL",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196868769881014372/ilycl.png",
+    "theme": "I LOVE YOU",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "TNBO_IL": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **2NE1 Bom** I LOVE YOU",
+    "idol":"2NE1 Bom",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196868770682122400/ilyb.png",
+    "theme": "I LOVE YOU",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "TNDR_IL": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **2NE1 Dara** I LOVE YOU",
+    "idol":"2NE1 Dara",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196868771323854969/ilyd.png",
+    "theme": "I LOVE YOU",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "TNMZ_IL": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **2NE1 Minzy** I LOVE YOU",
+    "idol":"2NE1 Minzy",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1196868771940401183/ilym.png",
+    "theme": "I LOVE YOU",
+    "min": "0",
+    "max": "200"
+  }
   ]
 }
