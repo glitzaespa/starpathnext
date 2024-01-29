@@ -38101,5 +38101,145 @@
     "min": "0",
     "max": "200"
   }
+  ],
+  "TBMR_WA": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **TRI.BE MIRE** WE ARE YOUNG",
+    "idol":"TRI.BE MIRE",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1197012067652223156/mire_way.png",
+    "theme": "WE ARE YOUNG",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "TBSE_WA": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **TRI.BE SOEUN** WE ARE YOUNG",
+    "idol":"TRI.BE SOEUN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1197012068235219054/soeun_way.png",
+    "theme": "WE ARE YOUNG",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "TBJI_WA": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **TRI.BE JIA** WE ARE YOUNG",
+    "idol":"TRI.BE JIA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1197012068721754243/jia_way.png",
+    "theme": "WE ARE YOUNG",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "TBHB_WA": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **TRI.BE HYUNBIN** WE ARE YOUNG",
+    "idol":"TRI.BE HYUNBIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1197012069329932388/hyunbin_way.png",
+    "theme": "WE ARE YOUNG",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "TBKL_WA": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **TRI.BE KELLY** WE ARE YOUNG",
+    "idol":"TRI.BE KELLY",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1197012069917147226/kelly_way.png",
+    "theme": "WE ARE YOUNG",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "TBSS_WA": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **TRI.BE SONGSUN** WE ARE YOUNG",
+    "idol":"TRI.BE SONGSUN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1197012070483361884/songsun_way.png",
+    "theme": "WE ARE YOUNG",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "SOJY_FS": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Soloist JO YURI** feel so perfect",
+    "idol":"Soloist JO YURI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1197042863851196486/vday_C.png",
+    "theme": "Love Shhh!",
+    "min": "0",
+    "max": "200"
+  }
+  ],
+  "AKCH_HP": [
+  {
+    "name":"<:R_:1104449630659428372> <a:vday:1196496236069523651> <a:special:1174782872016658472> **AKMU LEE CHAN HYUK** HOW PEOPLE MOVE",
+    "idol":"AKMU LEE CHAN HYUK",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1197376836850696192/AKCH_HP.png",
+    "theme": "HOW PEOPLE MOVE",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "AKSH_HP": [
+  {
+    "name":"<:R_:1104449630659428372> <a:vday:1196496236069523651> <a:special:1174782872016658472> **AKMU LEE SU HYUN** HOW PEOPLE MOVE",
+    "idol":"AKMU LEE SU HYUN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1197376837341421598/AKSH_HP.png",
+    "theme": "HOW PEOPLE MOVE",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "RVIR_SC": [
+  {
+    "name":"<:R_:1104449630659428372> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Red Velvet IRENE** Scenery",
+    "idol":"Red Velvet IRENE",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1197376878512705647/RVIR_SC.png",
+    "theme": "풍경화(Scenery)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "RVJO_SC": [
+  {
+    "name":"<:R_:1104449630659428372> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Red Velvet JOY** Scenery",
+    "idol":"Red Velvet JOY",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1197376879154430062/RVJO_SC.png",
+    "theme": "풍경화(Scenery)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "RVSG_SC": [
+  {
+    "name":"<:R_:1104449630659428372> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Red Velvet SEULGI** Scenery",
+    "idol":"Red Velvet SEULGI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1197376880031043604/RVSG_SC.png",
+    "theme": "풍경화(Scenery)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "RVWD_SC": [
+  {
+    "name":"<:R_:1104449630659428372> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Red Velvet WENDY** Scenery",
+    "idol":"Red Velvet WENDY",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1197376880546959441/RVwd_SC.png",
+    "theme": "풍경화(Scenery)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "RVYR_SC": [
+  {
+    "name":"<:R_:1104449630659428372> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Red Velvet YERI** Scenery",
+    "idol":"Red Velvet YERI",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1197376881897517107/RVYR_SC.png",
+    "theme": "풍경화(Scenery)",
+    "min": "200",
+    "max": "750"
+  }
   ]
 }
