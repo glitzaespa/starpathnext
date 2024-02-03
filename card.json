@@ -38761,5 +38761,75 @@
     "min": "0",
     "max": "200"
   }
+  ],
+  "CLHS_WI": [
+  {
+    "name":"<:R_:1104449630659428372> <a:vday:1196496236069523651> <a:special:1174782872016658472> **CLASS:y HYUNGSEO** what I do",
+    "idol":"CLASS:y HYUNGSEO",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1197612866040242236/VDAY_R.png",
+    "theme": "SHUT DOWN",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "CLCW_WI": [
+  {
+    "name":"<:R_:1104449630659428372> <a:vday:1196496236069523651> <a:special:1174782872016658472> **CLASS:y CHAEWON** what I do",
+    "idol":"CLASS:y CHAEWON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1197612866619047936/VDAY_R_3.png",
+    "theme": "SHUT DOWN",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "CLHJ_WI": [
+  {
+    "name":"<:R_:1104449630659428372> <a:vday:1196496236069523651> <a:special:1174782872016658472> **CLASS:y HYEJU** what I do",
+    "idol":"CLASS:y HYEJU",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1197612867134951524/VDAY_R_3_1.png",
+    "theme": "SHUT DOWN",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "CLRW_WI": [
+  {
+    "name":"<:R_:1104449630659428372> <a:vday:1196496236069523651> <a:special:1174782872016658472> **CLASS:y RIWON** what I do",
+    "idol":"CLASS:y RIWON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1197612867822821498/VDAY_R_3_2.png",
+    "theme": "SHUT DOWN",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "CLJM_WI": [
+  {
+    "name":"<:R_:1104449630659428372> <a:vday:1196496236069523651> <a:special:1174782872016658472> **CLASS:y JIMIN** what I do",
+    "idol":"CLASS:y JIMIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1197612868317741098/VDAY_R_3_3.png",
+    "theme": "SHUT DOWN",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "CLBE_WI": [
+  {
+    "name":"<:R_:1104449630659428372> <a:vday:1196496236069523651> <a:special:1174782872016658472> **CLASS:y BOEUN** what I do",
+    "idol":"CLASS:y BOEUN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1197612868846227516/VDAY_R_3_4.png",
+    "theme": "SHUT DOWN",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "CLSY_WI": [
+  {
+    "name":"<:R_:1104449630659428372> <a:vday:1196496236069523651> <a:special:1174782872016658472> **CLASS:y SEONYOU** what I do",
+    "idol":"CLASS:y SEONYOU",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1197612869546680320/VDAY_R_3_5.png",
+    "theme": "SHUT DOWN",
+    "min": "200",
+    "max": "750"
+  }
   ]
 }
