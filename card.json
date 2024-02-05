@@ -40471,5 +40471,145 @@
     "min": "1500",
     "max": "3000"
   }
+  ],
+  "APHY_LI": [
+  {
+    "name":"<:X_:1104449632890798091> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Apink HAYOUNG** Love is Blind",
+    "idol":"Apink HAYOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1202100351478792224/hayoung_lib.png",
+    "theme": "Love is Blind",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "APHY_LI_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Apink HAYOUNG** Love is Blind",
+    "idol":"Apink HAYOUNG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1202100426212900884/hayoung_lib_p.png",
+    "theme": "Love is Blind",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "APNJ_LI": [
+  {
+    "name":"<:X_:1104449632890798091> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Apink NAMJOO** Love is Blind",
+    "idol":"Apink NAMJOO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1202100351969529896/namjoo_lib.png",
+    "theme": "Love is Blind",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "APNJ_LI_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Apink NAMJOO** Love is Blind",
+    "idol":"Apink NAMJOO",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1202100426791460914/namjoo_lib_p.png",
+    "theme": "Love is Blind",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "APNA_LI": [
+  {
+    "name":"<:X_:1104449632890798091> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Apink NAEUN** Love is Blind",
+    "idol":"Apink NAEUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1202100352577712158/naeun_lib.png",
+    "theme": "Love is Blind",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "APNA_LI_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Apink NAEUN** Love is Blind",
+    "idol":"Apink NAEUN",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1202100427840028722/naeun_lib_p.png",
+    "theme": "Love is Blind",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "APBM_LI": [
+  {
+    "name":"<:X_:1104449632890798091> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Apink BOMI** Love is Blind",
+    "idol":"Apink BOMI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1202100353001345075/bomi_lib.png",
+    "theme": "Love is Blind",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "APBM_LI_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Apink BOMI** Love is Blind",
+    "idol":"Apink BOMI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1202100429148925953/bomi_lib_p.png",
+    "theme": "Love is Blind",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "APCR_LI": [
+  {
+    "name":"<:X_:1104449632890798091> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Apink CHORONG** Love is Blind",
+    "idol":"Apink CHORONG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1202100353643069470/chorong_lib.png",
+    "theme": "Love is Blind",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "APCR_LI_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Apink CHORONG** Love is Blind",
+    "idol":"Apink CHORONG",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1202100430348488734/chorong_lib_p.png",
+    "theme": "Love is Blind",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "APEJ_LI": [
+  {
+    "name":"<:X_:1104449632890798091> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Apink EUNJI** Love is Blind",
+    "idol":"Apink EUNJI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1202100354255421511/eunji_lib.png",
+    "theme": "Love is Blind",
+    "min": "750",
+    "max": "1500"
+  }
+  ],
+  "APEJ_LI_P": [
+  {
+    "name":"<a:XP:1116886580586622976> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Apink EUNJI** Love is Blind",
+    "idol":"Apink EUNJI",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1202100431019315200/eunji_lib_p.png",
+    "theme": "Love is Blind",
+    "min": "1500",
+    "max": "3000"
+  }
+  ],
+  "SOIS_TU": [
+  {
+    "name":"<:R_:1104449630659428372> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Soloist Ice Spice** Think U The Shit (Fart)",
+    "idol":"Soloist Ice Spice",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1202612266416209940/ututs_is.png",
+    "theme": "Think U The Shit (Fart)",
+    "min": "200",
+    "max": "750"
+  }
+  ],
+  "SOKS_HP": [
+  {
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Soloist Kesha** Happy",
+    "idol":"Soloist Kesha",
+    "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1202884591828860970/SOKS_HP.png",
+    "theme": "Happy",
+    "min": "0",
+    "max": "200"
+  }
   ]
 }
