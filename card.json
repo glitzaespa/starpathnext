@@ -40611,5 +40611,105 @@
     "min": "0",
     "max": "200"
   }
+  ],
+  "NFDS_IL": [
+  {
+    "name":"<:C_:1104449628876841030> **N.Flying Seo Dong Sung** I Like You",
+    "idol":"N.Flying Seo Dong Sung",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1147327336790904933/ily_seo.png",
+    "theme": "폭망 (I Like You)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "NFHS_IL": [
+  {
+    "name":"<:C_:1104449628876841030> **N.Flying Yoo Hwe Seung** I Like You",
+    "idol":"N.Flying Yoo Hwe Seung",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1147327342134435850/ily_yoo.png",
+    "theme": "폭망 (I Like You)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "NFJH_IL": [
+  {
+    "name":"<:C_:1104449628876841030> **N.Flying Kim Jae Hyun** I Like You",
+    "idol":"N.Flying Kim Jae Hyun",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1147327342562250812/ily_jae.png",
+    "theme": "폭망 (I Like You)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "NFCH_IL": [
+  {
+    "name":"<:C_:1104449628876841030> **N.Flying Cha Hun** I Like You",
+    "idol":"N.Flying Cha Hun",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1147327342897811506/ily_cha.png",
+    "theme": "폭망 (I Like You)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "NFSH_IL": [
+  {
+    "name":"<:C_:1104449628876841030> **N.Flying Lee Seung Hyub** I Like You",
+    "idol":"N.Flying Lee Seung Hyub",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1147327343468224552/ily_lhs.png",
+    "theme": "폭망 (I Like You)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "TSCY_DR": [
+  {
+    "name":"<:C_:1104449628876841030> **tripleS (Aria) ChaeYeon** Door",
+    "idol":"tripleS (Aria) ChaeYeon",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1201879574166904884/TSCY_DO.png",
+    "theme": "Door",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "TSDH_DR": [
+  {
+    "name":"<:C_:1104449628876841030> **tripleS (Aria) DaHyun** Door",
+    "idol":"tripleS (Aria) DaHyun",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1201879574758039602/TSDH_DO.png",
+    "theme": "Door",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "TSJW_DR": [
+  {
+    "name":"<:C_:1104449628876841030> **tripleS (Aria) JiWoo** Door",
+    "idol":"tripleS (Aria) JiWoo",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1201879575303295066/TSJW_DO.png",
+    "theme": "Door",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "TSKD_DR": [
+  {
+    "name":"<:C_:1104449628876841030> **tripleS (Aria) Kaede** Door",
+    "idol":"tripleS (Aria) Kaede",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1201879575832055838/TSKD_DO.png",
+    "theme": "Door",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "TSNI_DR": [
+  {
+    "name":"<:C_:1104449628876841030> **tripleS (Aria) Nien** Door",
+    "idol":"tripleS (Aria) Nien",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1201879576343478312/TSNI_DO.png",
+    "theme": "Door",
+    "min": "0",
+    "max": "100"
+  }
   ]
 }
