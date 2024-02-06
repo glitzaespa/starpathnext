@@ -40711,5 +40711,135 @@
     "min": "0",
     "max": "100"
   }
+  ],
+  "KDJH_XG": [
+  {
+    "name":"<:C_:1104449628876841030> **KINGDOM JAHAN** X-GAME",
+    "idol":"KINGDOM JAHAN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1202250381053407273/xg_jahan.png",
+    "theme": "X-GAME",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "KDHW_XG": [
+  {
+    "name":"<:C_:1104449628876841030> **KINGDOM HWON** X-GAME",
+    "idol":"KINGDOM HWON",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1202250381493538867/xg_hwon.png",
+    "theme": "X-GAME",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "KDIV_XG": [
+  {
+    "name":"<:C_:1104449628876841030> **KINGDOM IVAN** X-GAME",
+    "idol":"KINGDOM IVAN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1202250381942591558/xg_ivan.png",
+    "theme": "X-GAME",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "KDLO_XG": [
+  {
+    "name":"<:C_:1104449628876841030> **KINGDOM LOUIS** X-GAME",
+    "idol":"KINGDOM LOUIS",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1202250382441447465/xg_louis.png",
+    "theme": "X-GAME",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "KDMJ_XG": [
+  {
+    "name":"<:C_:1104449628876841030> **KINGDOM MUJIN** X-GAME",
+    "idol":"KINGDOM MUJIN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1202250383314133042/xg_mujin.png",
+    "theme": "X-GAME",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "KDAR_XG": [
+  {
+    "name":"<:C_:1104449628876841030> **KINGDOM ARTHUR** X-GAME",
+    "idol":"KINGDOM ARTHUR",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1202250383830044672/xg_arthur.png",
+    "theme": "X-GAME",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "KDDA_XG": [
+  {
+    "name":"<:C_:1104449628876841030> **KINGDOM DANN** X-GAME",
+    "idol":"KINGDOM DANN",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1202250384379224176/xg_dann.png",
+    "theme": "X-GAME",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "ARHJ_AT": [
+  {
+    "name":"<:C_:1104449628876841030> **ARTMS HeeJin** Atom",
+    "idol":"ARTMS HeeJin",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1200606017721991198/C_1_1_30.png",
+    "theme": "Birth",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "ARHS_AT": [
+  {
+    "name":"<:C_:1104449628876841030> **ARTMS HaSeul** Atom",
+    "idol":"ARTMS HaSeul",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1200606018141442109/C_1_1_31.png",
+    "theme": "Birth",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "ARKL_AT": [
+  {
+    "name":"<:C_:1104449628876841030> **ARTMS Kim Lip** Atom",
+    "idol":"ARTMS Kim Lip",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1200606018619584582/C_1_1_34.png",
+    "theme": "Birth",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "ARJS_AT": [
+  {
+    "name":"<:C_:1104449628876841030> **ARTMS JinSoul** Atom",
+    "idol":"ARTMS JinSoul",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1200606019068362794/C_1_1_32.png",
+    "theme": "Birth",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "ARCR_AT": [
+  {
+    "name":"<:C_:1104449628876841030> **ARTMS Choerry** Atom",
+    "idol":"ARTMS Choerry",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1200606019492008026/C_1_1_33.png",
+    "theme": "Birth",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOSL_WU": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist SEOLA** Without U",
+    "idol":"Soloist SEOLA",
+    "image": "https://media.discordapp.net/attachments/1104448142209990687/1199365067427299359/IMG_5720.png",
+    "theme": "Without U",
+    "min": "0",
+    "max": "100"
+  }
   ]
 }
