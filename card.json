@@ -40851,5 +40851,575 @@
     "min": "0",
     "max": "100"
   }
+  ],
+  "SOLCY_ID": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist LEE CHAE YEON** I Don't Wanna Know",
+    "idol":"Soloist LEE CHAE YEON",
+    "image": "https://starpath.sirv.com/card/lee_chae_yeon/SOLCY_ID.png",
+    "theme": "I Don't Wanna Know",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "SOBY_12": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist BÉBE YANA** 1-2-3",
+    "idol":"Soloist BÉBE YANA",
+    "image": "https://starpath.sirv.com/card/bebe_yana/SOBY_12.png",
+    "theme": "1-2-3",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "ITYJ_ES": [
+  {
+    "name":"<:C_:1104449628876841030> **ITZY YEJI** Escalator",
+    "idol":"ITZY YEJI",
+    "image": "https://starpath.sirv.com/card/itzy/escalator/ITYJ_ES.png",
+    "theme": "Escalator",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "ITRJ_ES": [
+  {
+    "name":"<:C_:1104449628876841030> **ITZY RYUJIN** Escalator",
+    "idol":"ITZY RYUJIN",
+    "image": "https://starpath.sirv.com/card/itzy/escalator/ITRJ_ES.png",
+    "theme": "Escalator",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "ITCR_ES": [
+  {
+    "name":"<:C_:1104449628876841030> **ITZY CHAERYEONG** Escalator",
+    "idol":"ITZY CHAERYEONG",
+    "image": "https://starpath.sirv.com/card/itzy/escalator/ITCR_ES.png",
+    "theme": "Escalator",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "ITYN_ES": [
+  {
+    "name":"<:C_:1104449628876841030> **ITZY YUNA** Escalator",
+    "idol":"ITZY YUNA",
+    "image": "https://starpath.sirv.com/card/itzy/escalator/ITYN_ES.png",
+    "theme": "Escalator",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "CLJM_SD": [
+  {
+    "name":"<:C_:1104449628876841030> **CLASS:y JIMIN** SHUT DOWN",
+    "idol":"CLASS:y JIMIN",
+    "image": "https://starpath.sirv.com/card/classy/shut_down/CLJM_SD.png",
+    "theme": "SHUT DOWN",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "CLHS_SD": [
+  {
+    "name":"<:C_:1104449628876841030> **CLASS:y HYUNGSEO** SHUT DOWN",
+    "idol":"CLASS:y HYUNGSEO",
+    "image": "https://starpath.sirv.com/card/classy/shut_down/CLHS_SD.png",
+    "theme": "SHUT DOWN",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "CLSY_SD": [
+  {
+    "name":"<:C_:1104449628876841030> **CLASS:y SEONYOU** SHUT DOWN",
+    "idol":"CLASS:y SEONYOU",
+    "image": "https://starpath.sirv.com/card/classy/shut_down/CLSY_SD.png",
+    "theme": "SHUT DOWN",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "CLHJ_SD": [
+  {
+    "name":"<:C_:1104449628876841030> **CLASS:y HYEJU** SHUT DOWN",
+    "idol":"CLASS:y HYEJU",
+    "image": "https://starpath.sirv.com/card/classy/shut_down/CLHJ_SD.png",
+    "theme": "SHUT DOWN",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "CLRW_SD": [
+  {
+    "name":"<:C_:1104449628876841030> **CLASS:y RIWON** SHUT DOWN",
+    "idol":"CLASS:y RIWON",
+    "image": "https://starpath.sirv.com/card/classy/shut_down/CLRW_SD.png",
+    "theme": "SHUT DOWN",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "CLBE_SD": [
+  {
+    "name":"<:C_:1104449628876841030> **CLASS:y BOEUN** SHUT DOWN",
+    "idol":"CLASS:y BOEUN",
+    "image": "https://starpath.sirv.com/card/classy/shut_down/CLBE_SD.png",
+    "theme": "SHUT DOWN",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "CLCW_SD": [
+  {
+    "name":"<:C_:1104449628876841030> **CLASS:y CHAEWON** SHUT DOWN",
+    "idol":"CLASS:y CHAEWON",
+    "image": "https://starpath.sirv.com/card/classy/shut_down/CLCW_SD.png",
+    "theme": "SHUT DOWN",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "DICY_5M": [
+  {
+    "name":"<:C_:1104449628876841030> **DIA CHAEYEON** 5 more minutes",
+    "idol":"DIA CHAEYEON",
+    "image": "https://starpath.sirv.com/card/dia/5_more_minutes/DICY_5M.png",
+    "theme": "5 more minutes",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "DIEC_5M": [
+  {
+    "name":"<:C_:1104449628876841030> **DIA EUNCHAE** 5 more minutes",
+    "idol":"DIA EUNCHAE",
+    "image": "https://starpath.sirv.com/card/dia/5_more_minutes/DIEC_5M.png",
+    "theme": "5 more minutes",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "DIEN_5M": [
+  {
+    "name":"<:C_:1104449628876841030> **DIA EUNICE** 5 more minutes",
+    "idol":"DIA EUNICE",
+    "image": "https://starpath.sirv.com/card/dia/5_more_minutes/DIEN_5M.png",
+    "theme": "5 more minutes",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "DIHH_5M": [
+  {
+    "name":"<:C_:1104449628876841030> **DIA HUIHYEON** 5 more minutes",
+    "idol":"DIA HUIHYEON",
+    "image": "https://starpath.sirv.com/card/dia/5_more_minutes/DIHH_5M.png",
+    "theme": "5 more minutes",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "DIJE_5M": [
+  {
+    "name":"<:C_:1104449628876841030> **DIA JUEUN** 5 more minutes",
+    "idol":"DIA JUEUN",
+    "image": "https://starpath.sirv.com/card/dia/5_more_minutes/DIJE_5M.png",
+    "theme": "5 more minutes",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "DISY_5M": [
+  {
+    "name":"<:C_:1104449628876841030> **DIA SOMYI** 5 more minutes",
+    "idol":"DIA SOMYI",
+    "image": "https://starpath.sirv.com/card/dia/5_more_minutes/DISY_5M.png",
+    "theme": "5 more minutes",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "DIYB_5M": [
+  {
+    "name":"<:C_:1104449628876841030> **DIA YEBIN** 5 more minutes",
+    "idol":"DIA YEBIN",
+    "image": "https://starpath.sirv.com/card/dia/5_more_minutes/DIYB_5M.png",
+    "theme": "5 more minutes",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "EXSH_1B": [
+  {
+    "name":"<:X_:1104449632890798091> **EXO-SC SEHUN** 1 Billion Views",
+    "idol":"EXO-SC SEHUN",
+    "image": "https://starpath.sirv.com/card/exo/exo-sc/1_billion_views/EXSH_1B.png",
+    "theme": "10억뷰 (1 Billion Views) (Feat. MOON)",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "EXSH_1B_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **EXO-SC SEHUN** 1 Billion Views",
+    "idol":"EXO-SC SEHUN",
+    "image": "https://starpath.sirv.com/card/exo/exo-sc/1_billion_views/EXSH_1B_P.png",
+    "theme": "10억뷰 (1 Billion Views) (Feat. MOON)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "EXCY_1B": [
+  {
+    "name":"<:X_:1104449632890798091> **EXO-SC CHANYEOL** 1 Billion Views",
+    "idol":"EXO-SC CHANYEOL",
+    "image": "https://starpath.sirv.com/card/exo/exo-sc/1_billion_views/EXCY_1B.png",
+    "theme": "10억뷰 (1 Billion Views) (Feat. MOON)",
+    "min": "500",
+    "max": "1000"
+  }
+  ],
+  "EXCY_1B_P": [
+  {
+    "name":"<a:XP:1116886580586622976> **EXO-SC CHANYEOL** 1 Billion Views",
+    "idol":"EXO-SC CHANYEOL",
+    "image": "https://starpath.sirv.com/card/exo/exo-sc/1_billion_views/EXCY_1B_P.png",
+    "theme": "10억뷰 (1 Billion Views) (Feat. MOON)",
+    "min": "1000",
+    "max": "2500"
+  }
+  ],
+  "EXCY_SI": [
+  {
+    "name":"<:C_:1104449628876841030> **EXO-SC CHANYEOL** Say It",
+    "idol":"EXO-SC CHANYEOL",
+    "image": "https://starpath.sirv.com/card/exo/exo-sc/say_it/EXCY_SI.png",
+    "theme": "Say It (feat. PENOMECO)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "EXSH_SI": [
+  {
+    "name":"<:C_:1104449628876841030> **EXO-SC SEHUN** Say It",
+    "idol":"EXO-SC SEHUN",
+    "image": "https://starpath.sirv.com/card/exo/exo-sc/say_it/EXSH_SI.png",
+    "theme": "Say It (feat. PENOMECO)",
+    "min": "0",
+    "max": "100"
+  }
+  ],
+  "IDMN_SL": [
+  {
+    "name":"<:R_:1104449630659428372> **(G)I-DLE MINNIE** Super Lady",
+    "idol":"(G)I-DLE MINNIE",
+    "image": "https://starpath.sirv.com/card/gidle/super_lady/IDMN_SL.png",
+    "theme": "Super Lady",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "IDSY_SL": [
+  {
+    "name":"<:R_:1104449630659428372> **(G)I-DLE SOYEON** Super Lady",
+    "idol":"(G)I-DLE SOYEON",
+    "image": "https://starpath.sirv.com/card/gidle/super_lady/IDSY_SL.png",
+    "theme": "Super Lady",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "IDSH_SL": [
+  {
+    "name":"<:R_:1104449630659428372> **(G)I-DLE SHUHUA** Super Lady",
+    "idol":"(G)I-DLE SHUHUA",
+    "image": "https://starpath.sirv.com/card/gidle/super_lady/IDSH_SL.png",
+    "theme": "Super Lady",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "IDMY_SL": [
+  {
+    "name":"<:R_:1104449630659428372> **(G)I-DLE MIYEON** Super Lady",
+    "idol":"(G)I-DLE MIYEON",
+    "image": "https://starpath.sirv.com/card/gidle/super_lady/IDMY_SL.png",
+    "theme": "Super Lady",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "IDYQ_SL": [
+  {
+    "name":"<:R_:1104449630659428372> **(G)I-DLE YUQI** Super Lady",
+    "idol":"(G)I-DLE YUQI",
+    "image": "https://starpath.sirv.com/card/gidle/super_lady/IDYQ_SL.png",
+    "theme": "Super Lady",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SOTN_BB": [
+  {
+    "name":"<:R_:1104449630659428372> **Soloist Tinashe** BB",
+    "idol":"Soloist Tinashe",
+    "image": "https://starpath.sirv.com/card/tinashe/SOTN_BB.png",
+    "theme": "Needs",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "PTHS_NT": [
+  {
+    "name":"<:R_:1104449630659428372> **PENTAGON HONGSEOK** Nostalgia",
+    "idol":"PENTAGON HONGSEOK",
+    "image": "https://starpath.sirv.com/card/pentagon/nostalgia/PTHS_NT.png",
+    "theme": "Nostalgia (그해 그달 그날)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "PTHU_NT": [
+  {
+    "name":"<:R_:1104449630659428372> **PENTAGON HUI** Nostalgia",
+    "idol":"PENTAGON HUI",
+    "image": "https://starpath.sirv.com/card/pentagon/nostalgia/PTHU_NT.png",
+    "theme": "Nostalgia (그해 그달 그날)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "PTKN_NT": [
+  {
+    "name":"<:R_:1104449630659428372> **PENTAGON KINO** Nostalgia",
+    "idol":"PENTAGON KINO",
+    "image": "https://starpath.sirv.com/card/pentagon/nostalgia/PTKN_NT.png",
+    "theme": "Nostalgia (그해 그달 그날)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "PTSW_NT": [
+  {
+    "name":"<:R_:1104449630659428372> **PENTAGON SHINWON** Nostalgia",
+    "idol":"PENTAGON SHINWON",
+    "image": "https://starpath.sirv.com/card/pentagon/nostalgia/PTSW_NT.png",
+    "theme": "Nostalgia (그해 그달 그날)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "PTWS_NT": [
+  {
+    "name":"<:R_:1104449630659428372> **PENTAGON WOOSEOK** Nostalgia",
+    "idol":"PENTAGON WOOSEOK",
+    "image": "https://starpath.sirv.com/card/pentagon/nostalgia/PTWS_NT.png",
+    "theme": "Nostalgia (그해 그달 그날)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "PTYN_NT": [
+  {
+    "name":"<:R_:1104449630659428372> **PENTAGON YANAN** Nostalgia",
+    "idol":"PENTAGON YANAN",
+    "image": "https://starpath.sirv.com/card/pentagon/nostalgia/PTYN_NT.png",
+    "theme": "Nostalgia (그해 그달 그날)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "PTYO_NT": [
+  {
+    "name":"<:R_:1104449630659428372> **PENTAGON YEO ONE** Nostalgia",
+    "idol":"PENTAGON YEO ONE",
+    "image": "https://starpath.sirv.com/card/pentagon/nostalgia/PTYO_NT.png",
+    "theme": "Nostalgia (그해 그달 그날)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "PTYT_NT": [
+  {
+    "name":"<:R_:1104449630659428372> **PENTAGON YUTO** Nostalgia",
+    "idol":"PENTAGON YUTO",
+    "image": "https://starpath.sirv.com/card/pentagon/nostalgia/PTYT_NT.png",
+    "theme": "Nostalgia (그해 그달 그날)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SOYN_L2": [
+  {
+    "name":"<:R_:1104449630659428372> **Soloist YENA** Lxxk 2 U",
+    "idol":"Soloist YENA",
+    "image": "https://starpath.sirv.com/card/yena/SOYN_L2.png",
+    "theme": "Lxxk 2 U",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "GGHY_VL": [
+  {
+    "name":"<:R_:1104449630659428372> **Girls' Generation HYOYEON** Villain",
+    "idol":"Girls' Generation HYOYEON",
+    "image": "https://starpath.sirv.com/card/girls_generation/villain/GGHY_VL.png",
+    "theme": "Villain",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "GGSH_VL": [
+  {
+    "name":"<:R_:1104449630659428372> **Girls' Generation SEOHYUN** Villain",
+    "idol":"Girls' Generation SEOHYUN",
+    "image": "https://starpath.sirv.com/card/girls_generation/villain/GGSH_VL.png",
+    "theme": "Villain",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "GGSN_VL": [
+  {
+    "name":"<:R_:1104449630659428372> **Girls' Generation SUNNY** Villain",
+    "idol":"Girls' Generation SUNNY",
+    "image": "https://starpath.sirv.com/card/girls_generation/villain/GGSN_VL.png",
+    "theme": "Villain",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "GGSY_VL": [
+  {
+    "name":"<:R_:1104449630659428372> **Girls' Generation SOOYOUNG** Villain",
+    "idol":"Girls' Generation SOOYOUNG",
+    "image": "https://starpath.sirv.com/card/girls_generation/villain/GGSY_VL.png",
+    "theme": "Villain",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "GGTF_VL": [
+  {
+    "name":"<:R_:1104449630659428372> **Girls' Generation TIFFANY** Villain",
+    "idol":"Girls' Generation TIFFANY",
+    "image": "https://starpath.sirv.com/card/girls_generation/villain/GGTF_VL.png",
+    "theme": "Villain",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "GGTY_VL": [
+  {
+    "name":"<:R_:1104449630659428372> **Girls' Generation TAEYEON** Villain",
+    "idol":"Girls' Generation TAEYEON",
+    "image": "https://starpath.sirv.com/card/girls_generation/villain/GGTY_VL.png",
+    "theme": "Villain",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "GGYN_VL": [
+  {
+    "name":"<:R_:1104449630659428372> **Girls' Generation YOONA** Villain",
+    "idol":"Girls' Generation YOONA",
+    "image": "https://starpath.sirv.com/card/girls_generation/villain/GGYN_VL.png",
+    "theme": "Villain",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "GGYR_VL": [
+  {
+    "name":"<:R_:1104449630659428372> **Girls' Generation YURI** Villain",
+    "idol":"Girls' Generation YURI",
+    "image": "https://starpath.sirv.com/card/girls_generation/villain/GGYR_VL.png",
+    "theme": "Villain",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SKBC_LA": [
+  {
+    "name":"<:R_:1104449630659428372> **Stray Kids BANG CHAN** LALALALA",
+    "idol":"Stray Kids BANG CHAN",
+    "image": "https://starpath.sirv.com/card/stray_kids/lalalala/SKBC_LA.png",
+    "theme": "락 (樂) (LALALALA)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SKCB_LA": [
+  {
+    "name":"<:R_:1104449630659428372> **Stray Kids CHANGBIN** LALALALA",
+    "idol":"Stray Kids CHANGBIN",
+    "image": "https://starpath.sirv.com/card/stray_kids/lalalala/SKCB_LA.png",
+    "theme": "락 (樂) (LALALALA)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SKFL_LA": [
+  {
+    "name":"<:R_:1104449630659428372> **Stray Kids FELIX** LALALALA",
+    "idol":"Stray Kids FELIX",
+    "image": "https://starpath.sirv.com/card/stray_kids/lalalala/SKFL_LA.png",
+    "theme": "락 (樂) (LALALALA)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SKHA_LA": [
+  {
+    "name":"<:R_:1104449630659428372> **Stray Kids HAN** LALALALA",
+    "idol":"Stray Kids HAN",
+    "image": "https://starpath.sirv.com/card/stray_kids/lalalala/SKHA_LA.png",
+    "theme": "락 (樂) (LALALALA)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SKHJ_LA": [
+  {
+    "name":"<:R_:1104449630659428372> **Stray Kids HYUNJIN** LALALALA",
+    "idol":"Stray Kids HYUNJIN",
+    "image": "https://starpath.sirv.com/card/stray_kids/lalalala/SKHJ_LA.png",
+    "theme": "락 (樂) (LALALALA)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SKIN_LA": [
+  {
+    "name":"<:R_:1104449630659428372> **Stray Kids I.N** LALALALA",
+    "idol":"Stray Kids I.N",
+    "image": "https://starpath.sirv.com/card/stray_kids/lalalala/SKIN_LA.png",
+    "theme": "락 (樂) (LALALALA)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SKLK_LA": [
+  {
+    "name":"<:R_:1104449630659428372> **Stray Kids LEE KNOW** LALALALA",
+    "idol":"Stray Kids LEE KNOW",
+    "image": "https://starpath.sirv.com/card/stray_kids/lalalala/SKLK_LA.png",
+    "theme": "락 (樂) (LALALALA)",
+    "min": "100",
+    "max": "500"
+  }
+  ],
+  "SKSM_LA": [
+  {
+    "name":"<:R_:1104449630659428372> **Stray Kids SEUNGMIN** LALALALA",
+    "idol":"Stray Kids SEUNGMIN",
+    "image": "https://starpath.sirv.com/card/stray_kids/lalalala/SKSM_LA.png",
+    "theme": "락 (樂) (LALALALA)",
+    "min": "100",
+    "max": "500"
+  }
   ]
 }
