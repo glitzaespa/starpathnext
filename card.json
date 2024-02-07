@@ -40841,5 +40841,15 @@
     "min": "0",
     "max": "100"
   }
+  ],
+  "SOMC_NR": [
+  {
+    "name":"<:C_:1104449628876841030> **Soloist Miley Cyrus** No remorse",
+    "idol":"Soloist Miley Cyrus",
+    "image": "https://starpath.sirv.com/card/miley_cyrus/SOMC_NR.png",
+    "theme": "Flowers",
+    "min": "0",
+    "max": "100"
+  }
   ]
 }
