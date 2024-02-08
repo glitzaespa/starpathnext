@@ -2050,5 +2050,101 @@
     "creatorid":"971289285045141584",
     "commission":"no"
   }
+  ],
+  "DL_MM": [
+  {
+    "name":"**Dua Lipa** make me stay",
+    "type":"Cupid's Love Game",
+    "image":"https://starpath.sirv.com/banner/vday_240802/banner_dua-lipa_houdini_240208.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "LO_GD": [
+  {
+    "name":"**LOONA** gotta do with the love",
+    "type":"Cupid's Love Game",
+    "image":"https://starpath.sirv.com/banner/vday_240802/banner_loona_flip-that_240208.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "P1_FI": [
+  {
+    "name":"**P1Harmony** Fall In Love Again",
+    "type":"Cupid's Love Game",
+    "image":"https://starpath.sirv.com/banner/vday_240802/banner_p1harmony_fall-in-love-again_240208.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "RZ_LS": [
+  {
+    "name":"**RIIZE** love song",
+    "type":"Cupid's Love Game",
+    "image":"https://starpath.sirv.com/banner/vday_240802/banner_riize_love-119_240208.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "SV_DI": [
+  {
+    "name":"**SEVENTEEN** Darl+ing",
+    "type":"Cupid's Love Game",
+    "image":"https://starpath.sirv.com/banner/vday_240802/banner_seventeen_darling_240208.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "ST_LV": [
+  {
+    "name":"**STAYC** LOVE",
+    "type":"Cupid's Love Game",
+    "image":"https://starpath.sirv.com/banner/vday_240802/banner_stayc_we-need-love_240208.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "VV_UT": [
+  {
+    "name":"**VIVIZ** Untie",
+    "type":"Cupid's Love Game",
+    "image":"https://starpath.sirv.com/banner/vday_240802/banner_viviz_maniac_240208.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
+  ],
+  "ZB_KZ": [
+  {
+    "name":"**ZEROBASEONE** Kidz Zone",
+    "type":"Cupid's Love Game",
+    "image":"https://starpath.sirv.com/banner/vday_240802/banner_zerobaseone_crush_240208.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"no"
+  }
   ]
 }
