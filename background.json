@@ -202,5 +202,29 @@
     "creatorid":"971289285045141584",
     "commission":"yes"
   }
+  ],
+  "LOVETUNNEL_PINK": [
+  {
+    "name":"Love Tunnel (Pink)",
+    "type":"Event",
+    "image":"https://starpath.sirv.com/background/vday_241302/LOVETUNNELR.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"yes"
+  }
+  ],
+  "LOVETUNNEL_PURPLE": [
+  {
+    "name":"Love Tunnel (Purple)",
+    "type":"Event",
+    "image":"https://starpath.sirv.com/background/vday_241302/LOVETUNNELP.png",
+    "min":"0",
+    "max":"1",
+    "creator":"Glitzy",
+    "creatorid":"971289285045141584",
+    "commission":"yes"
+  }
   ]
 }
