@@ -38644,12 +38644,12 @@
   ],
   "SOYN_MU": [
   {
-    "name":"<:R_:1104449630659428372> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Soloist YENA** Make U Smile",
+    "name":"<:C_:1104449628876841030> <a:vday:1196496236069523651> <a:special:1174782872016658472> **Soloist YENA** Make U Smile",
     "idol":"Soloist YENA",
     "image": "https://cdn.discordapp.com/attachments/1104448142209990687/1197537166046281801/make_u_smile_yena.png",
     "theme": "Make U Smile",
-    "min": "200",
-    "max": "750"
+    "min": "0",
+    "max": "200"
   }
   ],
   "APBM_EE": [
